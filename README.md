@@ -60,43 +60,38 @@ $$S_{\text{max}} = \frac{(88.10 / 80.90) - 1.0}{0.5802} \rightarrow \mathbf{15.0
 ## 📁 Repository Structure
 
 ```text
-├── analysis/                      # Analysis, regression & mathematical proof scripts
-│   ├── simulate_15_percent_proof.py      # Core calculus proof script
-│   ├── recalculate_speed_blast.py        # Item isolation & net speedup analysis
-│   ├── summarize_speed_treasures.py      # Clean formatted list of all speed treasures
-│   ├── categorize_speed_treasures.py     # Breakdown of Base, Blast, Giant, & HP speed
-│   ├── generate_charts_thai.py           # Generates 300 DPI Thai annotated comparison charts
-│   ├── generate_smooth_curves.py         # Generates differential distance & speed curves
-│   └── extract_hp_drain_mechanics.py     # Disassembles HP decay ticker in libgame.so
+├── analysis/                          # Mathematical proofs, simulation & data extraction
+│   ├── simulate_15_percent_proof.py   # Core calculus proof script (+15.0% peak speed)
+│   ├── recalculate_speed_blast.py     # Item isolation & net speedup analysis
+│   ├── summarize_speed_treasures.py   # Formatted analysis of all speed treasures
+│   ├── categorize_speed_treasures.py  # Classification (Base, Blast, Giant, HP-dependent)
+│   ├── generate_charts_thai.py        # Generates annotated comparison charts
+│   ├── generate_smooth_curves.py      # Generates differential distance & speed curves
+│   └── extract_hp_drain_mechanics.py  # Analysis of stage drain acceleration (gamma ≈ 1.12)
 │
-├── charts/                        # High-resolution comparison graphs & figures
-│   ├── toy_ambulance_speed_mechanics.png # Overview diagram of the mechanics
-│   ├── toy_ambulance_3_curves_comparison.png
-│   ├── toy_ambulance_differential_proof.png
-│   ├── toy_ambulance_natural_decay_curve.png
-│   └── graph_comparison_both_theories_thai.png
+├── charts/                            # High-resolution figures & visual comparison graphs
+│   ├── toy_ambulance_speed_mechanics.png       # Overview diagram of the speed mechanics
+│   ├── toy_ambulance_3_curves_comparison.png   # Dual-model simulation comparison vs baseline
+│   ├── toy_ambulance_differential_proof.png    # Distance delta Δx(t) differential proof
+│   ├── toy_ambulance_natural_decay_curve.png   # Non-linear accelerating stage drain curve
+│   └── graph_comparison_both_theories_thai.png # Thai annotated dual-theory comparison
 │
-├── docs/                          # Detailed research papers & publication drafts
-│   ├── medium_article_cookie_run_ambulance.md # Publication-ready Medium article
-│   ├── video_onscreen_text_script.md          # Casual on-screen video subtitle script
-│   └── hp_drain_mechanics_proof.md            # Comprehensive technical evidence report
+├── docs/                              # Native engine reverse engineering documentation
+│   ├── ghidra_decompiled_code_breakdown_en.md # Line-by-line Ghidra analysis (English)
+│   └── ghidra_decompiled_code_breakdown_th.md # Line-by-line Ghidra analysis (ภาษาไทย)
 │
-├── tools/                         # Decryption & extraction utilities
-│   ├── CookieRunDJBFConverter.exe             # C# CLI tool for AES/FastLZ .djb decryption
-│   ├── extract_apk.py                         # Extracts raw assets from APK archives
-│   ├── decrypt_djb.py                         # Decrypts .djb balance tables into .bin
-│   ├── convert_bin_to_json.py                 # Parses binary tables into readable .json
-│   └── unpack_line_614.py                     # One-click pipeline for LINE Cookie Run v6.1.4
+├── tools/                             # Game balance extraction & unpacking utilities
+│   ├── extract_apk.py                 # Extracts assets from Cookie Run APK archives
+│   ├── decrypt_djb.py                 # AES/FastLZ decryption pipeline wrapper
+│   ├── convert_bin_to_json.py         # Parses binary tables into formatted .json
+│   └── unpack_line_614.py             # Automated pipeline for LINE Cookie Run v6.1.4
 │
-├── data/                          # Extracted game balance tables
-│   ├── kakao_8.27_extracted/                 # Full JSON tables from Kakao v8.27
-│   ├── LINE_6.1.4_EXTRACTED/                 # Full JSON tables & Ghidra .so from LINE v6.1.4
-│   │   ├── 01_FOR_GHIDRA_SO/                 # libgame.so ready for Ghidra analysis
-│   │   └── 02_JSON_DATA/                     # 95 formatted JSON game tables
-│   └── summary_tables/                       # Master tables for speed, mystery box, etc.
+├── data/                              # Sanitized game balance tables (JSON)
+│   ├── kakao_8.27_extracted/          # Full JSON balance tables from Kakao v8.27
+│   ├── LINE_6.1.4_EXTRACTED/          # Formatted JSON balance tables from LINE v6.1.4
+│   └── summary_tables/                # Master reference tables for treasures & speed stats
 │
-├── research_archive/              # Experimental memory scripts, RAM scans, & disassemblies
-└── .gitignore                     # Excludes heavy APKs, dumps, and binary caches
+└── .gitignore                         # Excludes large APKs, RAM dumps, and private scratch files
 ```
 
 ---
