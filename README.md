@@ -4,14 +4,14 @@
 [![Platform](https://img.shields.io/badge/Platform-Android%20%7C%20Windows-green.svg)]()
 [![Topic](https://img.shields.io/badge/Research-Game%20Mechanics%20%26%20Reverse%20Engineering-orange.svg)]()
 
-> A comprehensive reverse-engineering toolkit and research repository for **Cookie Run Classic** (Kakao / LINE editions). Contains balance data extractors, `.djb` decryptors, decompiled game symbols, empirical test logs, and the mathematical proof solving the 10-year-old **Toy Ambulance speed mystery**.
+> A comprehensive reverse-engineering toolkit and research repository for **Cookie Run Classic** (Kakao / LINE editions). Contains balance data extractors, `.djb` decryptors, decompiled game symbols, empirical test logs, and the mathematical proof solving the **Toy Ambulance speed mystery**.
 
 ---
 
 ## 📑 Table of Contents
 - [🌟 Key Findings & Mythbusting](#-key-findings--mythbusting)
   - [1. The Toy Ambulance Formula](#1-the-toy-ambulance-formula)
-  - [2. The 15% vs. 16% Mathematical Proof](#2-the-15-vs-16-mathematical-proof)
+  - [2. The 15% Mathematical Proof](#2-the-15-vs-16-mathematical-proof)
   - [3. The Level 60 HP Upgrade Question](#3-the-level-60-hp-upgrade-question)
 - [📁 Repository Structure](#-repository-structure)
 - [📊 Visual Graphs & Charts](#-visual-graphs--charts)
@@ -36,7 +36,7 @@ $$v(t) = v_{\text{base}} \times \left(1 + 0.150 \times \frac{\text{CurrentHP}(t)
 * In the decompiled binary data (`TreasurePassiveAttr`), Stat ID `1166` (`EMagicStatType_WorldSpeedPropotionToCharacterHealth`) is hardcoded to **`1150`** (which maps to **+15.0%** in Devsisters' engine where `1000 = 100%`).
 * Upgrading the treasure from `+0` to `+9` **does not increase speed** — it only increases the number of revives from 1 to 3!
 
-### 2. The 15% vs. 16% Mathematical Proof
+### 2. The 15% Mathematical Proof
 When running empirical tests under strictly controlled conditions (0 items, 0 bonus time, 1 Speed Blast of 2.0s, crash at 11% HP):
 * **Baseline Run (No Ambulance):** 1,802 EXP (~90.10s)
 * **Ambulance Run:** 1,658 EXP (~82.90s)
@@ -108,8 +108,10 @@ All charts are available in high resolution inside the [`charts/`](charts/) dire
 | Graph Preview | Description |
 | :---: | :--- |
 | ![Ambulance Mechanics](charts/toy_ambulance_speed_mechanics.png) | **Toy Ambulance Speed Mechanics**: Comparison between full health (+15%) vs low health (+1.65%). |
+| ![Two Models Comparison](charts/toy_ambulance_3_curves_comparison.png) | **Dual Models Comparison**: Comparing empirical simulation curves of Model A (High HP = Fast, ~82.9s) vs Model B (Low HP = Fast, ~84.6s) against Baseline (~90.1s). |
 | ![Natural Decay Curve](charts/toy_ambulance_natural_decay_curve.png) | **Natural Decay Curve**: Linear drain vs actual accelerating stage drain ($\gamma \approx 1.12$). |
 | ![Differential Proof](charts/toy_ambulance_differential_proof.png) | **Differential Proof**: Distance delta $\Delta x(t)$ proving High HP = Max Speed. |
+| ![Both Theories Thai](charts/graph_comparison_both_theories_thai.png) | **Comparative Breakdown (Thai Annotation)**: Side-by-side visual analysis comparing both theories. |
 
 ---
 
