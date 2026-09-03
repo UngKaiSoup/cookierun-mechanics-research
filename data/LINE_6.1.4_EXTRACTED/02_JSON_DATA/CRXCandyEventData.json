@@ -1,0 +1,27 @@
+[
+  {
+    "CollectibleItemId": "112",
+    "CreateAfterFull": "0",
+    "EpisodeId_1": "1",
+    "EpisodeId_2": "2",
+    "EpisodeId_3": "3",
+    "EventEndTime": "2015-01-06 16:59:59",
+    "EventJellyId": "4501",
+    "EventJellyId_2": "4501",
+    "EventStartTime": "2014-12-24 00:00:01",
+    "ExchangeDetail_0": "0",
+    "ExchangeDetail_1": "0",
+    "ExchangeGachaCount": "0",
+    "ExchangeGachaMissionId": "0",
+    "ExchangeGachaSeq": "0",
+    "MaxItemCount": "999",
+    "OneGameLimitMax": "100",
+    "OneGameLimitMin": "100",
+    "RewardCount_1": "100",
+    "RewardCount_2": "200",
+    "RewardCount_3": "400",
+    "RewardCount_4": "500",
+    "RewardCount_5": "700",
+    "RewardType": "0"
+  }
+]

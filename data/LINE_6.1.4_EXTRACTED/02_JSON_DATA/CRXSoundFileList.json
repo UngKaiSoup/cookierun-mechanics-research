@@ -1,0 +1,1926 @@
+[
+  {
+    "Cooltime": "0",
+    "Sound_m4a": "Pet_CandleActivated.m4a",
+    "Sound_ogg": "Pet_CandleActivated.ogg",
+    "Sound_test": "Pet_CandleActivated.m4a"
+  },
+  {
+    "__pkey": "CandlePet_FireToNewDimension",
+    "Cooltime": "0",
+    "Sound_m4a": "g_giantjump.m4a",
+    "Sound_ogg": "g_giantjump.ogg",
+    "Sound_test": "g_giantjump.m4a"
+  },
+  {
+    "__pkey": "Char_Jump_Gigantic",
+    "Cooltime": "0",
+    "Sound_m4a": "ch01jump.m4a",
+    "Sound_ogg": "ch01jump.ogg",
+    "Sound_test": "ch01jump.m4a"
+  },
+  {
+    "__pkey": "Char_Jump_ch01",
+    "Cooltime": "0",
+    "Sound_m4a": "ch02jump.m4a",
+    "Sound_ogg": "ch02jump.ogg",
+    "Sound_test": "ch02jump.m4a"
+  },
+  {
+    "__pkey": "Char_Jump_ch02",
+    "Cooltime": "0",
+    "Sound_m4a": "ch03jump.m4a",
+    "Sound_ogg": "ch03jump.ogg",
+    "Sound_test": "ch03jump.m4a"
+  },
+  {
+    "__pkey": "Char_Jump_ch03",
+    "Cooltime": "0",
+    "Sound_m4a": "ch04jump.m4a",
+    "Sound_ogg": "ch04jump.ogg",
+    "Sound_test": "ch04jump.m4a"
+  },
+  {
+    "__pkey": "Char_Jump_ch04",
+    "Cooltime": "0",
+    "Sound_m4a": "ch05jump.m4a",
+    "Sound_ogg": "ch05jump.ogg",
+    "Sound_test": "ch05jump.m4a"
+  },
+  {
+    "__pkey": "Char_Jump_ch05",
+    "Cooltime": "0",
+    "Sound_m4a": "ch06jump.m4a",
+    "Sound_ogg": "ch06jump.ogg",
+    "Sound_test": "ch06jump.m4a"
+  },
+  {
+    "__pkey": "Char_Jump_ch06",
+    "Cooltime": "0",
+    "Sound_m4a": "ch07jump.m4a",
+    "Sound_ogg": "ch07jump.ogg",
+    "Sound_test": "ch07jump.m4a"
+  },
+  {
+    "__pkey": "Char_Jump_ch07",
+    "Cooltime": "0",
+    "Sound_m4a": "ch08jump.m4a",
+    "Sound_ogg": "ch08jump.ogg",
+    "Sound_test": "ch8jump.m4a"
+  },
+  {
+    "__pkey": "Char_Jump_ch08",
+    "Cooltime": "0",
+    "Sound_m4a": "ch09jump.m4a",
+    "Sound_ogg": "ch09jump.ogg",
+    "Sound_test": "ch09jump.m4a"
+  },
+  {
+    "__pkey": "Char_Jump_ch09",
+    "Cooltime": "0",
+    "Sound_m4a": "ch10jump.m4a",
+    "Sound_ogg": "ch10jump.ogg",
+    "Sound_test": "ch10jump.m4a"
+  },
+  {
+    "__pkey": "Char_Jump_ch10",
+    "Cooltime": "0",
+    "Sound_m4a": "ch11jump.m4a",
+    "Sound_ogg": "ch11jump.ogg",
+    "Sound_test": "ch11jump.m4a"
+  },
+  {
+    "__pkey": "Char_Jump_ch11",
+    "Cooltime": "0",
+    "Sound_m4a": "ch12jump.m4a",
+    "Sound_ogg": "ch12jump.ogg",
+    "Sound_test": "ch12jump.m4a"
+  },
+  {
+    "__pkey": "Char_Jump_ch12",
+    "Cooltime": "0",
+    "Sound_m4a": "ch13jump.m4a",
+    "Sound_ogg": "ch13jump.ogg",
+    "Sound_test": "ch13jump.wav"
+  },
+  {
+    "__pkey": "Char_Jump_ch13",
+    "Cooltime": "0",
+    "Sound_m4a": "ch14jump.m4a",
+    "Sound_ogg": "ch14jump.ogg",
+    "Sound_test": "ch14jump.m4a"
+  },
+  {
+    "__pkey": "Char_Jump_ch14",
+    "Cooltime": "0",
+    "Sound_m4a": "ch15jump.m4a",
+    "Sound_ogg": "ch15jump.ogg",
+    "Sound_test": "ch15jump.m4a"
+  },
+  {
+    "__pkey": "Char_Jump_ch15",
+    "Cooltime": "0",
+    "Sound_m4a": "ch16jump.m4a",
+    "Sound_ogg": "ch16jump.ogg",
+    "Sound_test": "ch16jump.m4a"
+  },
+  {
+    "__pkey": "Char_Jump_ch16",
+    "Cooltime": "0",
+    "Sound_m4a": "ch02jump.m4a",
+    "Sound_ogg": "ch02jump.ogg",
+    "Sound_test": "ch02jump.m4a"
+  },
+  {
+    "__pkey": "Char_Jump_ch17",
+    "Cooltime": "0",
+    "Sound_m4a": "ch18jump.m4a",
+    "Sound_ogg": "ch18jump.ogg",
+    "Sound_test": "ch18jump.m4a"
+  },
+  {
+    "__pkey": "Char_Jump_ch18",
+    "Cooltime": "0",
+    "Sound_m4a": "ch19jump.m4a",
+    "Sound_ogg": "ch19jump.ogg",
+    "Sound_test": "ch19jump.m4a"
+  },
+  {
+    "__pkey": "Char_Jump_ch19",
+    "Cooltime": "0",
+    "Sound_m4a": "ch20jump.m4a",
+    "Sound_ogg": "ch20jump.ogg",
+    "Sound_test": "ch20jump.m4a"
+  },
+  {
+    "__pkey": "Char_Jump_ch20",
+    "Cooltime": "0",
+    "Sound_m4a": "ch21jump.m4a",
+    "Sound_ogg": "ch21jump.ogg",
+    "Sound_test": "ch21jump.m4a"
+  },
+  {
+    "__pkey": "Char_Jump_ch21",
+    "Cooltime": "0",
+    "Sound_m4a": "ch22jump.m4a",
+    "Sound_ogg": "ch22jump.ogg",
+    "Sound_test": "ch22jump.m4a"
+  },
+  {
+    "__pkey": "Char_Jump_ch22",
+    "Cooltime": "0",
+    "Sound_m4a": "ch23jump.m4a",
+    "Sound_ogg": "ch23jump.ogg",
+    "Sound_test": "ch23jump.m4a"
+  },
+  {
+    "__pkey": "Char_Jump_ch23",
+    "Cooltime": "0",
+    "Sound_m4a": "ch24jump.m4a",
+    "Sound_ogg": "ch24jump.ogg",
+    "Sound_test": "ch24jump.m4a"
+  },
+  {
+    "__pkey": "Char_Jump_ch24",
+    "Cooltime": "0",
+    "Sound_m4a": "ch24jump_woman.m4a",
+    "Sound_ogg": "ch24jump_woman.ogg",
+    "Sound_test": "ch24jump_woman.m4a"
+  },
+  {
+    "__pkey": "Char_Jump_ch24_Woman",
+    "Cooltime": "0",
+    "Sound_m4a": "ch25jump.m4a",
+    "Sound_ogg": "ch25jump.ogg",
+    "Sound_test": "ch25jump.m4a"
+  },
+  {
+    "__pkey": "Char_Jump_ch25",
+    "Cooltime": "0",
+    "Sound_m4a": "ch26jump.m4a",
+    "Sound_ogg": "ch26jump.ogg",
+    "Sound_test": "ch26jump.m4a"
+  },
+  {
+    "__pkey": "Char_Jump_ch26",
+    "Cooltime": "0",
+    "Sound_m4a": "ch27jump.m4a",
+    "Sound_ogg": "ch27jump.ogg",
+    "Sound_test": "ch27jump.m4a"
+  },
+  {
+    "__pkey": "Char_Jump_ch27",
+    "Cooltime": "0",
+    "Sound_m4a": "ch27jump_1.m4a",
+    "Sound_ogg": "ch27jump_1.ogg",
+    "Sound_test": "ch27jump_1.m4a"
+  },
+  {
+    "__pkey": "Char_Jump_ch27_1",
+    "Cooltime": "0",
+    "Sound_m4a": "ch27jump_2.m4a",
+    "Sound_ogg": "ch27jump_2.ogg",
+    "Sound_test": "ch27jump_2.m4a"
+  },
+  {
+    "__pkey": "Char_Jump_ch27_2",
+    "Cooltime": "0",
+    "Sound_m4a": "ch28jump.m4a",
+    "Sound_ogg": "ch28jump.ogg",
+    "Sound_test": "ch28jump.m4a"
+  },
+  {
+    "__pkey": "Char_Jump_ch28",
+    "Cooltime": "0",
+    "Sound_m4a": "ch29jump.m4a",
+    "Sound_ogg": "ch29jump.ogg",
+    "Sound_test": "ch29jump.m4a"
+  },
+  {
+    "__pkey": "Char_Jump_ch29",
+    "Cooltime": "0",
+    "Sound_m4a": "ch30jump.m4a",
+    "Sound_ogg": "ch30jump.ogg",
+    "Sound_test": "ch30jump.m4a"
+  },
+  {
+    "__pkey": "Char_Jump_ch30",
+    "Cooltime": "0",
+    "Sound_m4a": "ch31jump.m4a",
+    "Sound_ogg": "ch31jump.ogg",
+    "Sound_test": "ch31jump.m4a"
+  },
+  {
+    "__pkey": "Char_Jump_ch31",
+    "Cooltime": "0",
+    "Sound_m4a": "ch32jump.m4a",
+    "Sound_ogg": "ch32jump.ogg",
+    "Sound_test": "ch32jump.m4a"
+  },
+  {
+    "__pkey": "Char_Jump_ch32",
+    "Cooltime": "0",
+    "Sound_m4a": "ch33jump.m4a",
+    "Sound_ogg": "ch33jump.ogg",
+    "Sound_test": "ch33jump.m4a"
+  },
+  {
+    "__pkey": "Char_Jump_ch33",
+    "Cooltime": "0",
+    "Sound_m4a": "ch34jump.m4a",
+    "Sound_ogg": "ch34jump.ogg",
+    "Sound_test": "ch34jump.m4a"
+  },
+  {
+    "__pkey": "Char_Jump_ch34",
+    "Cooltime": "0",
+    "Sound_m4a": "ch35jump.m4a",
+    "Sound_ogg": "ch35jump.ogg",
+    "Sound_test": "ch35jump.m4a"
+  },
+  {
+    "__pkey": "Char_Jump_ch35",
+    "Cooltime": "0",
+    "Sound_m4a": "ch36jump.m4a",
+    "Sound_ogg": "ch36jump.ogg",
+    "Sound_test": "ch36jump.m4a"
+  },
+  {
+    "__pkey": "Char_Jump_ch36",
+    "Cooltime": "0",
+    "Sound_m4a": "ch37jump.m4a",
+    "Sound_ogg": "ch37jump.ogg",
+    "Sound_test": "ch37jump.m4a"
+  },
+  {
+    "__pkey": "Char_Jump_ch37",
+    "Cooltime": "0",
+    "Sound_m4a": "ch38jump.m4a",
+    "Sound_ogg": "ch38jump.ogg",
+    "Sound_test": "ch38jump.m4a"
+  },
+  {
+    "__pkey": "Char_Jump_ch38",
+    "Cooltime": "0",
+    "Sound_m4a": "ch39jump.m4a",
+    "Sound_ogg": "ch39jump.ogg",
+    "Sound_test": "ch39jump.m4a"
+  },
+  {
+    "__pkey": "Char_Jump_ch39",
+    "Cooltime": "0",
+    "Sound_m4a": "ch40jump.m4a",
+    "Sound_ogg": "ch40jump.ogg",
+    "Sound_test": "ch40jump.m4a"
+  },
+  {
+    "__pkey": "Char_Jump_ch40",
+    "Cooltime": "0",
+    "Sound_m4a": "ch40jump_tiger.m4a",
+    "Sound_ogg": "ch40jump_tiger.ogg",
+    "Sound_test": "ch40jump_tiger.m4a"
+  },
+  {
+    "__pkey": "Char_Jump_ch40_TigerForm",
+    "Cooltime": "0",
+    "Sound_m4a": "ch40jump.m4a",
+    "Sound_ogg": "ch40jump.ogg",
+    "Sound_test": "ch40jump.m4a"
+  },
+  {
+    "__pkey": "Char_Jump_ch40_lance",
+    "Cooltime": "0",
+    "Sound_m4a": "ch40jump_tiger.m4a",
+    "Sound_ogg": "ch40jump_tiger.ogg",
+    "Sound_test": "ch40jump_tiger.m4a"
+  },
+  {
+    "__pkey": "Char_Jump_ch40_lance_TigerForm",
+    "Cooltime": "0",
+    "Sound_m4a": "ch41jump.m4a",
+    "Sound_ogg": "ch41jump.ogg",
+    "Sound_test": "ch41jump.m4a"
+  },
+  {
+    "__pkey": "Char_Jump_ch41",
+    "Cooltime": "0",
+    "Sound_m4a": "ch42jump.m4a",
+    "Sound_ogg": "ch42jump.ogg",
+    "Sound_test": "ch42jump.m4a"
+  },
+  {
+    "__pkey": "Char_Jump_ch42",
+    "Cooltime": "0",
+    "Sound_m4a": "g_giantland.m4a",
+    "Sound_ogg": "g_giantland.ogg",
+    "Sound_test": "g_giantland.m4a"
+  },
+  {
+    "__pkey": "Char_Land_Gigantic",
+    "Cooltime": "0",
+    "Sound_m4a": "ch01slide.m4a",
+    "Sound_ogg": "ch01slide.ogg",
+    "Sound_test": "ch01slide.m4a"
+  },
+  {
+    "__pkey": "Char_Slide_ch01",
+    "Cooltime": "0",
+    "Sound_m4a": "ch02slide.m4a",
+    "Sound_ogg": "ch02slide.ogg",
+    "Sound_test": "ch02slide.m4a"
+  },
+  {
+    "__pkey": "Char_Slide_ch02",
+    "Cooltime": "0",
+    "Sound_m4a": "ch03slide.m4a",
+    "Sound_ogg": "ch03slide.ogg",
+    "Sound_test": "ch03slide.m4a"
+  },
+  {
+    "__pkey": "Char_Slide_ch03",
+    "Cooltime": "0",
+    "Sound_m4a": "ch04slide.m4a",
+    "Sound_ogg": "ch04slide.ogg",
+    "Sound_test": "ch04slide.m4a"
+  },
+  {
+    "__pkey": "Char_Slide_ch04",
+    "Cooltime": "0",
+    "Sound_m4a": "ch05slide.m4a",
+    "Sound_ogg": "ch05slide.ogg",
+    "Sound_test": "ch05slide.m4a"
+  },
+  {
+    "__pkey": "Char_Slide_ch05",
+    "Cooltime": "0",
+    "Sound_m4a": "ch06slide.m4a",
+    "Sound_ogg": "ch06slide.ogg",
+    "Sound_test": "ch06slide.m4a"
+  },
+  {
+    "__pkey": "Char_Slide_ch06",
+    "Cooltime": "0",
+    "Sound_m4a": "ch07slide.m4a",
+    "Sound_ogg": "ch07slide.ogg",
+    "Sound_test": "ch07slide.m4a"
+  },
+  {
+    "__pkey": "Char_Slide_ch07",
+    "Cooltime": "0",
+    "Sound_m4a": "ch08slide.m4a",
+    "Sound_ogg": "ch08slide.ogg",
+    "Sound_test": "ch08slide.m4a"
+  },
+  {
+    "__pkey": "Char_Slide_ch08",
+    "Cooltime": "0",
+    "Sound_m4a": "ch09slide.m4a",
+    "Sound_ogg": "ch09slide.ogg",
+    "Sound_test": "ch09slide.m4a"
+  },
+  {
+    "__pkey": "Char_Slide_ch09",
+    "Cooltime": "0",
+    "Sound_m4a": "ch10slide.m4a",
+    "Sound_ogg": "ch10slide.ogg",
+    "Sound_test": "ch10slide.m4a"
+  },
+  {
+    "__pkey": "Char_Slide_ch10",
+    "Cooltime": "0",
+    "Sound_m4a": "ch11slide.m4a",
+    "Sound_ogg": "ch11slide.ogg",
+    "Sound_test": "ch11slide.m4a"
+  },
+  {
+    "__pkey": "Char_Slide_ch11",
+    "Cooltime": "0",
+    "Sound_m4a": "ch12slide.m4a",
+    "Sound_ogg": "ch12slide.ogg",
+    "Sound_test": "ch12slide.m4a"
+  },
+  {
+    "__pkey": "Char_Slide_ch12",
+    "Cooltime": "0",
+    "Sound_m4a": "ch13slide.m4a",
+    "Sound_ogg": "ch13slide.ogg",
+    "Sound_test": "ch13slide.m4a"
+  },
+  {
+    "__pkey": "Char_Slide_ch13",
+    "Cooltime": "0",
+    "Sound_m4a": "ch14slide.m4a",
+    "Sound_ogg": "ch14slide.ogg",
+    "Sound_test": "ch14slide.m4a"
+  },
+  {
+    "__pkey": "Char_Slide_ch14",
+    "Cooltime": "0",
+    "Sound_m4a": "ch15slide.m4a",
+    "Sound_ogg": "ch15slide.ogg",
+    "Sound_test": "ch15slide.m4a"
+  },
+  {
+    "__pkey": "Char_Slide_ch15",
+    "Cooltime": "0",
+    "Sound_m4a": "ch16slide.m4a",
+    "Sound_ogg": "ch16slide.ogg",
+    "Sound_test": "ch16slide.m4a"
+  },
+  {
+    "__pkey": "Char_Slide_ch16",
+    "Cooltime": "0",
+    "Sound_m4a": "ch17slide.m4a",
+    "Sound_ogg": "ch02slide.ogg",
+    "Sound_test": "ch02slide.m4a"
+  },
+  {
+    "__pkey": "Char_Slide_ch17",
+    "Cooltime": "0",
+    "Sound_m4a": "ch18slide.m4a",
+    "Sound_ogg": "ch18slide.ogg",
+    "Sound_test": "ch18slide.m4a"
+  },
+  {
+    "__pkey": "Char_Slide_ch18",
+    "Cooltime": "0",
+    "Sound_m4a": "ch19slide.m4a",
+    "Sound_ogg": "ch19slide.ogg",
+    "Sound_test": "ch19slide.m4a"
+  },
+  {
+    "__pkey": "Char_Slide_ch19",
+    "Cooltime": "0",
+    "Sound_m4a": "ch20slide.m4a",
+    "Sound_ogg": "ch20slide.ogg",
+    "Sound_test": "ch20slide.m4a"
+  },
+  {
+    "__pkey": "Char_Slide_ch20",
+    "Cooltime": "0",
+    "Sound_m4a": "ch21slide.m4a",
+    "Sound_ogg": "ch21slide.ogg",
+    "Sound_test": "ch21slide.m4a"
+  },
+  {
+    "__pkey": "Char_Slide_ch21",
+    "Cooltime": "0",
+    "Sound_m4a": "ch22slide.m4a",
+    "Sound_ogg": "ch22slide.ogg",
+    "Sound_test": "ch22slide.m4a"
+  },
+  {
+    "__pkey": "Char_Slide_ch22",
+    "Cooltime": "0",
+    "Sound_m4a": "ch23slide.m4a",
+    "Sound_ogg": "ch23slide.ogg",
+    "Sound_test": "ch23slide.m4a"
+  },
+  {
+    "__pkey": "Char_Slide_ch23",
+    "Cooltime": "0",
+    "Sound_m4a": "ch24slide.m4a",
+    "Sound_ogg": "ch24slide.ogg",
+    "Sound_test": "ch24slide.m4a"
+  },
+  {
+    "__pkey": "Char_Slide_ch24",
+    "Cooltime": "0",
+    "Sound_m4a": "ch24slide_woman.m4a",
+    "Sound_ogg": "ch24slide_woman.ogg",
+    "Sound_test": "ch24slide_woman.m4a"
+  },
+  {
+    "__pkey": "Char_Slide_ch24_Woman",
+    "Cooltime": "0",
+    "Sound_m4a": "ch25slide.m4a",
+    "Sound_ogg": "ch25slide.ogg",
+    "Sound_test": "ch25slide.m4a"
+  },
+  {
+    "__pkey": "Char_Slide_ch25",
+    "Cooltime": "0",
+    "Sound_m4a": "ch26slide.m4a",
+    "Sound_ogg": "ch26slide.ogg",
+    "Sound_test": "ch26slide.m4a"
+  },
+  {
+    "__pkey": "Char_Slide_ch26",
+    "Cooltime": "0",
+    "Sound_m4a": "ch27slide.m4a",
+    "Sound_ogg": "ch27slide.ogg",
+    "Sound_test": "ch27slide.m4a"
+  },
+  {
+    "__pkey": "Char_Slide_ch27",
+    "Cooltime": "0",
+    "Sound_m4a": "ch27slide_1.m4a",
+    "Sound_ogg": "ch27slide_1.ogg",
+    "Sound_test": "ch27slide_1.m4a"
+  },
+  {
+    "__pkey": "Char_Slide_ch27_1",
+    "Cooltime": "0",
+    "Sound_m4a": "ch27slide_2.m4a",
+    "Sound_ogg": "ch27slide_2.ogg",
+    "Sound_test": "ch27slide_2.m4a"
+  },
+  {
+    "__pkey": "Char_Slide_ch27_2",
+    "Cooltime": "0",
+    "Sound_m4a": "ch28slide.m4a",
+    "Sound_ogg": "ch28slide.ogg",
+    "Sound_test": "ch28slide.m4a"
+  },
+  {
+    "__pkey": "Char_Slide_ch28",
+    "Cooltime": "0",
+    "Sound_m4a": "ch29slide.m4a",
+    "Sound_ogg": "ch29slide.ogg",
+    "Sound_test": "ch29slide.m4a"
+  },
+  {
+    "__pkey": "Char_Slide_ch29",
+    "Cooltime": "0",
+    "Sound_m4a": "ch30slide.m4a",
+    "Sound_ogg": "ch30slide.ogg",
+    "Sound_test": "ch30slide.m4a"
+  },
+  {
+    "__pkey": "Char_Slide_ch30",
+    "Cooltime": "0",
+    "Sound_m4a": "ch31slide.m4a",
+    "Sound_ogg": "ch31slide.ogg",
+    "Sound_test": "ch31slide.m4a"
+  },
+  {
+    "__pkey": "Char_Slide_ch31",
+    "Cooltime": "0",
+    "Sound_m4a": "ch32slide.m4a",
+    "Sound_ogg": "ch32slide.ogg",
+    "Sound_test": "ch32slide.m4a"
+  },
+  {
+    "__pkey": "Char_Slide_ch32",
+    "Cooltime": "0",
+    "Sound_m4a": "ch33slide.m4a",
+    "Sound_ogg": "ch33slide.ogg",
+    "Sound_test": "ch33slide.m4a"
+  },
+  {
+    "__pkey": "Char_Slide_ch33",
+    "Cooltime": "0",
+    "Sound_m4a": "ch34slide.m4a",
+    "Sound_ogg": "ch34slide.ogg",
+    "Sound_test": "ch34slide.m4a"
+  },
+  {
+    "__pkey": "Char_Slide_ch34",
+    "Cooltime": "0",
+    "Sound_m4a": "ch35slide.m4a",
+    "Sound_ogg": "ch35slide.ogg",
+    "Sound_test": "ch35slide.m4a"
+  },
+  {
+    "__pkey": "Char_Slide_ch35",
+    "Cooltime": "0",
+    "Sound_m4a": "ch36slide.m4a",
+    "Sound_ogg": "ch36slide.ogg",
+    "Sound_test": "ch36slide.m4a"
+  },
+  {
+    "__pkey": "Char_Slide_ch36",
+    "Cooltime": "0",
+    "Sound_m4a": "ch37slide.m4a",
+    "Sound_ogg": "ch37slide.ogg",
+    "Sound_test": "ch37slide.m4a"
+  },
+  {
+    "__pkey": "Char_Slide_ch37",
+    "Cooltime": "0",
+    "Sound_m4a": "ch37slide.m4a",
+    "Sound_ogg": "ch37slide.ogg",
+    "Sound_test": "ch37slide.m4a"
+  },
+  {
+    "__pkey": "Char_Slide_ch38",
+    "Cooltime": "0",
+    "Sound_m4a": "ch39slide.m4a",
+    "Sound_ogg": "ch39slide.ogg",
+    "Sound_test": "ch39slide.m4a"
+  },
+  {
+    "__pkey": "Char_Slide_ch39",
+    "Cooltime": "0",
+    "Sound_m4a": "ch40slide.m4a",
+    "Sound_ogg": "ch40slide.ogg",
+    "Sound_test": "ch40slide.m4a"
+  },
+  {
+    "__pkey": "Char_Slide_ch40",
+    "Cooltime": "0",
+    "Sound_m4a": "ch40slide_tiger.m4a",
+    "Sound_ogg": "ch40slide_tiger.ogg",
+    "Sound_test": "ch40slide_tiger.m4a"
+  },
+  {
+    "__pkey": "Char_Slide_ch40_TigerForm",
+    "Cooltime": "0",
+    "Sound_m4a": "ch40slide.m4a",
+    "Sound_ogg": "ch40slide.ogg",
+    "Sound_test": "ch40slide.m4a"
+  },
+  {
+    "__pkey": "Char_Slide_ch40_lance",
+    "Cooltime": "0",
+    "Sound_m4a": "ch40slide_tiger.m4a",
+    "Sound_ogg": "ch40slide_tiger.ogg",
+    "Sound_test": "ch40slide_tiger.m4a"
+  },
+  {
+    "__pkey": "Char_Slide_ch40_lance_TigerForm",
+    "Cooltime": "0",
+    "Sound_m4a": "ch41slide.m4a",
+    "Sound_ogg": "ch41slide.ogg",
+    "Sound_test": "ch41slide.m4a"
+  },
+  {
+    "__pkey": "Char_Slide_ch41",
+    "Cooltime": "0",
+    "Sound_m4a": "ch42slide.m4a",
+    "Sound_ogg": "ch42slide.ogg",
+    "Sound_test": "ch42slide.m4a"
+  },
+  {
+    "__pkey": "Char_Slide_ch42",
+    "Cooltime": "1.5",
+    "Sound_m4a": "CheerLeader_CallFriends.m4a",
+    "Sound_ogg": "CheerLeader_CallFriends.ogg",
+    "Sound_test": "CheerLeader_CallFriends.m4a"
+  },
+  {
+    "__pkey": "CheerLeader_CallFriends",
+    "Cooltime": "1.5",
+    "Sound_m4a": "CheerLeader_Friends.m4a",
+    "Sound_ogg": "CheerLeader_Friends.ogg",
+    "Sound_test": "CheerLeader_Friends.m4a"
+  },
+  {
+    "__pkey": "CheerLeader_Friends",
+    "Cooltime": "0.1",
+    "Sound_m4a": "Rescue_Blast_End.m4a",
+    "Sound_ogg": "Rescue_Blast_End.ogg",
+    "Sound_test": "Rescue_Blast_End.m4a"
+  },
+  {
+    "__pkey": "CheeseCakeFireworkExplosion",
+    "Cooltime": "0.1",
+    "Sound_m4a": "Rescue_Blast_Start.m4a",
+    "Sound_ogg": "Rescue_Blast_Start.ogg",
+    "Sound_test": "Rescue_Blast_Start.m4a"
+  },
+  {
+    "__pkey": "CheeseCakeFireworkFire",
+    "Cooltime": "0.1",
+    "Sound_m4a": "ChocoKing_RedCarpet.m4a",
+    "Sound_ogg": "ChocoKing_RedCarpet.ogg",
+    "Sound_test": "ChocoKing_RedCarpet.m4a"
+  },
+  {
+    "__pkey": "ChocoKing_RedCarpet",
+    "Cooltime": "1",
+    "Sound_m4a": "CrusaderFlightEnd.m4a",
+    "Sound_ogg": "CrusaderFlightEnd.ogg",
+    "Sound_test": "CrusaderFlightEnd.m4a"
+  },
+  {
+    "__pkey": "CrusaderFlightEnd",
+    "Cooltime": "1",
+    "Sound_m4a": "CrusaderFlightRun.m4a",
+    "Sound_ogg": "CrusaderFlightRun.ogg",
+    "Sound_test": "CrusaderFlightRun.m4a"
+  },
+  {
+    "__pkey": "CrusaderFlightRun",
+    "Cooltime": "1",
+    "Sound_m4a": "CrusaderFlightStart.m4a",
+    "Sound_ogg": "CrusaderFlightStart.ogg",
+    "Sound_test": "CrusaderFlightStart.m4a"
+  },
+  {
+    "__pkey": "CrusaderFlightStart",
+    "Cooltime": "0.1",
+    "Sound_m4a": "Figure_NormalScore.m4a",
+    "Sound_ogg": "Figure_NormalScore.ogg",
+    "Sound_test": "Figure_NormalScore.m4a"
+  },
+  {
+    "__pkey": "ExtraNormalScore",
+    "Cooltime": "0",
+    "Sound_m4a": "Figure_CriticalScore.m4a",
+    "Sound_ogg": "Figure_CriticalScore.ogg",
+    "Sound_test": "Figure_CriticalScore.m4a"
+  },
+  {
+    "__pkey": "Figure_CriticalScore",
+    "Cooltime": "0",
+    "Sound_m4a": "Figure_NormalScore.m4a",
+    "Sound_ogg": "Figure_NormalScore.ogg",
+    "Sound_test": "Figure_NormalScore.m4a"
+  },
+  {
+    "__pkey": "Figure_NormalScore",
+    "Cooltime": "0",
+    "Sound_m4a": "FireSpirit_ReviveStart.m4a",
+    "Sound_ogg": "FireSpirit_ReviveStart.ogg",
+    "Sound_test": "FireSpirit_ReviveStart.m4a"
+  },
+  {
+    "__pkey": "FireSpirit_ReviveStart",
+    "Cooltime": "0",
+    "Sound_m4a": "FireSpirit_TransformEnd.m4a",
+    "Sound_ogg": "FireSpirit_TransformEnd.ogg",
+    "Sound_test": "FireSpirit_TransformEnd.m4a"
+  },
+  {
+    "__pkey": "FireSpirit_TransformEnd",
+    "Cooltime": "0",
+    "Sound_m4a": "FireSpirit_TransformFlight.m4a",
+    "Sound_ogg": "FireSpirit_TransformFlight.ogg",
+    "Sound_test": "FireSpirit_TransformFlight.m4a"
+  },
+  {
+    "__pkey": "FireSpirit_TransformFlight",
+    "Cooltime": "0",
+    "Sound_m4a": "FireSpirit_TransformStart.m4a",
+    "Sound_ogg": "FireSpirit_TransformStart.ogg",
+    "Sound_test": "FireSpirit_TransformStart.m4a"
+  },
+  {
+    "__pkey": "FireSpirit_TransformStart",
+    "Cooltime": "0",
+    "Sound_m4a": "ch32skill.m4a",
+    "Sound_ogg": "ch32skill.ogg",
+    "Sound_test": "ch32skill.m4a"
+  },
+  {
+    "__pkey": "FortuneCookie_CastingSkill",
+    "Cooltime": "0",
+    "Sound_m4a": "Gumiho_Trans.m4a",
+    "Sound_ogg": "Gumiho_Trans.ogg",
+    "Sound_test": "Gumiho_Trans.m4a"
+  },
+  {
+    "__pkey": "GumihoTransToFox",
+    "Cooltime": "0",
+    "Sound_m4a": "Gumiho_Trans.m4a",
+    "Sound_ogg": "Gumiho_Trans.ogg",
+    "Sound_test": "Gumiho_Trans.m4a"
+  },
+  {
+    "__pkey": "GumihoTransToWoman",
+    "Cooltime": "0.1",
+    "Sound_m4a": "InviteNinja_Teleport.m4a",
+    "Sound_ogg": "InviteNinja_Teleport.ogg",
+    "Sound_test": "InviteNinja_Teleport.m4a"
+  },
+  {
+    "__pkey": "InviteNinja_TeleportSlide",
+    "Cooltime": "0.1",
+    "Sound_m4a": "JungleWarrior_JavelinCrash.m4a",
+    "Sound_ogg": "JungleWarrior_JavelinCrash.ogg",
+    "Sound_test": "JungleWarrior_JavelinCrash.m4a"
+  },
+  {
+    "__pkey": "JungleWarrior_JavelinCrash",
+    "Cooltime": "0",
+    "Sound_m4a": "JungleWarrior_ThrowingJavelin.m4a",
+    "Sound_ogg": "JungleWarrior_ThrowingJavelin.ogg",
+    "Sound_test": "JungleWarrior_ThrowingJavelin.m4a"
+  },
+  {
+    "__pkey": "JungleWarrior_ThrowingJavelin",
+    "Cooltime": "0",
+    "Sound_m4a": "JungleWarrior_TigerCrash.m4a",
+    "Sound_ogg": "JungleWarrior_TigerCrash.ogg",
+    "Sound_test": "JungleWarrior_TigerCrash.m4a"
+  },
+  {
+    "__pkey": "JungleWarrior_TigerCrash",
+    "Cooltime": "0",
+    "Sound_m4a": "JungleWarrior_TransformEnd.m4a",
+    "Sound_ogg": "JungleWarrior_TransformEnd.ogg",
+    "Sound_test": "JungleWarrior_TransformEnd.m4a"
+  },
+  {
+    "__pkey": "JungleWarrior_TransformEnd",
+    "Cooltime": "0",
+    "Sound_m4a": "ch40jump_tiger.m4a",
+    "Sound_ogg": "ch40jump_tiger.ogg",
+    "Sound_test": "ch40jump_tiger.m4a"
+  },
+  {
+    "__pkey": "JungleWarrior_TransformFlight",
+    "Cooltime": "0",
+    "Sound_m4a": "JungleWarrior_TransformStart.m4a",
+    "Sound_ogg": "JungleWarrior_TransformStart.ogg",
+    "Sound_test": "JungleWarrior_TransformStart.m4a"
+  },
+  {
+    "__pkey": "JungleWarrior_TransformStart",
+    "Cooltime": "0.1",
+    "Sound_m4a": "Magician_ChainLightning.m4a",
+    "Sound_ogg": "Magician_ChainLightning.ogg",
+    "Sound_test": "Magician_ChainLightning.m4a"
+  },
+  {
+    "__pkey": "MagicianChainLightning",
+    "Cooltime": "0.01",
+    "Sound_m4a": "Magician_ObsExplosion.m4a",
+    "Sound_ogg": "Magician_ObsExplosion.ogg",
+    "Sound_test": "Magician_ObsExplosion.m4a"
+  },
+  {
+    "__pkey": "MagicianObstacleExplosion",
+    "Cooltime": "1",
+    "Sound_m4a": "Magician_FlightEnd.m4a",
+    "Sound_ogg": "Magician_FlightEnd.ogg",
+    "Sound_test": "Magician_FlightEnd.m4a"
+  },
+  {
+    "__pkey": "MagicianSpecialSpellEnd",
+    "Cooltime": "1",
+    "Sound_m4a": "Magician_FlightStart.m4a",
+    "Sound_ogg": "Magician_FlightStart.ogg",
+    "Sound_test": "Magician_FlightStart.m4a"
+  },
+  {
+    "__pkey": "MagicianSpecialSpellFlightStart",
+    "Cooltime": "1",
+    "Sound_m4a": "Magician_ChangeStart.m4a",
+    "Sound_ogg": "Magician_ChangeStart.ogg",
+    "Sound_test": "Magician_ChangeStart.m4a"
+  },
+  {
+    "__pkey": "MagicianSpecialSpellStart",
+    "Cooltime": "0",
+    "Sound_m4a": "ch20passive.m4a",
+    "Sound_ogg": "ch20passive.ogg",
+    "Sound_test": "ch20passive.m4a"
+  },
+  {
+    "__pkey": "Passive_ch20",
+    "Cooltime": "0",
+    "Sound_m4a": "ch21passive.m4a",
+    "Sound_ogg": "ch21passive.ogg",
+    "Sound_test": "ch21passive.m4a"
+  },
+  {
+    "__pkey": "Passive_ch21",
+    "Cooltime": "0",
+    "Sound_m4a": "ch26passive.m4a",
+    "Sound_ogg": "ch26passive.ogg",
+    "Sound_test": "ch26passive.m4a"
+  },
+  {
+    "__pkey": "Passive_ch26",
+    "Cooltime": "0",
+    "Sound_m4a": "ch26passive.m4a",
+    "Sound_ogg": "ch26passive.ogg",
+    "Sound_test": "ch26passive.m4a"
+  },
+  {
+    "__pkey": "Passive_ch37",
+    "Cooltime": "0",
+    "Sound_m4a": "ch40passive.m4a",
+    "Sound_ogg": "ch40passive.ogg",
+    "Sound_test": "ch40passive.m4a"
+  },
+  {
+    "__pkey": "Passive_ch40",
+    "Cooltime": "0",
+    "Sound_m4a": "ch41passive.m4a",
+    "Sound_ogg": "ch41passive.ogg",
+    "Sound_test": "ch41passive.m4a"
+  },
+  {
+    "__pkey": "Passive_ch41",
+    "Cooltime": "0",
+    "Sound_m4a": "pet49passive.m4a",
+    "Sound_ogg": "pet49passive.ogg",
+    "Sound_test": "pet49passive.m4a"
+  },
+  {
+    "__pkey": "Passive_pet49",
+    "Cooltime": "0",
+    "Sound_m4a": "PinkCandyPet_AttractBearJellyMeteor.m4a",
+    "Sound_ogg": "PinkCandyPet_AttractBearJellyMeteor.ogg",
+    "Sound_test": "PinkCandyPet_AttractBearJellyMeteor.m4a"
+  },
+  {
+    "__pkey": "PinkCandyPet_AttractBearJellyMeteor",
+    "Cooltime": "0",
+    "Sound_m4a": "g_obs2.m4a",
+    "Sound_ogg": "g_obs2.ogg",
+    "Sound_test": "g_obs2.m4a"
+  },
+  {
+    "__pkey": "PinkCandyPet_BearMeteorCrash",
+    "Cooltime": "0",
+    "Sound_m4a": "g_obs2.m4a",
+    "Sound_ogg": "g_obs2.ogg",
+    "Sound_test": "g_obs2.m4a"
+  },
+  {
+    "__pkey": "PinkCandyPet_BearMeteorExplosion",
+    "Cooltime": "0",
+    "Sound_m4a": "PinkCandyPet_BearMeteorFall.m4a",
+    "Sound_ogg": "PinkCandyPet_BearMeteorFall.ogg",
+    "Sound_test": "PinkCandyPet_BearMeteorFall.m4a"
+  },
+  {
+    "__pkey": "PinkCandyPet_BearMeteorFall",
+    "Cooltime": "0.01",
+    "Sound_m4a": "pf_MoveDownFloor.m4a",
+    "Sound_ogg": "pf_MoveDownFloor.ogg",
+    "Sound_test": "pf_MoveDownFloor.m4a"
+  },
+  {
+    "__pkey": "Platform_MoveDownFloor",
+    "Cooltime": "0.01",
+    "Sound_m4a": "pf_MoveDownJump.m4a",
+    "Sound_ogg": "pf_MoveDownJump.ogg",
+    "Sound_test": "pf_MoveDownJump.m4a"
+  },
+  {
+    "__pkey": "Platform_MoveDownJump",
+    "Cooltime": "0.01",
+    "Sound_m4a": "pf_MoveDownSlide.m4a",
+    "Sound_ogg": "pf_MoveDownSlide.ogg",
+    "Sound_test": "pf_MoveDownSlide.m4a"
+  },
+  {
+    "__pkey": "Platform_MoveDownSlide",
+    "Cooltime": "0.01",
+    "Sound_m4a": "pf_PillarOfFire.m4a",
+    "Sound_ogg": "pf_PillarOfFire.ogg",
+    "Sound_test": "pf_PillarOfFire.m4a"
+  },
+  {
+    "__pkey": "Platform_PillarOfFire",
+    "Cooltime": "0.01",
+    "Sound_m4a": "pf_PopUpObstacle.m4a",
+    "Sound_ogg": "pf_PopUpObstacle.ogg",
+    "Sound_test": "pf_PopUpObstacle.m4a"
+  },
+  {
+    "__pkey": "Platform_PopUpObstacle",
+    "Cooltime": "0.01",
+    "Sound_m4a": "pf_SlowDownSlide.m4a",
+    "Sound_ogg": "pf_SlowDownSlide.ogg",
+    "Sound_test": "pf_SlowDownSlide.m4a"
+  },
+  {
+    "__pkey": "Platform_SlowDownSlide",
+    "Cooltime": "0",
+    "Sound_m4a": "r_page.m4a",
+    "Sound_ogg": "r_page.ogg",
+    "Sound_test": "r_page.m4a"
+  },
+  {
+    "__pkey": "RandomPet_Born",
+    "Cooltime": "0",
+    "Sound_m4a": "rp_egg_crack2.m4a",
+    "Sound_ogg": "rp_egg_crack2.ogg",
+    "Sound_test": "rp_egg_crack2.m4a"
+  },
+  {
+    "__pkey": "RandomPet_Egg_Crack2",
+    "Cooltime": "0",
+    "Sound_m4a": "rp_result_a.m4a",
+    "Sound_ogg": "rp_result_a.ogg",
+    "Sound_test": "rp_result_a.m4a"
+  },
+  {
+    "__pkey": "RandomPet_Result_A",
+    "Cooltime": "0",
+    "Sound_m4a": "rp_result_coin.m4a",
+    "Sound_ogg": "rp_result_coin.ogg",
+    "Sound_test": "rp_result_coin.m4a"
+  },
+  {
+    "__pkey": "RandomPet_Result_Coin",
+    "Cooltime": "0",
+    "Sound_m4a": "rp_result_s.m4a",
+    "Sound_ogg": "rp_result_s.ogg",
+    "Sound_test": "rp_result_s.m4a"
+  },
+  {
+    "__pkey": "RandomPet_Result_S",
+    "Cooltime": "0",
+    "Sound_m4a": "rt_loading.m4a",
+    "Sound_ogg": "rt_loading.ogg",
+    "Sound_test": "rt_loading.m4a"
+  },
+  {
+    "__pkey": "RandomTreasure_Loading",
+    "Cooltime": "0",
+    "Sound_m4a": "rt_move_box.m4a",
+    "Sound_ogg": "rt_move_box.ogg",
+    "Sound_test": "rt_move_box.m4a"
+  },
+  {
+    "__pkey": "RandomTreasure_MoveBox",
+    "Cooltime": "0",
+    "Sound_m4a": "rt_open_box.m4a",
+    "Sound_ogg": "rt_open_box.ogg",
+    "Sound_test": "rt_open_box.m4a"
+  },
+  {
+    "__pkey": "RandomTreasure_OpenBox",
+    "Cooltime": "0",
+    "Sound_m4a": "rp_result_a.m4a",
+    "Sound_ogg": "rp_result_a.ogg",
+    "Sound_test": "rp_result_a.m4a"
+  },
+  {
+    "__pkey": "RandomTreasure_Result_A",
+    "Cooltime": "0",
+    "Sound_m4a": "rp_result_coin.m4a",
+    "Sound_ogg": "rp_result_coin.ogg",
+    "Sound_test": "rp_result_coin.m4a"
+  },
+  {
+    "__pkey": "RandomTreasure_Result_BC",
+    "Cooltime": "0",
+    "Sound_m4a": "rp_result_s.m4a",
+    "Sound_ogg": "rp_result_s.ogg",
+    "Sound_test": "rp_result_s.m4a"
+  },
+  {
+    "__pkey": "RandomTreasure_Result_S",
+    "Cooltime": "0.05",
+    "Sound_m4a": "Ranger_ShotRifle.m4a",
+    "Sound_ogg": "Ranger_ShotRifle.ogg",
+    "Sound_test": "Ranger_ShotRifle.m4a"
+  },
+  {
+    "__pkey": "Ranger_ShotRifle",
+    "Cooltime": "0.1",
+    "Sound_m4a": "g_obs2.m4a",
+    "Sound_ogg": "g_obs2.ogg",
+    "Sound_test": "g_obs2.m4a"
+  },
+  {
+    "__pkey": "Ranger_StarCandyBomb",
+    "Cooltime": "0",
+    "Sound_m4a": "r_extrascore.m4a",
+    "Sound_ogg": "r_extrascore.ogg",
+    "Sound_test": "r_extrascore.m4a"
+  },
+  {
+    "__pkey": "Result_AdditionalScore",
+    "Cooltime": "0",
+    "Sound_m4a": "r_passed.m4a",
+    "Sound_ogg": "r_passed.ogg",
+    "Sound_test": "r_passed.m4a"
+  },
+  {
+    "__pkey": "Result_DefeatFriend",
+    "Cooltime": "0",
+    "Sound_m4a": "r_unlock.m4a",
+    "Sound_ogg": "r_unlock.ogg",
+    "Sound_test": "r_unlock.m4a"
+  },
+  {
+    "__pkey": "Result_LevelReward",
+    "Cooltime": "0",
+    "Sound_m4a": "r_unlock.m4a",
+    "Sound_ogg": "r_unlock.ogg",
+    "Sound_test": "r_unlock.m4a"
+  },
+  {
+    "__pkey": "Result_LevelUnlock",
+    "Cooltime": "0",
+    "Sound_m4a": "r_levelup.m4a",
+    "Sound_ogg": "r_levelup.ogg",
+    "Sound_test": "r_levelup.m4a"
+  },
+  {
+    "__pkey": "Result_LevelUp",
+    "Cooltime": "0",
+    "Sound_m4a": "r_medal.m4a",
+    "Sound_ogg": "r_medal.ogg",
+    "Sound_test": "r_medal.m4a"
+  },
+  {
+    "__pkey": "Result_Medal",
+    "Cooltime": "0",
+    "Sound_m4a": "r_score.m4a",
+    "Sound_ogg": "r_score.ogg",
+    "Sound_test": "r_score.m4a"
+  },
+  {
+    "__pkey": "Result_MyScore",
+    "Cooltime": "0",
+    "Sound_m4a": "r_newrecord.m4a",
+    "Sound_ogg": "r_newrecord.ogg",
+    "Sound_test": "r_newrecord.m4a"
+  },
+  {
+    "__pkey": "Result_NewRecord",
+    "Cooltime": "0",
+    "Sound_m4a": "r_page.m4a",
+    "Sound_ogg": "r_page.ogg",
+    "Sound_test": "r_page.m4a"
+  },
+  {
+    "__pkey": "Result_ScreenChange",
+    "Cooltime": "0",
+    "Sound_m4a": "r_unlock.m4a",
+    "Sound_ogg": "r_unlock.ogg",
+    "Sound_test": "r_unlock.m4a"
+  },
+  {
+    "__pkey": "Result_Tip",
+    "Cooltime": "0.1",
+    "Sound_m4a": "RockStar_Note_Spreads_Normal_01.m4a",
+    "Sound_ogg": "RockStar_Note_Spreads_Normal_01.ogg",
+    "Sound_test": "RockStar_Note_Spreads_Normal_01.m4a"
+  },
+  {
+    "__pkey": "RockStarMakeNoteJelly",
+    "Cooltime": "0.1",
+    "Sound_m4a": "RockStar_Note_Spreads_Perfect_01.m4a",
+    "Sound_ogg": "RockStar_Note_Spreads_Perfect_01.ogg",
+    "Sound_test": "RockStar_Note_Spreads_Perfect_01.m4a"
+  },
+  {
+    "__pkey": "RockStarMakeNoteJellyMaxSliding",
+    "Cooltime": "0.1",
+    "Sound_m4a": "RockStar_Note_Spreads_Perfect_02.m4a",
+    "Sound_ogg": "RockStar_Note_Spreads_Perfect_02.ogg",
+    "Sound_test": "RockStar_Note_Spreads_Perfect_02.m4a"
+  },
+  {
+    "__pkey": "RockStarMakeNoteJellyMaxSliding_1",
+    "Cooltime": "0.1",
+    "Sound_m4a": "RockStar_Note_Spreads_Perfect_03.m4a",
+    "Sound_ogg": "RockStar_Note_Spreads_Perfect_03.ogg",
+    "Sound_test": "RockStar_Note_Spreads_Perfect_03.m4a"
+  },
+  {
+    "__pkey": "RockStarMakeNoteJellyMaxSliding_2",
+    "Cooltime": "0.1",
+    "Sound_m4a": "RockStar_Note_Spreads_Normal_02.m4a",
+    "Sound_ogg": "RockStar_Note_Spreads_Normal_02.ogg",
+    "Sound_test": "RockStar_Note_Spreads_Normal_02.m4a"
+  },
+  {
+    "__pkey": "RockStarMakeNoteJelly_1",
+    "Cooltime": "0.1",
+    "Sound_m4a": "RockStar_Note_Spreads_Normal_03.m4a",
+    "Sound_ogg": "RockStar_Note_Spreads_Normal_03.ogg",
+    "Sound_test": "RockStar_Note_Spreads_Normal_03.m4a"
+  },
+  {
+    "__pkey": "RockStarMakeNoteJelly_2",
+    "Cooltime": "0.1",
+    "Sound_m4a": "Rockstar_Gauge_Full_Notify.m4a",
+    "Sound_ogg": "Rockstar_Gauge_Full_Notify.ogg",
+    "Sound_test": "Rockstar_Gauge_Full_Notify.m4a"
+  },
+  {
+    "__pkey": "RockStarMaxSliding",
+    "Cooltime": "0",
+    "Sound_m4a": "",
+    "Sound_ogg": "",
+    "Sound_test": ""
+  },
+  {
+    "__pkey": "RockStarSliding",
+    "Cooltime": "0",
+    "Sound_m4a": "r_medal.m4a",
+    "Sound_ogg": "r_medal.ogg",
+    "Sound_test": "r_medal.m4a"
+  },
+  {
+    "__pkey": "Shop_Pet_Result_Pop",
+    "Cooltime": "0",
+    "Sound_m4a": "s_random_boost.m4a",
+    "Sound_ogg": "s_random_boost.ogg",
+    "Sound_test": "s_random_boost.m4a"
+  },
+  {
+    "__pkey": "Shop_Random_Boost",
+    "Cooltime": "0",
+    "Sound_m4a": "s_buy_success.m4a",
+    "Sound_ogg": "s_buy_success.ogg",
+    "Sound_test": "s_buy_success.m4a"
+  },
+  {
+    "__pkey": "Shop_buy_Success",
+    "Cooltime": "0",
+    "Sound_m4a": "SnowSugar_Summon1Start.m4a",
+    "Sound_ogg": "SnowSugar_Summon1Start.ogg",
+    "Sound_test": "SnowSugar_Summon1Start.m4a"
+  },
+  {
+    "__pkey": "SnowSugar_Summon1Start",
+    "Cooltime": "0",
+    "Sound_m4a": "SnowSugar_Summon2End.m4a",
+    "Sound_ogg": "SnowSugar_Summon2End.ogg",
+    "Sound_test": "SnowSugar_Summon2End.m4a"
+  },
+  {
+    "__pkey": "SnowSugar_Summon2End",
+    "Cooltime": "0",
+    "Sound_m4a": "SnowSugar_Summon2Start.m4a",
+    "Sound_ogg": "SnowSugar_Summon2Start.ogg",
+    "Sound_test": "SnowSugar_Summon2Start.m4a"
+  },
+  {
+    "__pkey": "SnowSugar_Summon2Start",
+    "Cooltime": "0.1",
+    "Sound_m4a": "Soda_TransformEnd.m4a",
+    "Sound_ogg": "Soda_TransformEnd.ogg",
+    "Sound_test": "Soda_TransformEnd.m4a"
+  },
+  {
+    "__pkey": "Soda_TransformEnd",
+    "Cooltime": "0.1",
+    "Sound_m4a": "Soda_TransformFlight.m4a",
+    "Sound_ogg": "Soda_TransformFlight.ogg",
+    "Sound_test": "Soda_TransformFlight.m4a"
+  },
+  {
+    "__pkey": "Soda_TransformFlight",
+    "Cooltime": "0.1",
+    "Sound_m4a": "Soda_TransformStart.m4a",
+    "Sound_ogg": "Soda_TransformStart.ogg",
+    "Sound_test": "Soda_TransformStart.m4a"
+  },
+  {
+    "__pkey": "Soda_TransformStart",
+    "Cooltime": "0.1",
+    "Sound_m4a": "Soda_Wave_ObstacleBlowBack.m4a",
+    "Sound_ogg": "Soda_Wave_ObstacleBlowBack.ogg",
+    "Sound_test": "Soda_Wave_ObstacleBlowBack.m4a"
+  },
+  {
+    "__pkey": "Soda_Wave_ObstacleBlowBack",
+    "Cooltime": "0",
+    "Sound_m4a": "bgm_fever.m4a",
+    "Sound_ogg": "bgm_fever.ogg",
+    "Sound_test": "bgm_fever.m4a"
+  },
+  {
+    "__pkey": "SoundBgm_FeverModeBgm",
+    "Cooltime": "0",
+    "Sound_m4a": "bgm_fever2.m4a",
+    "Sound_ogg": "bgm_fever2.ogg",
+    "Sound_test": "bgm_fever2.m4a"
+  },
+  {
+    "__pkey": "SoundBgm_FeverModeBgm2",
+    "Cooltime": "0",
+    "Sound_m4a": "bgm_fever2_rockstar.m4a",
+    "Sound_ogg": "bgm_fever2_rockstar.ogg",
+    "Sound_test": "bgm_fever2_rockstar.m4a"
+  },
+  {
+    "__pkey": "SoundBgm_FeverModeBgm2_rockstar",
+    "Cooltime": "0",
+    "Sound_m4a": "bgm_fever3.m4a",
+    "Sound_ogg": "bgm_fever3.ogg",
+    "Sound_test": "bgm_fever3.m4a"
+  },
+  {
+    "__pkey": "SoundBgm_FeverModeBgm3",
+    "Cooltime": "0",
+    "Sound_m4a": "bgm_fever3_rockstar.m4a",
+    "Sound_ogg": "bgm_fever3_rockstar.ogg",
+    "Sound_test": "bgm_fever3_rockstar.m4a"
+  },
+  {
+    "__pkey": "SoundBgm_FeverModeBgm3_rockstar",
+    "Cooltime": "0",
+    "Sound_m4a": "bgm_fever_rockstar.m4a",
+    "Sound_ogg": "bgm_fever_rockstar.ogg",
+    "Sound_test": "bgm_fever_rockstar.m4a"
+  },
+  {
+    "__pkey": "SoundBgm_FeverModeBgm_rockstar",
+    "Cooltime": "0",
+    "Sound_m4a": "bgm_lobby.m4a",
+    "Sound_ogg": "bgm_lobby.ogg",
+    "Sound_test": "bgm_lobby.m4a"
+  },
+  {
+    "__pkey": "SoundBgm_LobbyBgm",
+    "Cooltime": "0",
+    "Sound_m4a": "bgm_lobby.m4a",
+    "Sound_ogg": "bgm_lobby.ogg",
+    "Sound_test": "bgm_lobby.m4a"
+  },
+  {
+    "__pkey": "SoundBgm_LobbyBgm2",
+    "Cooltime": "0",
+    "Sound_m4a": "bgm_main.m4a",
+    "Sound_ogg": "bgm_main.ogg",
+    "Sound_test": "bgm_main.m4a"
+  },
+  {
+    "__pkey": "SoundBgm_MainGameBgm",
+    "Cooltime": "0",
+    "Sound_m4a": "bgm_main2.m4a",
+    "Sound_ogg": "bgm_main2.ogg",
+    "Sound_test": "bgm_main2.m4a"
+  },
+  {
+    "__pkey": "SoundBgm_MainGameBgm2",
+    "Cooltime": "0",
+    "Sound_m4a": "bgm_main3.m4a",
+    "Sound_ogg": "bgm_main3.ogg",
+    "Sound_test": "bgm_main3.m4a"
+  },
+  {
+    "__pkey": "SoundBgm_MainGameBgm3",
+    "Cooltime": "0",
+    "Sound_m4a": "bgm_main_rockstar.m4a",
+    "Sound_ogg": "bgm_main_rockstar.ogg",
+    "Sound_test": "bgm_main_rockstar.m4a"
+  },
+  {
+    "__pkey": "SoundBgm_RockStarBgm",
+    "Cooltime": "0",
+    "Sound_m4a": "r_medal.m4a",
+    "Sound_ogg": "r_medal.ogg",
+    "Sound_test": "r_medal.m4a"
+  },
+  {
+    "__pkey": "SoundEff_ActivityGiftPang",
+    "Cooltime": "0.1",
+    "Sound_m4a": "SoundEff_AlchemistChangeMagic.m4a",
+    "Sound_ogg": "SoundEff_AlchemistChangeMagic.ogg",
+    "Sound_test": "SoundEff_AlchemistChangeMagic.m4a"
+  },
+  {
+    "__pkey": "SoundEff_AlchemistChangeMagic",
+    "Cooltime": "5",
+    "Sound_m4a": "SoundEff_AlchemistExplosion.m4a",
+    "Sound_ogg": "SoundEff_AlchemistExplosion.ogg",
+    "Sound_test": "SoundEff_AlchemistExplosion.m4a"
+  },
+  {
+    "__pkey": "SoundEff_AlchemistExplosion",
+    "Cooltime": "5",
+    "Sound_m4a": "SoundEff_AlchemistReady.m4a",
+    "Sound_ogg": "SoundEff_AlchemistReady.ogg",
+    "Sound_test": "SoundEff_AlchemistReady.m4a"
+  },
+  {
+    "__pkey": "SoundEff_AlchemistReady",
+    "Cooltime": "5",
+    "Sound_m4a": "SoundEff_AlchemistThrowing.m4a",
+    "Sound_ogg": "SoundEff_AlchemistThrowing.ogg",
+    "Sound_test": "SoundEff_AlchemistThrowing.m4a"
+  },
+  {
+    "__pkey": "SoundEff_AlchemistThrowing",
+    "Cooltime": "0",
+    "Sound_m4a": "Bard_Destruction.m4a",
+    "Sound_ogg": "Bard_Destruction.ogg",
+    "Sound_test": "Bard_Destruction.m4a"
+  },
+  {
+    "__pkey": "SoundEff_BardDestruction",
+    "Cooltime": "0",
+    "Sound_m4a": "Bard_Life.m4a",
+    "Sound_ogg": "Bard_Life.ogg",
+    "Sound_test": "Bard_Life.m4a"
+  },
+  {
+    "__pkey": "SoundEff_BardLife",
+    "Cooltime": "0",
+    "Sound_m4a": "Bard_Richness.m4a",
+    "Sound_ogg": "Bard_Richness.ogg",
+    "Sound_test": "Bard_Richness.m4a"
+  },
+  {
+    "__pkey": "SoundEff_BardRichness",
+    "Cooltime": "0",
+    "Sound_m4a": "g_combo.m4a",
+    "Sound_ogg": "g_combo.ogg",
+    "Sound_test": "g_combo.m4a"
+  },
+  {
+    "__pkey": "SoundEff_BonusCombo",
+    "Cooltime": "0",
+    "Sound_m4a": "Cherry_Bomb.m4a",
+    "Sound_ogg": "Cherry_Bomb.ogg",
+    "Sound_test": "Cherry_Bomb.m4a"
+  },
+  {
+    "__pkey": "SoundEff_CherryBomb",
+    "Cooltime": "0",
+    "Sound_m4a": "Cherry_Throwing_Mad.m4a",
+    "Sound_ogg": "Cherry_Throwing_Mad.ogg",
+    "Sound_test": "Cherry_Throwing_Mad.m4a"
+  },
+  {
+    "__pkey": "SoundEff_CherryBomb_Throwing_Mad",
+    "Cooltime": "0",
+    "Sound_m4a": "Cherry_Throwing_Normal.m4a",
+    "Sound_ogg": "Cherry_Throwing_Normal.ogg",
+    "Sound_test": "Cherry_Throwing_Normal.m4a"
+  },
+  {
+    "__pkey": "SoundEff_CherryBomb_Throwing_Normal",
+    "Cooltime": "0.01",
+    "Sound_m4a": "g_obs3.m4a",
+    "Sound_ogg": "g_obs3.ogg",
+    "Sound_test": "g_obs3.m4a"
+  },
+  {
+    "__pkey": "SoundEff_CrashWithBody",
+    "Cooltime": "0.01",
+    "Sound_m4a": "g_obs2.m4a",
+    "Sound_ogg": "g_obs2.ogg",
+    "Sound_test": "g_obs2.m4a"
+  },
+  {
+    "__pkey": "SoundEff_CrashWithPower",
+    "Cooltime": "0.01",
+    "Sound_m4a": "g_obs1.m4a",
+    "Sound_ogg": "g_obs1.ogg",
+    "Sound_test": "g_obs1.m4a"
+  },
+  {
+    "__pkey": "SoundEff_CrashWithShield",
+    "Cooltime": "0",
+    "Sound_m4a": "r_newrecord.m4a",
+    "Sound_ogg": "r_newrecord.ogg",
+    "Sound_test": "r_newrecord.m4a"
+  },
+  {
+    "__pkey": "SoundEff_DailyBonus",
+    "Cooltime": "0",
+    "Sound_m4a": "i_feverin.m4a",
+    "Sound_ogg": "i_feverin.ogg",
+    "Sound_test": "i_feverin.m4a"
+  },
+  {
+    "__pkey": "SoundEff_FeverMode_Start",
+    "Cooltime": "0",
+    "Sound_m4a": "g_end.m4a",
+    "Sound_ogg": "g_end.ogg",
+    "Sound_test": "g_end.m4a"
+  },
+  {
+    "__pkey": "SoundEff_GameEnd",
+    "Cooltime": "0",
+    "Sound_m4a": "g_start.m4a",
+    "Sound_ogg": "g_start.ogg",
+    "Sound_test": "g_start.m4a"
+  },
+  {
+    "__pkey": "SoundEff_GameStart",
+    "Cooltime": "0.01",
+    "Sound_m4a": "g_alphabet.m4a",
+    "Sound_ogg": "g_alphabet.ogg",
+    "Sound_test": "g_alphabet.m4a"
+  },
+  {
+    "__pkey": "SoundEff_GetAlphabetJelly",
+    "Cooltime": "0.01",
+    "Sound_m4a": "g_alphabet.m4a",
+    "Sound_ogg": "g_alphabet.ogg",
+    "Sound_test": "g_alphabet.m4a"
+  },
+  {
+    "__pkey": "SoundEff_GetBearJelly",
+    "Cooltime": "0.01",
+    "Sound_m4a": "g_BigBearJelly.m4a",
+    "Sound_ogg": "g_BigBearJelly.ogg",
+    "Sound_test": "g_BigBearJelly.m4a"
+  },
+  {
+    "__pkey": "SoundEff_GetBigBearJelly",
+    "Cooltime": "0.01",
+    "Sound_m4a": "g_BigCoinJelly.m4a",
+    "Sound_ogg": "g_BigCoinJelly.ogg",
+    "Sound_test": "g_BigCoinJelly.m4a"
+  },
+  {
+    "__pkey": "SoundEff_GetBigCoinJelly",
+    "Cooltime": "0.01",
+    "Sound_m4a": "g_coin.m4a",
+    "Sound_ogg": "g_coin.ogg",
+    "Sound_test": "g_coin.m4a"
+  },
+  {
+    "__pkey": "SoundEff_GetCoinJelly",
+    "Cooltime": "0.01",
+    "Sound_m4a": "g_gold.m4a",
+    "Sound_ogg": "g_gold.ogg",
+    "Sound_test": "g_glod.m4a"
+  },
+  {
+    "__pkey": "SoundEff_GetGoldJelly",
+    "Cooltime": "0.01",
+    "Sound_m4a": "g_GoldenBellJelly.m4a",
+    "Sound_ogg": "g_GoldenBellJelly.ogg",
+    "Sound_test": "g_GoldenBellJelly.m4a"
+  },
+  {
+    "__pkey": "SoundEff_GetGoldenBellJelly",
+    "Cooltime": "0.01",
+    "Sound_m4a": "g_ijelly.m4a",
+    "Sound_ogg": "g_ijelly.ogg",
+    "Sound_test": "g_ijelly.m4a"
+  },
+  {
+    "__pkey": "SoundEff_GetItemJelly",
+    "Cooltime": "0.01",
+    "Sound_m4a": "g_jelly.m4a",
+    "Sound_ogg": "g_jelly.ogg",
+    "Sound_test": "g_jelly.m4a"
+  },
+  {
+    "__pkey": "SoundEff_GetJelly",
+    "Cooltime": "0.01",
+    "Sound_m4a": "g_SoulJelly.m4a",
+    "Sound_ogg": "g_SoulJelly.ogg",
+    "Sound_test": "g_SoulJelly.m4a"
+  },
+  {
+    "__pkey": "SoundEff_GetSoulJelly",
+    "Cooltime": "0",
+    "Sound_m4a": "g_ghostmode_pass.m4a",
+    "Sound_ogg": "g_ghostmode_pass.ogg",
+    "Sound_test": "g_ghostmode_pass.m4a"
+  },
+  {
+    "__pkey": "SoundEff_GhostModeCrash",
+    "Cooltime": "0",
+    "Sound_m4a": "g_ghostmode_start.m4a",
+    "Sound_ogg": "g_ghostmode_start.ogg",
+    "Sound_test": "g_ghostmode_start.m4a"
+  },
+  {
+    "__pkey": "SoundEff_GhostMode_Start",
+    "Cooltime": "0",
+    "Sound_m4a": "i_invincible.m4a",
+    "Sound_ogg": "i_invincible.ogg",
+    "Sound_test": "i_invincible.m4a"
+  },
+  {
+    "__pkey": "SoundEff_HeadBlast_Start",
+    "Cooltime": "0.1",
+    "Sound_m4a": "g_obs2.m4a",
+    "Sound_ogg": "g_obs2.ogg",
+    "Sound_test": "g_obs2.m4a"
+  },
+  {
+    "__pkey": "SoundEff_JellychoExplosion",
+    "Cooltime": "0",
+    "Sound_m4a": "i_large_energy.m4a",
+    "Sound_ogg": "i_large_energy.ogg",
+    "Sound_test": "i_large_energy.m4a"
+  },
+  {
+    "__pkey": "SoundEff_Large_Energy",
+    "Cooltime": "0.1",
+    "Sound_m4a": "SoundEff_ObstacleHeart.m4a",
+    "Sound_ogg": "SoundEff_ObstacleHeart.ogg",
+    "Sound_test": "SoundEff_ObstacleHeart.m4a"
+  },
+  {
+    "__pkey": "SoundEff_ObstacleHeart",
+    "Cooltime": "0.1",
+    "Sound_m4a": "SoundEff_ObstacleSoda.m4a",
+    "Sound_ogg": "SoundEff_ObstacleSoda.ogg",
+    "Sound_test": "SoundEff_ObstacleSoda.m4a"
+  },
+  {
+    "__pkey": "SoundEff_ObstacleSoda",
+    "Cooltime": "0.01",
+    "Sound_m4a": "g_obs2.m4a",
+    "Sound_ogg": "g_obs2.ogg",
+    "Sound_test": "g_obs2.m4a"
+  },
+  {
+    "__pkey": "SoundEff_Pet_Bomb",
+    "Cooltime": "0",
+    "Sound_m4a": "g_obs2.m4a",
+    "Sound_ogg": "g_obs2.ogg",
+    "Sound_test": "g_obs2.m4a"
+  },
+  {
+    "__pkey": "SoundEff_Pet_Dragon_Crash",
+    "Cooltime": "0",
+    "Sound_m4a": "g_dragon_start.m4a",
+    "Sound_ogg": "g_dragon_start.ogg",
+    "Sound_test": "g_dragon_start.m4a"
+  },
+  {
+    "__pkey": "SoundEff_Pet_Dragon_Start",
+    "Cooltime": "0",
+    "Sound_m4a": "pet_rescue.wav",
+    "Sound_ogg": "pet_rescue.wav",
+    "Sound_test": "pet_rescue.wav"
+  },
+  {
+    "__pkey": "SoundEff_Pet_Rescue",
+    "Cooltime": "0",
+    "Sound_m4a": "Rescue_Blast_End.m4a",
+    "Sound_ogg": "Rescue_Blast_End.ogg",
+    "Sound_test": "Rescue_Blast_End.m4a"
+  },
+  {
+    "__pkey": "SoundEff_Pet_Rescue_Blast_End",
+    "Cooltime": "0",
+    "Sound_m4a": "Rescue_Blast_Ready.m4a",
+    "Sound_ogg": "Rescue_Blast_Ready.ogg",
+    "Sound_test": "Rescue_Blast_Ready.m4a"
+  },
+  {
+    "__pkey": "SoundEff_Pet_Rescue_Blast_Ready",
+    "Cooltime": "0",
+    "Sound_m4a": "Rescue_Blast_Start.m4a",
+    "Sound_ogg": "Rescue_Blast_Start.ogg",
+    "Sound_test": "Rescue_Blast_Start.m4a"
+  },
+  {
+    "__pkey": "SoundEff_Pet_Rescue_Blast_Start",
+    "Cooltime": "1",
+    "Sound_m4a": "SpotLight_Activated.m4a",
+    "Sound_ogg": "SpotLight_Activated.ogg",
+    "Sound_test": "SpotLight_Activated.m4a"
+  },
+  {
+    "__pkey": "SoundEff_Pet_Spotlight_Start",
+    "Cooltime": "0",
+    "Sound_m4a": "g_relay.m4a",
+    "Sound_ogg": "g_relay.ogg",
+    "Sound_test": "g_relay.m4a"
+  },
+  {
+    "__pkey": "SoundEff_RelayRunning_Start",
+    "Cooltime": "0",
+    "Sound_m4a": "r_unlock.m4a",
+    "Sound_ogg": "r_unlock.ogg",
+    "Sound_test": "r_unlock.m4a"
+  },
+  {
+    "__pkey": "SoundEff_Revive_EffectStart",
+    "Cooltime": "0",
+    "Sound_m4a": "r_levelup.m4a",
+    "Sound_ogg": "r_levelup.ogg",
+    "Sound_test": "r_levelup.m4a"
+  },
+  {
+    "__pkey": "SoundEff_Revive_ReviveStart",
+    "Cooltime": "0",
+    "Sound_m4a": "i_small_energy.m4a",
+    "Sound_ogg": "i_small_energy.ogg",
+    "Sound_test": "i_small_energy.m4a"
+  },
+  {
+    "__pkey": "SoundEff_Small_Energy",
+    "Cooltime": "0.1",
+    "Sound_m4a": "g_obs2.m4a",
+    "Sound_ogg": "g_obs2.ogg",
+    "Sound_test": "g_obs2.m4a"
+  },
+  {
+    "__pkey": "SoundEff_StarCandyExplosion",
+    "Cooltime": "0",
+    "Sound_m4a": "r_newrecord.m4a",
+    "Sound_ogg": "r_newrecord.ogg",
+    "Sound_test": "r_newrecord.m4a"
+  },
+  {
+    "__pkey": "SoundEff_TutorialPopup",
+    "Cooltime": "0",
+    "Sound_m4a": "ui_1.m4a",
+    "Sound_ogg": "ui_1.ogg",
+    "Sound_test": "ui_1.m4a"
+  },
+  {
+    "__pkey": "SoundEff_UIButton",
+    "Cooltime": "0",
+    "Sound_m4a": "ui_2.m4a",
+    "Sound_ogg": "ui_2.ogg",
+    "Sound_test": "ui_2.m4a"
+  },
+  {
+    "__pkey": "SoundEff_UIEquipmentButton",
+    "Cooltime": "0",
+    "Sound_m4a": "g_ijelly.m4a",
+    "Sound_ogg": "g_ijelly.ogg",
+    "Sound_test": "g_ijelly.m4a"
+  },
+  {
+    "__pkey": "SoundEff_item02_Start",
+    "Cooltime": "0",
+    "Sound_m4a": "i_invincible.m4a",
+    "Sound_ogg": "i_invincible.ogg",
+    "Sound_test": "i_invincible.m4a"
+  },
+  {
+    "__pkey": "SoundEff_item03_Loop",
+    "Cooltime": "0",
+    "Sound_m4a": "i_giant.m4a",
+    "Sound_ogg": "i_giant.ogg",
+    "Sound_test": "i_giant.m4a"
+  },
+  {
+    "__pkey": "SoundEff_item04_Start",
+    "Cooltime": "0",
+    "Sound_m4a": "i_magnet.m4a",
+    "Sound_ogg": "i_magnet.ogg",
+    "Sound_test": "i_magnet.m4a"
+  },
+  {
+    "__pkey": "SoundEff_item05_Loop",
+    "Cooltime": "0",
+    "Sound_m4a": "i_coin.m4a",
+    "Sound_ogg": "i_coin.ogg",
+    "Sound_test": "i_coin.m4a"
+  },
+  {
+    "__pkey": "SoundEff_item06_Start",
+    "Cooltime": "0",
+    "Sound_m4a": "i_jelly.m4a",
+    "Sound_ogg": "i_jelly.ogg",
+    "Sound_test": "i_jelly.m4a"
+  },
+  {
+    "__pkey": "SoundEff_item07_Start",
+    "Cooltime": "0",
+    "Sound_m4a": "SoundEff_ObstacleHeart.m4a",
+    "Sound_ogg": "SoundEff_ObstacleHeart.ogg",
+    "Sound_test": "SoundEff_ObstacleHeart.m4a"
+  },
+  {
+    "__pkey": "SoundEffect_MagicalGirlMagicExplosion",
+    "Cooltime": "0",
+    "Sound_m4a": "SoundEffect_MagicalGirlMagicShot.m4a",
+    "Sound_ogg": "SoundEffect_MagicalGirlMagicShot.ogg",
+    "Sound_test": "SoundEffect_MagicalGirlMagicShot.m4a"
+  },
+  {
+    "__pkey": "SoundEffect_MagicalGirlMagicShot",
+    "Cooltime": "1",
+    "Sound_m4a": "SuperDevil_ChangeStart.m4a",
+    "Sound_ogg": "SuperDevil_ChangeStart.ogg",
+    "Sound_test": "SuperDevil_ChangeStart.m4a"
+  },
+  {
+    "__pkey": "SuperDevil_ChangeStart",
+    "Cooltime": "1",
+    "Sound_m4a": "SuperDevil_FlightEnd.m4a",
+    "Sound_ogg": "SuperDevil_FlightEnd.ogg",
+    "Sound_test": "SuperDevil_FlightEnd.m4a"
+  },
+  {
+    "__pkey": "SuperDevil_FlightEnd",
+    "Cooltime": "1",
+    "Sound_m4a": "SuperDevil_FlightStart.m4a",
+    "Sound_ogg": "SuperDevil_FlightStart.ogg",
+    "Sound_test": "SuperDevil_FlightStart.m4a"
+  },
+  {
+    "__pkey": "SuperDevil_FlightStart",
+    "Cooltime": "1",
+    "Sound_m4a": "SuperHero_ChangeStart.m4a",
+    "Sound_ogg": "SuperHero_ChangeStart.ogg",
+    "Sound_test": "SuperHero_ChangeStart.m4a"
+  },
+  {
+    "__pkey": "SuperHero_ChangeStart",
+    "Cooltime": "1",
+    "Sound_m4a": "SuperHero_FlightEnd.m4a",
+    "Sound_ogg": "SuperHero_FlightEnd.ogg",
+    "Sound_test": "SuperHero_FlightEnd.m4a"
+  },
+  {
+    "__pkey": "SuperHero_FlightEnd",
+    "Cooltime": "1",
+    "Sound_m4a": "SuperHero_FlightStart.m4a",
+    "Sound_ogg": "SuperHero_FlightStart.ogg",
+    "Sound_test": "SuperHero_FlightStart.m4a"
+  },
+  {
+    "__pkey": "SuperHero_FlightStart",
+    "Cooltime": "0",
+    "Sound_m4a": "ui_treasure_equip.m4a",
+    "Sound_ogg": "ui_treasure_equip.ogg",
+    "Sound_test": "ui_treasure_equip.m4a"
+  },
+  {
+    "__pkey": "Treasure_Equip",
+    "Cooltime": "0",
+    "Sound_m4a": "ch36skill.m4a",
+    "Sound_ogg": "ch36skill.ogg",
+    "Sound_test": "ch36skill.m4a"
+  },
+  {
+    "__pkey": "UnripeSkillActivation",
+    "Cooltime": "0",
+    "Sound_m4a": "ut_result_fail2.m4a",
+    "Sound_ogg": "ut_result_fail2.ogg",
+    "Sound_test": "ut_result_fail2.m4a"
+  },
+  {
+    "__pkey": "UpgradeTreasure_Fail",
+    "Cooltime": "0",
+    "Sound_m4a": "ut_loading.m4a",
+    "Sound_ogg": "ut_loading.ogg",
+    "Sound_test": "ut_loading.m4a"
+  },
+  {
+    "__pkey": "UpgradeTreasure_Loading",
+    "Cooltime": "0",
+    "Sound_m4a": "ut_loading_done.m4a",
+    "Sound_ogg": "ut_loading_done.ogg",
+    "Sound_test": "ut_loading_done.m4a"
+  },
+  {
+    "__pkey": "UpgradeTreasure_LoadingDone",
+    "Cooltime": "0",
+    "Sound_m4a": "ut_result_success.m4a",
+    "Sound_ogg": "ut_result_success.ogg",
+    "Sound_test": "ut_result_success.m4a"
+  },
+  {
+    "__pkey": "UpgradeTreasure_Success",
+    "Cooltime": "0.1",
+    "Sound_m4a": "VampireJumpAfterTransform.m4a",
+    "Sound_ogg": "VampireJumpAfterTransform.ogg",
+    "Sound_test": "VampireJumpAfterTransform.m4a"
+  },
+  {
+    "__pkey": "VampireJumpAfterTransform",
+    "Cooltime": "0",
+    "Sound_m4a": "VampireMakeJelly.m4a",
+    "Sound_ogg": "VampireMakeJelly.ogg",
+    "Sound_test": "VampireMakeJelly.m4a"
+  },
+  {
+    "__pkey": "VampireMakeJelly",
+    "Cooltime": "5",
+    "Sound_m4a": "VampireTransformEnd.m4a",
+    "Sound_ogg": "VampireTransformEnd.ogg",
+    "Sound_test": "VampireTransformEnd.m4a"
+  },
+  {
+    "__pkey": "VampireTransformEnd",
+    "Cooltime": "5",
+    "Sound_m4a": "VampireTransformStart.m4a",
+    "Sound_ogg": "VampireTransformStart.ogg",
+    "Sound_test": "VampireTransformStart.m4a"
+  }
+]

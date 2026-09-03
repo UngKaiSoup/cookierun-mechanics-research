@@ -1,0 +1,2073 @@
+[
+  {
+    "break_qty": "3",
+    "gen_qty": "30",
+    "powder_group": "MT_C",
+    "tag": "1"
+  },
+  {
+    "__pkey": "1",
+    "break_qty": "6",
+    "gen_qty": "99999999",
+    "powder_group": "TR_E",
+    "tag": "4"
+  },
+  {
+    "__pkey": "10",
+    "break_qty": "190",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_B",
+    "tag": "4"
+  },
+  {
+    "__pkey": "100",
+    "break_qty": "194",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_B",
+    "tag": "5"
+  },
+  {
+    "__pkey": "101",
+    "break_qty": "198",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_B",
+    "tag": "6"
+  },
+  {
+    "__pkey": "102",
+    "break_qty": "203",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_B",
+    "tag": "7"
+  },
+  {
+    "__pkey": "103",
+    "break_qty": "211",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_B",
+    "tag": "8"
+  },
+  {
+    "__pkey": "104",
+    "break_qty": "219",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_B",
+    "tag": "9"
+  },
+  {
+    "__pkey": "105",
+    "break_qty": "228",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_B",
+    "tag": "10"
+  },
+  {
+    "__pkey": "106",
+    "break_qty": "205",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_B+",
+    "tag": "1"
+  },
+  {
+    "__pkey": "107",
+    "break_qty": "206",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_B+",
+    "tag": "2"
+  },
+  {
+    "__pkey": "108",
+    "break_qty": "208",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_B+",
+    "tag": "3"
+  },
+  {
+    "__pkey": "109",
+    "break_qty": "8",
+    "gen_qty": "99999999",
+    "powder_group": "TR_E",
+    "tag": "5"
+  },
+  {
+    "__pkey": "11",
+    "break_qty": "210",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_B+",
+    "tag": "4"
+  },
+  {
+    "__pkey": "110",
+    "break_qty": "214",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_B+",
+    "tag": "5"
+  },
+  {
+    "__pkey": "111",
+    "break_qty": "218",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_B+",
+    "tag": "6"
+  },
+  {
+    "__pkey": "112",
+    "break_qty": "223",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_B+",
+    "tag": "7"
+  },
+  {
+    "__pkey": "113",
+    "break_qty": "231",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_B+",
+    "tag": "8"
+  },
+  {
+    "__pkey": "114",
+    "break_qty": "239",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_B+",
+    "tag": "9"
+  },
+  {
+    "__pkey": "115",
+    "break_qty": "248",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_B+",
+    "tag": "10"
+  },
+  {
+    "__pkey": "116",
+    "break_qty": "345",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_A",
+    "tag": "1"
+  },
+  {
+    "__pkey": "117",
+    "break_qty": "347",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_A",
+    "tag": "2"
+  },
+  {
+    "__pkey": "118",
+    "break_qty": "349",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_A",
+    "tag": "3"
+  },
+  {
+    "__pkey": "119",
+    "break_qty": "9",
+    "gen_qty": "99999999",
+    "powder_group": "TR_E",
+    "tag": "6"
+  },
+  {
+    "__pkey": "12",
+    "break_qty": "353",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_A",
+    "tag": "4"
+  },
+  {
+    "__pkey": "120",
+    "break_qty": "358",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_A",
+    "tag": "5"
+  },
+  {
+    "__pkey": "121",
+    "break_qty": "364",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_A",
+    "tag": "6"
+  },
+  {
+    "__pkey": "122",
+    "break_qty": "371",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_A",
+    "tag": "7"
+  },
+  {
+    "__pkey": "123",
+    "break_qty": "382",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_A",
+    "tag": "8"
+  },
+  {
+    "__pkey": "124",
+    "break_qty": "427",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_A",
+    "tag": "9"
+  },
+  {
+    "__pkey": "125",
+    "break_qty": "477",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_A",
+    "tag": "10"
+  },
+  {
+    "__pkey": "126",
+    "break_qty": "385",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_A+",
+    "tag": "1"
+  },
+  {
+    "__pkey": "127",
+    "break_qty": "387",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_A+",
+    "tag": "2"
+  },
+  {
+    "__pkey": "128",
+    "break_qty": "389",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_A+",
+    "tag": "3"
+  },
+  {
+    "__pkey": "129",
+    "break_qty": "12",
+    "gen_qty": "99999999",
+    "powder_group": "TR_E",
+    "tag": "7"
+  },
+  {
+    "__pkey": "13",
+    "break_qty": "393",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_A+",
+    "tag": "4"
+  },
+  {
+    "__pkey": "130",
+    "break_qty": "398",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_A+",
+    "tag": "5"
+  },
+  {
+    "__pkey": "131",
+    "break_qty": "404",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_A+",
+    "tag": "6"
+  },
+  {
+    "__pkey": "132",
+    "break_qty": "411",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_A+",
+    "tag": "7"
+  },
+  {
+    "__pkey": "133",
+    "break_qty": "422",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_A+",
+    "tag": "8"
+  },
+  {
+    "__pkey": "134",
+    "break_qty": "467",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_A+",
+    "tag": "9"
+  },
+  {
+    "__pkey": "135",
+    "break_qty": "517",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_A+",
+    "tag": "10"
+  },
+  {
+    "__pkey": "136",
+    "break_qty": "685",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_A++",
+    "tag": "1"
+  },
+  {
+    "__pkey": "137",
+    "break_qty": "687",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_A++",
+    "tag": "2"
+  },
+  {
+    "__pkey": "138",
+    "break_qty": "689",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_A++",
+    "tag": "3"
+  },
+  {
+    "__pkey": "139",
+    "break_qty": "13",
+    "gen_qty": "99999999",
+    "powder_group": "TR_E",
+    "tag": "8"
+  },
+  {
+    "__pkey": "14",
+    "break_qty": "693",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_A++",
+    "tag": "4"
+  },
+  {
+    "__pkey": "140",
+    "break_qty": "698",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_A++",
+    "tag": "5"
+  },
+  {
+    "__pkey": "141",
+    "break_qty": "704",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_A++",
+    "tag": "6"
+  },
+  {
+    "__pkey": "142",
+    "break_qty": "711",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_A++",
+    "tag": "7"
+  },
+  {
+    "__pkey": "143",
+    "break_qty": "722",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_A++",
+    "tag": "8"
+  },
+  {
+    "__pkey": "144",
+    "break_qty": "767",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_A++",
+    "tag": "9"
+  },
+  {
+    "__pkey": "145",
+    "break_qty": "817",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_A++",
+    "tag": "10"
+  },
+  {
+    "__pkey": "146",
+    "break_qty": "1210",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_S",
+    "tag": "1"
+  },
+  {
+    "__pkey": "147",
+    "break_qty": "1213",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_S",
+    "tag": "2"
+  },
+  {
+    "__pkey": "148",
+    "break_qty": "1218",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_S",
+    "tag": "3"
+  },
+  {
+    "__pkey": "149",
+    "break_qty": "17",
+    "gen_qty": "99999999",
+    "powder_group": "TR_E",
+    "tag": "9"
+  },
+  {
+    "__pkey": "15",
+    "break_qty": "1224",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_S",
+    "tag": "4"
+  },
+  {
+    "__pkey": "150",
+    "break_qty": "1236",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_S",
+    "tag": "5"
+  },
+  {
+    "__pkey": "151",
+    "break_qty": "1249",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_S",
+    "tag": "6"
+  },
+  {
+    "__pkey": "152",
+    "break_qty": "1262",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_S",
+    "tag": "7"
+  },
+  {
+    "__pkey": "153",
+    "break_qty": "1323",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_S",
+    "tag": "8"
+  },
+  {
+    "__pkey": "154",
+    "break_qty": "1390",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_S",
+    "tag": "9"
+  },
+  {
+    "__pkey": "155",
+    "break_qty": "1464",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_S",
+    "tag": "10"
+  },
+  {
+    "__pkey": "156",
+    "break_qty": "1310",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_S+",
+    "tag": "1"
+  },
+  {
+    "__pkey": "157",
+    "break_qty": "1313",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_S+",
+    "tag": "2"
+  },
+  {
+    "__pkey": "158",
+    "break_qty": "1318",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_S+",
+    "tag": "3"
+  },
+  {
+    "__pkey": "159",
+    "break_qty": "21",
+    "gen_qty": "99999999",
+    "powder_group": "TR_E",
+    "tag": "10"
+  },
+  {
+    "__pkey": "16",
+    "break_qty": "1324",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_S+",
+    "tag": "4"
+  },
+  {
+    "__pkey": "160",
+    "break_qty": "1336",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_S+",
+    "tag": "5"
+  },
+  {
+    "__pkey": "161",
+    "break_qty": "1349",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_S+",
+    "tag": "6"
+  },
+  {
+    "__pkey": "162",
+    "break_qty": "1362",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_S+",
+    "tag": "7"
+  },
+  {
+    "__pkey": "163",
+    "break_qty": "1423",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_S+",
+    "tag": "8"
+  },
+  {
+    "__pkey": "164",
+    "break_qty": "1490",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_S+",
+    "tag": "9"
+  },
+  {
+    "__pkey": "165",
+    "break_qty": "1564",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_S+",
+    "tag": "10"
+  },
+  {
+    "__pkey": "166",
+    "break_qty": "1910",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_S++",
+    "tag": "1"
+  },
+  {
+    "__pkey": "167",
+    "break_qty": "1913",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_S++",
+    "tag": "2"
+  },
+  {
+    "__pkey": "168",
+    "break_qty": "1918",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_S++",
+    "tag": "3"
+  },
+  {
+    "__pkey": "169",
+    "break_qty": "190",
+    "gen_qty": "99999999",
+    "powder_group": "TR_E2",
+    "tag": "1"
+  },
+  {
+    "__pkey": "17",
+    "break_qty": "1924",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_S++",
+    "tag": "4"
+  },
+  {
+    "__pkey": "170",
+    "break_qty": "1936",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_S++",
+    "tag": "5"
+  },
+  {
+    "__pkey": "171",
+    "break_qty": "1949",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_S++",
+    "tag": "6"
+  },
+  {
+    "__pkey": "172",
+    "break_qty": "1962",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_S++",
+    "tag": "7"
+  },
+  {
+    "__pkey": "173",
+    "break_qty": "2023",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_S++",
+    "tag": "8"
+  },
+  {
+    "__pkey": "174",
+    "break_qty": "2090",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_S++",
+    "tag": "9"
+  },
+  {
+    "__pkey": "175",
+    "break_qty": "2164",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_S++",
+    "tag": "10"
+  },
+  {
+    "__pkey": "176",
+    "break_qty": "2810",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_SS",
+    "tag": "1"
+  },
+  {
+    "__pkey": "177",
+    "break_qty": "2813",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_SS",
+    "tag": "2"
+  },
+  {
+    "__pkey": "178",
+    "break_qty": "2818",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_SS",
+    "tag": "3"
+  },
+  {
+    "__pkey": "179",
+    "break_qty": "230",
+    "gen_qty": "99999999",
+    "powder_group": "TR_E2",
+    "tag": "2"
+  },
+  {
+    "__pkey": "18",
+    "break_qty": "2824",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_SS",
+    "tag": "4"
+  },
+  {
+    "__pkey": "180",
+    "break_qty": "2836",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_SS",
+    "tag": "5"
+  },
+  {
+    "__pkey": "181",
+    "break_qty": "2849",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_SS",
+    "tag": "6"
+  },
+  {
+    "__pkey": "182",
+    "break_qty": "2862",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_SS",
+    "tag": "7"
+  },
+  {
+    "__pkey": "183",
+    "break_qty": "2923",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_SS",
+    "tag": "8"
+  },
+  {
+    "__pkey": "184",
+    "break_qty": "2990",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_SS",
+    "tag": "9"
+  },
+  {
+    "__pkey": "185",
+    "break_qty": "3064",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_SS",
+    "tag": "10"
+  },
+  {
+    "__pkey": "186",
+    "break_qty": "174",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_C",
+    "tag": "1"
+  },
+  {
+    "__pkey": "187",
+    "break_qty": "177",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_C",
+    "tag": "2"
+  },
+  {
+    "__pkey": "188",
+    "break_qty": "180",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_C",
+    "tag": "3"
+  },
+  {
+    "__pkey": "189",
+    "break_qty": "280",
+    "gen_qty": "99999999",
+    "powder_group": "TR_E2",
+    "tag": "3"
+  },
+  {
+    "__pkey": "19",
+    "break_qty": "183",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_C",
+    "tag": "4"
+  },
+  {
+    "__pkey": "190",
+    "break_qty": "189",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_C",
+    "tag": "5"
+  },
+  {
+    "__pkey": "191",
+    "break_qty": "192",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_C",
+    "tag": "6"
+  },
+  {
+    "__pkey": "192",
+    "break_qty": "201",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_C",
+    "tag": "7"
+  },
+  {
+    "__pkey": "193",
+    "break_qty": "204",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_C",
+    "tag": "8"
+  },
+  {
+    "__pkey": "194",
+    "break_qty": "216",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_C",
+    "tag": "9"
+  },
+  {
+    "__pkey": "195",
+    "break_qty": "228",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_C",
+    "tag": "10"
+  },
+  {
+    "__pkey": "196",
+    "break_qty": "354",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_C+",
+    "tag": "1"
+  },
+  {
+    "__pkey": "197",
+    "break_qty": "357",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_C+",
+    "tag": "2"
+  },
+  {
+    "__pkey": "198",
+    "break_qty": "360",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_C+",
+    "tag": "3"
+  },
+  {
+    "__pkey": "199",
+    "break_qty": "15",
+    "gen_qty": "150",
+    "powder_group": "MT_B",
+    "tag": "1"
+  },
+  {
+    "__pkey": "2",
+    "break_qty": "340",
+    "gen_qty": "99999999",
+    "powder_group": "TR_E2",
+    "tag": "4"
+  },
+  {
+    "__pkey": "20",
+    "break_qty": "363",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_C+",
+    "tag": "4"
+  },
+  {
+    "__pkey": "200",
+    "break_qty": "369",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_C+",
+    "tag": "5"
+  },
+  {
+    "__pkey": "201",
+    "break_qty": "372",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_C+",
+    "tag": "6"
+  },
+  {
+    "__pkey": "202",
+    "break_qty": "381",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_C+",
+    "tag": "7"
+  },
+  {
+    "__pkey": "203",
+    "break_qty": "384",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_C+",
+    "tag": "8"
+  },
+  {
+    "__pkey": "204",
+    "break_qty": "396",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_C+",
+    "tag": "9"
+  },
+  {
+    "__pkey": "205",
+    "break_qty": "408",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_C+",
+    "tag": "10"
+  },
+  {
+    "__pkey": "206",
+    "break_qty": "555",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_B",
+    "tag": "1"
+  },
+  {
+    "__pkey": "207",
+    "break_qty": "558",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_B",
+    "tag": "2"
+  },
+  {
+    "__pkey": "208",
+    "break_qty": "564",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_B",
+    "tag": "3"
+  },
+  {
+    "__pkey": "209",
+    "break_qty": "440",
+    "gen_qty": "99999999",
+    "powder_group": "TR_E2",
+    "tag": "5"
+  },
+  {
+    "__pkey": "21",
+    "break_qty": "570",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_B",
+    "tag": "4"
+  },
+  {
+    "__pkey": "210",
+    "break_qty": "582",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_B",
+    "tag": "5"
+  },
+  {
+    "__pkey": "211",
+    "break_qty": "594",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_B",
+    "tag": "6"
+  },
+  {
+    "__pkey": "212",
+    "break_qty": "609",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_B",
+    "tag": "7"
+  },
+  {
+    "__pkey": "213",
+    "break_qty": "633",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_B",
+    "tag": "8"
+  },
+  {
+    "__pkey": "214",
+    "break_qty": "657",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_B",
+    "tag": "9"
+  },
+  {
+    "__pkey": "215",
+    "break_qty": "684",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_B",
+    "tag": "10"
+  },
+  {
+    "__pkey": "216",
+    "break_qty": "615",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_B+",
+    "tag": "1"
+  },
+  {
+    "__pkey": "217",
+    "break_qty": "618",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_B+",
+    "tag": "2"
+  },
+  {
+    "__pkey": "218",
+    "break_qty": "624",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_B+",
+    "tag": "3"
+  },
+  {
+    "__pkey": "219",
+    "break_qty": "570",
+    "gen_qty": "99999999",
+    "powder_group": "TR_E2",
+    "tag": "6"
+  },
+  {
+    "__pkey": "22",
+    "break_qty": "630",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_B+",
+    "tag": "4"
+  },
+  {
+    "__pkey": "220",
+    "break_qty": "642",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_B+",
+    "tag": "5"
+  },
+  {
+    "__pkey": "221",
+    "break_qty": "654",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_B+",
+    "tag": "6"
+  },
+  {
+    "__pkey": "222",
+    "break_qty": "669",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_B+",
+    "tag": "7"
+  },
+  {
+    "__pkey": "223",
+    "break_qty": "693",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_B+",
+    "tag": "8"
+  },
+  {
+    "__pkey": "224",
+    "break_qty": "717",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_B+",
+    "tag": "9"
+  },
+  {
+    "__pkey": "225",
+    "break_qty": "744",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_B+",
+    "tag": "10"
+  },
+  {
+    "__pkey": "226",
+    "break_qty": "1035",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_A",
+    "tag": "1"
+  },
+  {
+    "__pkey": "227",
+    "break_qty": "1041",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_A",
+    "tag": "2"
+  },
+  {
+    "__pkey": "228",
+    "break_qty": "1047",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_A",
+    "tag": "3"
+  },
+  {
+    "__pkey": "229",
+    "break_qty": "730",
+    "gen_qty": "99999999",
+    "powder_group": "TR_E2",
+    "tag": "7"
+  },
+  {
+    "__pkey": "23",
+    "break_qty": "1059",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_A",
+    "tag": "4"
+  },
+  {
+    "__pkey": "230",
+    "break_qty": "1074",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_A",
+    "tag": "5"
+  },
+  {
+    "__pkey": "231",
+    "break_qty": "1092",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_A",
+    "tag": "6"
+  },
+  {
+    "__pkey": "232",
+    "break_qty": "1113",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_A",
+    "tag": "7"
+  },
+  {
+    "__pkey": "233",
+    "break_qty": "1146",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_A",
+    "tag": "8"
+  },
+  {
+    "__pkey": "234",
+    "break_qty": "1281",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_A",
+    "tag": "9"
+  },
+  {
+    "__pkey": "235",
+    "break_qty": "1431",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_A",
+    "tag": "10"
+  },
+  {
+    "__pkey": "236",
+    "break_qty": "1155",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_A+",
+    "tag": "1"
+  },
+  {
+    "__pkey": "237",
+    "break_qty": "1161",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_A+",
+    "tag": "2"
+  },
+  {
+    "__pkey": "238",
+    "break_qty": "1167",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_A+",
+    "tag": "3"
+  },
+  {
+    "__pkey": "239",
+    "break_qty": "970",
+    "gen_qty": "99999999",
+    "powder_group": "TR_E2",
+    "tag": "8"
+  },
+  {
+    "__pkey": "24",
+    "break_qty": "1179",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_A+",
+    "tag": "4"
+  },
+  {
+    "__pkey": "240",
+    "break_qty": "1194",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_A+",
+    "tag": "5"
+  },
+  {
+    "__pkey": "241",
+    "break_qty": "1212",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_A+",
+    "tag": "6"
+  },
+  {
+    "__pkey": "242",
+    "break_qty": "1233",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_A+",
+    "tag": "7"
+  },
+  {
+    "__pkey": "243",
+    "break_qty": "1266",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_A+",
+    "tag": "8"
+  },
+  {
+    "__pkey": "244",
+    "break_qty": "1401",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_A+",
+    "tag": "9"
+  },
+  {
+    "__pkey": "245",
+    "break_qty": "1551",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_A+",
+    "tag": "10"
+  },
+  {
+    "__pkey": "246",
+    "break_qty": "2055",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_A++",
+    "tag": "1"
+  },
+  {
+    "__pkey": "247",
+    "break_qty": "2061",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_A++",
+    "tag": "2"
+  },
+  {
+    "__pkey": "248",
+    "break_qty": "2067",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_A++",
+    "tag": "3"
+  },
+  {
+    "__pkey": "249",
+    "break_qty": "1330",
+    "gen_qty": "99999999",
+    "powder_group": "TR_E2",
+    "tag": "9"
+  },
+  {
+    "__pkey": "25",
+    "break_qty": "2079",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_A++",
+    "tag": "4"
+  },
+  {
+    "__pkey": "250",
+    "break_qty": "2094",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_A++",
+    "tag": "5"
+  },
+  {
+    "__pkey": "251",
+    "break_qty": "2112",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_A++",
+    "tag": "6"
+  },
+  {
+    "__pkey": "252",
+    "break_qty": "2133",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_A++",
+    "tag": "7"
+  },
+  {
+    "__pkey": "253",
+    "break_qty": "2166",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_A++",
+    "tag": "8"
+  },
+  {
+    "__pkey": "254",
+    "break_qty": "2301",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_A++",
+    "tag": "9"
+  },
+  {
+    "__pkey": "255",
+    "break_qty": "2451",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_A++",
+    "tag": "10"
+  },
+  {
+    "__pkey": "256",
+    "break_qty": "3630",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_S",
+    "tag": "1"
+  },
+  {
+    "__pkey": "257",
+    "break_qty": "3639",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_S",
+    "tag": "2"
+  },
+  {
+    "__pkey": "258",
+    "break_qty": "3654",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_S",
+    "tag": "3"
+  },
+  {
+    "__pkey": "259",
+    "break_qty": "2130",
+    "gen_qty": "99999999",
+    "powder_group": "TR_E2",
+    "tag": "10"
+  },
+  {
+    "__pkey": "26",
+    "break_qty": "3672",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_S",
+    "tag": "4"
+  },
+  {
+    "__pkey": "260",
+    "break_qty": "3708",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_S",
+    "tag": "5"
+  },
+  {
+    "__pkey": "261",
+    "break_qty": "3747",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_S",
+    "tag": "6"
+  },
+  {
+    "__pkey": "262",
+    "break_qty": "3786",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_S",
+    "tag": "7"
+  },
+  {
+    "__pkey": "263",
+    "break_qty": "3969",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_S",
+    "tag": "8"
+  },
+  {
+    "__pkey": "264",
+    "break_qty": "4170",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_S",
+    "tag": "9"
+  },
+  {
+    "__pkey": "265",
+    "break_qty": "4392",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_S",
+    "tag": "10"
+  },
+  {
+    "__pkey": "266",
+    "break_qty": "3930",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_S+",
+    "tag": "1"
+  },
+  {
+    "__pkey": "267",
+    "break_qty": "3939",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_S+",
+    "tag": "2"
+  },
+  {
+    "__pkey": "268",
+    "break_qty": "3954",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_S+",
+    "tag": "3"
+  },
+  {
+    "__pkey": "269",
+    "break_qty": "3",
+    "gen_qty": "99999999",
+    "powder_group": "TR_C",
+    "tag": "1"
+  },
+  {
+    "__pkey": "27",
+    "break_qty": "3972",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_S+",
+    "tag": "4"
+  },
+  {
+    "__pkey": "270",
+    "break_qty": "4008",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_S+",
+    "tag": "5"
+  },
+  {
+    "__pkey": "271",
+    "break_qty": "4047",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_S+",
+    "tag": "6"
+  },
+  {
+    "__pkey": "272",
+    "break_qty": "4086",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_S+",
+    "tag": "7"
+  },
+  {
+    "__pkey": "273",
+    "break_qty": "4269",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_S+",
+    "tag": "8"
+  },
+  {
+    "__pkey": "274",
+    "break_qty": "4470",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_S+",
+    "tag": "9"
+  },
+  {
+    "__pkey": "275",
+    "break_qty": "4692",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_S+",
+    "tag": "10"
+  },
+  {
+    "__pkey": "276",
+    "break_qty": "5730",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_S++",
+    "tag": "1"
+  },
+  {
+    "__pkey": "277",
+    "break_qty": "5739",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_S++",
+    "tag": "2"
+  },
+  {
+    "__pkey": "278",
+    "break_qty": "5754",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_S++",
+    "tag": "3"
+  },
+  {
+    "__pkey": "279",
+    "break_qty": "4",
+    "gen_qty": "99999999",
+    "powder_group": "TR_C",
+    "tag": "2"
+  },
+  {
+    "__pkey": "28",
+    "break_qty": "5772",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_S++",
+    "tag": "4"
+  },
+  {
+    "__pkey": "280",
+    "break_qty": "5808",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_S++",
+    "tag": "5"
+  },
+  {
+    "__pkey": "281",
+    "break_qty": "5847",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_S++",
+    "tag": "6"
+  },
+  {
+    "__pkey": "282",
+    "break_qty": "5886",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_S++",
+    "tag": "7"
+  },
+  {
+    "__pkey": "283",
+    "break_qty": "6069",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_S++",
+    "tag": "8"
+  },
+  {
+    "__pkey": "284",
+    "break_qty": "6270",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_S++",
+    "tag": "9"
+  },
+  {
+    "__pkey": "285",
+    "break_qty": "6492",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_S++",
+    "tag": "10"
+  },
+  {
+    "__pkey": "286",
+    "break_qty": "8430",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_SS",
+    "tag": "1"
+  },
+  {
+    "__pkey": "287",
+    "break_qty": "8439",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_SS",
+    "tag": "2"
+  },
+  {
+    "__pkey": "288",
+    "break_qty": "8454",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_SS",
+    "tag": "3"
+  },
+  {
+    "__pkey": "289",
+    "break_qty": "5",
+    "gen_qty": "99999999",
+    "powder_group": "TR_C",
+    "tag": "3"
+  },
+  {
+    "__pkey": "29",
+    "break_qty": "8472",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_SS",
+    "tag": "4"
+  },
+  {
+    "__pkey": "290",
+    "break_qty": "8508",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_SS",
+    "tag": "5"
+  },
+  {
+    "__pkey": "291",
+    "break_qty": "8547",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_SS",
+    "tag": "6"
+  },
+  {
+    "__pkey": "292",
+    "break_qty": "8586",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_SS",
+    "tag": "7"
+  },
+  {
+    "__pkey": "293",
+    "break_qty": "8769",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_SS",
+    "tag": "8"
+  },
+  {
+    "__pkey": "294",
+    "break_qty": "8970",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_SS",
+    "tag": "9"
+  },
+  {
+    "__pkey": "295",
+    "break_qty": "9192",
+    "gen_qty": "99999999",
+    "powder_group": "TR2X_SS",
+    "tag": "10"
+  },
+  {
+    "__pkey": "296",
+    "break_qty": "50",
+    "gen_qty": "800",
+    "powder_group": "MT_A",
+    "tag": "1"
+  },
+  {
+    "__pkey": "3",
+    "break_qty": "6",
+    "gen_qty": "99999999",
+    "powder_group": "TR_C",
+    "tag": "4"
+  },
+  {
+    "__pkey": "30",
+    "break_qty": "8",
+    "gen_qty": "99999999",
+    "powder_group": "TR_C",
+    "tag": "5"
+  },
+  {
+    "__pkey": "31",
+    "break_qty": "9",
+    "gen_qty": "99999999",
+    "powder_group": "TR_C",
+    "tag": "6"
+  },
+  {
+    "__pkey": "32",
+    "break_qty": "12",
+    "gen_qty": "99999999",
+    "powder_group": "TR_C",
+    "tag": "7"
+  },
+  {
+    "__pkey": "33",
+    "break_qty": "13",
+    "gen_qty": "99999999",
+    "powder_group": "TR_C",
+    "tag": "8"
+  },
+  {
+    "__pkey": "34",
+    "break_qty": "17",
+    "gen_qty": "99999999",
+    "powder_group": "TR_C",
+    "tag": "9"
+  },
+  {
+    "__pkey": "35",
+    "break_qty": "21",
+    "gen_qty": "99999999",
+    "powder_group": "TR_C",
+    "tag": "10"
+  },
+  {
+    "__pkey": "36",
+    "break_qty": "15",
+    "gen_qty": "99999999",
+    "powder_group": "TR_B",
+    "tag": "1"
+  },
+  {
+    "__pkey": "37",
+    "break_qty": "16",
+    "gen_qty": "99999999",
+    "powder_group": "TR_B",
+    "tag": "2"
+  },
+  {
+    "__pkey": "38",
+    "break_qty": "18",
+    "gen_qty": "99999999",
+    "powder_group": "TR_B",
+    "tag": "3"
+  },
+  {
+    "__pkey": "39",
+    "break_qty": "150",
+    "gen_qty": "2400",
+    "powder_group": "MT_AX",
+    "tag": "1"
+  },
+  {
+    "__pkey": "4",
+    "break_qty": "20",
+    "gen_qty": "99999999",
+    "powder_group": "TR_B",
+    "tag": "4"
+  },
+  {
+    "__pkey": "40",
+    "break_qty": "24",
+    "gen_qty": "99999999",
+    "powder_group": "TR_B",
+    "tag": "5"
+  },
+  {
+    "__pkey": "41",
+    "break_qty": "28",
+    "gen_qty": "99999999",
+    "powder_group": "TR_B",
+    "tag": "6"
+  },
+  {
+    "__pkey": "42",
+    "break_qty": "33",
+    "gen_qty": "99999999",
+    "powder_group": "TR_B",
+    "tag": "7"
+  },
+  {
+    "__pkey": "43",
+    "break_qty": "41",
+    "gen_qty": "99999999",
+    "powder_group": "TR_B",
+    "tag": "8"
+  },
+  {
+    "__pkey": "44",
+    "break_qty": "49",
+    "gen_qty": "99999999",
+    "powder_group": "TR_B",
+    "tag": "9"
+  },
+  {
+    "__pkey": "45",
+    "break_qty": "58",
+    "gen_qty": "99999999",
+    "powder_group": "TR_B",
+    "tag": "10"
+  },
+  {
+    "__pkey": "46",
+    "break_qty": "80",
+    "gen_qty": "99999999",
+    "powder_group": "TR_A",
+    "tag": "1"
+  },
+  {
+    "__pkey": "47",
+    "break_qty": "82",
+    "gen_qty": "99999999",
+    "powder_group": "TR_A",
+    "tag": "2"
+  },
+  {
+    "__pkey": "48",
+    "break_qty": "84",
+    "gen_qty": "99999999",
+    "powder_group": "TR_A",
+    "tag": "3"
+  },
+  {
+    "__pkey": "49",
+    "break_qty": "120",
+    "gen_qty": "4000",
+    "powder_group": "MT_S",
+    "tag": "1"
+  },
+  {
+    "__pkey": "5",
+    "break_qty": "88",
+    "gen_qty": "99999999",
+    "powder_group": "TR_A",
+    "tag": "4"
+  },
+  {
+    "__pkey": "50",
+    "break_qty": "93",
+    "gen_qty": "99999999",
+    "powder_group": "TR_A",
+    "tag": "5"
+  },
+  {
+    "__pkey": "51",
+    "break_qty": "99",
+    "gen_qty": "99999999",
+    "powder_group": "TR_A",
+    "tag": "6"
+  },
+  {
+    "__pkey": "52",
+    "break_qty": "106",
+    "gen_qty": "99999999",
+    "powder_group": "TR_A",
+    "tag": "7"
+  },
+  {
+    "__pkey": "53",
+    "break_qty": "117",
+    "gen_qty": "99999999",
+    "powder_group": "TR_A",
+    "tag": "8"
+  },
+  {
+    "__pkey": "54",
+    "break_qty": "162",
+    "gen_qty": "99999999",
+    "powder_group": "TR_A",
+    "tag": "9"
+  },
+  {
+    "__pkey": "55",
+    "break_qty": "212",
+    "gen_qty": "99999999",
+    "powder_group": "TR_A",
+    "tag": "10"
+  },
+  {
+    "__pkey": "56",
+    "break_qty": "160",
+    "gen_qty": "99999999",
+    "powder_group": "TR_S",
+    "tag": "1"
+  },
+  {
+    "__pkey": "57",
+    "break_qty": "163",
+    "gen_qty": "99999999",
+    "powder_group": "TR_S",
+    "tag": "2"
+  },
+  {
+    "__pkey": "58",
+    "break_qty": "168",
+    "gen_qty": "99999999",
+    "powder_group": "TR_S",
+    "tag": "3"
+  },
+  {
+    "__pkey": "59",
+    "break_qty": "800",
+    "gen_qty": "8000",
+    "powder_group": "MT_SS",
+    "tag": "1"
+  },
+  {
+    "__pkey": "6",
+    "break_qty": "174",
+    "gen_qty": "99999999",
+    "powder_group": "TR_S",
+    "tag": "4"
+  },
+  {
+    "__pkey": "60",
+    "break_qty": "186",
+    "gen_qty": "99999999",
+    "powder_group": "TR_S",
+    "tag": "5"
+  },
+  {
+    "__pkey": "61",
+    "break_qty": "199",
+    "gen_qty": "99999999",
+    "powder_group": "TR_S",
+    "tag": "6"
+  },
+  {
+    "__pkey": "62",
+    "break_qty": "212",
+    "gen_qty": "99999999",
+    "powder_group": "TR_S",
+    "tag": "7"
+  },
+  {
+    "__pkey": "63",
+    "break_qty": "273",
+    "gen_qty": "99999999",
+    "powder_group": "TR_S",
+    "tag": "8"
+  },
+  {
+    "__pkey": "64",
+    "break_qty": "340",
+    "gen_qty": "99999999",
+    "powder_group": "TR_S",
+    "tag": "9"
+  },
+  {
+    "__pkey": "65",
+    "break_qty": "414",
+    "gen_qty": "99999999",
+    "powder_group": "TR_S",
+    "tag": "10"
+  },
+  {
+    "__pkey": "66",
+    "break_qty": "58",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_E",
+    "tag": "1"
+  },
+  {
+    "__pkey": "67",
+    "break_qty": "59",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_E",
+    "tag": "2"
+  },
+  {
+    "__pkey": "68",
+    "break_qty": "60",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_E",
+    "tag": "3"
+  },
+  {
+    "__pkey": "69",
+    "break_qty": "3",
+    "gen_qty": "99999999",
+    "powder_group": "TR_E",
+    "tag": "1"
+  },
+  {
+    "__pkey": "7",
+    "break_qty": "61",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_E",
+    "tag": "4"
+  },
+  {
+    "__pkey": "70",
+    "break_qty": "63",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_E",
+    "tag": "5"
+  },
+  {
+    "__pkey": "71",
+    "break_qty": "64",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_E",
+    "tag": "6"
+  },
+  {
+    "__pkey": "72",
+    "break_qty": "67",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_E",
+    "tag": "7"
+  },
+  {
+    "__pkey": "73",
+    "break_qty": "68",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_E",
+    "tag": "8"
+  },
+  {
+    "__pkey": "74",
+    "break_qty": "72",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_E",
+    "tag": "9"
+  },
+  {
+    "__pkey": "75",
+    "break_qty": "76",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_E",
+    "tag": "10"
+  },
+  {
+    "__pkey": "76",
+    "break_qty": "58",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_C",
+    "tag": "1"
+  },
+  {
+    "__pkey": "77",
+    "break_qty": "59",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_C",
+    "tag": "2"
+  },
+  {
+    "__pkey": "78",
+    "break_qty": "60",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_C",
+    "tag": "3"
+  },
+  {
+    "__pkey": "79",
+    "break_qty": "4",
+    "gen_qty": "99999999",
+    "powder_group": "TR_E",
+    "tag": "2"
+  },
+  {
+    "__pkey": "8",
+    "break_qty": "61",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_C",
+    "tag": "4"
+  },
+  {
+    "__pkey": "80",
+    "break_qty": "63",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_C",
+    "tag": "5"
+  },
+  {
+    "__pkey": "81",
+    "break_qty": "64",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_C",
+    "tag": "6"
+  },
+  {
+    "__pkey": "82",
+    "break_qty": "67",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_C",
+    "tag": "7"
+  },
+  {
+    "__pkey": "83",
+    "break_qty": "68",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_C",
+    "tag": "8"
+  },
+  {
+    "__pkey": "84",
+    "break_qty": "72",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_C",
+    "tag": "9"
+  },
+  {
+    "__pkey": "85",
+    "break_qty": "76",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_C",
+    "tag": "10"
+  },
+  {
+    "__pkey": "86",
+    "break_qty": "118",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_C+",
+    "tag": "1"
+  },
+  {
+    "__pkey": "87",
+    "break_qty": "119",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_C+",
+    "tag": "2"
+  },
+  {
+    "__pkey": "88",
+    "break_qty": "120",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_C+",
+    "tag": "3"
+  },
+  {
+    "__pkey": "89",
+    "break_qty": "5",
+    "gen_qty": "99999999",
+    "powder_group": "TR_E",
+    "tag": "3"
+  },
+  {
+    "__pkey": "9",
+    "break_qty": "121",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_C+",
+    "tag": "4"
+  },
+  {
+    "__pkey": "90",
+    "break_qty": "123",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_C+",
+    "tag": "5"
+  },
+  {
+    "__pkey": "91",
+    "break_qty": "124",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_C+",
+    "tag": "6"
+  },
+  {
+    "__pkey": "92",
+    "break_qty": "127",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_C+",
+    "tag": "7"
+  },
+  {
+    "__pkey": "93",
+    "break_qty": "128",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_C+",
+    "tag": "8"
+  },
+  {
+    "__pkey": "94",
+    "break_qty": "132",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_C+",
+    "tag": "9"
+  },
+  {
+    "__pkey": "95",
+    "break_qty": "136",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_C+",
+    "tag": "10"
+  },
+  {
+    "__pkey": "96",
+    "break_qty": "185",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_B",
+    "tag": "1"
+  },
+  {
+    "__pkey": "97",
+    "break_qty": "186",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_B",
+    "tag": "2"
+  },
+  {
+    "__pkey": "98",
+    "break_qty": "188",
+    "gen_qty": "99999999",
+    "powder_group": "TR2_B",
+    "tag": "3"
+  }
+]

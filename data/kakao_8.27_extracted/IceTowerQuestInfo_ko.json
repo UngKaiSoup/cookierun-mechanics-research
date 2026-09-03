@@ -1,0 +1,1541 @@
+[
+  {
+    "BriefDescription": "잠금해제조건 : 에피소드 1 '오븐 탈출!'의\n에피소드 업적 30개 달성하기 (공통업적 제외)",
+    "IceTowerStageName": ""
+  },
+  {
+    "__pkey": "50200000",
+    "BriefDescription": "잠금해제조건 : 얼음별 갯수 20개 획득",
+    "IceTowerStageName": ""
+  },
+  {
+    "__pkey": "50200001",
+    "BriefDescription": "잠금해제조건 : 얼음별 갯수 50개 획득",
+    "IceTowerStageName": ""
+  },
+  {
+    "__pkey": "50200002",
+    "BriefDescription": "잠금해제조건 : 얼음별 갯수 100개 획득",
+    "IceTowerStageName": ""
+  },
+  {
+    "__pkey": "50200003",
+    "BriefDescription": "잠금해제조건 : 얼음별 갯수 150개 획득",
+    "IceTowerStageName": ""
+  },
+  {
+    "__pkey": "50200004",
+    "BriefDescription": "잠금해제조건 : 얼음별 갯수 200개 획득",
+    "IceTowerStageName": ""
+  },
+  {
+    "__pkey": "50200005",
+    "BriefDescription": "잠금해제조건 : 얼음별 갯수 250개 획득",
+    "IceTowerStageName": ""
+  },
+  {
+    "__pkey": "50200006",
+    "BriefDescription": "잠금해제조건 : 얼음별 갯수 300개 획득",
+    "IceTowerStageName": ""
+  },
+  {
+    "__pkey": "50200007",
+    "BriefDescription": "얼음문까지 달리기",
+    "IceTowerStageName": "1층"
+  },
+  {
+    "__pkey": "50200101",
+    "BriefDescription": "보너스타임 1회 이상 가기",
+    "IceTowerStageName": "1층"
+  },
+  {
+    "__pkey": "50200102",
+    "BriefDescription": "모든 젤리 900개 이상 획득 하기",
+    "IceTowerStageName": "1층"
+  },
+  {
+    "__pkey": "50200103",
+    "BriefDescription": "노란 곰젤리 270개 이상 획득 하기",
+    "IceTowerStageName": "2층"
+  },
+  {
+    "__pkey": "50200201",
+    "BriefDescription": "왕코인 5개 이상 획득 하기",
+    "IceTowerStageName": "2층"
+  },
+  {
+    "__pkey": "50200202",
+    "BriefDescription": "1150코인 이상 획득 하기",
+    "IceTowerStageName": "2층"
+  },
+  {
+    "__pkey": "50200203",
+    "BriefDescription": "왕코인 24개 이상 획득 하기",
+    "IceTowerStageName": "3층"
+  },
+  {
+    "__pkey": "50200301",
+    "BriefDescription": "금화 100개 이상 획득 하기",
+    "IceTowerStageName": "3층"
+  },
+  {
+    "__pkey": "50200302",
+    "BriefDescription": "은화 630개 이상 획득 하기",
+    "IceTowerStageName": "3층"
+  },
+  {
+    "__pkey": "50200303",
+    "BriefDescription": "79초 이하 달리기",
+    "IceTowerStageName": "4층"
+  },
+  {
+    "__pkey": "50200401",
+    "BriefDescription": "장애물 파괴 125개 이상 하기",
+    "IceTowerStageName": "4층"
+  },
+  {
+    "__pkey": "50200402",
+    "BriefDescription": "금화 155개 이상 획득 하기",
+    "IceTowerStageName": "4층"
+  },
+  {
+    "__pkey": "50200403",
+    "BriefDescription": "얼음문까지 달리기",
+    "IceTowerStageName": "5층"
+  },
+  {
+    "__pkey": "50200501",
+    "BriefDescription": "장애물 충돌 0회 이하 하기",
+    "IceTowerStageName": "5층"
+  },
+  {
+    "__pkey": "50200502",
+    "BriefDescription": "45초 이하 달리기",
+    "IceTowerStageName": "5층"
+  },
+  {
+    "__pkey": "50200503",
+    "BriefDescription": "색동별 폭죽 파티 10개 이상 획득 하기",
+    "IceTowerStageName": "6층"
+  },
+  {
+    "__pkey": "50200601",
+    "BriefDescription": "은화 210개 이상 획득 하기",
+    "IceTowerStageName": "6층"
+  },
+  {
+    "__pkey": "50200602",
+    "BriefDescription": "모든 젤리 1150개 이상 획득 하기",
+    "IceTowerStageName": "6층"
+  },
+  {
+    "__pkey": "50200603",
+    "BriefDescription": "장애물 충돌 1회 이하 하기",
+    "IceTowerStageName": "7층"
+  },
+  {
+    "__pkey": "50200701",
+    "BriefDescription": "왕곰젤리 110개 이상 획득 하기",
+    "IceTowerStageName": "7층"
+  },
+  {
+    "__pkey": "50200702",
+    "BriefDescription": "3388코인 이상 획득 하기",
+    "IceTowerStageName": "7층"
+  },
+  {
+    "__pkey": "50200703",
+    "BriefDescription": "장애물 충돌 4회 이하 하기",
+    "IceTowerStageName": "8층"
+  },
+  {
+    "__pkey": "50200801",
+    "BriefDescription": "모든 곰젤리 320개 이상 획득 하기",
+    "IceTowerStageName": "8층"
+  },
+  {
+    "__pkey": "50200802",
+    "BriefDescription": "노란 곰젤리 360개 이상 획득 하기",
+    "IceTowerStageName": "8층"
+  },
+  {
+    "__pkey": "50200803",
+    "BriefDescription": "왕코인 24개 이상 획득 하기",
+    "IceTowerStageName": "9층"
+  },
+  {
+    "__pkey": "50200901",
+    "BriefDescription": "금화 270개 이상 획득 하기",
+    "IceTowerStageName": "9층"
+  },
+  {
+    "__pkey": "50200902",
+    "BriefDescription": "은화 480개 이상 획득 하기",
+    "IceTowerStageName": "9층"
+  },
+  {
+    "__pkey": "50200903",
+    "BriefDescription": "보너스타임 1회 이상 가기",
+    "IceTowerStageName": "10층"
+  },
+  {
+    "__pkey": "50201001",
+    "BriefDescription": "금화 103개 이상 획득 하기",
+    "IceTowerStageName": "10층"
+  },
+  {
+    "__pkey": "50201002",
+    "BriefDescription": "알파벳젤리 30개 이상 획득 하기",
+    "IceTowerStageName": "10층"
+  },
+  {
+    "__pkey": "50201003",
+    "BriefDescription": "얼음 곰젤리 160개 이상 획득 하기",
+    "IceTowerStageName": "11층"
+  },
+  {
+    "__pkey": "50201101",
+    "BriefDescription": "일반 젤리 333개 이상 획득 하기",
+    "IceTowerStageName": "11층"
+  },
+  {
+    "__pkey": "50201102",
+    "BriefDescription": "2단 점프 50회 이상 하기",
+    "IceTowerStageName": "11층"
+  },
+  {
+    "__pkey": "50201103",
+    "BriefDescription": "얼음문까지 달리기",
+    "IceTowerStageName": "12층"
+  },
+  {
+    "__pkey": "50201201",
+    "BriefDescription": "점프 70회 이상 하기",
+    "IceTowerStageName": "12층"
+  },
+  {
+    "__pkey": "50201202",
+    "BriefDescription": "얼음 곰젤리 300개 이상 획득 하기",
+    "IceTowerStageName": "12층"
+  },
+  {
+    "__pkey": "50201203",
+    "BriefDescription": "분홍 곰젤리 285개 이상 획득 하기",
+    "IceTowerStageName": "13층"
+  },
+  {
+    "__pkey": "50201301",
+    "BriefDescription": "색동별젤리 40개 이상 획득 하기",
+    "IceTowerStageName": "13층"
+  },
+  {
+    "__pkey": "50201302",
+    "BriefDescription": "분홍 곰젤리 310개 이상 획득 하기",
+    "IceTowerStageName": "13층"
+  },
+  {
+    "__pkey": "50201303",
+    "BriefDescription": "슬라이드 45초 이상 하기",
+    "IceTowerStageName": "14층"
+  },
+  {
+    "__pkey": "50201401",
+    "BriefDescription": "왕코인 20개 이상 획득 하기",
+    "IceTowerStageName": "14층"
+  },
+  {
+    "__pkey": "50201402",
+    "BriefDescription": "슬라이드 58초 이상 하기",
+    "IceTowerStageName": "14층"
+  },
+  {
+    "__pkey": "50201403",
+    "BriefDescription": "95초 이하 달리기",
+    "IceTowerStageName": "15층"
+  },
+  {
+    "__pkey": "50201501",
+    "BriefDescription": "103초 이상 달리기",
+    "IceTowerStageName": "15층"
+  },
+  {
+    "__pkey": "50201502",
+    "BriefDescription": "얼음 곰젤리 570개 이상 획득 하기",
+    "IceTowerStageName": "15층"
+  },
+  {
+    "__pkey": "50201503",
+    "BriefDescription": "색동별젤리 800개 이상 획득 하기",
+    "IceTowerStageName": "16층"
+  },
+  {
+    "__pkey": "50201601",
+    "BriefDescription": "금화 115개 이상 획득 하기",
+    "IceTowerStageName": "16층"
+  },
+  {
+    "__pkey": "50201602",
+    "BriefDescription": "모든 젤리 1050개 이상 획득 하기",
+    "IceTowerStageName": "16층"
+  },
+  {
+    "__pkey": "50201603",
+    "BriefDescription": "노란 곰젤리 20개 이상 획득 하기",
+    "IceTowerStageName": "17층"
+  },
+  {
+    "__pkey": "50201701",
+    "BriefDescription": "날개 달린 젤리 50개 이상 획득 하기",
+    "IceTowerStageName": "17층"
+  },
+  {
+    "__pkey": "50201702",
+    "BriefDescription": "1000코인 이상 획득 하기",
+    "IceTowerStageName": "17층"
+  },
+  {
+    "__pkey": "50201703",
+    "BriefDescription": "펫이 젤리 800개 이상 획득 하기",
+    "IceTowerStageName": "18층"
+  },
+  {
+    "__pkey": "50201801",
+    "BriefDescription": "모든 젤리 1500개 이상 획득 하기",
+    "IceTowerStageName": "18층"
+  },
+  {
+    "__pkey": "50201802",
+    "BriefDescription": "2단 점프 75회 이상 하기",
+    "IceTowerStageName": "18층"
+  },
+  {
+    "__pkey": "50201803",
+    "BriefDescription": "장애물 파괴 237개 이상 하기",
+    "IceTowerStageName": "19층"
+  },
+  {
+    "__pkey": "50201901",
+    "BriefDescription": "왕곰젤리 12개 이상 획득 하기",
+    "IceTowerStageName": "19층"
+  },
+  {
+    "__pkey": "50201902",
+    "BriefDescription": "금화 100개 이상 획득 하기",
+    "IceTowerStageName": "19층"
+  },
+  {
+    "__pkey": "50201903",
+    "BriefDescription": "노란 곰젤리 290개 이상 획득 하기",
+    "IceTowerStageName": "20층"
+  },
+  {
+    "__pkey": "50202001",
+    "BriefDescription": "날개 달린 젤리 170개 이상 획득 하기",
+    "IceTowerStageName": "20층"
+  },
+  {
+    "__pkey": "50202002",
+    "BriefDescription": "60초 이하 달리기",
+    "IceTowerStageName": "20층"
+  },
+  {
+    "__pkey": "50202003",
+    "BriefDescription": "노란 곰젤리 85개 이상 획득 하기",
+    "IceTowerStageName": "21층"
+  },
+  {
+    "__pkey": "50202101",
+    "BriefDescription": "모든 젤리 10개 이하 획득 하기",
+    "IceTowerStageName": "21층"
+  },
+  {
+    "__pkey": "50202102",
+    "BriefDescription": "1단 점프 80회 이상 하기",
+    "IceTowerStageName": "21층"
+  },
+  {
+    "__pkey": "50202103",
+    "BriefDescription": "금화 170개 이상 획득 하기",
+    "IceTowerStageName": "22층"
+  },
+  {
+    "__pkey": "50202201",
+    "BriefDescription": "장애물 파괴 80개 이상 하기",
+    "IceTowerStageName": "22층"
+  },
+  {
+    "__pkey": "50202202",
+    "BriefDescription": "은화 400개 이상 획득 하기",
+    "IceTowerStageName": "22층"
+  },
+  {
+    "__pkey": "50202203",
+    "BriefDescription": "구멍에 빠지기 1회 이하 하기",
+    "IceTowerStageName": "23층"
+  },
+  {
+    "__pkey": "50202301",
+    "BriefDescription": "구멍에 빠지기 6회 이상 하기",
+    "IceTowerStageName": "23층"
+  },
+  {
+    "__pkey": "50202302",
+    "BriefDescription": "점프 40회 이하 하기",
+    "IceTowerStageName": "23층"
+  },
+  {
+    "__pkey": "50202303",
+    "BriefDescription": "모든 젤리 850개 이상 획득 하기",
+    "IceTowerStageName": "24층"
+  },
+  {
+    "__pkey": "50202401",
+    "BriefDescription": "얼음 곰젤리 370개 이상 획득 하기",
+    "IceTowerStageName": "24층"
+  },
+  {
+    "__pkey": "50202402",
+    "BriefDescription": "모든 젤리 1100개 이상 획득 하기",
+    "IceTowerStageName": "24층"
+  },
+  {
+    "__pkey": "50202403",
+    "BriefDescription": "충돌하지 않고 45초 이상 버티기",
+    "IceTowerStageName": "25층"
+  },
+  {
+    "__pkey": "50202501",
+    "BriefDescription": "은화 137개 이상 획득 하기",
+    "IceTowerStageName": "25층"
+  },
+  {
+    "__pkey": "50202502",
+    "BriefDescription": "노란 곰젤리 400개 이상 획득 하기",
+    "IceTowerStageName": "25층"
+  },
+  {
+    "__pkey": "50202503",
+    "BriefDescription": "날개 달린 젤리 10개 이상 획득 하기",
+    "IceTowerStageName": "26층"
+  },
+  {
+    "__pkey": "50202601",
+    "BriefDescription": "80초 이상 달리기",
+    "IceTowerStageName": "26층"
+  },
+  {
+    "__pkey": "50202602",
+    "BriefDescription": "날개 달린 젤리 0개 이하 획득 하기",
+    "IceTowerStageName": "26층"
+  },
+  {
+    "__pkey": "50202603",
+    "BriefDescription": "80초 이하 달리기",
+    "IceTowerStageName": "27층"
+  },
+  {
+    "__pkey": "50202701",
+    "BriefDescription": "장애물 파괴 80개 이상 하기",
+    "IceTowerStageName": "27층"
+  },
+  {
+    "__pkey": "50202702",
+    "BriefDescription": "장애물 통과 80개 이상 하기",
+    "IceTowerStageName": "27층"
+  },
+  {
+    "__pkey": "50202703",
+    "BriefDescription": "모든 젤리 1220개 이상 획득 하기",
+    "IceTowerStageName": "28층"
+  },
+  {
+    "__pkey": "50202801",
+    "BriefDescription": "은화 2개 이하 획득 하기",
+    "IceTowerStageName": "28층"
+  },
+  {
+    "__pkey": "50202802",
+    "BriefDescription": "장애물 파괴 0개 이하 하기",
+    "IceTowerStageName": "28층"
+  },
+  {
+    "__pkey": "50202803",
+    "BriefDescription": "65초 이하 달리기",
+    "IceTowerStageName": "29층"
+  },
+  {
+    "__pkey": "50202901",
+    "BriefDescription": "은화 380개 이상 획득 하기",
+    "IceTowerStageName": "29층"
+  },
+  {
+    "__pkey": "50202902",
+    "BriefDescription": "분홍 곰젤리 370개 이상 획득 하기",
+    "IceTowerStageName": "29층"
+  },
+  {
+    "__pkey": "50202903",
+    "BriefDescription": "100초 이하 달리기",
+    "IceTowerStageName": "30층"
+  },
+  {
+    "__pkey": "50203001",
+    "BriefDescription": "왕코인 20개 이상 획득 하기",
+    "IceTowerStageName": "30층"
+  },
+  {
+    "__pkey": "50203002",
+    "BriefDescription": "점프 40회 이하 하기",
+    "IceTowerStageName": "30층"
+  },
+  {
+    "__pkey": "50203003",
+    "BriefDescription": "은화 5개 이하 획득 하기",
+    "IceTowerStageName": "31층"
+  },
+  {
+    "__pkey": "50203101",
+    "BriefDescription": "3660코인 이상 획득 하기",
+    "IceTowerStageName": "31층"
+  },
+  {
+    "__pkey": "50203102",
+    "BriefDescription": "440코인 이하 획득 하기",
+    "IceTowerStageName": "31층"
+  },
+  {
+    "__pkey": "50203103",
+    "BriefDescription": "장애물 파괴 170개 이상 하기",
+    "IceTowerStageName": "32층"
+  },
+  {
+    "__pkey": "50203201",
+    "BriefDescription": "50초 이상 달리기",
+    "IceTowerStageName": "32층"
+  },
+  {
+    "__pkey": "50203202",
+    "BriefDescription": "노란 곰젤리 140개 이상 획득 하기",
+    "IceTowerStageName": "32층"
+  },
+  {
+    "__pkey": "50203203",
+    "BriefDescription": "보너스타임에서 젤리 1300개 이상 획득 하기",
+    "IceTowerStageName": "33층"
+  },
+  {
+    "__pkey": "50203301",
+    "BriefDescription": "보너스타임에서 젤리 1600개 이상 획득 하기",
+    "IceTowerStageName": "33층"
+  },
+  {
+    "__pkey": "50203302",
+    "BriefDescription": "왕코인 11개 이상 획득 하기",
+    "IceTowerStageName": "33층"
+  },
+  {
+    "__pkey": "50203303",
+    "BriefDescription": "2단 점프 34회 이상 하기",
+    "IceTowerStageName": "34층"
+  },
+  {
+    "__pkey": "50203401",
+    "BriefDescription": "금화 18개 이상 획득 하기",
+    "IceTowerStageName": "34층"
+  },
+  {
+    "__pkey": "50203402",
+    "BriefDescription": "1단 점프 110회 이상 하기",
+    "IceTowerStageName": "34층"
+  },
+  {
+    "__pkey": "50203403",
+    "BriefDescription": "색동별젤리 1500개 이상 획득 하기",
+    "IceTowerStageName": "35층"
+  },
+  {
+    "__pkey": "50203501",
+    "BriefDescription": "색동별젤리 1700개 이상 획득 하기",
+    "IceTowerStageName": "35층"
+  },
+  {
+    "__pkey": "50203502",
+    "BriefDescription": "은화 230개 이상 획득 하기",
+    "IceTowerStageName": "35층"
+  },
+  {
+    "__pkey": "50203503",
+    "BriefDescription": "얼음문까지 달리기",
+    "IceTowerStageName": "36층"
+  },
+  {
+    "__pkey": "50203601",
+    "BriefDescription": "얼음 곰젤리 900개 이상 획득 하기",
+    "IceTowerStageName": "36층"
+  },
+  {
+    "__pkey": "50203602",
+    "BriefDescription": "일반 젤리 1000개 이상 획득 하기",
+    "IceTowerStageName": "36층"
+  },
+  {
+    "__pkey": "50203603",
+    "BriefDescription": "장애물 파괴 175개 이상 하기",
+    "IceTowerStageName": "37층"
+  },
+  {
+    "__pkey": "50203701",
+    "BriefDescription": "얼음 곰젤리 580개 이상 획득 하기",
+    "IceTowerStageName": "37층"
+  },
+  {
+    "__pkey": "50203702",
+    "BriefDescription": "1단 점프 125회 이상 하기",
+    "IceTowerStageName": "37층"
+  },
+  {
+    "__pkey": "50203703",
+    "BriefDescription": "은화 150개 이상 획득 하기",
+    "IceTowerStageName": "38층"
+  },
+  {
+    "__pkey": "50203801",
+    "BriefDescription": "59초 이상 달리기",
+    "IceTowerStageName": "38층"
+  },
+  {
+    "__pkey": "50203802",
+    "BriefDescription": "장애물 파괴 0개 이하 하기",
+    "IceTowerStageName": "38층"
+  },
+  {
+    "__pkey": "50203803",
+    "BriefDescription": "장애물 충돌 1회 이하 하기",
+    "IceTowerStageName": "39층"
+  },
+  {
+    "__pkey": "50203901",
+    "BriefDescription": "얼음 곰젤리 160개 이상 획득 하기",
+    "IceTowerStageName": "39층"
+  },
+  {
+    "__pkey": "50203902",
+    "BriefDescription": "장애물 파괴 1개 이상 하기",
+    "IceTowerStageName": "39층"
+  },
+  {
+    "__pkey": "50203903",
+    "BriefDescription": "보너스타임 0회 이하 가기",
+    "IceTowerStageName": "40층"
+  },
+  {
+    "__pkey": "50204001",
+    "BriefDescription": "알파벳젤리 400개 이상 획득 하기",
+    "IceTowerStageName": "40층"
+  },
+  {
+    "__pkey": "50204002",
+    "BriefDescription": "4400코인 이상 획득 하기",
+    "IceTowerStageName": "40층"
+  },
+  {
+    "__pkey": "50204003",
+    "BriefDescription": "은화 777개 이상 획득 하기",
+    "IceTowerStageName": "41층"
+  },
+  {
+    "__pkey": "50204101",
+    "BriefDescription": "슬라이드 65초 이상 하기",
+    "IceTowerStageName": "41층"
+  },
+  {
+    "__pkey": "50204102",
+    "BriefDescription": "금화 300개 이상 획득 하기",
+    "IceTowerStageName": "41층"
+  },
+  {
+    "__pkey": "50204103",
+    "BriefDescription": "1단 점프 110회 이상 하기",
+    "IceTowerStageName": "42층"
+  },
+  {
+    "__pkey": "50204201",
+    "BriefDescription": "2단 점프 72회 이상 하기",
+    "IceTowerStageName": "42층"
+  },
+  {
+    "__pkey": "50204202",
+    "BriefDescription": "60초 이하 달리기",
+    "IceTowerStageName": "42층"
+  },
+  {
+    "__pkey": "50204203",
+    "BriefDescription": "구멍에 빠지기 1회 이하 하기",
+    "IceTowerStageName": "43층"
+  },
+  {
+    "__pkey": "50204301",
+    "BriefDescription": "얼음 곰젤리 123개 이상 획득 하기",
+    "IceTowerStageName": "43층"
+  },
+  {
+    "__pkey": "50204302",
+    "BriefDescription": "2단 점프 61회 이상 하기",
+    "IceTowerStageName": "43층"
+  },
+  {
+    "__pkey": "50204303",
+    "BriefDescription": "날개 달린 젤리 1200개 이상 획득 하기",
+    "IceTowerStageName": "44층"
+  },
+  {
+    "__pkey": "50204401",
+    "BriefDescription": "노란 곰젤리 1200개 이상 획득 하기",
+    "IceTowerStageName": "44층"
+  },
+  {
+    "__pkey": "50204402",
+    "BriefDescription": "모든 젤리 1500개 이상 획득 하기",
+    "IceTowerStageName": "44층"
+  },
+  {
+    "__pkey": "50204403",
+    "BriefDescription": "노란 곰젤리 700개 이상 획득 하기",
+    "IceTowerStageName": "45층"
+  },
+  {
+    "__pkey": "50204501",
+    "BriefDescription": "50초 이하 달리기",
+    "IceTowerStageName": "45층"
+  },
+  {
+    "__pkey": "50204502",
+    "BriefDescription": "2단 점프 70회 이상 하기",
+    "IceTowerStageName": "45층"
+  },
+  {
+    "__pkey": "50204503",
+    "BriefDescription": "구멍에서 구출 1회 이상 하기",
+    "IceTowerStageName": "46층"
+  },
+  {
+    "__pkey": "50204601",
+    "BriefDescription": "분홍 곰젤리 40개 이상 획득 하기",
+    "IceTowerStageName": "46층"
+  },
+  {
+    "__pkey": "50204602",
+    "BriefDescription": "구멍에서 구출 4회 이상 하기",
+    "IceTowerStageName": "46층"
+  },
+  {
+    "__pkey": "50204603",
+    "BriefDescription": "장애물 충돌 2회 이하 하기",
+    "IceTowerStageName": "47층"
+  },
+  {
+    "__pkey": "50204701",
+    "BriefDescription": "분홍 곰젤리 112개 이상 획득 하기",
+    "IceTowerStageName": "47층"
+  },
+  {
+    "__pkey": "50204702",
+    "BriefDescription": "2단 점프 0회 이하 하기",
+    "IceTowerStageName": "47층"
+  },
+  {
+    "__pkey": "50204703",
+    "BriefDescription": "장애물 파괴 110개 이상 하기",
+    "IceTowerStageName": "48층"
+  },
+  {
+    "__pkey": "50204801",
+    "BriefDescription": "2000코인 이상 획득 하기",
+    "IceTowerStageName": "48층"
+  },
+  {
+    "__pkey": "50204802",
+    "BriefDescription": "장애물 파괴 216개 이상 하기",
+    "IceTowerStageName": "48층"
+  },
+  {
+    "__pkey": "50204803",
+    "BriefDescription": "거대 생명물약 0개 이하 획득 하기",
+    "IceTowerStageName": "49층"
+  },
+  {
+    "__pkey": "50204901",
+    "BriefDescription": "장애물 충돌 7회 이상 하기",
+    "IceTowerStageName": "49층"
+  },
+  {
+    "__pkey": "50204902",
+    "BriefDescription": "광속질주로 10초 이상 달리기",
+    "IceTowerStageName": "49층"
+  },
+  {
+    "__pkey": "50204903",
+    "BriefDescription": "얼음문까지 달리기",
+    "IceTowerStageName": "50층"
+  },
+  {
+    "__pkey": "50205001",
+    "BriefDescription": "왕곰젤리 35개 이상 획득 하기",
+    "IceTowerStageName": "50층"
+  },
+  {
+    "__pkey": "50205002",
+    "BriefDescription": "얼음 곰젤리 840개 이상 획득 하기",
+    "IceTowerStageName": "50층"
+  },
+  {
+    "__pkey": "50205003",
+    "BriefDescription": "장애물 파괴 173개 이상 하기",
+    "IceTowerStageName": "51층"
+  },
+  {
+    "__pkey": "50205101",
+    "BriefDescription": "모든 젤리 815개 이상 획득 하기",
+    "IceTowerStageName": "51층"
+  },
+  {
+    "__pkey": "50205102",
+    "BriefDescription": "왕곰젤리 25개 이상 획득 하기",
+    "IceTowerStageName": "51층"
+  },
+  {
+    "__pkey": "50205103",
+    "BriefDescription": "3900코인 이상 획득 하기",
+    "IceTowerStageName": "52층"
+  },
+  {
+    "__pkey": "50205201",
+    "BriefDescription": "은화 350개 이상 획득 하기",
+    "IceTowerStageName": "52층"
+  },
+  {
+    "__pkey": "50205202",
+    "BriefDescription": "모든 젤리 70개 이하 획득 하기",
+    "IceTowerStageName": "52층"
+  },
+  {
+    "__pkey": "50205203",
+    "BriefDescription": "50초 이상 달리기",
+    "IceTowerStageName": "53층"
+  },
+  {
+    "__pkey": "50205301",
+    "BriefDescription": "장애물 파괴 100개 이상 하기",
+    "IceTowerStageName": "53층"
+  },
+  {
+    "__pkey": "50205302",
+    "BriefDescription": "얼음 곰젤리 150개 이상 획득 하기",
+    "IceTowerStageName": "53층"
+  },
+  {
+    "__pkey": "50205303",
+    "BriefDescription": "보너스타임 0회 이하 가기",
+    "IceTowerStageName": "54층"
+  },
+  {
+    "__pkey": "50205401",
+    "BriefDescription": "노란 곰젤리 800개 이상 획득 하기",
+    "IceTowerStageName": "54층"
+  },
+  {
+    "__pkey": "50205402",
+    "BriefDescription": "2100코인 이상 획득 하기",
+    "IceTowerStageName": "54층"
+  },
+  {
+    "__pkey": "50205403",
+    "BriefDescription": "분홍 곰젤리 230개 이상 획득 하기",
+    "IceTowerStageName": "55층"
+  },
+  {
+    "__pkey": "50205501",
+    "BriefDescription": "노란 곰젤리 230개 이상 획득 하기",
+    "IceTowerStageName": "55층"
+  },
+  {
+    "__pkey": "50205502",
+    "BriefDescription": "날개 달린 젤리 24개 이상 획득 하기",
+    "IceTowerStageName": "55층"
+  },
+  {
+    "__pkey": "50205503",
+    "BriefDescription": "모든 곰젤리 1330개 이상 획득 하기",
+    "IceTowerStageName": "56층"
+  },
+  {
+    "__pkey": "50205601",
+    "BriefDescription": "1단 점프 100회 이상 하기",
+    "IceTowerStageName": "56층"
+  },
+  {
+    "__pkey": "50205602",
+    "BriefDescription": "노란 곰젤리 1100개 이상 획득 하기",
+    "IceTowerStageName": "56층"
+  },
+  {
+    "__pkey": "50205603",
+    "BriefDescription": "장애물 충돌 1회 이하 하기",
+    "IceTowerStageName": "57층"
+  },
+  {
+    "__pkey": "50205701",
+    "BriefDescription": "금화 82개 이상 획득 하기",
+    "IceTowerStageName": "57층"
+  },
+  {
+    "__pkey": "50205702",
+    "BriefDescription": "모든 젤리 400개 이하 획득 하기",
+    "IceTowerStageName": "57층"
+  },
+  {
+    "__pkey": "50205703",
+    "BriefDescription": "모든 젤리 2000개 이상 획득 하기",
+    "IceTowerStageName": "58층"
+  },
+  {
+    "__pkey": "50205801",
+    "BriefDescription": "보너스타임 14초 이상 하기",
+    "IceTowerStageName": "58층"
+  },
+  {
+    "__pkey": "50205802",
+    "BriefDescription": "장애물 충돌 8회 이상 하기",
+    "IceTowerStageName": "58층"
+  },
+  {
+    "__pkey": "50205803",
+    "BriefDescription": "구멍에 빠지기 1회 이하 하기",
+    "IceTowerStageName": "59층"
+  },
+  {
+    "__pkey": "50205901",
+    "BriefDescription": "모든 젤리 1600개 이상 획득 하기",
+    "IceTowerStageName": "59층"
+  },
+  {
+    "__pkey": "50205902",
+    "BriefDescription": "슬라이드 45초 이상 하기",
+    "IceTowerStageName": "59층"
+  },
+  {
+    "__pkey": "50205903",
+    "BriefDescription": "모든 코인 300개 이상 획득 하기",
+    "IceTowerStageName": "60층"
+  },
+  {
+    "__pkey": "50206001",
+    "BriefDescription": "왕곰젤리 30개 이상 획득 하기",
+    "IceTowerStageName": "60층"
+  },
+  {
+    "__pkey": "50206002",
+    "BriefDescription": "노란 곰젤리 260개 이상 획득 하기",
+    "IceTowerStageName": "60층"
+  },
+  {
+    "__pkey": "50206003",
+    "BriefDescription": "1350코인 이상 획득 하기",
+    "IceTowerStageName": "61층"
+  },
+  {
+    "__pkey": "50206101",
+    "BriefDescription": "분홍 곰젤리 250개 이상 획득 하기",
+    "IceTowerStageName": "61층"
+  },
+  {
+    "__pkey": "50206102",
+    "BriefDescription": "노란 곰젤리 370개 이상 획득 하기",
+    "IceTowerStageName": "61층"
+  },
+  {
+    "__pkey": "50206103",
+    "BriefDescription": "장애물 충돌 3회 이하 하기",
+    "IceTowerStageName": "62층"
+  },
+  {
+    "__pkey": "50206201",
+    "BriefDescription": "얼음 곰젤리 499개 이상 획득 하기",
+    "IceTowerStageName": "62층"
+  },
+  {
+    "__pkey": "50206202",
+    "BriefDescription": "1단 점프 83회 이상 하기",
+    "IceTowerStageName": "62층"
+  },
+  {
+    "__pkey": "50206203",
+    "BriefDescription": "날개 달린 젤리 100개 이상 획득 하기",
+    "IceTowerStageName": "63층"
+  },
+  {
+    "__pkey": "50206301",
+    "BriefDescription": "분홍 곰젤리 180개 이상 획득 하기",
+    "IceTowerStageName": "63층"
+  },
+  {
+    "__pkey": "50206302",
+    "BriefDescription": "얼음 곰젤리 380개 이상 획득 하기",
+    "IceTowerStageName": "63층"
+  },
+  {
+    "__pkey": "50206303",
+    "BriefDescription": "장애물 파괴 250개 이상 하기",
+    "IceTowerStageName": "64층"
+  },
+  {
+    "__pkey": "50206401",
+    "BriefDescription": "노란 곰젤리 100개 이상 획득 하기",
+    "IceTowerStageName": "64층"
+  },
+  {
+    "__pkey": "50206402",
+    "BriefDescription": "금화 42개 이상 획득 하기",
+    "IceTowerStageName": "64층"
+  },
+  {
+    "__pkey": "50206403",
+    "BriefDescription": "1900코인 이상 획득 하기",
+    "IceTowerStageName": "65층"
+  },
+  {
+    "__pkey": "50206501",
+    "BriefDescription": "노란 곰젤리 200개 이상 획득 하기",
+    "IceTowerStageName": "65층"
+  },
+  {
+    "__pkey": "50206502",
+    "BriefDescription": "분홍 곰젤리 160개 이상 획득 하기",
+    "IceTowerStageName": "65층"
+  },
+  {
+    "__pkey": "50206503",
+    "BriefDescription": "장애물 통과 105개 이상 하기",
+    "IceTowerStageName": "66층"
+  },
+  {
+    "__pkey": "50206601",
+    "BriefDescription": "색동별젤리 12개 이상 획득 하기",
+    "IceTowerStageName": "66층"
+  },
+  {
+    "__pkey": "50206602",
+    "BriefDescription": "60초 이하 달리기",
+    "IceTowerStageName": "66층"
+  },
+  {
+    "__pkey": "50206603",
+    "BriefDescription": "날개 달린 젤리 240개 이상 획득 하기",
+    "IceTowerStageName": "67층"
+  },
+  {
+    "__pkey": "50206701",
+    "BriefDescription": "2단 점프 95회 이상 하기",
+    "IceTowerStageName": "67층"
+  },
+  {
+    "__pkey": "50206702",
+    "BriefDescription": "분홍 곰젤리 5개 이하 획득 하기",
+    "IceTowerStageName": "67층"
+  },
+  {
+    "__pkey": "50206703",
+    "BriefDescription": "노란 곰젤리 125개 이상 획득 하기",
+    "IceTowerStageName": "68층"
+  },
+  {
+    "__pkey": "50206801",
+    "BriefDescription": "분홍 곰젤리 140개 이상 획득 하기",
+    "IceTowerStageName": "68층"
+  },
+  {
+    "__pkey": "50206802",
+    "BriefDescription": "3300코인 이상 획득 하기",
+    "IceTowerStageName": "68층"
+  },
+  {
+    "__pkey": "50206803",
+    "BriefDescription": "얼음문까지 달리기",
+    "IceTowerStageName": "69층"
+  },
+  {
+    "__pkey": "50206901",
+    "BriefDescription": "노란 곰젤리 670개 이상 획득 하기",
+    "IceTowerStageName": "69층"
+  },
+  {
+    "__pkey": "50206902",
+    "BriefDescription": "구멍에서 구출 6회 이상 하기",
+    "IceTowerStageName": "69층"
+  },
+  {
+    "__pkey": "50206903",
+    "BriefDescription": "장애물 충돌 5회 이하 하기",
+    "IceTowerStageName": "70층"
+  },
+  {
+    "__pkey": "50207001",
+    "BriefDescription": "얼음 곰젤리 830개 이상 획득 하기",
+    "IceTowerStageName": "70층"
+  },
+  {
+    "__pkey": "50207002",
+    "BriefDescription": "왕곰젤리 47개 이상 획득 하기",
+    "IceTowerStageName": "70층"
+  },
+  {
+    "__pkey": "50207003",
+    "BriefDescription": "펫이 젤리 1050개 이상 획득 하기",
+    "IceTowerStageName": "71층"
+  },
+  {
+    "__pkey": "50207101",
+    "BriefDescription": "슬라이드했다가 일어나기 260회 이상 하기",
+    "IceTowerStageName": "71층"
+  },
+  {
+    "__pkey": "50207102",
+    "BriefDescription": "4000코인 이상 획득 하기",
+    "IceTowerStageName": "71층"
+  },
+  {
+    "__pkey": "50207103",
+    "BriefDescription": "55초 이상 달리기",
+    "IceTowerStageName": "72층"
+  },
+  {
+    "__pkey": "50207201",
+    "BriefDescription": "2단 점프 55회 이상 하기",
+    "IceTowerStageName": "72층"
+  },
+  {
+    "__pkey": "50207202",
+    "BriefDescription": "색동별젤리 107개 이상 획득 하기",
+    "IceTowerStageName": "72층"
+  },
+  {
+    "__pkey": "50207203",
+    "BriefDescription": "58초 이하 달리기",
+    "IceTowerStageName": "73층"
+  },
+  {
+    "__pkey": "50207301",
+    "BriefDescription": "은화 183개 이상 획득 하기",
+    "IceTowerStageName": "73층"
+  },
+  {
+    "__pkey": "50207302",
+    "BriefDescription": "장애물 파괴 5개 이하 하기",
+    "IceTowerStageName": "73층"
+  },
+  {
+    "__pkey": "50207303",
+    "BriefDescription": "금화 65개 이상 획득 하기",
+    "IceTowerStageName": "74층"
+  },
+  {
+    "__pkey": "50207401",
+    "BriefDescription": "50코인 이하 획득 하기",
+    "IceTowerStageName": "74층"
+  },
+  {
+    "__pkey": "50207402",
+    "BriefDescription": "모든 젤리 1000개 이상 획득 하기",
+    "IceTowerStageName": "74층"
+  },
+  {
+    "__pkey": "50207403",
+    "BriefDescription": "장애물 파괴 90개 이상 하기",
+    "IceTowerStageName": "75층"
+  },
+  {
+    "__pkey": "50207501",
+    "BriefDescription": "슬라이드했다가 일어나기 180회 이상 하기",
+    "IceTowerStageName": "75층"
+  },
+  {
+    "__pkey": "50207502",
+    "BriefDescription": "노란 곰젤리 450개 이상 획득 하기",
+    "IceTowerStageName": "75층"
+  },
+  {
+    "__pkey": "50207503",
+    "BriefDescription": "구멍에 빠지기 3회 이하 하기",
+    "IceTowerStageName": "76층"
+  },
+  {
+    "__pkey": "50207601",
+    "BriefDescription": "분홍 곰젤리 317개 이상 획득 하기",
+    "IceTowerStageName": "76층"
+  },
+  {
+    "__pkey": "50207602",
+    "BriefDescription": "2000코인 이상 획득 하기",
+    "IceTowerStageName": "76층"
+  },
+  {
+    "__pkey": "50207603",
+    "BriefDescription": "얼음문까지 달리기",
+    "IceTowerStageName": "77층"
+  },
+  {
+    "__pkey": "50207701",
+    "BriefDescription": "구멍에 빠지기 1회 이하 하기",
+    "IceTowerStageName": "77층"
+  },
+  {
+    "__pkey": "50207702",
+    "BriefDescription": "4000코인 이상 획득 하기",
+    "IceTowerStageName": "77층"
+  },
+  {
+    "__pkey": "50207703",
+    "BriefDescription": "구멍에 빠지기 2회 이하 하기",
+    "IceTowerStageName": "78층"
+  },
+  {
+    "__pkey": "50207801",
+    "BriefDescription": "색동별 폭죽 파티 9개 이상 획득 하기",
+    "IceTowerStageName": "78층"
+  },
+  {
+    "__pkey": "50207802",
+    "BriefDescription": "얼음 곰젤리 450개 이상 획득 하기",
+    "IceTowerStageName": "78층"
+  },
+  {
+    "__pkey": "50207803",
+    "BriefDescription": "모든 젤리 2900개 이상 획득 하기",
+    "IceTowerStageName": "79층"
+  },
+  {
+    "__pkey": "50207901",
+    "BriefDescription": "모든 젤리 150개 이하 획득 하기",
+    "IceTowerStageName": "79층"
+  },
+  {
+    "__pkey": "50207902",
+    "BriefDescription": "67초 이하 달리기",
+    "IceTowerStageName": "79층"
+  },
+  {
+    "__pkey": "50207903",
+    "BriefDescription": "장애물 충돌 5회 이하 하기",
+    "IceTowerStageName": "80층"
+  },
+  {
+    "__pkey": "50208001",
+    "BriefDescription": "왕곰젤리 19개 이상 획득 하기",
+    "IceTowerStageName": "80층"
+  },
+  {
+    "__pkey": "50208002",
+    "BriefDescription": "분홍 곰젤리 610개 이상 획득 하기",
+    "IceTowerStageName": "80층"
+  },
+  {
+    "__pkey": "50208003",
+    "BriefDescription": "얼음문까지 달리기",
+    "IceTowerStageName": "81층"
+  },
+  {
+    "__pkey": "50208101",
+    "BriefDescription": "알파벳젤리 490개 이상 획득 하기",
+    "IceTowerStageName": "81층"
+  },
+  {
+    "__pkey": "50208102",
+    "BriefDescription": "점프 50회 이하 하기",
+    "IceTowerStageName": "81층"
+  },
+  {
+    "__pkey": "50208103",
+    "BriefDescription": "얼음문까지 달리기",
+    "IceTowerStageName": "82층"
+  },
+  {
+    "__pkey": "50208201",
+    "BriefDescription": "장애물 충돌 1회 이하 하기",
+    "IceTowerStageName": "82층"
+  },
+  {
+    "__pkey": "50208202",
+    "BriefDescription": "은화 34개 이하 획득 하기",
+    "IceTowerStageName": "82층"
+  },
+  {
+    "__pkey": "50208203",
+    "BriefDescription": "노란 곰젤리 200개 이하 획득 하기",
+    "IceTowerStageName": "83층"
+  },
+  {
+    "__pkey": "50208301",
+    "BriefDescription": "3070코인 이상 획득 하기",
+    "IceTowerStageName": "83층"
+  },
+  {
+    "__pkey": "50208302",
+    "BriefDescription": "노란 곰젤리 1260개 이상 획득 하기",
+    "IceTowerStageName": "83층"
+  },
+  {
+    "__pkey": "50208303",
+    "BriefDescription": "얼음문까지 달리기",
+    "IceTowerStageName": "84층"
+  },
+  {
+    "__pkey": "50208401",
+    "BriefDescription": "62초 이하 달리기",
+    "IceTowerStageName": "84층"
+  },
+  {
+    "__pkey": "50208402",
+    "BriefDescription": "노란 곰젤리 20개 이하 획득 하기",
+    "IceTowerStageName": "84층"
+  },
+  {
+    "__pkey": "50208403",
+    "BriefDescription": "얼음문까지 달리기",
+    "IceTowerStageName": "85층"
+  },
+  {
+    "__pkey": "50208501",
+    "BriefDescription": "왕곰젤리 30개 이상 획득 하기",
+    "IceTowerStageName": "85층"
+  },
+  {
+    "__pkey": "50208502",
+    "BriefDescription": "얼음 곰젤리 600개 이상 획득 하기",
+    "IceTowerStageName": "85층"
+  },
+  {
+    "__pkey": "50208503",
+    "BriefDescription": "노란 곰젤리 400개 이상 획득 하기",
+    "IceTowerStageName": "86층"
+  },
+  {
+    "__pkey": "50208601",
+    "BriefDescription": "분홍 곰젤리 165개 이상 획득 하기",
+    "IceTowerStageName": "86층"
+  },
+  {
+    "__pkey": "50208602",
+    "BriefDescription": "2단 점프 66회 이상 하기",
+    "IceTowerStageName": "86층"
+  },
+  {
+    "__pkey": "50208603",
+    "BriefDescription": "모든 젤리 2000개 이상 획득 하기",
+    "IceTowerStageName": "87층"
+  },
+  {
+    "__pkey": "50208701",
+    "BriefDescription": "색동별젤리 135개 이하 획득 하기",
+    "IceTowerStageName": "87층"
+  },
+  {
+    "__pkey": "50208702",
+    "BriefDescription": "150코인 이하 획득 하기",
+    "IceTowerStageName": "87층"
+  },
+  {
+    "__pkey": "50208703",
+    "BriefDescription": "장애물 파괴 350개 이상 하기",
+    "IceTowerStageName": "88층"
+  },
+  {
+    "__pkey": "50208801",
+    "BriefDescription": "모든 젤리 900개 이상 획득 하기",
+    "IceTowerStageName": "88층"
+  },
+  {
+    "__pkey": "50208802",
+    "BriefDescription": "장애물 파괴 14개 이하 하기",
+    "IceTowerStageName": "88층"
+  },
+  {
+    "__pkey": "50208803",
+    "BriefDescription": "얼음문까지 달리기",
+    "IceTowerStageName": "89층"
+  },
+  {
+    "__pkey": "50208901",
+    "BriefDescription": "노란 곰젤리 440개 이상 획득 하기",
+    "IceTowerStageName": "89층"
+  },
+  {
+    "__pkey": "50208902",
+    "BriefDescription": "장애물 통과 220개 이상 하기",
+    "IceTowerStageName": "89층"
+  },
+  {
+    "__pkey": "50208903",
+    "BriefDescription": "얼음문까지 달리기",
+    "IceTowerStageName": "90층"
+  },
+  {
+    "__pkey": "50209001",
+    "BriefDescription": "날개 달린 젤리 80개 이상 획득 하기",
+    "IceTowerStageName": "90층"
+  },
+  {
+    "__pkey": "50209002",
+    "BriefDescription": "얼음 곰젤리 680개 이상 획득 하기",
+    "IceTowerStageName": "90층"
+  },
+  {
+    "__pkey": "50209003",
+    "BriefDescription": "1370코인 이상 획득 하기",
+    "IceTowerStageName": "91층"
+  },
+  {
+    "__pkey": "50209101",
+    "BriefDescription": "슬라이드했다가 일어나기 183회 이상 하기",
+    "IceTowerStageName": "91층"
+  },
+  {
+    "__pkey": "50209102",
+    "BriefDescription": "장애물 파괴 13개 이하 하기",
+    "IceTowerStageName": "91층"
+  },
+  {
+    "__pkey": "50209103",
+    "BriefDescription": "얼음문까지 달리기",
+    "IceTowerStageName": "92층"
+  },
+  {
+    "__pkey": "50209201",
+    "BriefDescription": "모든 젤리 1800개 이상 획득 하기",
+    "IceTowerStageName": "92층"
+  },
+  {
+    "__pkey": "50209202",
+    "BriefDescription": "왕코인 38개 이상 획득 하기",
+    "IceTowerStageName": "92층"
+  },
+  {
+    "__pkey": "50209203",
+    "BriefDescription": "70초 이하 달리기",
+    "IceTowerStageName": "93층"
+  },
+  {
+    "__pkey": "50209301",
+    "BriefDescription": "색동별젤리 780개 이상 획득 하기",
+    "IceTowerStageName": "93층"
+  },
+  {
+    "__pkey": "50209302",
+    "BriefDescription": "모든 곰젤리 175개 이상 획득 하기",
+    "IceTowerStageName": "93층"
+  },
+  {
+    "__pkey": "50209303",
+    "BriefDescription": "색동별젤리 730개 이상 획득 하기",
+    "IceTowerStageName": "94층"
+  },
+  {
+    "__pkey": "50209401",
+    "BriefDescription": "1830코인 이상 획득 하기",
+    "IceTowerStageName": "94층"
+  },
+  {
+    "__pkey": "50209402",
+    "BriefDescription": "모든 젤리 137개 이하 획득 하기",
+    "IceTowerStageName": "94층"
+  },
+  {
+    "__pkey": "50209403",
+    "BriefDescription": "노란 곰젤리 1120개 이상 획득 하기",
+    "IceTowerStageName": "95층"
+  },
+  {
+    "__pkey": "50209501",
+    "BriefDescription": "왕곰젤리 32개 이상 획득 하기",
+    "IceTowerStageName": "95층"
+  },
+  {
+    "__pkey": "50209502",
+    "BriefDescription": "노란 곰젤리 44개 이하 획득 하기",
+    "IceTowerStageName": "95층"
+  },
+  {
+    "__pkey": "50209503",
+    "BriefDescription": "노란 곰젤리 380개 이상 획득 하기",
+    "IceTowerStageName": "96층"
+  },
+  {
+    "__pkey": "50209601",
+    "BriefDescription": "56초 이하 달리기",
+    "IceTowerStageName": "96층"
+  },
+  {
+    "__pkey": "50209602",
+    "BriefDescription": "890코인 이상 획득 하기",
+    "IceTowerStageName": "96층"
+  },
+  {
+    "__pkey": "50209603",
+    "BriefDescription": "구멍에 빠지기 5회 이하 하기",
+    "IceTowerStageName": "97층"
+  },
+  {
+    "__pkey": "50209701",
+    "BriefDescription": "알파벳젤리 175개 이상 획득 하기",
+    "IceTowerStageName": "97층"
+  },
+  {
+    "__pkey": "50209702",
+    "BriefDescription": "분홍 곰젤리 660개 이상 획득 하기",
+    "IceTowerStageName": "97층"
+  },
+  {
+    "__pkey": "50209703",
+    "BriefDescription": "얼음문까지 달리기",
+    "IceTowerStageName": "98층"
+  },
+  {
+    "__pkey": "50209801",
+    "BriefDescription": "노란 곰젤리 350개 이상 획득 하기",
+    "IceTowerStageName": "98층"
+  },
+  {
+    "__pkey": "50209802",
+    "BriefDescription": "왕곰젤리 36개 이상 획득 하기",
+    "IceTowerStageName": "98층"
+  },
+  {
+    "__pkey": "50209803",
+    "BriefDescription": "날개 달린 젤리 142개 이상 획득 하기",
+    "IceTowerStageName": "99층"
+  },
+  {
+    "__pkey": "50209901",
+    "BriefDescription": "장애물 충돌 0회 이하 하기",
+    "IceTowerStageName": "99층"
+  },
+  {
+    "__pkey": "50209902",
+    "BriefDescription": "날개 달린 젤리 4개 이하 획득 하기",
+    "IceTowerStageName": "99층"
+  },
+  {
+    "__pkey": "50209903",
+    "BriefDescription": "얼음문까지 달리기",
+    "IceTowerStageName": "100층"
+  },
+  {
+    "__pkey": "50210001",
+    "BriefDescription": "분홍 곰젤리 500개 이상 획득 하기",
+    "IceTowerStageName": "100층"
+  },
+  {
+    "__pkey": "50210002",
+    "BriefDescription": "얼음 곰젤리 850개 이상 획득 하기",
+    "IceTowerStageName": "100층"
+  }
+]

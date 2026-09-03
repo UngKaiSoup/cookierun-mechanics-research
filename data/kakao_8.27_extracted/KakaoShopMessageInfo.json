@@ -1,0 +1,65 @@
+[
+  {
+    "daily_max_count": "20",
+    "name": "heart",
+    "parameter": "\"exampleKey1\":\"value1\",\"exampleKey2\":\"value2\"",
+    "template_id": "3281",
+    "type": "0"
+  },
+  {
+    "__pkey": "1",
+    "daily_max_count": "10",
+    "name": "bragWin",
+    "parameter": "",
+    "template_id": "3001",
+    "type": "0"
+  },
+  {
+    "__pkey": "2",
+    "daily_max_count": "10",
+    "name": "brag_weekly",
+    "parameter": "",
+    "template_id": "0",
+    "type": "0"
+  },
+  {
+    "__pkey": "3",
+    "daily_max_count": "10",
+    "name": "bragScore",
+    "parameter": "",
+    "template_id": "3002",
+    "type": "0"
+  },
+  {
+    "__pkey": "4",
+    "daily_max_count": "30",
+    "name": "Invite",
+    "parameter": "",
+    "template_id": "3284",
+    "type": "1"
+  },
+  {
+    "__pkey": "5",
+    "daily_max_count": "50",
+    "name": "giftSent",
+    "parameter": "",
+    "template_id": "3004",
+    "type": "0"
+  },
+  {
+    "__pkey": "6",
+    "daily_max_count": "50",
+    "name": "giftReceived",
+    "parameter": "",
+    "template_id": "3005",
+    "type": "0"
+  },
+  {
+    "__pkey": "7",
+    "daily_max_count": "50",
+    "name": "requestComeback",
+    "parameter": "",
+    "template_id": "3007",
+    "type": "0"
+  }
+]

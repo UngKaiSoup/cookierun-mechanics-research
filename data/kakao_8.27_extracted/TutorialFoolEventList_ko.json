@@ -1,0 +1,381 @@
+[
+  {
+    "TextContent": "짜잔~!"
+  },
+  {
+    "__pkey": "1",
+    "TextContent": "피하지말고"
+  },
+  {
+    "__pkey": "10",
+    "TextContent": "맞서는거죠!"
+  },
+  {
+    "__pkey": "11",
+    "TextContent": "전 용감하니까요!!!"
+  },
+  {
+    "__pkey": "12",
+    "TextContent": "앗! 장애물이 나타났어요!"
+  },
+  {
+    "__pkey": "13",
+    "TextContent": "지금! 점프!"
+  },
+  {
+    "__pkey": "14",
+    "TextContent": "아악!"
+  },
+  {
+    "__pkey": "15",
+    "TextContent": "좀 아픈데요?"
+  },
+  {
+    "__pkey": "16",
+    "TextContent": "앗! 큰 장애물!"
+  },
+  {
+    "__pkey": "17",
+    "TextContent": "그렇다면 이단점프!"
+  },
+  {
+    "__pkey": "18",
+    "TextContent": "지금! 점프!"
+  },
+  {
+    "__pkey": "19",
+    "TextContent": "용감한 쿠키입니다"
+  },
+  {
+    "__pkey": "2",
+    "TextContent": "공중에서! 한번 더!"
+  },
+  {
+    "__pkey": "20",
+    "TextContent": "아악!"
+  },
+  {
+    "__pkey": "21",
+    "TextContent": "너무 아픈데요?"
+  },
+  {
+    "__pkey": "22",
+    "TextContent": "우씨…"
+  },
+  {
+    "__pkey": "23",
+    "TextContent": "앗, 구멍이에요!"
+  },
+  {
+    "__pkey": "24",
+    "TextContent": "날아서 넘어가 보죠!"
+  },
+  {
+    "__pkey": "25",
+    "TextContent": "점프를 하면 날 수 있어요!"
+  },
+  {
+    "__pkey": "26",
+    "TextContent": "지금 점프!"
+  },
+  {
+    "__pkey": "27",
+    "TextContent": "한번 더 점프!"
+  },
+  {
+    "__pkey": "28",
+    "TextContent": "무한한 공간~"
+  },
+  {
+    "__pkey": "29",
+    "TextContent": "만우절을 맞이하여"
+  },
+  {
+    "__pkey": "3",
+    "TextContent": "저 너머로~!"
+  },
+  {
+    "__pkey": "30",
+    "TextContent": "저 너머로~!"
+  },
+  {
+    "__pkey": "31",
+    "TextContent": "저 너머로~!"
+  },
+  {
+    "__pkey": "32",
+    "TextContent": "그럼, 체력을 알려드리죠"
+  },
+  {
+    "__pkey": "33",
+    "TextContent": "왼쪽위 체력바가 보이시죠?"
+  },
+  {
+    "__pkey": "34",
+    "TextContent": "달릴때는 체력이 소모됩니다"
+  },
+  {
+    "__pkey": "35",
+    "TextContent": "부딪히면 많이 깎이구요"
+  },
+  {
+    "__pkey": "36",
+    "TextContent": "네? 부딪혀 보라구요?"
+  },
+  {
+    "__pkey": "37",
+    "TextContent": "(아플텐데...)"
+  },
+  {
+    "__pkey": "38",
+    "TextContent": "악!"
+  },
+  {
+    "__pkey": "39",
+    "TextContent": "특별한걸 준비했어요"
+  },
+  {
+    "__pkey": "4",
+    "TextContent": "아파요 ㅜㅜ"
+  },
+  {
+    "__pkey": "40",
+    "TextContent": "체력이 거의 없네요"
+  },
+  {
+    "__pkey": "41",
+    "TextContent": "곧 회복물약이 나올거에요"
+  },
+  {
+    "__pkey": "42",
+    "TextContent": "앗싸! 회복물약!"
+  },
+  {
+    "__pkey": "43",
+    "TextContent": "휴~ 체력 회복 완료!"
+  },
+  {
+    "__pkey": "44",
+    "TextContent": "회복물약까지의 거리는\n왼쪽 위에 있어요"
+  },
+  {
+    "__pkey": "45",
+    "TextContent": "앗, 조심! 구멍이에요!"
+  },
+  {
+    "__pkey": "46",
+    "TextContent": "부디 조심해주세요"
+  },
+  {
+    "__pkey": "47",
+    "TextContent": "구멍에 빠지면 \n그대로 끝이니까요!"
+  },
+  {
+    "__pkey": "48",
+    "TextContent": "그럼 이것도, 점프!"
+  },
+  {
+    "__pkey": "49",
+    "TextContent": "이름하여..."
+  },
+  {
+    "__pkey": "5",
+    "TextContent": "앗, 한번 더!"
+  },
+  {
+    "__pkey": "50",
+    "TextContent": "오! 확실히 잘하시네요!"
+  },
+  {
+    "__pkey": "51",
+    "TextContent": "이 젤리는 알파벳젤리!"
+  },
+  {
+    "__pkey": "52",
+    "TextContent": "BONUSTIME… ?"
+  },
+  {
+    "__pkey": "53",
+    "TextContent": "다 먹어볼까요?"
+  },
+  {
+    "__pkey": "54",
+    "TextContent": "가볍게 점프!"
+  },
+  {
+    "__pkey": "55",
+    "TextContent": "한번 더!"
+  },
+  {
+    "__pkey": "56",
+    "TextContent": "우왓! 다 먹어버렸네!"
+  },
+  {
+    "__pkey": "57",
+    "TextContent": "오! 이곳은?"
+  },
+  {
+    "__pkey": "58",
+    "TextContent": "보너스타임에 올라왔어요!"
+  },
+  {
+    "__pkey": "59",
+    "TextContent": "몸개그!!"
+  },
+  {
+    "__pkey": "6",
+    "TextContent": "여기선 날아다닐 수 있어요."
+  },
+  {
+    "__pkey": "60",
+    "TextContent": "아무곳이나 누르면 올라가고"
+  },
+  {
+    "__pkey": "61",
+    "TextContent": "떼면 내려가고~"
+  },
+  {
+    "__pkey": "62",
+    "TextContent": "한번 해 보세요"
+  },
+  {
+    "__pkey": "63",
+    "TextContent": "눌렀다~ 말았다~"
+  },
+  {
+    "__pkey": "64",
+    "TextContent": "야호~~~ 신난다~~~!"
+  },
+  {
+    "__pkey": "65",
+    "TextContent": "앗! 벌써 시간이…"
+  },
+  {
+    "__pkey": "66",
+    "TextContent": "내려간다아아아~~"
+  },
+  {
+    "__pkey": "67",
+    "TextContent": "마지막으로 아이템이에요"
+  },
+  {
+    "__pkey": "68",
+    "TextContent": "저기 거대화 물약이 있네요"
+  },
+  {
+    "__pkey": "69",
+    "TextContent": "(=_=);;;;"
+  },
+  {
+    "__pkey": "7",
+    "TextContent": "후훗!"
+  },
+  {
+    "__pkey": "70",
+    "TextContent": "우와! 몸이 커졌다"
+  },
+  {
+    "__pkey": "71",
+    "TextContent": "장애물들아 다 꺼져라!"
+  },
+  {
+    "__pkey": "72",
+    "TextContent": "멋진데? ㅎㅎ"
+  },
+  {
+    "__pkey": "73",
+    "TextContent": "이번엔  광속질주에요"
+  },
+  {
+    "__pkey": "74",
+    "TextContent": "바람처럼 빠르게!"
+  },
+  {
+    "__pkey": "75",
+    "TextContent": "바위처럼 단단하게!"
+  },
+  {
+    "__pkey": "76",
+    "TextContent": "살아있네?"
+  },
+  {
+    "__pkey": "77",
+    "TextContent": "아니 저것은"
+  },
+  {
+    "__pkey": "78",
+    "TextContent": "곰젤리 파티 아이템이네요!"
+  },
+  {
+    "__pkey": "79",
+    "TextContent": "방법은 간단해요"
+  },
+  {
+    "__pkey": "8",
+    "TextContent": "일반젤리가 곰젤리로 변신!"
+  },
+  {
+    "__pkey": "80",
+    "TextContent": "곰젤리는 점수가 제일 높죠"
+  },
+  {
+    "__pkey": "81",
+    "TextContent": "와우! 꽤 많이 바뀌죠?"
+  },
+  {
+    "__pkey": "82",
+    "TextContent": "앗! 자석아이템!"
+  },
+  {
+    "__pkey": "83",
+    "TextContent": "우왓! 대박!"
+  },
+  {
+    "__pkey": "84",
+    "TextContent": "히히"
+  },
+  {
+    "__pkey": "85",
+    "TextContent": "마지막 아이템은"
+  },
+  {
+    "__pkey": "86",
+    "TextContent": "코인마법 아이템이에요"
+  },
+  {
+    "__pkey": "87",
+    "TextContent": "장애물들이 모두"
+  },
+  {
+    "__pkey": "88",
+    "TextContent": "코인으로 변했어요!"
+  },
+  {
+    "__pkey": "89",
+    "TextContent": "장애물이 나타나면"
+  },
+  {
+    "__pkey": "9",
+    "TextContent": "이제 모든 준비가 끝났어요"
+  },
+  {
+    "__pkey": "90",
+    "TextContent": "후훗"
+  },
+  {
+    "__pkey": "91",
+    "TextContent": "튜토리얼을 다시 보시려면"
+  },
+  {
+    "__pkey": "92",
+    "TextContent": "설정에 있는 튜토리얼 \n버튼을 눌르시면 됩니다"
+  },
+  {
+    "__pkey": "93",
+    "TextContent": "이제 절 탈출시켜...앗!"
+  },
+  {
+    "__pkey": "94",
+    "TextContent": "아야! ㅠㅠ"
+  }
+]

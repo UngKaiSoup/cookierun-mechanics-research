@@ -1,0 +1,81 @@
+[
+  {
+    "EpProb_1": "590",
+    "EpProb_2": "410",
+    "EpProb_3": "170",
+    "IsEventJelly": "1",
+    "MaterialName": "눈덩이"
+  },
+  {
+    "__pkey": "1",
+    "EpProb_1": "100",
+    "EpProb_2": "100",
+    "EpProb_3": "100",
+    "IsEventJelly": "0",
+    "MaterialName": "더미5"
+  },
+  {
+    "__pkey": "10",
+    "EpProb_1": "170",
+    "EpProb_2": "170",
+    "EpProb_3": "220",
+    "IsEventJelly": "1",
+    "MaterialName": "단추"
+  },
+  {
+    "__pkey": "2",
+    "EpProb_1": "100",
+    "EpProb_2": "170",
+    "EpProb_3": "250",
+    "IsEventJelly": "1",
+    "MaterialName": "당근"
+  },
+  {
+    "__pkey": "3",
+    "EpProb_1": "100",
+    "EpProb_2": "200",
+    "EpProb_3": "260",
+    "IsEventJelly": "1",
+    "MaterialName": "나무가지"
+  },
+  {
+    "__pkey": "4",
+    "EpProb_1": "40",
+    "EpProb_2": "50",
+    "EpProb_3": "100",
+    "IsEventJelly": "1",
+    "MaterialName": "양동이"
+  },
+  {
+    "__pkey": "5",
+    "EpProb_1": "100",
+    "EpProb_2": "100",
+    "EpProb_3": "100",
+    "IsEventJelly": "0",
+    "MaterialName": "더미1"
+  },
+  {
+    "__pkey": "6",
+    "EpProb_1": "100",
+    "EpProb_2": "100",
+    "EpProb_3": "100",
+    "IsEventJelly": "0",
+    "MaterialName": "더미2"
+  },
+  {
+    "__pkey": "7",
+    "EpProb_1": "100",
+    "EpProb_2": "100",
+    "EpProb_3": "100",
+    "IsEventJelly": "0",
+    "MaterialName": "더미3"
+  },
+  {
+    "__pkey": "8",
+    "EpProb_1": "100",
+    "EpProb_2": "100",
+    "EpProb_3": "100",
+    "IsEventJelly": "0",
+    "MaterialName": "더미4"
+  }
+]

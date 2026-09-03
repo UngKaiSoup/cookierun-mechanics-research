@@ -1,0 +1,69 @@
+[
+  {
+    "FSB_OutGame": ""
+  },
+  {
+    "__pkey": "150327_ch51.fsb",
+    "FSB_OutGame": ""
+  },
+  {
+    "__pkey": "150427_ch52.fsb",
+    "FSB_OutGame": ""
+  },
+  {
+    "__pkey": "Char_47.fsb",
+    "FSB_OutGame": ""
+  },
+  {
+    "__pkey": "Char_48_49.fsb",
+    "FSB_OutGame": ""
+  },
+  {
+    "__pkey": "Char_50.fsb",
+    "FSB_OutGame": "ArtifactOpen.fsb"
+  },
+  {
+    "__pkey": "Char_Abilities_ch45.fsb",
+    "FSB_OutGame": "EnchantMagic.fsb"
+  },
+  {
+    "__pkey": "Char_Abilities_ch46.fsb",
+    "FSB_OutGame": "EvolutionTreasure.fsb"
+  },
+  {
+    "__pkey": "Char_Jump_ch45.fsb",
+    "FSB_OutGame": "MisteryBoxOpen.fsb"
+  },
+  {
+    "__pkey": "Char_Jump_ch46.fsb",
+    "FSB_OutGame": "RandomPetAndTreasure.fsb"
+  },
+  {
+    "__pkey": "Char_Jumps.fsb",
+    "FSB_OutGame": "Result.fsb"
+  },
+  {
+    "__pkey": "Char_Pet_Abilities.fsb",
+    "FSB_OutGame": "Shop.fsb"
+  },
+  {
+    "__pkey": "Char_Slide_ch45.fsb",
+    "FSB_OutGame": "SoundEff_Common.fsb"
+  },
+  {
+    "__pkey": "Char_Slide_ch46.fsb",
+    "FSB_OutGame": "SoundEff_UI.fsb"
+  },
+  {
+    "__pkey": "Char_Slides.fsb",
+    "FSB_OutGame": ""
+  },
+  {
+    "__pkey": "Passive_pet57_pet58.fsb",
+    "FSB_OutGame": "UpgradeTreasure.fsb"
+  },
+  {
+    "__pkey": "PlatformAndObstacles.fsb",
+    "FSB_OutGame": ""
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "AlphabetString": "0123456789ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+    "BanString": "023456789",
+    "CollectibleItemStartId": "200",
+    "CreateAfterFull": "1",
+    "EventAlphabetProb": "350",
+    "EventEndTime": "2015-02-03 16:59:59",
+    "EventJellyStartId": "4701",
+    "EventStartTime": "2015-01-23 11:00:01",
+    "EventString": "COOKIERUN1STANNIVERSARY",
+    "JellyMaxHeight": "160",
+    "JellyMinHeight": "60",
+    "MissionId": "2109",
+    "OneGameLimitMax": "15",
+    "OneGameLimitMin": "13"
+  }
+]

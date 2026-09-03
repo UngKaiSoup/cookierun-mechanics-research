@@ -1,0 +1,21 @@
+[
+  {
+    "distribution": "UNIFORM",
+    "prob_info": "1:1"
+  },
+  {
+    "__pkey": "1",
+    "distribution": "EASY",
+    "prob_info": "1:1,2:2,5:4,9:8"
+  },
+  {
+    "__pkey": "2",
+    "distribution": "NORMAL",
+    "prob_info": "1:1,2:2,3:3,4:4,5:3,6:2,7:1"
+  },
+  {
+    "__pkey": "3",
+    "distribution": "HARD",
+    "prob_info": "3:5,5:0,6:1"
+  }
+]

@@ -1,0 +1,16 @@
+[
+  {
+    "availbleMarket": "AG",
+    "briefMessage": "3,6,9 이벤트의 추억",
+    "deleteDt": "3013-07-09 11:00:00",
+    "endDt": "3013-07-09 11:00:00",
+    "eventId": "MisterPizzaSaladCoupon",
+    "hdImageLink": "http://devsisters-cookierun-event.s3.amazonaws.com/event/0523_369Event/image_notice038@2x.png",
+    "sdImageLink": "http://devsisters-cookierun-event.s3.amazonaws.com/event/0523_369Event/image_notice038.png",
+    "startDt": "3013-04-09 11:00:00",
+    "unlockConditionId": "14",
+    "unlockRelation": "1",
+    "unlockRequiredAmount": "3013000000",
+    "usingServerTimeZone": "1"
+  }
+]

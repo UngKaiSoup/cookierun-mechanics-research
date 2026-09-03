@@ -1,0 +1,6 @@
+[
+  {
+    "message": "{{{nickname}}}님이 쿠키런에서 %d 점으로 신기록을 갱신하였습니다.",
+    "pluralMessage": "{{{nickname}}}님 외 {{{count}}}명이 쿠키런에서 신기록을 갱신하였습니다."
+  }
+]

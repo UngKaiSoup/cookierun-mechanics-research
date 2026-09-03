@@ -1,0 +1,29 @@
+[
+  {
+    "ImageName": "invite_gift_ch13.png",
+    "RewardViewValue": "1",
+    "StuffSeq": "101300",
+    "inviteCount": "10"
+  },
+  {
+    "__pkey": "1",
+    "ImageName": "invite_gift_pet29.png",
+    "RewardViewValue": "1",
+    "StuffSeq": "803",
+    "inviteCount": "20"
+  },
+  {
+    "__pkey": "2",
+    "ImageName": "invite_gift_tr_inven_plus.png",
+    "RewardViewValue": "1",
+    "StuffSeq": "4002",
+    "inviteCount": "30"
+  },
+  {
+    "__pkey": "3",
+    "ImageName": "invite_gift_gem.png",
+    "RewardViewValue": "50",
+    "StuffSeq": "711",
+    "inviteCount": "40"
+  }
+]

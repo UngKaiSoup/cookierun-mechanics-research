@@ -1,0 +1,417 @@
+[
+  {
+    "doughSeq": "80001",
+    "rewardDesc": "갈색~은빛",
+    "rewardIconFrame": "reward_icon_dough.png",
+    "rewardIconPlist": "bc_reward_icon.plist",
+    "rewardName": "행운반죽"
+  },
+  {
+    "__pkey": "1001",
+    "doughSeq": "80001",
+    "rewardDesc": "5~20개",
+    "rewardIconFrame": "reward_icon_heart_small.png",
+    "rewardIconPlist": "bc_reward_icon.plist",
+    "rewardName": "생명"
+  },
+  {
+    "__pkey": "1002",
+    "doughSeq": "80001",
+    "rewardDesc": "100~300",
+    "rewardIconFrame": "reward_icon_gift_small.png",
+    "rewardIconPlist": "bc_reward_icon.plist",
+    "rewardName": "선물포인트"
+  },
+  {
+    "__pkey": "1003",
+    "doughSeq": "80001",
+    "rewardDesc": "1~3세트",
+    "rewardIconFrame": "reward_icon_boostset.png",
+    "rewardIconPlist": "bc_reward_icon.plist",
+    "rewardName": "부스트세트"
+  },
+  {
+    "__pkey": "1004",
+    "doughSeq": "80001",
+    "rewardDesc": "소~중",
+    "rewardIconFrame": "reward_icon_xp_small.png",
+    "rewardIconPlist": "bc_reward_icon.plist",
+    "rewardName": "경험의 영약"
+  },
+  {
+    "__pkey": "1005",
+    "doughSeq": "80001",
+    "rewardDesc": "3~5개",
+    "rewardIconFrame": "reward_icon_key_small.png",
+    "rewardIconPlist": "bc_reward_icon.plist",
+    "rewardName": "열쇠"
+  },
+  {
+    "__pkey": "1006",
+    "doughSeq": "80001",
+    "rewardDesc": "100~800",
+    "rewardIconFrame": "reward_icon_spell_small.png",
+    "rewardIconPlist": "bc_reward_icon.plist",
+    "rewardName": "마법가루"
+  },
+  {
+    "__pkey": "1007",
+    "doughSeq": "80001",
+    "rewardDesc": "1개",
+    "rewardIconFrame": "event_mt_S_set.png",
+    "rewardIconPlist": "bc_reward_icon.plist",
+    "rewardName": "S급재료"
+  },
+  {
+    "__pkey": "1008",
+    "doughSeq": "80001",
+    "rewardDesc": "3~5칸",
+    "rewardIconFrame": "reward_icon_inven_plus.png",
+    "rewardIconPlist": "bc_reward_icon.plist",
+    "rewardName": "보물함 확장"
+  },
+  {
+    "__pkey": "1009",
+    "doughSeq": "80001",
+    "rewardDesc": "1개",
+    "rewardIconFrame": "reward_icon_trTicketS_small.png",
+    "rewardIconPlist": "bc_reward_icon.plist",
+    "rewardName": "고급보물뽑기권"
+  },
+  {
+    "__pkey": "1010",
+    "doughSeq": "80001",
+    "rewardDesc": "1개",
+    "rewardIconFrame": "reward_icon_trTicketSS_small.png",
+    "rewardIconPlist": "bc_reward_icon.plist",
+    "rewardName": "최고급보물뽑기권"
+  },
+  {
+    "__pkey": "1011",
+    "doughSeq": "80001",
+    "rewardDesc": "1,000~10,000",
+    "rewardIconFrame": "reward_icon_coin_small.png",
+    "rewardIconPlist": "bc_reward_icon.plist",
+    "rewardName": "코인"
+  },
+  {
+    "__pkey": "1012",
+    "doughSeq": "80001",
+    "rewardDesc": "1~5개",
+    "rewardIconFrame": "reward_icon_crystal_small.png",
+    "rewardIconPlist": "bc_reward_icon.plist",
+    "rewardName": "크리스탈"
+  },
+  {
+    "__pkey": "1013",
+    "doughSeq": "80002",
+    "rewardDesc": "갈색~금빛",
+    "rewardIconFrame": "reward_icon_dough.png",
+    "rewardIconPlist": "bc_reward_icon.plist",
+    "rewardName": "행운반죽"
+  },
+  {
+    "__pkey": "2001",
+    "doughSeq": "80002",
+    "rewardDesc": "10~30개",
+    "rewardIconFrame": "reward_icon_heart_small.png",
+    "rewardIconPlist": "bc_reward_icon.plist",
+    "rewardName": "생명"
+  },
+  {
+    "__pkey": "2002",
+    "doughSeq": "80002",
+    "rewardDesc": "200~500",
+    "rewardIconFrame": "reward_icon_gift_small.png",
+    "rewardIconPlist": "bc_reward_icon.plist",
+    "rewardName": "선물포인트"
+  },
+  {
+    "__pkey": "2003",
+    "doughSeq": "80002",
+    "rewardDesc": "1~5세트",
+    "rewardIconFrame": "reward_icon_boostset.png",
+    "rewardIconPlist": "bc_reward_icon.plist",
+    "rewardName": "부스트세트"
+  },
+  {
+    "__pkey": "2004",
+    "doughSeq": "80002",
+    "rewardDesc": "소~대",
+    "rewardIconFrame": "reward_icon_xp_small.png",
+    "rewardIconPlist": "bc_reward_icon.plist",
+    "rewardName": "경험의 영약"
+  },
+  {
+    "__pkey": "2005",
+    "doughSeq": "80002",
+    "rewardDesc": "3~10개",
+    "rewardIconFrame": "reward_icon_key_small.png",
+    "rewardIconPlist": "bc_reward_icon.plist",
+    "rewardName": "열쇠"
+  },
+  {
+    "__pkey": "2006",
+    "doughSeq": "80002",
+    "rewardDesc": "400~3,000",
+    "rewardIconFrame": "reward_icon_spell_small.png",
+    "rewardIconPlist": "bc_reward_icon.plist",
+    "rewardName": "마법가루"
+  },
+  {
+    "__pkey": "2007",
+    "doughSeq": "80002",
+    "rewardDesc": "1개",
+    "rewardIconFrame": "event_mt_S_set.png",
+    "rewardIconPlist": "bc_reward_icon.plist",
+    "rewardName": "S급재료"
+  },
+  {
+    "__pkey": "2008",
+    "doughSeq": "80002",
+    "rewardDesc": "1개",
+    "rewardIconFrame": "event_mt_SS_set.png",
+    "rewardIconPlist": "bc_reward_icon.plist",
+    "rewardName": "SS급재료"
+  },
+  {
+    "__pkey": "2009",
+    "doughSeq": "80002",
+    "rewardDesc": "3~10칸",
+    "rewardIconFrame": "reward_icon_inven_plus.png",
+    "rewardIconPlist": "bc_reward_icon.plist",
+    "rewardName": "보물함 확장"
+  },
+  {
+    "__pkey": "2010",
+    "doughSeq": "80002",
+    "rewardDesc": "1개",
+    "rewardIconFrame": "reward_icon_trTicketSS_small.png",
+    "rewardIconPlist": "bc_reward_icon.plist",
+    "rewardName": "최고급보물뽑기권"
+  },
+  {
+    "__pkey": "2011",
+    "doughSeq": "80002",
+    "rewardDesc": "1회",
+    "rewardIconFrame": "reward_icon_treasure_set_small.png",
+    "rewardIconPlist": "bc_reward_icon.plist",
+    "rewardName": "S급보장 보물뽑기"
+  },
+  {
+    "__pkey": "2012",
+    "doughSeq": "80002",
+    "rewardDesc": "3,000~20,000",
+    "rewardIconFrame": "reward_icon_coin_small.png",
+    "rewardIconPlist": "bc_reward_icon.plist",
+    "rewardName": "코인"
+  },
+  {
+    "__pkey": "2013",
+    "doughSeq": "80002",
+    "rewardDesc": "3~15개",
+    "rewardIconFrame": "reward_icon_crystal_small.png",
+    "rewardIconPlist": "bc_reward_icon.plist",
+    "rewardName": "크리스탈"
+  },
+  {
+    "__pkey": "2014",
+    "doughSeq": "80003",
+    "rewardDesc": "갈색~무지개빛",
+    "rewardIconFrame": "reward_icon_dough.png",
+    "rewardIconPlist": "bc_reward_icon.plist",
+    "rewardName": "행운반죽"
+  },
+  {
+    "__pkey": "3001",
+    "doughSeq": "80003",
+    "rewardDesc": "20~50개",
+    "rewardIconFrame": "reward_icon_heart_small.png",
+    "rewardIconPlist": "bc_reward_icon.plist",
+    "rewardName": "생명"
+  },
+  {
+    "__pkey": "3002",
+    "doughSeq": "80003",
+    "rewardDesc": "300~800",
+    "rewardIconFrame": "reward_icon_gift_small.png",
+    "rewardIconPlist": "bc_reward_icon.plist",
+    "rewardName": "선물포인트"
+  },
+  {
+    "__pkey": "3003",
+    "doughSeq": "80003",
+    "rewardDesc": "3~7세트",
+    "rewardIconFrame": "reward_icon_boostset.png",
+    "rewardIconPlist": "bc_reward_icon.plist",
+    "rewardName": "부스트세트"
+  },
+  {
+    "__pkey": "3004",
+    "doughSeq": "80003",
+    "rewardDesc": "중~특대",
+    "rewardIconFrame": "reward_icon_xp_small.png",
+    "rewardIconPlist": "bc_reward_icon.plist",
+    "rewardName": "경험의 영약"
+  },
+  {
+    "__pkey": "3005",
+    "doughSeq": "80003",
+    "rewardDesc": "5~15개",
+    "rewardIconFrame": "reward_icon_key_big.png",
+    "rewardIconPlist": "bc_reward_icon.plist",
+    "rewardName": "열쇠"
+  },
+  {
+    "__pkey": "3006",
+    "doughSeq": "80003",
+    "rewardDesc": "500~5,000",
+    "rewardIconFrame": "reward_icon_spell_small.png",
+    "rewardIconPlist": "bc_reward_icon.plist",
+    "rewardName": "마법가루"
+  },
+  {
+    "__pkey": "3007",
+    "doughSeq": "80003",
+    "rewardDesc": "1개",
+    "rewardIconFrame": "event_mt_S_set.png",
+    "rewardIconPlist": "bc_reward_icon.plist",
+    "rewardName": "S급재료"
+  },
+  {
+    "__pkey": "3008",
+    "doughSeq": "80003",
+    "rewardDesc": "1개",
+    "rewardIconFrame": "event_mt_SS_set.png",
+    "rewardIconPlist": "bc_reward_icon.plist",
+    "rewardName": "SS급재료"
+  },
+  {
+    "__pkey": "3009",
+    "doughSeq": "80003",
+    "rewardDesc": "3~10칸",
+    "rewardIconFrame": "reward_icon_inven_plus.png",
+    "rewardIconPlist": "bc_reward_icon.plist",
+    "rewardName": "보물함 확장"
+  },
+  {
+    "__pkey": "3010",
+    "doughSeq": "80003",
+    "rewardDesc": "1개",
+    "rewardIconFrame": "reward_icon_trTicketSS_small.png",
+    "rewardIconPlist": "bc_reward_icon.plist",
+    "rewardName": "최고급보물뽑기권"
+  },
+  {
+    "__pkey": "3011",
+    "doughSeq": "80003",
+    "rewardDesc": "1~3회",
+    "rewardIconFrame": "reward_icon_treasure_set_small.png",
+    "rewardIconPlist": "bc_reward_icon.plist",
+    "rewardName": "S급보장 보물뽑기"
+  },
+  {
+    "__pkey": "3012",
+    "doughSeq": "80003",
+    "rewardDesc": "5,000~30,000",
+    "rewardIconFrame": "reward_icon_coin_big.png",
+    "rewardIconPlist": "bc_reward_icon.plist",
+    "rewardName": "코인"
+  },
+  {
+    "__pkey": "3013",
+    "doughSeq": "80003",
+    "rewardDesc": "5~30개",
+    "rewardIconFrame": "reward_icon_crystal_small.png",
+    "rewardIconPlist": "bc_reward_icon.plist",
+    "rewardName": "크리스탈"
+  },
+  {
+    "__pkey": "3014",
+    "doughSeq": "80004",
+    "rewardDesc": "갈색~무지개빛",
+    "rewardIconFrame": "reward_icon_dough.png",
+    "rewardIconPlist": "bc_reward_icon.plist",
+    "rewardName": "행운반죽"
+  },
+  {
+    "__pkey": "4001",
+    "doughSeq": "80004",
+    "rewardDesc": "500~1000",
+    "rewardIconFrame": "reward_icon_gift_small.png",
+    "rewardIconPlist": "bc_reward_icon.plist",
+    "rewardName": "선물포인트"
+  },
+  {
+    "__pkey": "4002",
+    "doughSeq": "80004",
+    "rewardDesc": "대~특특대",
+    "rewardIconFrame": "reward_icon_xp_small.png",
+    "rewardIconPlist": "bc_reward_icon.plist",
+    "rewardName": "경험의 영약"
+  },
+  {
+    "__pkey": "4003",
+    "doughSeq": "80004",
+    "rewardDesc": "10~20개",
+    "rewardIconFrame": "reward_icon_key_big.png",
+    "rewardIconPlist": "bc_reward_icon.plist",
+    "rewardName": "열쇠"
+  },
+  {
+    "__pkey": "4004",
+    "doughSeq": "80004",
+    "rewardDesc": "2,000~8,000",
+    "rewardIconFrame": "reward_icon_spell_small.png",
+    "rewardIconPlist": "bc_reward_icon.plist",
+    "rewardName": "마법가루"
+  },
+  {
+    "__pkey": "4005",
+    "doughSeq": "80004",
+    "rewardDesc": "1개",
+    "rewardIconFrame": "event_mt_SS_set.png",
+    "rewardIconPlist": "bc_reward_icon.plist",
+    "rewardName": "SS급재료"
+  },
+  {
+    "__pkey": "4006",
+    "doughSeq": "80004",
+    "rewardDesc": "3~15칸",
+    "rewardIconFrame": "reward_icon_inven_plus.png",
+    "rewardIconPlist": "bc_reward_icon.plist",
+    "rewardName": "보물함 확장"
+  },
+  {
+    "__pkey": "4007",
+    "doughSeq": "80004",
+    "rewardDesc": "1개",
+    "rewardIconFrame": "reward_icon_trTicketSS_small.png",
+    "rewardIconPlist": "bc_reward_icon.plist",
+    "rewardName": "최고급보물뽑기권"
+  },
+  {
+    "__pkey": "4008",
+    "doughSeq": "80004",
+    "rewardDesc": "1~7회",
+    "rewardIconFrame": "reward_icon_treasure_set_small.png",
+    "rewardIconPlist": "bc_reward_icon.plist",
+    "rewardName": "S급보장 보물뽑기"
+  },
+  {
+    "__pkey": "4009",
+    "doughSeq": "80004",
+    "rewardDesc": "10,000~50,000",
+    "rewardIconFrame": "reward_icon_coin_big.png",
+    "rewardIconPlist": "bc_reward_icon.plist",
+    "rewardName": "코인"
+  },
+  {
+    "__pkey": "4010",
+    "doughSeq": "80004",
+    "rewardDesc": "10~100개",
+    "rewardIconFrame": "reward_icon_crystal_big.png",
+    "rewardIconPlist": "bc_reward_icon.plist",
+    "rewardName": "크리스탈"
+  }
+]

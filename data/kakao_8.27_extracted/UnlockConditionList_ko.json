@@ -1,0 +1,649 @@
+[
+  {
+    "Description_1": "300점 달성",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "1",
+    "Description_1": "450,000점 달성",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "10",
+    "Description_1": "쿠키 52개 이상 보유",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "100",
+    "Description_1": "+9강화 보물 30개 보유",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "101",
+    "Description_1": "S급 진화 보물 25개 보유",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "102",
+    "Description_1": "S급 보물 70개 보유",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "103",
+    "Description_1": "캐스터네츠 펫 보유",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "104",
+    "Description_1": "찹쌀 하프물범 펫 보유",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "105",
+    "Description_1": "레벨 76 달성",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "106",
+    "Description_1": "쿠키 56개 이상 보유",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "107",
+    "Description_1": "쿠키들의 따뜻한 마음 100개 획득",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "108",
+    "Description_1": "600,000점 달성",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "11",
+    "Description_1": "친구 3명",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "12",
+    "Description_1": "친구 10명",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "13",
+    "Description_1": "친구 20명",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "14",
+    "Description_1": "친구 30명",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "15",
+    "Description_1": "친구 35명",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "16",
+    "Description_1": "친구 40명",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "17",
+    "Description_1": "친구 45명",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "18",
+    "Description_1": "친구 50명",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "19",
+    "Description_1": "1,000점 달성",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "2",
+    "Description_1": "친구 60명",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "20",
+    "Description_1": "친구 75명",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "21",
+    "Description_1": "친구 120명",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "22",
+    "Description_1": "친구 150명",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "23",
+    "Description_1": "친구 100명",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "24",
+    "Description_1": "레벨 2 달성",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "25",
+    "Description_1": "레벨 5 달성",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "26",
+    "Description_1": "레벨 8 달성",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "27",
+    "Description_1": "레벨 15 달성",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "28",
+    "Description_1": "레벨 20 달성",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "29",
+    "Description_1": "5,000점 달성",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "3",
+    "Description_1": "레벨 25 달성",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "30",
+    "Description_1": "레벨 30 달성",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "31",
+    "Description_1": "레벨 35 달성",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "32",
+    "Description_1": "레벨 40 달성",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "33",
+    "Description_1": "레벨 45 달성",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "34",
+    "Description_1": "레벨 50 달성",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "35",
+    "Description_1": "닌자맛 쿠키 보유",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "36",
+    "Description_1": "닌자맛 쿠키 보유",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "37",
+    "Description_1": "닌자맛 쿠키 보유",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "38",
+    "Description_1": "닌자맛 쿠키 보유",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "39",
+    "Description_1": "30,000점 달성",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "4",
+    "Description_1": "닌자맛 쿠키 보유",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "40",
+    "Description_1": "만렙 폭탄펫 보유",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "41",
+    "Description_1": "만렙 폭탄펫 보유",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "42",
+    "Description_1": "만렙 폭탄펫 보유",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "43",
+    "Description_1": "만렙 폭탄펫 보유",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "44",
+    "Description_1": "만렙 폭탄펫 보유",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "45",
+    "Description_1": "쿠키 3개 이상 보유",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "46",
+    "Description_1": "쿠키 5개 이상 보유",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "47",
+    "Description_1": "쿠키 15개 이상 보유",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "48",
+    "Description_1": "펫 3개 이상 보유",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "49",
+    "Description_1": "30,000점 달성",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "5",
+    "Description_1": "펫 5개 이상 보유",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "50",
+    "Description_1": "펫 10개 이상 보유",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "51",
+    "Description_1": "펫 15개 이상 보유",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "52",
+    "Description_1": "펫 20개 이상 보유",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "53",
+    "Description_1": "체력레벨 10",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "54",
+    "Description_1": "체력레벨 15",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "55",
+    "Description_1": "체력레벨 20",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "56",
+    "Description_1": "젤리레벨 10",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "57",
+    "Description_1": "젤리레벨 15",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "58",
+    "Description_1": "젤리레벨 20",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "59",
+    "Description_1": "50,000점 달성",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "6",
+    "Description_1": "보너스타임 레벨 10",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "60",
+    "Description_1": "보너스타임 레벨 15",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "61",
+    "Description_1": "보너스타임 레벨 20",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "62",
+    "Description_1": "만렙인 쿠키를 10개 보유",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "63",
+    "Description_1": "만렙인 펫을 12개 보유",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "64",
+    "Description_1": "친구 120명",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "65",
+    "Description_1": "레벨 55 달성",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "66",
+    "Description_1": "만렙인 펫을 16개 보유",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "67",
+    "Description_1": "보물 20개 보유",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "68",
+    "Description_1": "+9강화 보물 5개 보유",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "69",
+    "Description_1": "180,000점 달성",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "7",
+    "Description_1": "+9강화 보물 8개 보유",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "70",
+    "Description_1": "레벨 57 달성",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "71",
+    "Description_1": "S급 보물 12개 보유",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "72",
+    "Description_1": "친구 160명",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "73",
+    "Description_1": "만렙인 쿠키를 20개 보유",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "74",
+    "Description_1": "쿠키 10개 이상 보유",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "75",
+    "Description_1": "펫 12개 이상 보유",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "76",
+    "Description_1": "레벨 60 달성",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "77",
+    "Description_1": "+9강화 보물 11개 보유",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "78",
+    "Description_1": "S급 보물 17개 보유",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "79",
+    "Description_1": "100,000점 달성",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "8",
+    "Description_1": "체력레벨 50",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "80",
+    "Description_1": "펫 24개 이상 보유",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "81",
+    "Description_1": "만렙인 쿠키를 25개 보유",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "82",
+    "Description_1": "친구 200명",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "83",
+    "Description_1": "+9강화 보물 16개 보유",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "84",
+    "Description_1": "S급 보물 25개 보유",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "85",
+    "Description_1": "만렙인 펫을 25개 보유",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "86",
+    "Description_1": "진화 보물 5개 보유",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "87",
+    "Description_1": "쿠키 40개 이상 보유",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "88",
+    "Description_1": "S급 보물 30개 보유",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "89",
+    "Description_1": "300,000점 달성",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "9",
+    "Description_1": "친구 125명",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "90",
+    "Description_1": "S급 진화 보물 10개 보유",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "91",
+    "Description_1": "레벨 70 달성",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "92",
+    "Description_1": "S급 진화 보물 20개 보유",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "93",
+    "Description_1": "펫 50개 이상 보유",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "94",
+    "Description_1": "만렙인 쿠키를 42개 보유",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "95",
+    "Description_1": "S급 보물 60개 보유",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "96",
+    "Description_1": "레벨 74 달성",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "97",
+    "Description_1": "쿠키 51개 이상 보유",
+    "Description_2": "0",
+    "Description_3": "0"
+  },
+  {
+    "__pkey": "98",
+    "Description_1": "레벨 75 달성",
+    "Description_2": "0",
+    "Description_3": "0"
+  }
+]

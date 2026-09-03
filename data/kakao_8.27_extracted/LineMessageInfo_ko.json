@@ -1,0 +1,21 @@
+[
+  {
+    "messageText": "[{title}]\n\n생명 받으세요. 더 신나는 달리기게임 쿠키런! 함께 달려요~★ 런!런!~"
+  },
+  {
+    "__pkey": "1",
+    "messageText": "[{title}]\n\n이겼어요. 움하하하하! {score}점이라는! 런!런!"
+  },
+  {
+    "__pkey": "2",
+    "messageText": "[{title}]\n\n후훗! 전 이번주 순위권! ^^ 런!런!"
+  },
+  {
+    "__pkey": "3",
+    "messageText": "[{title}]\n\n{score}점 달성! ^^ 런!런!"
+  },
+  {
+    "__pkey": "4",
+    "messageText": "[{title}]\n\n더 신나는 라인 달리기게임이 나왔어요. 함께 달려요! 런!런!"
+  }
+]

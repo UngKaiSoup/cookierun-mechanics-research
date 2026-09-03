@@ -1,0 +1,31 @@
+[
+  {
+    "EpisodeId_1": "1",
+    "EpisodeId_2": "2",
+    "EpisodeId_3": "3",
+    "EpisodeId_4": "4",
+    "EpisodeId_5": "501",
+    "EventEndTime": "2015-03-31 23:59:59",
+    "EventStartTime": "2015-03-31 00:00:01",
+    "IsShowComplete": "1",
+    "IsShowOnMap": "1",
+    "IsShowRankCell": "1",
+    "IsShowWithMyCell": "1",
+    "MaxScore_1": "300000000",
+    "MaxScore_2": "300000000",
+    "MaxScore_3": "300000000",
+    "MaxScore_4": "300000000",
+    "MaxScore_501": "50000",
+    "MinScore_1": "1000000",
+    "MinScore_2": "1000000",
+    "MinScore_3": "1000000",
+    "MinScore_4": "1000000",
+    "MinScore_501": "2000",
+    "MissionId_1": "2356",
+    "MissionId_2": "2357",
+    "MissionId_3": "2358",
+    "MissionId_4": "2359",
+    "MissionId_501": "2360",
+    "noticeId": "335"
+  }
+]

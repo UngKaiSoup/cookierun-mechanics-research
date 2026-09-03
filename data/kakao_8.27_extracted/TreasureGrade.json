@@ -1,0 +1,5909 @@
+[
+  {
+    "filter1": "4",
+    "filter2": "0",
+    "grade": "C",
+    "group_seq": "1100100"
+  },
+  {
+    "__pkey": "1",
+    "filter1": "4",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1101000"
+  },
+  {
+    "__pkey": "10",
+    "filter1": "6",
+    "filter2": "5",
+    "grade": "S",
+    "group_seq": "1204000"
+  },
+  {
+    "__pkey": "100",
+    "filter1": "5",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1204100"
+  },
+  {
+    "__pkey": "101",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1204200"
+  },
+  {
+    "__pkey": "102",
+    "filter1": "0",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "1204300"
+  },
+  {
+    "__pkey": "103",
+    "filter1": "2",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1204400"
+  },
+  {
+    "__pkey": "104",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1204500"
+  },
+  {
+    "__pkey": "105",
+    "filter1": "0",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "1204600"
+  },
+  {
+    "__pkey": "106",
+    "filter1": "4",
+    "filter2": "2",
+    "grade": "S",
+    "group_seq": "1204700"
+  },
+  {
+    "__pkey": "107",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1204800"
+  },
+  {
+    "__pkey": "108",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1204900"
+  },
+  {
+    "__pkey": "109",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1101100"
+  },
+  {
+    "__pkey": "11",
+    "filter1": "4",
+    "filter2": "5",
+    "grade": "S",
+    "group_seq": "1205000"
+  },
+  {
+    "__pkey": "110",
+    "filter1": "4",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1205100"
+  },
+  {
+    "__pkey": "111",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1205200"
+  },
+  {
+    "__pkey": "112",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1205300"
+  },
+  {
+    "__pkey": "113",
+    "filter1": "2",
+    "filter2": "2",
+    "grade": "S",
+    "group_seq": "1205400"
+  },
+  {
+    "__pkey": "114",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1205600"
+  },
+  {
+    "__pkey": "115",
+    "filter1": "6",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "1205700"
+  },
+  {
+    "__pkey": "116",
+    "filter1": "3",
+    "filter2": "2",
+    "grade": "S",
+    "group_seq": "1205800"
+  },
+  {
+    "__pkey": "117",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1205900"
+  },
+  {
+    "__pkey": "118",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1206000"
+  },
+  {
+    "__pkey": "119",
+    "filter1": "1",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1101200"
+  },
+  {
+    "__pkey": "12",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1206100"
+  },
+  {
+    "__pkey": "120",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1206200"
+  },
+  {
+    "__pkey": "121",
+    "filter1": "0",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "1206300"
+  },
+  {
+    "__pkey": "122",
+    "filter1": "4",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1206400"
+  },
+  {
+    "__pkey": "123",
+    "filter1": "2",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1206500"
+  },
+  {
+    "__pkey": "124",
+    "filter1": "3",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1206600"
+  },
+  {
+    "__pkey": "125",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1206700"
+  },
+  {
+    "__pkey": "126",
+    "filter1": "0",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "1206800"
+  },
+  {
+    "__pkey": "127",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1206900"
+  },
+  {
+    "__pkey": "128",
+    "filter1": "2",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1207000"
+  },
+  {
+    "__pkey": "129",
+    "filter1": "4",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1101300"
+  },
+  {
+    "__pkey": "13",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1207100"
+  },
+  {
+    "__pkey": "130",
+    "filter1": "4",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "1207200"
+  },
+  {
+    "__pkey": "131",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1207300"
+  },
+  {
+    "__pkey": "132",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1207400"
+  },
+  {
+    "__pkey": "133",
+    "filter1": "0",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "1207500"
+  },
+  {
+    "__pkey": "134",
+    "filter1": "2",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1207600"
+  },
+  {
+    "__pkey": "135",
+    "filter1": "2",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1207700"
+  },
+  {
+    "__pkey": "136",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1290100"
+  },
+  {
+    "__pkey": "137",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1290200"
+  },
+  {
+    "__pkey": "138",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1300100"
+  },
+  {
+    "__pkey": "139",
+    "filter1": "4",
+    "filter2": "0",
+    "grade": "B",
+    "group_seq": "1101400"
+  },
+  {
+    "__pkey": "14",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1300200"
+  },
+  {
+    "__pkey": "140",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1300400"
+  },
+  {
+    "__pkey": "141",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1300500"
+  },
+  {
+    "__pkey": "142",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1300600"
+  },
+  {
+    "__pkey": "143",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1300700"
+  },
+  {
+    "__pkey": "144",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1300800"
+  },
+  {
+    "__pkey": "145",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1300900"
+  },
+  {
+    "__pkey": "146",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1301000"
+  },
+  {
+    "__pkey": "147",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1301100"
+  },
+  {
+    "__pkey": "148",
+    "filter1": "2",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1301200"
+  },
+  {
+    "__pkey": "149",
+    "filter1": "5",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1101500"
+  },
+  {
+    "__pkey": "15",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1301300"
+  },
+  {
+    "__pkey": "150",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1301400"
+  },
+  {
+    "__pkey": "151",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1301500"
+  },
+  {
+    "__pkey": "152",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "B",
+    "group_seq": "1301600"
+  },
+  {
+    "__pkey": "153",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "B",
+    "group_seq": "1301700"
+  },
+  {
+    "__pkey": "154",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "B",
+    "group_seq": "1301800"
+  },
+  {
+    "__pkey": "155",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "B",
+    "group_seq": "1301900"
+  },
+  {
+    "__pkey": "156",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "B",
+    "group_seq": "1302000"
+  },
+  {
+    "__pkey": "157",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "B",
+    "group_seq": "1302100"
+  },
+  {
+    "__pkey": "158",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "B",
+    "group_seq": "1302200"
+  },
+  {
+    "__pkey": "159",
+    "filter1": "3",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1101600"
+  },
+  {
+    "__pkey": "16",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "B",
+    "group_seq": "1302300"
+  },
+  {
+    "__pkey": "160",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "B",
+    "group_seq": "1302400"
+  },
+  {
+    "__pkey": "161",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "B",
+    "group_seq": "1302500"
+  },
+  {
+    "__pkey": "162",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "B",
+    "group_seq": "1302600"
+  },
+  {
+    "__pkey": "163",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "B",
+    "group_seq": "1302700"
+  },
+  {
+    "__pkey": "164",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "B",
+    "group_seq": "1302800"
+  },
+  {
+    "__pkey": "165",
+    "filter1": "4",
+    "filter2": "0",
+    "grade": "C",
+    "group_seq": "1302900"
+  },
+  {
+    "__pkey": "166",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "C",
+    "group_seq": "1303000"
+  },
+  {
+    "__pkey": "167",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "C",
+    "group_seq": "1303100"
+  },
+  {
+    "__pkey": "168",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "C",
+    "group_seq": "1303200"
+  },
+  {
+    "__pkey": "169",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1101800"
+  },
+  {
+    "__pkey": "17",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "C",
+    "group_seq": "1303300"
+  },
+  {
+    "__pkey": "170",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "C",
+    "group_seq": "1303400"
+  },
+  {
+    "__pkey": "171",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "C",
+    "group_seq": "1303500"
+  },
+  {
+    "__pkey": "172",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "C",
+    "group_seq": "1303600"
+  },
+  {
+    "__pkey": "173",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "C",
+    "group_seq": "1303700"
+  },
+  {
+    "__pkey": "174",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "C",
+    "group_seq": "1303800"
+  },
+  {
+    "__pkey": "175",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "C",
+    "group_seq": "1303900"
+  },
+  {
+    "__pkey": "176",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "C",
+    "group_seq": "1304000"
+  },
+  {
+    "__pkey": "177",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "C",
+    "group_seq": "1304100"
+  },
+  {
+    "__pkey": "178",
+    "filter1": "1",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1304200"
+  },
+  {
+    "__pkey": "179",
+    "filter1": "4",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1101900"
+  },
+  {
+    "__pkey": "18",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1304300"
+  },
+  {
+    "__pkey": "180",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1304400"
+  },
+  {
+    "__pkey": "181",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1304500"
+  },
+  {
+    "__pkey": "182",
+    "filter1": "5",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1304600"
+  },
+  {
+    "__pkey": "183",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1304700"
+  },
+  {
+    "__pkey": "184",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1304800"
+  },
+  {
+    "__pkey": "185",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1304900"
+  },
+  {
+    "__pkey": "186",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1305000"
+  },
+  {
+    "__pkey": "187",
+    "filter1": "2",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1305100"
+  },
+  {
+    "__pkey": "188",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1305200"
+  },
+  {
+    "__pkey": "189",
+    "filter1": "4",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1102000"
+  },
+  {
+    "__pkey": "19",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1305300"
+  },
+  {
+    "__pkey": "190",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1305400"
+  },
+  {
+    "__pkey": "191",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1305500"
+  },
+  {
+    "__pkey": "192",
+    "filter1": "5",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1305600"
+  },
+  {
+    "__pkey": "193",
+    "filter1": "0",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "1305700"
+  },
+  {
+    "__pkey": "194",
+    "filter1": "4",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1305800"
+  },
+  {
+    "__pkey": "195",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1305900"
+  },
+  {
+    "__pkey": "196",
+    "filter1": "5",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1306000"
+  },
+  {
+    "__pkey": "197",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1306100"
+  },
+  {
+    "__pkey": "198",
+    "filter1": "0",
+    "filter2": "2",
+    "grade": "S",
+    "group_seq": "1306200"
+  },
+  {
+    "__pkey": "199",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "B",
+    "group_seq": "1100200"
+  },
+  {
+    "__pkey": "2",
+    "filter1": "5",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1102100"
+  },
+  {
+    "__pkey": "20",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1306300"
+  },
+  {
+    "__pkey": "200",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1306400"
+  },
+  {
+    "__pkey": "201",
+    "filter1": "2",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1306500"
+  },
+  {
+    "__pkey": "202",
+    "filter1": "2",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1306600"
+  },
+  {
+    "__pkey": "203",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1306700"
+  },
+  {
+    "__pkey": "204",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1306800"
+  },
+  {
+    "__pkey": "205",
+    "filter1": "5",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "1306900"
+  },
+  {
+    "__pkey": "206",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1307000"
+  },
+  {
+    "__pkey": "207",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1307100"
+  },
+  {
+    "__pkey": "208",
+    "filter1": "4",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "1307200"
+  },
+  {
+    "__pkey": "209",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1102200"
+  },
+  {
+    "__pkey": "21",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1307300"
+  },
+  {
+    "__pkey": "210",
+    "filter1": "1",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "1307400"
+  },
+  {
+    "__pkey": "211",
+    "filter1": "3",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "1307500"
+  },
+  {
+    "__pkey": "212",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1307600"
+  },
+  {
+    "__pkey": "213",
+    "filter1": "1",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "1307700"
+  },
+  {
+    "__pkey": "214",
+    "filter1": "4",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1307800"
+  },
+  {
+    "__pkey": "215",
+    "filter1": "4",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1307900"
+  },
+  {
+    "__pkey": "216",
+    "filter1": "0",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "1308000"
+  },
+  {
+    "__pkey": "217",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1308100"
+  },
+  {
+    "__pkey": "218",
+    "filter1": "1",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "1308200"
+  },
+  {
+    "__pkey": "219",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1102300"
+  },
+  {
+    "__pkey": "22",
+    "filter1": "3",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "1308300"
+  },
+  {
+    "__pkey": "220",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1308400"
+  },
+  {
+    "__pkey": "221",
+    "filter1": "4",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1308500"
+  },
+  {
+    "__pkey": "222",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1308600"
+  },
+  {
+    "__pkey": "223",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1308700"
+  },
+  {
+    "__pkey": "224",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1308800"
+  },
+  {
+    "__pkey": "225",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1308900"
+  },
+  {
+    "__pkey": "226",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1309000"
+  },
+  {
+    "__pkey": "227",
+    "filter1": "3",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1309100"
+  },
+  {
+    "__pkey": "228",
+    "filter1": "0",
+    "filter2": "2",
+    "grade": "S",
+    "group_seq": "1309200"
+  },
+  {
+    "__pkey": "229",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1102400"
+  },
+  {
+    "__pkey": "23",
+    "filter1": "0",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "1309300"
+  },
+  {
+    "__pkey": "230",
+    "filter1": "0",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "1309400"
+  },
+  {
+    "__pkey": "231",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1309500"
+  },
+  {
+    "__pkey": "232",
+    "filter1": "0",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "1309600"
+  },
+  {
+    "__pkey": "233",
+    "filter1": "1",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1309700"
+  },
+  {
+    "__pkey": "234",
+    "filter1": "3",
+    "filter2": "2",
+    "grade": "S",
+    "group_seq": "1309800"
+  },
+  {
+    "__pkey": "235",
+    "filter1": "6",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "1309900"
+  },
+  {
+    "__pkey": "236",
+    "filter1": "4",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "1310000"
+  },
+  {
+    "__pkey": "237",
+    "filter1": "4",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "1310100"
+  },
+  {
+    "__pkey": "238",
+    "filter1": "1",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "1310200"
+  },
+  {
+    "__pkey": "239",
+    "filter1": "2",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1102500"
+  },
+  {
+    "__pkey": "24",
+    "filter1": "1",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "1310300"
+  },
+  {
+    "__pkey": "240",
+    "filter1": "6",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "1310400"
+  },
+  {
+    "__pkey": "241",
+    "filter1": "6",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "1310500"
+  },
+  {
+    "__pkey": "242",
+    "filter1": "3",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1310600"
+  },
+  {
+    "__pkey": "243",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1310700"
+  },
+  {
+    "__pkey": "244",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1310800"
+  },
+  {
+    "__pkey": "245",
+    "filter1": "0",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "1310900"
+  },
+  {
+    "__pkey": "246",
+    "filter1": "0",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "1311000"
+  },
+  {
+    "__pkey": "247",
+    "filter1": "0",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "1311100"
+  },
+  {
+    "__pkey": "248",
+    "filter1": "4",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "1311200"
+  },
+  {
+    "__pkey": "249",
+    "filter1": "4",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1102600"
+  },
+  {
+    "__pkey": "25",
+    "filter1": "1",
+    "filter2": "2",
+    "grade": "S",
+    "group_seq": "1311300"
+  },
+  {
+    "__pkey": "250",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1311400"
+  },
+  {
+    "__pkey": "251",
+    "filter1": "0",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "1311500"
+  },
+  {
+    "__pkey": "252",
+    "filter1": "6",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "1311600"
+  },
+  {
+    "__pkey": "253",
+    "filter1": "4",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "1311700"
+  },
+  {
+    "__pkey": "254",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1311800"
+  },
+  {
+    "__pkey": "255",
+    "filter1": "2",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1311900"
+  },
+  {
+    "__pkey": "256",
+    "filter1": "5",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "1312000"
+  },
+  {
+    "__pkey": "257",
+    "filter1": "5",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1312100"
+  },
+  {
+    "__pkey": "258",
+    "filter1": "5",
+    "filter2": "2",
+    "grade": "S",
+    "group_seq": "1312200"
+  },
+  {
+    "__pkey": "259",
+    "filter1": "4",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "1102700"
+  },
+  {
+    "__pkey": "26",
+    "filter1": "1",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "1312300"
+  },
+  {
+    "__pkey": "260",
+    "filter1": "4",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "1312400"
+  },
+  {
+    "__pkey": "261",
+    "filter1": "0",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "1312500"
+  },
+  {
+    "__pkey": "262",
+    "filter1": "0",
+    "filter2": "2",
+    "grade": "S",
+    "group_seq": "1312600"
+  },
+  {
+    "__pkey": "263",
+    "filter1": "0",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "1312700"
+  },
+  {
+    "__pkey": "264",
+    "filter1": "0",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "1312800"
+  },
+  {
+    "__pkey": "265",
+    "filter1": "1",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1312900"
+  },
+  {
+    "__pkey": "266",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1313000"
+  },
+  {
+    "__pkey": "267",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1313100"
+  },
+  {
+    "__pkey": "268",
+    "filter1": "1",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "1313200"
+  },
+  {
+    "__pkey": "269",
+    "filter1": "5",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1102800"
+  },
+  {
+    "__pkey": "27",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1313300"
+  },
+  {
+    "__pkey": "270",
+    "filter1": "6",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "1313400"
+  },
+  {
+    "__pkey": "271",
+    "filter1": "6",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "1313500"
+  },
+  {
+    "__pkey": "272",
+    "filter1": "0",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "1313600"
+  },
+  {
+    "__pkey": "273",
+    "filter1": "2",
+    "filter2": "2",
+    "grade": "S",
+    "group_seq": "1313700"
+  },
+  {
+    "__pkey": "274",
+    "filter1": "2",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1500100"
+  },
+  {
+    "__pkey": "275",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1500300"
+  },
+  {
+    "__pkey": "276",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1500400"
+  },
+  {
+    "__pkey": "277",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1500500"
+  },
+  {
+    "__pkey": "278",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1500600"
+  },
+  {
+    "__pkey": "279",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1102900"
+  },
+  {
+    "__pkey": "28",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1500700"
+  },
+  {
+    "__pkey": "280",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1500800"
+  },
+  {
+    "__pkey": "281",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1500900"
+  },
+  {
+    "__pkey": "282",
+    "filter1": "2",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1501000"
+  },
+  {
+    "__pkey": "283",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1501100"
+  },
+  {
+    "__pkey": "284",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1501200"
+  },
+  {
+    "__pkey": "285",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1501300"
+  },
+  {
+    "__pkey": "286",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1501400"
+  },
+  {
+    "__pkey": "287",
+    "filter1": "2",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1501500"
+  },
+  {
+    "__pkey": "288",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1501600"
+  },
+  {
+    "__pkey": "289",
+    "filter1": "4",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "1103000"
+  },
+  {
+    "__pkey": "29",
+    "filter1": "0",
+    "filter2": "2",
+    "grade": "S",
+    "group_seq": "1501700"
+  },
+  {
+    "__pkey": "290",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1501800"
+  },
+  {
+    "__pkey": "291",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1501900"
+  },
+  {
+    "__pkey": "292",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1502000"
+  },
+  {
+    "__pkey": "293",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1502100"
+  },
+  {
+    "__pkey": "294",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1502200"
+  },
+  {
+    "__pkey": "295",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1502300"
+  },
+  {
+    "__pkey": "296",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1502400"
+  },
+  {
+    "__pkey": "297",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1502500"
+  },
+  {
+    "__pkey": "298",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1502600"
+  },
+  {
+    "__pkey": "299",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "C",
+    "group_seq": "1100300"
+  },
+  {
+    "__pkey": "3",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1103100"
+  },
+  {
+    "__pkey": "30",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1502700"
+  },
+  {
+    "__pkey": "300",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1502800"
+  },
+  {
+    "__pkey": "301",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1502900"
+  },
+  {
+    "__pkey": "302",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1503000"
+  },
+  {
+    "__pkey": "303",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1503100"
+  },
+  {
+    "__pkey": "304",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1503200"
+  },
+  {
+    "__pkey": "305",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1503300"
+  },
+  {
+    "__pkey": "306",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1503400"
+  },
+  {
+    "__pkey": "307",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1503500"
+  },
+  {
+    "__pkey": "308",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1503600"
+  },
+  {
+    "__pkey": "309",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1103200"
+  },
+  {
+    "__pkey": "31",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1503700"
+  },
+  {
+    "__pkey": "310",
+    "filter1": "3",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1503800"
+  },
+  {
+    "__pkey": "311",
+    "filter1": "2",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1503900"
+  },
+  {
+    "__pkey": "312",
+    "filter1": "2",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1504000"
+  },
+  {
+    "__pkey": "313",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1504100"
+  },
+  {
+    "__pkey": "314",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1504200"
+  },
+  {
+    "__pkey": "315",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1504300"
+  },
+  {
+    "__pkey": "316",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1504400"
+  },
+  {
+    "__pkey": "317",
+    "filter1": "6",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "1504500"
+  },
+  {
+    "__pkey": "318",
+    "filter1": "0",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "1504600"
+  },
+  {
+    "__pkey": "319",
+    "filter1": "4",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1103300"
+  },
+  {
+    "__pkey": "32",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1504700"
+  },
+  {
+    "__pkey": "320",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1504800"
+  },
+  {
+    "__pkey": "321",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1504900"
+  },
+  {
+    "__pkey": "322",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1505000"
+  },
+  {
+    "__pkey": "323",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1505100"
+  },
+  {
+    "__pkey": "324",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1505200"
+  },
+  {
+    "__pkey": "325",
+    "filter1": "6",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "1505300"
+  },
+  {
+    "__pkey": "326",
+    "filter1": "3",
+    "filter2": "2",
+    "grade": "S",
+    "group_seq": "1505400"
+  },
+  {
+    "__pkey": "327",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1505500"
+  },
+  {
+    "__pkey": "328",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1505600"
+  },
+  {
+    "__pkey": "329",
+    "filter1": "2",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1103400"
+  },
+  {
+    "__pkey": "33",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1505700"
+  },
+  {
+    "__pkey": "330",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1505800"
+  },
+  {
+    "__pkey": "331",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1505900"
+  },
+  {
+    "__pkey": "332",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1506000"
+  },
+  {
+    "__pkey": "333",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1506100"
+  },
+  {
+    "__pkey": "334",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1506200"
+  },
+  {
+    "__pkey": "335",
+    "filter1": "6",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "1506300"
+  },
+  {
+    "__pkey": "336",
+    "filter1": "1",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1506400"
+  },
+  {
+    "__pkey": "337",
+    "filter1": "4",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1506500"
+  },
+  {
+    "__pkey": "338",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1506600"
+  },
+  {
+    "__pkey": "339",
+    "filter1": "4",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1103500"
+  },
+  {
+    "__pkey": "34",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1506700"
+  },
+  {
+    "__pkey": "340",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1506800"
+  },
+  {
+    "__pkey": "341",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1506900"
+  },
+  {
+    "__pkey": "342",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1507000"
+  },
+  {
+    "__pkey": "343",
+    "filter1": "3",
+    "filter2": "2",
+    "grade": "A",
+    "group_seq": "1507100"
+  },
+  {
+    "__pkey": "344",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1507200"
+  },
+  {
+    "__pkey": "345",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1507300"
+  },
+  {
+    "__pkey": "346",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1507400"
+  },
+  {
+    "__pkey": "347",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1507500"
+  },
+  {
+    "__pkey": "348",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1507600"
+  },
+  {
+    "__pkey": "349",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1103600"
+  },
+  {
+    "__pkey": "35",
+    "filter1": "6",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "1507700"
+  },
+  {
+    "__pkey": "350",
+    "filter1": "3",
+    "filter2": "2",
+    "grade": "S",
+    "group_seq": "1507800"
+  },
+  {
+    "__pkey": "351",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1507900"
+  },
+  {
+    "__pkey": "352",
+    "filter1": "0",
+    "filter2": "2",
+    "grade": "S",
+    "group_seq": "1508000"
+  },
+  {
+    "__pkey": "353",
+    "filter1": "3",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1508100"
+  },
+  {
+    "__pkey": "354",
+    "filter1": "2",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "1508200"
+  },
+  {
+    "__pkey": "355",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1508300"
+  },
+  {
+    "__pkey": "356",
+    "filter1": "2",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "1508400"
+  },
+  {
+    "__pkey": "357",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1508500"
+  },
+  {
+    "__pkey": "358",
+    "filter1": "6",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "1508600"
+  },
+  {
+    "__pkey": "359",
+    "filter1": "0",
+    "filter2": "2",
+    "grade": "S",
+    "group_seq": "1103700"
+  },
+  {
+    "__pkey": "36",
+    "filter1": "6",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "1508700"
+  },
+  {
+    "__pkey": "360",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1508800"
+  },
+  {
+    "__pkey": "361",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1508900"
+  },
+  {
+    "__pkey": "362",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1509000"
+  },
+  {
+    "__pkey": "363",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1509100"
+  },
+  {
+    "__pkey": "364",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1509200"
+  },
+  {
+    "__pkey": "365",
+    "filter1": "0",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "1509300"
+  },
+  {
+    "__pkey": "366",
+    "filter1": "1",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "1509400"
+  },
+  {
+    "__pkey": "367",
+    "filter1": "1",
+    "filter2": "2",
+    "grade": "S",
+    "group_seq": "1509500"
+  },
+  {
+    "__pkey": "368",
+    "filter1": "1",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1509600"
+  },
+  {
+    "__pkey": "369",
+    "filter1": "0",
+    "filter2": "2",
+    "grade": "S",
+    "group_seq": "1103800"
+  },
+  {
+    "__pkey": "37",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1509700"
+  },
+  {
+    "__pkey": "370",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1509800"
+  },
+  {
+    "__pkey": "371",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1509900"
+  },
+  {
+    "__pkey": "372",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1510000"
+  },
+  {
+    "__pkey": "373",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1510100"
+  },
+  {
+    "__pkey": "374",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1510200"
+  },
+  {
+    "__pkey": "375",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1510300"
+  },
+  {
+    "__pkey": "376",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1510400"
+  },
+  {
+    "__pkey": "377",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1510500"
+  },
+  {
+    "__pkey": "378",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1510600"
+  },
+  {
+    "__pkey": "379",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1103900"
+  },
+  {
+    "__pkey": "38",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1510700"
+  },
+  {
+    "__pkey": "380",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1510800"
+  },
+  {
+    "__pkey": "381",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1510900"
+  },
+  {
+    "__pkey": "382",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1511000"
+  },
+  {
+    "__pkey": "383",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1511100"
+  },
+  {
+    "__pkey": "384",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1511200"
+  },
+  {
+    "__pkey": "385",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1511300"
+  },
+  {
+    "__pkey": "386",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1511400"
+  },
+  {
+    "__pkey": "387",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1511500"
+  },
+  {
+    "__pkey": "388",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1511600"
+  },
+  {
+    "__pkey": "389",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1104000"
+  },
+  {
+    "__pkey": "39",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1511700"
+  },
+  {
+    "__pkey": "390",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1511800"
+  },
+  {
+    "__pkey": "391",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1511900"
+  },
+  {
+    "__pkey": "392",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1512000"
+  },
+  {
+    "__pkey": "393",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1512100"
+  },
+  {
+    "__pkey": "394",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1512200"
+  },
+  {
+    "__pkey": "395",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1512300"
+  },
+  {
+    "__pkey": "396",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1512400"
+  },
+  {
+    "__pkey": "397",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1512500"
+  },
+  {
+    "__pkey": "398",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1512600"
+  },
+  {
+    "__pkey": "399",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1100400"
+  },
+  {
+    "__pkey": "4",
+    "filter1": "3",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1104100"
+  },
+  {
+    "__pkey": "40",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1512700"
+  },
+  {
+    "__pkey": "400",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1512800"
+  },
+  {
+    "__pkey": "401",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1512900"
+  },
+  {
+    "__pkey": "402",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1513000"
+  },
+  {
+    "__pkey": "403",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1513100"
+  },
+  {
+    "__pkey": "404",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1513200"
+  },
+  {
+    "__pkey": "405",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1513300"
+  },
+  {
+    "__pkey": "406",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1513400"
+  },
+  {
+    "__pkey": "407",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1513500"
+  },
+  {
+    "__pkey": "408",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1513600"
+  },
+  {
+    "__pkey": "409",
+    "filter1": "4",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "1104200"
+  },
+  {
+    "__pkey": "41",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1513700"
+  },
+  {
+    "__pkey": "410",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1513800"
+  },
+  {
+    "__pkey": "411",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1513900"
+  },
+  {
+    "__pkey": "412",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1514000"
+  },
+  {
+    "__pkey": "413",
+    "filter1": "1",
+    "filter2": "3",
+    "grade": "A",
+    "group_seq": "1600200"
+  },
+  {
+    "__pkey": "414",
+    "filter1": "2",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1600300"
+  },
+  {
+    "__pkey": "415",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1600400"
+  },
+  {
+    "__pkey": "416",
+    "filter1": "2",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1600500"
+  },
+  {
+    "__pkey": "417",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "C",
+    "group_seq": "1700100"
+  },
+  {
+    "__pkey": "418",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "C",
+    "group_seq": "1700200"
+  },
+  {
+    "__pkey": "419",
+    "filter1": "0",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "1104300"
+  },
+  {
+    "__pkey": "42",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "C",
+    "group_seq": "1700300"
+  },
+  {
+    "__pkey": "420",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "C",
+    "group_seq": "1700400"
+  },
+  {
+    "__pkey": "421",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "C",
+    "group_seq": "1700500"
+  },
+  {
+    "__pkey": "422",
+    "filter1": "4",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "11001000"
+  },
+  {
+    "__pkey": "423",
+    "filter1": "4",
+    "filter2": "3",
+    "grade": "A",
+    "group_seq": "11001100"
+  },
+  {
+    "__pkey": "424",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "B",
+    "group_seq": "11002000"
+  },
+  {
+    "__pkey": "425",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "B",
+    "group_seq": "11002100"
+  },
+  {
+    "__pkey": "426",
+    "filter1": "0",
+    "filter2": "2",
+    "grade": "C",
+    "group_seq": "11003000"
+  },
+  {
+    "__pkey": "427",
+    "filter1": "0",
+    "filter2": "2",
+    "grade": "C",
+    "group_seq": "11003100"
+  },
+  {
+    "__pkey": "428",
+    "filter1": "0",
+    "filter2": "6",
+    "grade": "B",
+    "group_seq": "11005000"
+  },
+  {
+    "__pkey": "429",
+    "filter1": "3",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1104400"
+  },
+  {
+    "__pkey": "43",
+    "filter1": "0",
+    "filter2": "6",
+    "grade": "B",
+    "group_seq": "11005100"
+  },
+  {
+    "__pkey": "430",
+    "filter1": "2",
+    "filter2": "0",
+    "grade": "B",
+    "group_seq": "11006000"
+  },
+  {
+    "__pkey": "431",
+    "filter1": "2",
+    "filter2": "0",
+    "grade": "B",
+    "group_seq": "11006100"
+  },
+  {
+    "__pkey": "432",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "11007000"
+  },
+  {
+    "__pkey": "433",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "11007100"
+  },
+  {
+    "__pkey": "434",
+    "filter1": "0",
+    "filter2": "4",
+    "grade": "A",
+    "group_seq": "11008000"
+  },
+  {
+    "__pkey": "435",
+    "filter1": "0",
+    "filter2": "4",
+    "grade": "A",
+    "group_seq": "11008100"
+  },
+  {
+    "__pkey": "436",
+    "filter1": "0",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "11009000"
+  },
+  {
+    "__pkey": "437",
+    "filter1": "0",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "11009100"
+  },
+  {
+    "__pkey": "438",
+    "filter1": "4",
+    "filter2": "4",
+    "grade": "A",
+    "group_seq": "11010000"
+  },
+  {
+    "__pkey": "439",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1104500"
+  },
+  {
+    "__pkey": "44",
+    "filter1": "4",
+    "filter2": "4",
+    "grade": "A",
+    "group_seq": "11010100"
+  },
+  {
+    "__pkey": "440",
+    "filter1": "0",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "11011000"
+  },
+  {
+    "__pkey": "441",
+    "filter1": "0",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "11011100"
+  },
+  {
+    "__pkey": "442",
+    "filter1": "1",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "11012000"
+  },
+  {
+    "__pkey": "443",
+    "filter1": "1",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "11012100"
+  },
+  {
+    "__pkey": "444",
+    "filter1": "3",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "11013000"
+  },
+  {
+    "__pkey": "445",
+    "filter1": "3",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "11013100"
+  },
+  {
+    "__pkey": "446",
+    "filter1": "4",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "11014000"
+  },
+  {
+    "__pkey": "447",
+    "filter1": "4",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "11014100"
+  },
+  {
+    "__pkey": "448",
+    "filter1": "5",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "11015000"
+  },
+  {
+    "__pkey": "449",
+    "filter1": "4",
+    "filter2": "2",
+    "grade": "S",
+    "group_seq": "1104600"
+  },
+  {
+    "__pkey": "45",
+    "filter1": "5",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "11015100"
+  },
+  {
+    "__pkey": "450",
+    "filter1": "3",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "11016000"
+  },
+  {
+    "__pkey": "451",
+    "filter1": "3",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "11016100"
+  },
+  {
+    "__pkey": "452",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "11018000"
+  },
+  {
+    "__pkey": "453",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "11018100"
+  },
+  {
+    "__pkey": "454",
+    "filter1": "4",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "11019000"
+  },
+  {
+    "__pkey": "455",
+    "filter1": "4",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "11019100"
+  },
+  {
+    "__pkey": "456",
+    "filter1": "4",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "11020000"
+  },
+  {
+    "__pkey": "457",
+    "filter1": "4",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "11020100"
+  },
+  {
+    "__pkey": "458",
+    "filter1": "5",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "11021000"
+  },
+  {
+    "__pkey": "459",
+    "filter1": "3",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1104700"
+  },
+  {
+    "__pkey": "46",
+    "filter1": "5",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "11021100"
+  },
+  {
+    "__pkey": "460",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "11022000"
+  },
+  {
+    "__pkey": "461",
+    "filter1": "0",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "11022100"
+  },
+  {
+    "__pkey": "462",
+    "filter1": "6",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "11023000"
+  },
+  {
+    "__pkey": "463",
+    "filter1": "6",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "11023100"
+  },
+  {
+    "__pkey": "464",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "11024000"
+  },
+  {
+    "__pkey": "465",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "11024100"
+  },
+  {
+    "__pkey": "466",
+    "filter1": "2",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "11025000"
+  },
+  {
+    "__pkey": "467",
+    "filter1": "2",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "11025100"
+  },
+  {
+    "__pkey": "468",
+    "filter1": "4",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "11026000"
+  },
+  {
+    "__pkey": "469",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1104800"
+  },
+  {
+    "__pkey": "47",
+    "filter1": "4",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "11026100"
+  },
+  {
+    "__pkey": "470",
+    "filter1": "4",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "11027000"
+  },
+  {
+    "__pkey": "471",
+    "filter1": "4",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "11027100"
+  },
+  {
+    "__pkey": "472",
+    "filter1": "5",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "11028000"
+  },
+  {
+    "__pkey": "473",
+    "filter1": "5",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "11028100"
+  },
+  {
+    "__pkey": "474",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "11029000"
+  },
+  {
+    "__pkey": "475",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "11029100"
+  },
+  {
+    "__pkey": "476",
+    "filter1": "4",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "11030000"
+  },
+  {
+    "__pkey": "477",
+    "filter1": "4",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "11030100"
+  },
+  {
+    "__pkey": "478",
+    "filter1": "6",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "11031000"
+  },
+  {
+    "__pkey": "479",
+    "filter1": "3",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "1104900"
+  },
+  {
+    "__pkey": "48",
+    "filter1": "6",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "11031100"
+  },
+  {
+    "__pkey": "480",
+    "filter1": "3",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "11033000"
+  },
+  {
+    "__pkey": "481",
+    "filter1": "3",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "11033100"
+  },
+  {
+    "__pkey": "482",
+    "filter1": "2",
+    "filter2": "2",
+    "grade": "S",
+    "group_seq": "11034000"
+  },
+  {
+    "__pkey": "483",
+    "filter1": "2",
+    "filter2": "2",
+    "grade": "S",
+    "group_seq": "11034100"
+  },
+  {
+    "__pkey": "484",
+    "filter1": "4",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "11035000"
+  },
+  {
+    "__pkey": "485",
+    "filter1": "4",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "11035100"
+  },
+  {
+    "__pkey": "486",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "11036000"
+  },
+  {
+    "__pkey": "487",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "11036100"
+  },
+  {
+    "__pkey": "488",
+    "filter1": "0",
+    "filter2": "2",
+    "grade": "S",
+    "group_seq": "11037000"
+  },
+  {
+    "__pkey": "489",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1105000"
+  },
+  {
+    "__pkey": "49",
+    "filter1": "0",
+    "filter2": "2",
+    "grade": "S",
+    "group_seq": "11037100"
+  },
+  {
+    "__pkey": "490",
+    "filter1": "0",
+    "filter2": "2",
+    "grade": "S",
+    "group_seq": "11038000"
+  },
+  {
+    "__pkey": "491",
+    "filter1": "0",
+    "filter2": "2",
+    "grade": "S",
+    "group_seq": "11038100"
+  },
+  {
+    "__pkey": "492",
+    "filter1": "0",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "11039000"
+  },
+  {
+    "__pkey": "493",
+    "filter1": "0",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "11039100"
+  },
+  {
+    "__pkey": "494",
+    "filter1": "4",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "11042000"
+  },
+  {
+    "__pkey": "495",
+    "filter1": "4",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "11042100"
+  },
+  {
+    "__pkey": "496",
+    "filter1": "0",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "11043000"
+  },
+  {
+    "__pkey": "497",
+    "filter1": "0",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "11043100"
+  },
+  {
+    "__pkey": "498",
+    "filter1": "3",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "11044000"
+  },
+  {
+    "__pkey": "499",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "B",
+    "group_seq": "1100500"
+  },
+  {
+    "__pkey": "5",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1105100"
+  },
+  {
+    "__pkey": "50",
+    "filter1": "3",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "11044100"
+  },
+  {
+    "__pkey": "500",
+    "filter1": "6",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "11045000"
+  },
+  {
+    "__pkey": "501",
+    "filter1": "6",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "11045100"
+  },
+  {
+    "__pkey": "502",
+    "filter1": "4",
+    "filter2": "2",
+    "grade": "S",
+    "group_seq": "11046000"
+  },
+  {
+    "__pkey": "503",
+    "filter1": "4",
+    "filter2": "2",
+    "grade": "S",
+    "group_seq": "11046100"
+  },
+  {
+    "__pkey": "504",
+    "filter1": "3",
+    "filter2": "5",
+    "grade": "S",
+    "group_seq": "11047000"
+  },
+  {
+    "__pkey": "505",
+    "filter1": "3",
+    "filter2": "5",
+    "grade": "S",
+    "group_seq": "11047100"
+  },
+  {
+    "__pkey": "506",
+    "filter1": "6",
+    "filter2": "1",
+    "grade": "S",
+    "group_seq": "11048000"
+  },
+  {
+    "__pkey": "507",
+    "filter1": "6",
+    "filter2": "1",
+    "grade": "S",
+    "group_seq": "11048100"
+  },
+  {
+    "__pkey": "508",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "11050000"
+  },
+  {
+    "__pkey": "509",
+    "filter1": "5",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1105200"
+  },
+  {
+    "__pkey": "51",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "11050100"
+  },
+  {
+    "__pkey": "510",
+    "filter1": "5",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "11052000"
+  },
+  {
+    "__pkey": "511",
+    "filter1": "5",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "11052100"
+  },
+  {
+    "__pkey": "512",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "11053000"
+  },
+  {
+    "__pkey": "513",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "11053100"
+  },
+  {
+    "__pkey": "514",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "11054000"
+  },
+  {
+    "__pkey": "515",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "11054100"
+  },
+  {
+    "__pkey": "516",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "B",
+    "group_seq": "12001000"
+  },
+  {
+    "__pkey": "517",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "B",
+    "group_seq": "12001100"
+  },
+  {
+    "__pkey": "518",
+    "filter1": "6",
+    "filter2": "6",
+    "grade": "B",
+    "group_seq": "12002000"
+  },
+  {
+    "__pkey": "519",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1105300"
+  },
+  {
+    "__pkey": "52",
+    "filter1": "6",
+    "filter2": "6",
+    "grade": "B",
+    "group_seq": "12002100"
+  },
+  {
+    "__pkey": "520",
+    "filter1": "6",
+    "filter2": "6",
+    "grade": "B",
+    "group_seq": "12003000"
+  },
+  {
+    "__pkey": "521",
+    "filter1": "6",
+    "filter2": "6",
+    "grade": "B",
+    "group_seq": "12003100"
+  },
+  {
+    "__pkey": "522",
+    "filter1": "0",
+    "filter2": "6",
+    "grade": "C",
+    "group_seq": "12004000"
+  },
+  {
+    "__pkey": "523",
+    "filter1": "0",
+    "filter2": "6",
+    "grade": "C",
+    "group_seq": "12004100"
+  },
+  {
+    "__pkey": "524",
+    "filter1": "6",
+    "filter2": "6",
+    "grade": "B",
+    "group_seq": "12005000"
+  },
+  {
+    "__pkey": "525",
+    "filter1": "6",
+    "filter2": "6",
+    "grade": "B",
+    "group_seq": "12005100"
+  },
+  {
+    "__pkey": "526",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "B",
+    "group_seq": "12006000"
+  },
+  {
+    "__pkey": "527",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "B",
+    "group_seq": "12006100"
+  },
+  {
+    "__pkey": "528",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "C",
+    "group_seq": "12007000"
+  },
+  {
+    "__pkey": "529",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1105400"
+  },
+  {
+    "__pkey": "53",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "C",
+    "group_seq": "12007100"
+  },
+  {
+    "__pkey": "530",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "C",
+    "group_seq": "12008000"
+  },
+  {
+    "__pkey": "531",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "C",
+    "group_seq": "12008100"
+  },
+  {
+    "__pkey": "532",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "B",
+    "group_seq": "12009000"
+  },
+  {
+    "__pkey": "533",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "B",
+    "group_seq": "12009100"
+  },
+  {
+    "__pkey": "534",
+    "filter1": "0",
+    "filter2": "6",
+    "grade": "B",
+    "group_seq": "12010000"
+  },
+  {
+    "__pkey": "535",
+    "filter1": "0",
+    "filter2": "6",
+    "grade": "B",
+    "group_seq": "12010100"
+  },
+  {
+    "__pkey": "536",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "12011000"
+  },
+  {
+    "__pkey": "537",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "12011100"
+  },
+  {
+    "__pkey": "538",
+    "filter1": "3",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "12012000"
+  },
+  {
+    "__pkey": "539",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1105500"
+  },
+  {
+    "__pkey": "54",
+    "filter1": "3",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "12012100"
+  },
+  {
+    "__pkey": "540",
+    "filter1": "2",
+    "filter2": "2",
+    "grade": "S",
+    "group_seq": "12013000"
+  },
+  {
+    "__pkey": "541",
+    "filter1": "2",
+    "filter2": "2",
+    "grade": "S",
+    "group_seq": "12013100"
+  },
+  {
+    "__pkey": "542",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "B",
+    "group_seq": "12014000"
+  },
+  {
+    "__pkey": "543",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "B",
+    "group_seq": "12014100"
+  },
+  {
+    "__pkey": "544",
+    "filter1": "0",
+    "filter2": "6",
+    "grade": "A",
+    "group_seq": "12015000"
+  },
+  {
+    "__pkey": "545",
+    "filter1": "0",
+    "filter2": "6",
+    "grade": "A",
+    "group_seq": "12015100"
+  },
+  {
+    "__pkey": "546",
+    "filter1": "4",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "12016000"
+  },
+  {
+    "__pkey": "547",
+    "filter1": "4",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "12016100"
+  },
+  {
+    "__pkey": "548",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "12017000"
+  },
+  {
+    "__pkey": "549",
+    "filter1": "0",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "1105600"
+  },
+  {
+    "__pkey": "55",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "12017100"
+  },
+  {
+    "__pkey": "550",
+    "filter1": "0",
+    "filter2": "4",
+    "grade": "A",
+    "group_seq": "12018000"
+  },
+  {
+    "__pkey": "551",
+    "filter1": "0",
+    "filter2": "4",
+    "grade": "A",
+    "group_seq": "12018100"
+  },
+  {
+    "__pkey": "552",
+    "filter1": "6",
+    "filter2": "6",
+    "grade": "B",
+    "group_seq": "12019000"
+  },
+  {
+    "__pkey": "553",
+    "filter1": "6",
+    "filter2": "6",
+    "grade": "B",
+    "group_seq": "12019100"
+  },
+  {
+    "__pkey": "554",
+    "filter1": "4",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "12020000"
+  },
+  {
+    "__pkey": "555",
+    "filter1": "4",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "12020100"
+  },
+  {
+    "__pkey": "556",
+    "filter1": "0",
+    "filter2": "6",
+    "grade": "B",
+    "group_seq": "12021000"
+  },
+  {
+    "__pkey": "557",
+    "filter1": "0",
+    "filter2": "6",
+    "grade": "B",
+    "group_seq": "12021100"
+  },
+  {
+    "__pkey": "558",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "12023000"
+  },
+  {
+    "__pkey": "559",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1105700"
+  },
+  {
+    "__pkey": "56",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "12023100"
+  },
+  {
+    "__pkey": "560",
+    "filter1": "0",
+    "filter2": "5",
+    "grade": "S",
+    "group_seq": "12024000"
+  },
+  {
+    "__pkey": "561",
+    "filter1": "0",
+    "filter2": "5",
+    "grade": "S",
+    "group_seq": "12024100"
+  },
+  {
+    "__pkey": "562",
+    "filter1": "6",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "12026000"
+  },
+  {
+    "__pkey": "563",
+    "filter1": "6",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "12026100"
+  },
+  {
+    "__pkey": "564",
+    "filter1": "0",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "12027000"
+  },
+  {
+    "__pkey": "565",
+    "filter1": "0",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "12027100"
+  },
+  {
+    "__pkey": "566",
+    "filter1": "5",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "12028000"
+  },
+  {
+    "__pkey": "567",
+    "filter1": "5",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "12028100"
+  },
+  {
+    "__pkey": "568",
+    "filter1": "2",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "12029000"
+  },
+  {
+    "__pkey": "569",
+    "filter1": "5",
+    "filter2": "5",
+    "grade": "S",
+    "group_seq": "1105800"
+  },
+  {
+    "__pkey": "57",
+    "filter1": "2",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "12029100"
+  },
+  {
+    "__pkey": "570",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "12030000"
+  },
+  {
+    "__pkey": "571",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "12030100"
+  },
+  {
+    "__pkey": "572",
+    "filter1": "4",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "12031000"
+  },
+  {
+    "__pkey": "573",
+    "filter1": "4",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "12031100"
+  },
+  {
+    "__pkey": "574",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "12033000"
+  },
+  {
+    "__pkey": "575",
+    "filter1": "0",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "12033100"
+  },
+  {
+    "__pkey": "576",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "12034000"
+  },
+  {
+    "__pkey": "577",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "12034100"
+  },
+  {
+    "__pkey": "578",
+    "filter1": "0",
+    "filter2": "2",
+    "grade": "S",
+    "group_seq": "12035000"
+  },
+  {
+    "__pkey": "579",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1105900"
+  },
+  {
+    "__pkey": "58",
+    "filter1": "0",
+    "filter2": "2",
+    "grade": "S",
+    "group_seq": "12035100"
+  },
+  {
+    "__pkey": "580",
+    "filter1": "0",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "12036000"
+  },
+  {
+    "__pkey": "581",
+    "filter1": "0",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "12036100"
+  },
+  {
+    "__pkey": "582",
+    "filter1": "6",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "12037000"
+  },
+  {
+    "__pkey": "583",
+    "filter1": "6",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "12037100"
+  },
+  {
+    "__pkey": "584",
+    "filter1": "6",
+    "filter2": "5",
+    "grade": "S",
+    "group_seq": "12040000"
+  },
+  {
+    "__pkey": "585",
+    "filter1": "6",
+    "filter2": "5",
+    "grade": "S",
+    "group_seq": "12040100"
+  },
+  {
+    "__pkey": "586",
+    "filter1": "5",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "12041000"
+  },
+  {
+    "__pkey": "587",
+    "filter1": "5",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "12041100"
+  },
+  {
+    "__pkey": "588",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "12042000"
+  },
+  {
+    "__pkey": "589",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1106000"
+  },
+  {
+    "__pkey": "59",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "12042100"
+  },
+  {
+    "__pkey": "590",
+    "filter1": "0",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "12043000"
+  },
+  {
+    "__pkey": "591",
+    "filter1": "0",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "12043100"
+  },
+  {
+    "__pkey": "592",
+    "filter1": "2",
+    "filter2": "2",
+    "grade": "S",
+    "group_seq": "12044000"
+  },
+  {
+    "__pkey": "593",
+    "filter1": "2",
+    "filter2": "2",
+    "grade": "S",
+    "group_seq": "12044100"
+  },
+  {
+    "__pkey": "594",
+    "filter1": "0",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "12045000"
+  },
+  {
+    "__pkey": "595",
+    "filter1": "0",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "12045100"
+  },
+  {
+    "__pkey": "596",
+    "filter1": "0",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "12046000"
+  },
+  {
+    "__pkey": "597",
+    "filter1": "0",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "12046100"
+  },
+  {
+    "__pkey": "598",
+    "filter1": "4",
+    "filter2": "2",
+    "grade": "S",
+    "group_seq": "12047000"
+  },
+  {
+    "__pkey": "599",
+    "filter1": "2",
+    "filter2": "0",
+    "grade": "B",
+    "group_seq": "1100600"
+  },
+  {
+    "__pkey": "6",
+    "filter1": "4",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1106100"
+  },
+  {
+    "__pkey": "60",
+    "filter1": "4",
+    "filter2": "2",
+    "grade": "S",
+    "group_seq": "12047100"
+  },
+  {
+    "__pkey": "600",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "12048000"
+  },
+  {
+    "__pkey": "601",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "12048100"
+  },
+  {
+    "__pkey": "602",
+    "filter1": "4",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "12050000"
+  },
+  {
+    "__pkey": "603",
+    "filter1": "4",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "12050100"
+  },
+  {
+    "__pkey": "604",
+    "filter1": "4",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "12051000"
+  },
+  {
+    "__pkey": "605",
+    "filter1": "4",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "12051100"
+  },
+  {
+    "__pkey": "606",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "12052000"
+  },
+  {
+    "__pkey": "607",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "12052100"
+  },
+  {
+    "__pkey": "608",
+    "filter1": "2",
+    "filter2": "2",
+    "grade": "S",
+    "group_seq": "12054000"
+  },
+  {
+    "__pkey": "609",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1106200"
+  },
+  {
+    "__pkey": "61",
+    "filter1": "2",
+    "filter2": "2",
+    "grade": "S",
+    "group_seq": "12054100"
+  },
+  {
+    "__pkey": "610",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "12056000"
+  },
+  {
+    "__pkey": "611",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "12056100"
+  },
+  {
+    "__pkey": "612",
+    "filter1": "6",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "12057000"
+  },
+  {
+    "__pkey": "613",
+    "filter1": "6",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "12057100"
+  },
+  {
+    "__pkey": "614",
+    "filter1": "3",
+    "filter2": "2",
+    "grade": "S",
+    "group_seq": "12058000"
+  },
+  {
+    "__pkey": "615",
+    "filter1": "3",
+    "filter2": "2",
+    "grade": "S",
+    "group_seq": "12058100"
+  },
+  {
+    "__pkey": "616",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "12059000"
+  },
+  {
+    "__pkey": "617",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "12059100"
+  },
+  {
+    "__pkey": "618",
+    "filter1": "6",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "12060000"
+  },
+  {
+    "__pkey": "619",
+    "filter1": "0",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "1106300"
+  },
+  {
+    "__pkey": "62",
+    "filter1": "6",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "12060100"
+  },
+  {
+    "__pkey": "620",
+    "filter1": "0",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "12061000"
+  },
+  {
+    "__pkey": "621",
+    "filter1": "0",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "12061100"
+  },
+  {
+    "__pkey": "622",
+    "filter1": "0",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "12063000"
+  },
+  {
+    "__pkey": "623",
+    "filter1": "0",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "12063100"
+  },
+  {
+    "__pkey": "624",
+    "filter1": "4",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "12064000"
+  },
+  {
+    "__pkey": "625",
+    "filter1": "4",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "12064100"
+  },
+  {
+    "__pkey": "626",
+    "filter1": "4",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "12066000"
+  },
+  {
+    "__pkey": "627",
+    "filter1": "4",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "12066100"
+  },
+  {
+    "__pkey": "628",
+    "filter1": "0",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "13001000"
+  },
+  {
+    "__pkey": "629",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "C",
+    "group_seq": "1200100"
+  },
+  {
+    "__pkey": "63",
+    "filter1": "0",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "13001100"
+  },
+  {
+    "__pkey": "630",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "13002000"
+  },
+  {
+    "__pkey": "631",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "13002100"
+  },
+  {
+    "__pkey": "632",
+    "filter1": "0",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "13007000"
+  },
+  {
+    "__pkey": "633",
+    "filter1": "0",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "13007100"
+  },
+  {
+    "__pkey": "634",
+    "filter1": "6",
+    "filter2": "4",
+    "grade": "A",
+    "group_seq": "13008000"
+  },
+  {
+    "__pkey": "635",
+    "filter1": "6",
+    "filter2": "4",
+    "grade": "A",
+    "group_seq": "13008100"
+  },
+  {
+    "__pkey": "636",
+    "filter1": "6",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "13009000"
+  },
+  {
+    "__pkey": "637",
+    "filter1": "6",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "13009100"
+  },
+  {
+    "__pkey": "638",
+    "filter1": "0",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "13010000"
+  },
+  {
+    "__pkey": "639",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "C",
+    "group_seq": "1200200"
+  },
+  {
+    "__pkey": "64",
+    "filter1": "0",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "13010100"
+  },
+  {
+    "__pkey": "640",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "13011000"
+  },
+  {
+    "__pkey": "641",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "13011100"
+  },
+  {
+    "__pkey": "642",
+    "filter1": "2",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "13012000"
+  },
+  {
+    "__pkey": "643",
+    "filter1": "2",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "13012100"
+  },
+  {
+    "__pkey": "644",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "13016000"
+  },
+  {
+    "__pkey": "645",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "13016100"
+  },
+  {
+    "__pkey": "646",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "B",
+    "group_seq": "13017000"
+  },
+  {
+    "__pkey": "647",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "B",
+    "group_seq": "13017100"
+  },
+  {
+    "__pkey": "648",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "13018000"
+  },
+  {
+    "__pkey": "649",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "C",
+    "group_seq": "1200300"
+  },
+  {
+    "__pkey": "65",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "13018100"
+  },
+  {
+    "__pkey": "650",
+    "filter1": "0",
+    "filter2": "4",
+    "grade": "B",
+    "group_seq": "13019000"
+  },
+  {
+    "__pkey": "651",
+    "filter1": "0",
+    "filter2": "4",
+    "grade": "B",
+    "group_seq": "13019100"
+  },
+  {
+    "__pkey": "652",
+    "filter1": "6",
+    "filter2": "6",
+    "grade": "A",
+    "group_seq": "13020000"
+  },
+  {
+    "__pkey": "653",
+    "filter1": "6",
+    "filter2": "6",
+    "grade": "A",
+    "group_seq": "13020100"
+  },
+  {
+    "__pkey": "654",
+    "filter1": "6",
+    "filter2": "6",
+    "grade": "A",
+    "group_seq": "13021000"
+  },
+  {
+    "__pkey": "655",
+    "filter1": "6",
+    "filter2": "6",
+    "grade": "A",
+    "group_seq": "13021100"
+  },
+  {
+    "__pkey": "656",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "B",
+    "group_seq": "13022000"
+  },
+  {
+    "__pkey": "657",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "B",
+    "group_seq": "13022100"
+  },
+  {
+    "__pkey": "658",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "13023000"
+  },
+  {
+    "__pkey": "659",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "C",
+    "group_seq": "1200400"
+  },
+  {
+    "__pkey": "66",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "13023100"
+  },
+  {
+    "__pkey": "660",
+    "filter1": "4",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "13029000"
+  },
+  {
+    "__pkey": "661",
+    "filter1": "4",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "13029100"
+  },
+  {
+    "__pkey": "662",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "B",
+    "group_seq": "13030000"
+  },
+  {
+    "__pkey": "663",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "B",
+    "group_seq": "13030100"
+  },
+  {
+    "__pkey": "664",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "B",
+    "group_seq": "13031000"
+  },
+  {
+    "__pkey": "665",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "B",
+    "group_seq": "13031100"
+  },
+  {
+    "__pkey": "666",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "C",
+    "group_seq": "13032000"
+  },
+  {
+    "__pkey": "667",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "C",
+    "group_seq": "13032100"
+  },
+  {
+    "__pkey": "668",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "C",
+    "group_seq": "13033000"
+  },
+  {
+    "__pkey": "669",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "B",
+    "group_seq": "1200500"
+  },
+  {
+    "__pkey": "67",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "C",
+    "group_seq": "13033100"
+  },
+  {
+    "__pkey": "670",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "C",
+    "group_seq": "13034000"
+  },
+  {
+    "__pkey": "671",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "C",
+    "group_seq": "13034100"
+  },
+  {
+    "__pkey": "672",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "B",
+    "group_seq": "13035000"
+  },
+  {
+    "__pkey": "673",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "B",
+    "group_seq": "13035100"
+  },
+  {
+    "__pkey": "674",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "13036000"
+  },
+  {
+    "__pkey": "675",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "13036100"
+  },
+  {
+    "__pkey": "676",
+    "filter1": "1",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "13042000"
+  },
+  {
+    "__pkey": "677",
+    "filter1": "1",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "13042100"
+  },
+  {
+    "__pkey": "678",
+    "filter1": "0",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "13043000"
+  },
+  {
+    "__pkey": "679",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "B",
+    "group_seq": "1200600"
+  },
+  {
+    "__pkey": "68",
+    "filter1": "0",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "13043100"
+  },
+  {
+    "__pkey": "680",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "13044000"
+  },
+  {
+    "__pkey": "681",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "13044100"
+  },
+  {
+    "__pkey": "682",
+    "filter1": "0",
+    "filter2": "6",
+    "grade": "A",
+    "group_seq": "13045000"
+  },
+  {
+    "__pkey": "683",
+    "filter1": "0",
+    "filter2": "6",
+    "grade": "A",
+    "group_seq": "13045100"
+  },
+  {
+    "__pkey": "684",
+    "filter1": "5",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "13046000"
+  },
+  {
+    "__pkey": "685",
+    "filter1": "5",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "13046100"
+  },
+  {
+    "__pkey": "686",
+    "filter1": "0",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "13047000"
+  },
+  {
+    "__pkey": "687",
+    "filter1": "0",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "13047100"
+  },
+  {
+    "__pkey": "688",
+    "filter1": "6",
+    "filter2": "6",
+    "grade": "A",
+    "group_seq": "13048000"
+  },
+  {
+    "__pkey": "689",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "C",
+    "group_seq": "1200700"
+  },
+  {
+    "__pkey": "69",
+    "filter1": "6",
+    "filter2": "6",
+    "grade": "A",
+    "group_seq": "13048100"
+  },
+  {
+    "__pkey": "690",
+    "filter1": "0",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "13049000"
+  },
+  {
+    "__pkey": "691",
+    "filter1": "0",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "13049100"
+  },
+  {
+    "__pkey": "692",
+    "filter1": "0",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "13050000"
+  },
+  {
+    "__pkey": "693",
+    "filter1": "0",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "13050100"
+  },
+  {
+    "__pkey": "694",
+    "filter1": "2",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "13051000"
+  },
+  {
+    "__pkey": "695",
+    "filter1": "2",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "13051100"
+  },
+  {
+    "__pkey": "696",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "13052000"
+  },
+  {
+    "__pkey": "697",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "13052100"
+  },
+  {
+    "__pkey": "698",
+    "filter1": "6",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "13053000"
+  },
+  {
+    "__pkey": "699",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1100700"
+  },
+  {
+    "__pkey": "7",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "C",
+    "group_seq": "1200800"
+  },
+  {
+    "__pkey": "70",
+    "filter1": "6",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "13053100"
+  },
+  {
+    "__pkey": "700",
+    "filter1": "0",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "13054000"
+  },
+  {
+    "__pkey": "701",
+    "filter1": "0",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "13054100"
+  },
+  {
+    "__pkey": "702",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "13055000"
+  },
+  {
+    "__pkey": "703",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "13055100"
+  },
+  {
+    "__pkey": "704",
+    "filter1": "5",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "13056000"
+  },
+  {
+    "__pkey": "705",
+    "filter1": "5",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "13056100"
+  },
+  {
+    "__pkey": "706",
+    "filter1": "0",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "13057000"
+  },
+  {
+    "__pkey": "707",
+    "filter1": "0",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "13057100"
+  },
+  {
+    "__pkey": "708",
+    "filter1": "4",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "13058000"
+  },
+  {
+    "__pkey": "709",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "B",
+    "group_seq": "1200900"
+  },
+  {
+    "__pkey": "71",
+    "filter1": "4",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "13058100"
+  },
+  {
+    "__pkey": "710",
+    "filter1": "6",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "13059000"
+  },
+  {
+    "__pkey": "711",
+    "filter1": "6",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "13059100"
+  },
+  {
+    "__pkey": "712",
+    "filter1": "5",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "13060000"
+  },
+  {
+    "__pkey": "713",
+    "filter1": "5",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "13060100"
+  },
+  {
+    "__pkey": "714",
+    "filter1": "1",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "13061000"
+  },
+  {
+    "__pkey": "715",
+    "filter1": "1",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "13061100"
+  },
+  {
+    "__pkey": "716",
+    "filter1": "0",
+    "filter2": "2",
+    "grade": "S",
+    "group_seq": "13062000"
+  },
+  {
+    "__pkey": "717",
+    "filter1": "0",
+    "filter2": "2",
+    "grade": "S",
+    "group_seq": "13062100"
+  },
+  {
+    "__pkey": "718",
+    "filter1": "2",
+    "filter2": "2",
+    "grade": "S",
+    "group_seq": "13065000"
+  },
+  {
+    "__pkey": "719",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "B",
+    "group_seq": "1201000"
+  },
+  {
+    "__pkey": "72",
+    "filter1": "2",
+    "filter2": "2",
+    "grade": "S",
+    "group_seq": "13065100"
+  },
+  {
+    "__pkey": "720",
+    "filter1": "2",
+    "filter2": "2",
+    "grade": "S",
+    "group_seq": "13066000"
+  },
+  {
+    "__pkey": "721",
+    "filter1": "2",
+    "filter2": "2",
+    "grade": "S",
+    "group_seq": "13066100"
+  },
+  {
+    "__pkey": "722",
+    "filter1": "6",
+    "filter2": "5",
+    "grade": "S",
+    "group_seq": "13067000"
+  },
+  {
+    "__pkey": "723",
+    "filter1": "6",
+    "filter2": "5",
+    "grade": "S",
+    "group_seq": "13067100"
+  },
+  {
+    "__pkey": "724",
+    "filter1": "6",
+    "filter2": "5",
+    "grade": "S",
+    "group_seq": "13068000"
+  },
+  {
+    "__pkey": "725",
+    "filter1": "6",
+    "filter2": "5",
+    "grade": "S",
+    "group_seq": "13068100"
+  },
+  {
+    "__pkey": "726",
+    "filter1": "5",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "13069000"
+  },
+  {
+    "__pkey": "727",
+    "filter1": "5",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "13069100"
+  },
+  {
+    "__pkey": "728",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "13071000"
+  },
+  {
+    "__pkey": "729",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1201100"
+  },
+  {
+    "__pkey": "73",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "13071100"
+  },
+  {
+    "__pkey": "730",
+    "filter1": "4",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "13072000"
+  },
+  {
+    "__pkey": "731",
+    "filter1": "4",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "13072100"
+  },
+  {
+    "__pkey": "732",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "13073000"
+  },
+  {
+    "__pkey": "733",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "13073100"
+  },
+  {
+    "__pkey": "734",
+    "filter1": "1",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "13074000"
+  },
+  {
+    "__pkey": "735",
+    "filter1": "1",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "13074100"
+  },
+  {
+    "__pkey": "736",
+    "filter1": "3",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "13075000"
+  },
+  {
+    "__pkey": "737",
+    "filter1": "3",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "13075100"
+  },
+  {
+    "__pkey": "738",
+    "filter1": "1",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "13076000"
+  },
+  {
+    "__pkey": "739",
+    "filter1": "3",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1201200"
+  },
+  {
+    "__pkey": "74",
+    "filter1": "1",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "13076100"
+  },
+  {
+    "__pkey": "740",
+    "filter1": "1",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "13077000"
+  },
+  {
+    "__pkey": "741",
+    "filter1": "1",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "13077100"
+  },
+  {
+    "__pkey": "742",
+    "filter1": "4",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "13078000"
+  },
+  {
+    "__pkey": "743",
+    "filter1": "4",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "13078100"
+  },
+  {
+    "__pkey": "744",
+    "filter1": "4",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "13079000"
+  },
+  {
+    "__pkey": "745",
+    "filter1": "4",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "13079100"
+  },
+  {
+    "__pkey": "746",
+    "filter1": "0",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "13080000"
+  },
+  {
+    "__pkey": "747",
+    "filter1": "0",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "13080100"
+  },
+  {
+    "__pkey": "748",
+    "filter1": "6",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "13081000"
+  },
+  {
+    "__pkey": "749",
+    "filter1": "2",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1201300"
+  },
+  {
+    "__pkey": "75",
+    "filter1": "6",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "13081100"
+  },
+  {
+    "__pkey": "750",
+    "filter1": "1",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "13082000"
+  },
+  {
+    "__pkey": "751",
+    "filter1": "1",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "13082100"
+  },
+  {
+    "__pkey": "752",
+    "filter1": "4",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "13083000"
+  },
+  {
+    "__pkey": "753",
+    "filter1": "4",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "13083100"
+  },
+  {
+    "__pkey": "754",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "13084000"
+  },
+  {
+    "__pkey": "755",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "13084100"
+  },
+  {
+    "__pkey": "756",
+    "filter1": "4",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "13085000"
+  },
+  {
+    "__pkey": "757",
+    "filter1": "4",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "13085100"
+  },
+  {
+    "__pkey": "758",
+    "filter1": "3",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "13091000"
+  },
+  {
+    "__pkey": "759",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "B",
+    "group_seq": "1201400"
+  },
+  {
+    "__pkey": "76",
+    "filter1": "3",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "13091100"
+  },
+  {
+    "__pkey": "760",
+    "filter1": "0",
+    "filter2": "2",
+    "grade": "S",
+    "group_seq": "13092000"
+  },
+  {
+    "__pkey": "761",
+    "filter1": "0",
+    "filter2": "2",
+    "grade": "S",
+    "group_seq": "13092100"
+  },
+  {
+    "__pkey": "762",
+    "filter1": "0",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "13093000"
+  },
+  {
+    "__pkey": "763",
+    "filter1": "0",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "13093100"
+  },
+  {
+    "__pkey": "764",
+    "filter1": "0",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "13094000"
+  },
+  {
+    "__pkey": "765",
+    "filter1": "0",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "13094100"
+  },
+  {
+    "__pkey": "766",
+    "filter1": "0",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "13096000"
+  },
+  {
+    "__pkey": "767",
+    "filter1": "0",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "13096100"
+  },
+  {
+    "__pkey": "768",
+    "filter1": "1",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "13097000"
+  },
+  {
+    "__pkey": "769",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1201500"
+  },
+  {
+    "__pkey": "77",
+    "filter1": "1",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "13097100"
+  },
+  {
+    "__pkey": "770",
+    "filter1": "3",
+    "filter2": "2",
+    "grade": "S",
+    "group_seq": "13098000"
+  },
+  {
+    "__pkey": "771",
+    "filter1": "3",
+    "filter2": "2",
+    "grade": "S",
+    "group_seq": "13098100"
+  },
+  {
+    "__pkey": "772",
+    "filter1": "6",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "13099000"
+  },
+  {
+    "__pkey": "773",
+    "filter1": "6",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "13099100"
+  },
+  {
+    "__pkey": "774",
+    "filter1": "4",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "13100000"
+  },
+  {
+    "__pkey": "775",
+    "filter1": "4",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "13100100"
+  },
+  {
+    "__pkey": "776",
+    "filter1": "4",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "13101000"
+  },
+  {
+    "__pkey": "777",
+    "filter1": "4",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "13101100"
+  },
+  {
+    "__pkey": "778",
+    "filter1": "1",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "13102000"
+  },
+  {
+    "__pkey": "779",
+    "filter1": "4",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1201600"
+  },
+  {
+    "__pkey": "78",
+    "filter1": "1",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "13102100"
+  },
+  {
+    "__pkey": "780",
+    "filter1": "1",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "13103000"
+  },
+  {
+    "__pkey": "781",
+    "filter1": "1",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "13103100"
+  },
+  {
+    "__pkey": "782",
+    "filter1": "6",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "13104000"
+  },
+  {
+    "__pkey": "783",
+    "filter1": "6",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "13104100"
+  },
+  {
+    "__pkey": "784",
+    "filter1": "6",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "13105000"
+  },
+  {
+    "__pkey": "785",
+    "filter1": "6",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "13105100"
+  },
+  {
+    "__pkey": "786",
+    "filter1": "3",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "13106000"
+  },
+  {
+    "__pkey": "787",
+    "filter1": "3",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "13106100"
+  },
+  {
+    "__pkey": "788",
+    "filter1": "6",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "13108000"
+  },
+  {
+    "__pkey": "789",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1201700"
+  },
+  {
+    "__pkey": "79",
+    "filter1": "6",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "13108100"
+  },
+  {
+    "__pkey": "790",
+    "filter1": "0",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "13109000"
+  },
+  {
+    "__pkey": "791",
+    "filter1": "0",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "13109100"
+  },
+  {
+    "__pkey": "792",
+    "filter1": "0",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "13110000"
+  },
+  {
+    "__pkey": "793",
+    "filter1": "0",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "13110100"
+  },
+  {
+    "__pkey": "794",
+    "filter1": "0",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "13111000"
+  },
+  {
+    "__pkey": "795",
+    "filter1": "0",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "13111100"
+  },
+  {
+    "__pkey": "796",
+    "filter1": "4",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "13112000"
+  },
+  {
+    "__pkey": "797",
+    "filter1": "4",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "13112100"
+  },
+  {
+    "__pkey": "798",
+    "filter1": "1",
+    "filter2": "2",
+    "grade": "S",
+    "group_seq": "13113000"
+  },
+  {
+    "__pkey": "799",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1100800"
+  },
+  {
+    "__pkey": "8",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1201800"
+  },
+  {
+    "__pkey": "80",
+    "filter1": "1",
+    "filter2": "2",
+    "grade": "S",
+    "group_seq": "13113100"
+  },
+  {
+    "__pkey": "800",
+    "filter1": "0",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "13115000"
+  },
+  {
+    "__pkey": "801",
+    "filter1": "0",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "13115100"
+  },
+  {
+    "__pkey": "802",
+    "filter1": "6",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "13116000"
+  },
+  {
+    "__pkey": "803",
+    "filter1": "6",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "13116100"
+  },
+  {
+    "__pkey": "804",
+    "filter1": "4",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "13117000"
+  },
+  {
+    "__pkey": "805",
+    "filter1": "4",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "13117100"
+  },
+  {
+    "__pkey": "806",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "13118000"
+  },
+  {
+    "__pkey": "807",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "13118100"
+  },
+  {
+    "__pkey": "808",
+    "filter1": "2",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "13119000"
+  },
+  {
+    "__pkey": "809",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "B",
+    "group_seq": "1201900"
+  },
+  {
+    "__pkey": "81",
+    "filter1": "2",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "13119100"
+  },
+  {
+    "__pkey": "810",
+    "filter1": "5",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "13120000"
+  },
+  {
+    "__pkey": "811",
+    "filter1": "5",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "13120100"
+  },
+  {
+    "__pkey": "812",
+    "filter1": "5",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "13121000"
+  },
+  {
+    "__pkey": "813",
+    "filter1": "5",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "13121100"
+  },
+  {
+    "__pkey": "814",
+    "filter1": "5",
+    "filter2": "2",
+    "grade": "S",
+    "group_seq": "13122000"
+  },
+  {
+    "__pkey": "815",
+    "filter1": "5",
+    "filter2": "2",
+    "grade": "S",
+    "group_seq": "13122100"
+  },
+  {
+    "__pkey": "816",
+    "filter1": "1",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "13123000"
+  },
+  {
+    "__pkey": "817",
+    "filter1": "1",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "13123100"
+  },
+  {
+    "__pkey": "818",
+    "filter1": "4",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "13124000"
+  },
+  {
+    "__pkey": "819",
+    "filter1": "4",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1202000"
+  },
+  {
+    "__pkey": "82",
+    "filter1": "4",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "13124100"
+  },
+  {
+    "__pkey": "820",
+    "filter1": "0",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "13125000"
+  },
+  {
+    "__pkey": "821",
+    "filter1": "0",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "13125100"
+  },
+  {
+    "__pkey": "822",
+    "filter1": "0",
+    "filter2": "2",
+    "grade": "S",
+    "group_seq": "13126000"
+  },
+  {
+    "__pkey": "823",
+    "filter1": "0",
+    "filter2": "2",
+    "grade": "S",
+    "group_seq": "13126100"
+  },
+  {
+    "__pkey": "824",
+    "filter1": "0",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "13127000"
+  },
+  {
+    "__pkey": "825",
+    "filter1": "0",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "13127100"
+  },
+  {
+    "__pkey": "826",
+    "filter1": "0",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "13128000"
+  },
+  {
+    "__pkey": "827",
+    "filter1": "0",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "13128100"
+  },
+  {
+    "__pkey": "828",
+    "filter1": "1",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "13129000"
+  },
+  {
+    "__pkey": "829",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "B",
+    "group_seq": "1202100"
+  },
+  {
+    "__pkey": "83",
+    "filter1": "1",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "13129100"
+  },
+  {
+    "__pkey": "830",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "13130000"
+  },
+  {
+    "__pkey": "831",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "13130100"
+  },
+  {
+    "__pkey": "832",
+    "filter1": "6",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "13131000"
+  },
+  {
+    "__pkey": "833",
+    "filter1": "6",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "13131100"
+  },
+  {
+    "__pkey": "834",
+    "filter1": "1",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "13132000"
+  },
+  {
+    "__pkey": "835",
+    "filter1": "1",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "13132100"
+  },
+  {
+    "__pkey": "836",
+    "filter1": "6",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "13134000"
+  },
+  {
+    "__pkey": "837",
+    "filter1": "6",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "13134100"
+  },
+  {
+    "__pkey": "838",
+    "filter1": "6",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "13135000"
+  },
+  {
+    "__pkey": "839",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1202300"
+  },
+  {
+    "__pkey": "84",
+    "filter1": "6",
+    "filter2": "3",
+    "grade": "S",
+    "group_seq": "13135100"
+  },
+  {
+    "__pkey": "840",
+    "filter1": "0",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "13136000"
+  },
+  {
+    "__pkey": "841",
+    "filter1": "0",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "13136100"
+  },
+  {
+    "__pkey": "842",
+    "filter1": "2",
+    "filter2": "2",
+    "grade": "S",
+    "group_seq": "13137000"
+  },
+  {
+    "__pkey": "843",
+    "filter1": "2",
+    "filter2": "2",
+    "grade": "S",
+    "group_seq": "13137100"
+  },
+  {
+    "__pkey": "844",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1202400"
+  },
+  {
+    "__pkey": "85",
+    "filter1": "6",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1202600"
+  },
+  {
+    "__pkey": "86",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1202700"
+  },
+  {
+    "__pkey": "87",
+    "filter1": "5",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1202800"
+  },
+  {
+    "__pkey": "88",
+    "filter1": "2",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1202900"
+  },
+  {
+    "__pkey": "89",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1100900"
+  },
+  {
+    "__pkey": "9",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1203000"
+  },
+  {
+    "__pkey": "90",
+    "filter1": "4",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1203100"
+  },
+  {
+    "__pkey": "91",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "A",
+    "group_seq": "1203200"
+  },
+  {
+    "__pkey": "92",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1203300"
+  },
+  {
+    "__pkey": "93",
+    "filter1": "0",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1203400"
+  },
+  {
+    "__pkey": "94",
+    "filter1": "0",
+    "filter2": "2",
+    "grade": "S",
+    "group_seq": "1203500"
+  },
+  {
+    "__pkey": "95",
+    "filter1": "0",
+    "filter2": "4",
+    "grade": "S",
+    "group_seq": "1203600"
+  },
+  {
+    "__pkey": "96",
+    "filter1": "6",
+    "filter2": "6",
+    "grade": "S",
+    "group_seq": "1203700"
+  },
+  {
+    "__pkey": "97",
+    "filter1": "7",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1203800"
+  },
+  {
+    "__pkey": "98",
+    "filter1": "2",
+    "filter2": "0",
+    "grade": "S",
+    "group_seq": "1203900"
+  }
+]

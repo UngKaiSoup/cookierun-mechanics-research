@@ -1,0 +1,311 @@
+[
+  {
+    "EventType": "100",
+    "FlurryEvent": "z",
+    "TextContent": "짜잔~!",
+    "TextHideDistance": "0",
+    "TriggerType": "12",
+    "TriggerValue1": "0",
+    "TriggerValue2": "0"
+  },
+  {
+    "__pkey": "1",
+    "EventType": "100",
+    "FlurryEvent": "z",
+    "TextContent": "피하지말고",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10004",
+    "TriggerValue2": "360"
+  },
+  {
+    "__pkey": "10",
+    "EventType": "100",
+    "FlurryEvent": "z",
+    "TextContent": "맞서는거죠!",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10005",
+    "TriggerValue2": "0"
+  },
+  {
+    "__pkey": "11",
+    "EventType": "100",
+    "FlurryEvent": "z",
+    "TextContent": "전 용감하니까요!!!",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10005",
+    "TriggerValue2": "360"
+  },
+  {
+    "__pkey": "12",
+    "EventType": "200",
+    "FlurryEvent": "z",
+    "TextContent": "앗! 장애물이 나타났어요!",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10007",
+    "TriggerValue2": "100"
+  },
+  {
+    "__pkey": "13",
+    "EventType": "201",
+    "FlurryEvent": "z",
+    "TextContent": "지금! 점프!",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10007",
+    "TriggerValue2": "210"
+  },
+  {
+    "__pkey": "14",
+    "EventType": "200",
+    "FlurryEvent": "z",
+    "TextContent": "아악!",
+    "TextHideDistance": "0",
+    "TriggerType": "20",
+    "TriggerValue1": "0",
+    "TriggerValue2": "0"
+  },
+  {
+    "__pkey": "15",
+    "EventType": "200",
+    "FlurryEvent": "z",
+    "TextContent": "좀 아픈데요?",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10007",
+    "TriggerValue2": "600"
+  },
+  {
+    "__pkey": "16",
+    "EventType": "200",
+    "FlurryEvent": "z",
+    "TextContent": "앗! 큰 장애물!",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10008",
+    "TriggerValue2": "100"
+  },
+  {
+    "__pkey": "17",
+    "EventType": "200",
+    "FlurryEvent": "z",
+    "TextContent": "그렇다면 이단점프!",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10008",
+    "TriggerValue2": "100"
+  },
+  {
+    "__pkey": "18",
+    "EventType": "201",
+    "FlurryEvent": "z",
+    "TextContent": "지금! 점프!",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10008",
+    "TriggerValue2": "130"
+  },
+  {
+    "__pkey": "19",
+    "EventType": "100",
+    "FlurryEvent": "z",
+    "TextContent": "용감한 쿠키입니다",
+    "TextHideDistance": "0",
+    "TriggerType": "12",
+    "TriggerValue1": "0",
+    "TriggerValue2": "360"
+  },
+  {
+    "__pkey": "2",
+    "EventType": "201",
+    "FlurryEvent": "z",
+    "TextContent": "공중에서! 한번 더!",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10008",
+    "TriggerValue2": "180"
+  },
+  {
+    "__pkey": "20",
+    "EventType": "200",
+    "FlurryEvent": "z",
+    "TextContent": "아악!",
+    "TextHideDistance": "0",
+    "TriggerType": "20",
+    "TriggerValue1": "0",
+    "TriggerValue2": "0"
+  },
+  {
+    "__pkey": "21",
+    "EventType": "200",
+    "FlurryEvent": "z",
+    "TextContent": "너무 아픈데요?",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10008",
+    "TriggerValue2": "500"
+  },
+  {
+    "__pkey": "22",
+    "EventType": "100",
+    "FlurryEvent": "z",
+    "TextContent": "우씨…",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10008",
+    "TriggerValue2": "500"
+  },
+  {
+    "__pkey": "23",
+    "EventType": "200",
+    "FlurryEvent": "z",
+    "TextContent": "앗, 구멍이에요!",
+    "TextHideDistance": "1",
+    "TriggerType": "10",
+    "TriggerValue1": "10025",
+    "TriggerValue2": "80"
+  },
+  {
+    "__pkey": "24",
+    "EventType": "200",
+    "FlurryEvent": "z",
+    "TextContent": "날아서 넘어가 보죠!",
+    "TextHideDistance": "1",
+    "TriggerType": "10",
+    "TriggerValue1": "10025",
+    "TriggerValue2": "80"
+  },
+  {
+    "__pkey": "25",
+    "EventType": "200",
+    "FlurryEvent": "z",
+    "TextContent": "점프를 하면 날 수 있어요!",
+    "TextHideDistance": "1",
+    "TriggerType": "10",
+    "TriggerValue1": "10025",
+    "TriggerValue2": "80"
+  },
+  {
+    "__pkey": "26",
+    "EventType": "201",
+    "FlurryEvent": "z",
+    "TextContent": "지금 점프!",
+    "TextHideDistance": "1",
+    "TriggerType": "10",
+    "TriggerValue1": "10025",
+    "TriggerValue2": "150"
+  },
+  {
+    "__pkey": "27",
+    "EventType": "201",
+    "FlurryEvent": "z",
+    "TextContent": "한번 더 점프!",
+    "TextHideDistance": "1",
+    "TriggerType": "10",
+    "TriggerValue1": "10025",
+    "TriggerValue2": "210"
+  },
+  {
+    "__pkey": "28",
+    "EventType": "200",
+    "FlurryEvent": "z",
+    "TextContent": "무한한 공간~",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10025",
+    "TriggerValue2": "230"
+  },
+  {
+    "__pkey": "29",
+    "EventType": "100",
+    "FlurryEvent": "z",
+    "TextContent": "만우절을 맞이하여",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10001",
+    "TriggerValue2": "0"
+  },
+  {
+    "__pkey": "3",
+    "EventType": "200",
+    "FlurryEvent": "z",
+    "TextContent": "저 너머로~!",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10025",
+    "TriggerValue2": "250"
+  },
+  {
+    "__pkey": "30",
+    "EventType": "999",
+    "FlurryEvent": "z",
+    "TextContent": "저 너머로~!",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10025",
+    "TriggerValue2": "270"
+  },
+  {
+    "__pkey": "31",
+    "EventType": "100",
+    "FlurryEvent": "z",
+    "TextContent": "특별한걸 준비했어요",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10001",
+    "TriggerValue2": "360"
+  },
+  {
+    "__pkey": "4",
+    "EventType": "100",
+    "FlurryEvent": "z",
+    "TextContent": "이름하여...",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10002",
+    "TriggerValue2": "0"
+  },
+  {
+    "__pkey": "5",
+    "EventType": "100",
+    "FlurryEvent": "z",
+    "TextContent": "몸개그!!",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10002",
+    "TriggerValue2": "360"
+  },
+  {
+    "__pkey": "6",
+    "EventType": "100",
+    "FlurryEvent": "z",
+    "TextContent": "(=_=);;;;",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10003",
+    "TriggerValue2": "0"
+  },
+  {
+    "__pkey": "7",
+    "EventType": "100",
+    "FlurryEvent": "z",
+    "TextContent": "방법은 간단해요",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10003",
+    "TriggerValue2": "360"
+  },
+  {
+    "__pkey": "8",
+    "EventType": "100",
+    "FlurryEvent": "z",
+    "TextContent": "장애물이 나타나면",
+    "TextHideDistance": "0",
+    "TriggerType": "10",
+    "TriggerValue1": "10004",
+    "TriggerValue2": "0"
+  }
+]

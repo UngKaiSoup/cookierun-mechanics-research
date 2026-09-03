@@ -1,0 +1,1121 @@
+[
+  {
+    "BriefDescription": "",
+    "DetailDescription": "모든 에피소드에서 출현",
+    "Name": "널리고 널린 널빤지",
+    "SubDescription": "널리고\n널린 널빤지"
+  },
+  {
+    "__pkey": "2000101",
+    "BriefDescription": "",
+    "DetailDescription": "모든 에피소드에서 출현",
+    "Name": "흔하디 흔한 흙",
+    "SubDescription": "흔하디 흔한 흙"
+  },
+  {
+    "__pkey": "2000102",
+    "BriefDescription": "",
+    "DetailDescription": "모든 에피소드에서 출현",
+    "Name": "쌓이고 쌓인 쌀가루",
+    "SubDescription": "쌓이고\n쌓인 쌀가루"
+  },
+  {
+    "__pkey": "2000103",
+    "BriefDescription": "",
+    "DetailDescription": "모든 에피소드에서 출현",
+    "Name": "채이고 채이는 체리꼭지",
+    "SubDescription": "채이고\n채이는 체리꼭지"
+  },
+  {
+    "__pkey": "2000104",
+    "BriefDescription": "",
+    "DetailDescription": "모든 에피소드에서 출현",
+    "Name": "과자 부스러기",
+    "SubDescription": "과자 부스러기"
+  },
+  {
+    "__pkey": "2000105",
+    "BriefDescription": "",
+    "DetailDescription": "모든 에피소드에서 출현",
+    "Name": "널리 퍼진 민들레 씨앗",
+    "SubDescription": "널리 퍼진\n민들레 씨앗"
+  },
+  {
+    "__pkey": "2000201",
+    "BriefDescription": "",
+    "DetailDescription": "모든 에피소드에서 출현",
+    "Name": "세잎 클로버",
+    "SubDescription": "세잎 클로버"
+  },
+  {
+    "__pkey": "2000202",
+    "BriefDescription": "",
+    "DetailDescription": "모든 에피소드에서 출현",
+    "Name": "보통의 돌멩이",
+    "SubDescription": "보통의 돌멩이"
+  },
+  {
+    "__pkey": "2000203",
+    "BriefDescription": "",
+    "DetailDescription": "모든 에피소드에서 출현",
+    "Name": "마법 원석 조각",
+    "SubDescription": "마법 원석 조각"
+  },
+  {
+    "__pkey": "2000301",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드1 에서 출현",
+    "Name": "고추냉이",
+    "SubDescription": "고추냉이"
+  },
+  {
+    "__pkey": "2001101",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드1 에서 출현",
+    "Name": "보송보송 곰팡이",
+    "SubDescription": "보송보송 곰팡이"
+  },
+  {
+    "__pkey": "2001102",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드1 에서 출현",
+    "Name": "각잡힌 각설탕",
+    "SubDescription": "각잡힌 각설탕"
+  },
+  {
+    "__pkey": "2001103",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드1 에서 출현",
+    "Name": "말린 솔방울",
+    "SubDescription": "말린 솔방울"
+  },
+  {
+    "__pkey": "2001104",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드1 에서 출현",
+    "Name": "꽃잎에 맺힌 이슬",
+    "SubDescription": "꽃잎에 맺힌 이슬"
+  },
+  {
+    "__pkey": "2001105",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드1 에서 출현",
+    "Name": "아껴놓은 딸기",
+    "SubDescription": "아껴놓은 딸기"
+  },
+  {
+    "__pkey": "2001201",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드1 에서 출현",
+    "Name": "고슴도치의 뾰족가시",
+    "SubDescription": "고슴도치의\n뾰족가시"
+  },
+  {
+    "__pkey": "2001202",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드1 에서 출현",
+    "Name": "속이 파인 호박",
+    "SubDescription": "속이 파인 호박"
+  },
+  {
+    "__pkey": "2001203",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드1 에서 출현",
+    "Name": "번쩍번쩍 달팽이집",
+    "SubDescription": "번쩍번쩍\n달팽이집"
+  },
+  {
+    "__pkey": "2001204",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드1 에서 출현",
+    "Name": "말린 박쥐 날개",
+    "SubDescription": "말린 박쥐 날개"
+  },
+  {
+    "__pkey": "2001205",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드1 에서 출현",
+    "Name": "마녀의 머릿기름",
+    "SubDescription": "마녀의 머릿기름"
+  },
+  {
+    "__pkey": "2001301",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드1 에서 출현",
+    "Name": "간질간질 고양이 수염",
+    "SubDescription": "간질간질\n고양이 수염"
+  },
+  {
+    "__pkey": "2001302",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드1 에서 출현",
+    "Name": "색동 지렁이",
+    "SubDescription": "색동 지렁이"
+  },
+  {
+    "__pkey": "2001303",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드1 에서 출현",
+    "Name": "영양 만점 호박꿀",
+    "SubDescription": "영양 만점 호박꿀"
+  },
+  {
+    "__pkey": "2001304",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드1 에서 출현",
+    "Name": "독개구리의 뱃가죽",
+    "SubDescription": "독개구리의\n뱃가죽"
+  },
+  {
+    "__pkey": "2001305",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드1 에서 출현",
+    "Name": "캐러멜 나무의 껍질",
+    "SubDescription": "캐러멜\n나무의 껍질"
+  },
+  {
+    "__pkey": "2001306",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드1 에서 출현",
+    "Name": "거대 문어의 빨판",
+    "SubDescription": "거대 문어의 빨판"
+  },
+  {
+    "__pkey": "2001307",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드1 에서 출현",
+    "Name": "소라게의 삶의 무게",
+    "SubDescription": "소라게의\n삶의 무게"
+  },
+  {
+    "__pkey": "2001308",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드1 에서 출현",
+    "Name": "기적의 해바라기 씨",
+    "SubDescription": "기적의\n해바라기 씨"
+  },
+  {
+    "__pkey": "2001401",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드1 에서 출현",
+    "Name": "알록달록 설탕 거미줄",
+    "SubDescription": "알록달록\n설탕 거미줄"
+  },
+  {
+    "__pkey": "2001402",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드1 에서 출현",
+    "Name": "황금 메이플 시럽",
+    "SubDescription": "황금 메이플 시럽"
+  },
+  {
+    "__pkey": "2001403",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드1 에서 출현",
+    "Name": "백만 번 휘저은 휘핑크림",
+    "SubDescription": "백만 번\n휘저은 휘핑크림"
+  },
+  {
+    "__pkey": "2001404",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드1 에서 출현",
+    "Name": "마녀의 마법 불쏘시개",
+    "SubDescription": "마녀의\n마법 불쏘시개"
+  },
+  {
+    "__pkey": "2001405",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드1 에서 출현",
+    "Name": "온갖 맛이 나는 솜사탕 구름",
+    "SubDescription": "온갖 맛이 나는\n솜사탕 구름"
+  },
+  {
+    "__pkey": "2001406",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드1 에서 출현",
+    "Name": "초고밀도 설탕 결정",
+    "SubDescription": "초고밀도\n설탕 결정"
+  },
+  {
+    "__pkey": "2001407",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드1 에서 출현",
+    "Name": "심해어의 유리 지느러미",
+    "SubDescription": "심해어의\n유리 지느러미"
+  },
+  {
+    "__pkey": "2001408",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드1 에서 출현",
+    "Name": "붉게 물든 철퇴 조각",
+    "SubDescription": "붉게 물든\n철퇴 조각"
+  },
+  {
+    "__pkey": "2001409",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드1 에서 출현",
+    "Name": "여왕벌의 땀방울",
+    "SubDescription": "여왕벌의 땀방울"
+  },
+  {
+    "__pkey": "2001501",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드1 에서 출현",
+    "Name": "황금 거위의 간",
+    "SubDescription": "황금 거위의 간"
+  },
+  {
+    "__pkey": "2001502",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드1 에서 출현",
+    "Name": "아이스크림 산의 만년설",
+    "SubDescription": "아이스크림\n산의 만년설"
+  },
+  {
+    "__pkey": "2001503",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드1 에서 출현",
+    "Name": "전설검의 캐러멜 손잡이",
+    "SubDescription": "전설검의\n캐러멜 손잡이"
+  },
+  {
+    "__pkey": "2001504",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드2 에서 출현",
+    "Name": "굳어버린 촛농",
+    "SubDescription": "굳어버린 촛농"
+  },
+  {
+    "__pkey": "2002101",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드2 에서 출현",
+    "Name": "타고 남은 재",
+    "SubDescription": "타고 남은 재"
+  },
+  {
+    "__pkey": "2002102",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드2 에서 출현",
+    "Name": "끈끈이주걱의 끈끈이",
+    "SubDescription": "끈끈이주걱의\n끈끈이"
+  },
+  {
+    "__pkey": "2002201",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드2 에서 출현",
+    "Name": "카멜레온의 혀",
+    "SubDescription": "카멜레온의 혀"
+  },
+  {
+    "__pkey": "2002202",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드2 에서 출현",
+    "Name": "부서진 샹들리에 조각",
+    "SubDescription": "부서진\n샹들리에 조각"
+  },
+  {
+    "__pkey": "2002203",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드2 에서 출현",
+    "Name": "달달한 사탕수수",
+    "SubDescription": "달달한 사탕수수"
+  },
+  {
+    "__pkey": "2002204",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드2 에서 출현",
+    "Name": "초코쇠똥구리의 비상식량",
+    "SubDescription": "초코쇠똥구리의\n비상식량"
+  },
+  {
+    "__pkey": "2002205",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드2 에서 출현",
+    "Name": "녹차 절벽의 끝자락",
+    "SubDescription": "녹차 절벽의\n끝자락"
+  },
+  {
+    "__pkey": "2002301",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드2 에서 출현",
+    "Name": "영혼을 묶는 족쇄",
+    "SubDescription": "영혼을 묶는 족쇄"
+  },
+  {
+    "__pkey": "2002302",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드2 에서 출현",
+    "Name": "알록달록 일곱빛깔 포도",
+    "SubDescription": "알록달록\n일곱빛깔 포도"
+  },
+  {
+    "__pkey": "2002303",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드2 에서 출현",
+    "Name": "지하감옥 창살캔디",
+    "SubDescription": "지하감옥\n창살캔디"
+  },
+  {
+    "__pkey": "2002304",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드2 에서 출현",
+    "Name": "왕관 앵무새의 부리",
+    "SubDescription": "왕관\n앵무새의 부리"
+  },
+  {
+    "__pkey": "2002305",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드2 에서 출현",
+    "Name": "원숭이의 빨간 엉덩이 털",
+    "SubDescription": "원숭이의\n빨간 엉덩이 털"
+  },
+  {
+    "__pkey": "2002306",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드2 에서 출현",
+    "Name": "타다 만 두루마리",
+    "SubDescription": "타다 만 두루마리"
+  },
+  {
+    "__pkey": "2002307",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드2 에서 출현",
+    "Name": "거대 잠자리의 날개",
+    "SubDescription": "거대\n잠자리의 날개"
+  },
+  {
+    "__pkey": "2002308",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드2 에서 출현",
+    "Name": "설탕꽃 꽃잎",
+    "SubDescription": "설탕꽃 꽃잎"
+  },
+  {
+    "__pkey": "2002309",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드2 에서 출현",
+    "Name": "초코성벽의 금박지",
+    "SubDescription": "초코성벽의 금박지"
+  },
+  {
+    "__pkey": "2002401",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드2 에서 출현",
+    "Name": "부서진 왕좌의 파편",
+    "SubDescription": "부서진\n왕좌의 파편"
+  },
+  {
+    "__pkey": "2002402",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드2 에서 출현",
+    "Name": "깨진 마법의 수정 구슬",
+    "SubDescription": "깨진 마법의\n수정 구슬"
+  },
+  {
+    "__pkey": "2002403",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드2 에서 출현",
+    "Name": "강철 장미의 가시",
+    "SubDescription": "강철 장미의 가시"
+  },
+  {
+    "__pkey": "2002404",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드2 에서 출현",
+    "Name": "거대 꿀달팽이의 꿀점액질",
+    "SubDescription": "거대 꿀달팽이의\n꿀점액질"
+  },
+  {
+    "__pkey": "2002405",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드2 에서 출현",
+    "Name": "황금빛 호수의 물안개",
+    "SubDescription": "황금빛\n호수의 물안개"
+  },
+  {
+    "__pkey": "2002406",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드2 에서 출현",
+    "Name": "풀리지 않는 넝쿨 매듭",
+    "SubDescription": "풀리지 않는\n넝쿨 매듭"
+  },
+  {
+    "__pkey": "2002407",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드2 에서 출현",
+    "Name": "전설의 파인애플 꿀잼",
+    "SubDescription": "전설의\n파인애플 꿀잼"
+  },
+  {
+    "__pkey": "2002408",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드2 에서 출현",
+    "Name": "지혜의 연꽃",
+    "SubDescription": "지혜의 연꽃"
+  },
+  {
+    "__pkey": "2002409",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드2 에서 출현",
+    "Name": "한 줌의 천둥 구름",
+    "SubDescription": "한 줌의 천둥 구름"
+  },
+  {
+    "__pkey": "2002410",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드2 에서 출현",
+    "Name": "원시 부족의 전설주",
+    "SubDescription": "원시 부족의\n전설주"
+  },
+  {
+    "__pkey": "2002411",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드2 에서 출현",
+    "Name": "파멸을 예언한 석판의 조각",
+    "SubDescription": "파멸을 예언한\n석판의 조각"
+  },
+  {
+    "__pkey": "2002501",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드2 에서 출현",
+    "Name": "신성한 신의 콩",
+    "SubDescription": "신성한 신의 콩"
+  },
+  {
+    "__pkey": "2002502",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드2 에서 출현",
+    "Name": "찬란한 무지개 파편",
+    "SubDescription": "찬란한\n무지개 파편"
+  },
+  {
+    "__pkey": "2002503",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드2 에서 출현",
+    "Name": "100년 묵은 마법나무 수액",
+    "SubDescription": "100년 묵은\n마법나무 수액"
+  },
+  {
+    "__pkey": "2002504",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드2 에서 출현",
+    "Name": "달빛을 머금은 달맞이꽃",
+    "SubDescription": "달빛을\n머금은 달맞이꽃"
+  },
+  {
+    "__pkey": "2002505",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드2 에서 출현",
+    "Name": "별빛을 머금은 별맞이꽃",
+    "SubDescription": "별빛을\n머금은 별맞이꽃"
+  },
+  {
+    "__pkey": "2002506",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드3 에서 출현",
+    "Name": "갑자기 툭 튄 용암",
+    "SubDescription": "갑자기 툭 튄 용암"
+  },
+  {
+    "__pkey": "2003101",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드3 에서 출현",
+    "Name": "질긴 나무 덩굴",
+    "SubDescription": "질긴 나무 덩굴"
+  },
+  {
+    "__pkey": "2003102",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드3 에서 출현",
+    "Name": "초코 현무암",
+    "SubDescription": "초코 현무암"
+  },
+  {
+    "__pkey": "2003201",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드3 에서 출현",
+    "Name": "유황 왕달걀",
+    "SubDescription": "유황 왕달걀"
+  },
+  {
+    "__pkey": "2003202",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드3 에서 출현",
+    "Name": "불타는 마시멜로",
+    "SubDescription": "불타는 마시멜로"
+  },
+  {
+    "__pkey": "2003203",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드3 에서 출현",
+    "Name": "화염 도토리",
+    "SubDescription": "화염 도토리"
+  },
+  {
+    "__pkey": "2003204",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드3 에서 출현",
+    "Name": "블러드스톤",
+    "SubDescription": "블러드스톤"
+  },
+  {
+    "__pkey": "2003301",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드3 에서 출현",
+    "Name": "이글이글 화염 꼬챙이",
+    "SubDescription": "이글이글\n화염 꼬챙이"
+  },
+  {
+    "__pkey": "2003302",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드3 에서 출현",
+    "Name": "스퐁카스테리쿠스 쿠아드리코르니스",
+    "SubDescription": "스퐁카스테리쿠스\n쿠아드리코르니스"
+  },
+  {
+    "__pkey": "2003303",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드3 에서 출현",
+    "Name": "소문난 유황 온천수",
+    "SubDescription": "소문난\n유황 온천수"
+  },
+  {
+    "__pkey": "2003304",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드3 에서 출현",
+    "Name": "아기용의 낙서",
+    "SubDescription": "아기용의 낙서"
+  },
+  {
+    "__pkey": "2003305",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드3 에서 출현",
+    "Name": "불도마뱀 꼬리",
+    "SubDescription": "불도마뱀 꼬리"
+  },
+  {
+    "__pkey": "2003306",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드3 에서 출현",
+    "Name": "황금단추",
+    "SubDescription": "황금단추"
+  },
+  {
+    "__pkey": "2003307",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드3 에서 출현",
+    "Name": "붉은 캡사이신 결정",
+    "SubDescription": "붉은\n캡사이신 결정"
+  },
+  {
+    "__pkey": "2003401",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드3 에서 출현",
+    "Name": "켈베로스의 무쇠 발톱",
+    "SubDescription": "켈베로스의\n무쇠 발톱"
+  },
+  {
+    "__pkey": "2003402",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드3 에서 출현",
+    "Name": "성난 도깨비불",
+    "SubDescription": "성난 도깨비불"
+  },
+  {
+    "__pkey": "2003403",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드3 에서 출현",
+    "Name": "분화구에 핀 용암꽃",
+    "SubDescription": "분화구에\n핀 용암꽃"
+  },
+  {
+    "__pkey": "2003404",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드3 에서 출현",
+    "Name": "번개맞은 바오밥 나무 열매",
+    "SubDescription": "번개맞은\n바오밥 나무 열매"
+  },
+  {
+    "__pkey": "2003405",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드3 에서 출현",
+    "Name": "초코 퐁듀 퐁당 비스킷",
+    "SubDescription": "초코 퐁듀\n퐁당 비스킷"
+  },
+  {
+    "__pkey": "2003406",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드3 에서 출현",
+    "Name": "부서진 황금 십자가",
+    "SubDescription": "부서진\n황금 십자가"
+  },
+  {
+    "__pkey": "2003407",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드3 에서 출현",
+    "Name": "부유하는 푸른 보석",
+    "SubDescription": "부유하는\n푸른 보석"
+  },
+  {
+    "__pkey": "2003408",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드3 에서 출현",
+    "Name": "까칠한 용의 비늘",
+    "SubDescription": "까칠한 용의 비늘"
+  },
+  {
+    "__pkey": "2003409",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드3 에서 출현",
+    "Name": "악마의 피",
+    "SubDescription": "악마의 피"
+  },
+  {
+    "__pkey": "2003410",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드3 에서 출현",
+    "Name": "녹다 만 절대반지",
+    "SubDescription": "녹다 만 절대반지"
+  },
+  {
+    "__pkey": "2003501",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드3 에서 출현",
+    "Name": "불사조의 불눈물",
+    "SubDescription": "불사조의 불눈물"
+  },
+  {
+    "__pkey": "2003502",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드3 에서 출현",
+    "Name": "깨진 왕가의 증표",
+    "SubDescription": "깨진 왕가의 증표"
+  },
+  {
+    "__pkey": "2003503",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드3 에서 출현",
+    "Name": "부글부글 초코마그마",
+    "SubDescription": "부글부글\n초코마그마"
+  },
+  {
+    "__pkey": "2003504",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드3 에서 출현",
+    "Name": "마그마 고래의 수염",
+    "SubDescription": "마그마\n고래의 수염"
+  },
+  {
+    "__pkey": "2003505",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드3 에서 출현",
+    "Name": "분노한 용의 뜨거운 숨결",
+    "SubDescription": "분노한 용의\n뜨거운 숨결"
+  },
+  {
+    "__pkey": "2003506",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드4 에서 출현",
+    "Name": "녹슨 놋쇠 조각",
+    "SubDescription": "녹슨 놋쇠 조각"
+  },
+  {
+    "__pkey": "2004101",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드4 에서 출현",
+    "Name": "책벌레의 안경다리",
+    "SubDescription": "책벌레의 안경다리"
+  },
+  {
+    "__pkey": "2004102",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드4 에서 출현",
+    "Name": "의문의 미로조각",
+    "SubDescription": "의문의 미로조각"
+  },
+  {
+    "__pkey": "2004201",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드4 에서 출현",
+    "Name": "말려 놓은 꽃잎",
+    "SubDescription": "말려 놓은 꽃잎"
+  },
+  {
+    "__pkey": "2004202",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드4 에서 출현",
+    "Name": "별문양 황동마개",
+    "SubDescription": "별문양 황동마개"
+  },
+  {
+    "__pkey": "2004203",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드4 에서 출현",
+    "Name": "새벽꽃버섯의 분홍 갓",
+    "SubDescription": "새벽꽃버섯의 분홍 갓"
+  },
+  {
+    "__pkey": "2004204",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드4 에서 출현",
+    "Name": "끈적한 보라점액",
+    "SubDescription": "끈적한 보라점액"
+  },
+  {
+    "__pkey": "2004301",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드4 에서 출현",
+    "Name": "행운 결정체",
+    "SubDescription": "행운 결정체"
+  },
+  {
+    "__pkey": "2004302",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드4 에서 출현",
+    "Name": "악몽 액기스",
+    "SubDescription": "악몽 액기스"
+  },
+  {
+    "__pkey": "2004303",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드4 에서 출현",
+    "Name": "외로운 마법사의 눈물",
+    "SubDescription": "외로운 마법사의 눈물"
+  },
+  {
+    "__pkey": "2004304",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드4 에서 출현",
+    "Name": "네펜데스의 입술",
+    "SubDescription": "네펜데스의 입술"
+  },
+  {
+    "__pkey": "2004305",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드4 에서 출현",
+    "Name": "오색 통후추",
+    "SubDescription": "오색 통후추"
+  },
+  {
+    "__pkey": "2004306",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드4 에서 출현",
+    "Name": "온갖 색이 나는 잉크",
+    "SubDescription": "온갖 색이 나는 잉크"
+  },
+  {
+    "__pkey": "2004307",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드4 에서 출현",
+    "Name": "강철 톱니바퀴 조각",
+    "SubDescription": "강철 톱니바퀴 조각"
+  },
+  {
+    "__pkey": "2004308",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드4 에서 출현",
+    "Name": "구름요정의 날개",
+    "SubDescription": "구름요정의 날개"
+  },
+  {
+    "__pkey": "2004401",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드4 에서 출현",
+    "Name": "만드라고라의 숨겨진 꿀벅지",
+    "SubDescription": "만드라고라의 숨겨진 꿀벅지"
+  },
+  {
+    "__pkey": "2004402",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드4 에서 출현",
+    "Name": "시간을 멈추는 양념 가루",
+    "SubDescription": "시간을 멈추는 양념 가루"
+  },
+  {
+    "__pkey": "2004403",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드4 에서 출현",
+    "Name": "태엽인형의 황금태엽",
+    "SubDescription": "태엽인형의 황금태엽"
+  },
+  {
+    "__pkey": "2004404",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드4 에서 출현",
+    "Name": "시간을 묶는 마법끈",
+    "SubDescription": "시간을 묶는 마법끈"
+  },
+  {
+    "__pkey": "2004405",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드4 에서 출현",
+    "Name": "멸망이 드리운 거울 조각",
+    "SubDescription": "멸망이 드리운 거울 조각"
+  },
+  {
+    "__pkey": "2004406",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드4 에서 출현",
+    "Name": "유니콘의 무지개빛 뿔",
+    "SubDescription": "유니콘의 무지개빛 뿔"
+  },
+  {
+    "__pkey": "2004407",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드4 에서 출현",
+    "Name": "심연의 흑요석 결정체",
+    "SubDescription": "심연의 흑요석 결정체"
+  },
+  {
+    "__pkey": "2004501",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드4 에서 출현",
+    "Name": "마법모래시계의 황금모래",
+    "SubDescription": "마법모래시계의 황금모래"
+  },
+  {
+    "__pkey": "2004502",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드4 에서 출현",
+    "Name": "영생의 푸른 독풀",
+    "SubDescription": "영생의 푸른 독풀"
+  },
+  {
+    "__pkey": "2004503",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드4 에서 출현",
+    "Name": "마법의 황금 인장",
+    "SubDescription": "마법의 황금 인장"
+  },
+  {
+    "__pkey": "2004504",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드4 에서 출현",
+    "Name": "은하 비술가루",
+    "SubDescription": "은하 비술가루"
+  },
+  {
+    "__pkey": "2004505",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드4 에서 출현",
+    "Name": "갓 태어난 별의 빛조각",
+    "SubDescription": "갓 태어난 별의 빛조각"
+  },
+  {
+    "__pkey": "2004506",
+    "BriefDescription": "",
+    "DetailDescription": "에피소드4 에서 출현",
+    "Name": "달빛 꿈의 정수",
+    "SubDescription": "달빛 꿈의 정수"
+  },
+  {
+    "__pkey": "2004507",
+    "BriefDescription": "",
+    "DetailDescription": "스페셜 에피소드1 에서 출현",
+    "Name": "닻에 달린 다시마",
+    "SubDescription": "닻에 달린 다시마"
+  },
+  {
+    "__pkey": "2501101",
+    "BriefDescription": "",
+    "DetailDescription": "스페셜 에피소드1 에서 출현",
+    "Name": "쫄깃한 불가사리",
+    "SubDescription": "쫄깃한 불가사리"
+  },
+  {
+    "__pkey": "2501102",
+    "BriefDescription": "",
+    "DetailDescription": "스페셜 에피소드1 에서 출현",
+    "Name": "코코아 버터",
+    "SubDescription": "코코아 버터"
+  },
+  {
+    "__pkey": "2501201",
+    "BriefDescription": "",
+    "DetailDescription": "스페셜 에피소드1 에서 출현",
+    "Name": "달맞이 이끼",
+    "SubDescription": "달맞이 이끼"
+  },
+  {
+    "__pkey": "2501202",
+    "BriefDescription": "",
+    "DetailDescription": "스페셜 에피소드1 에서 출현",
+    "Name": "끊어진 진주 목걸이",
+    "SubDescription": "끊어진\n진주 목걸이"
+  },
+  {
+    "__pkey": "2501203",
+    "BriefDescription": "",
+    "DetailDescription": "스페셜 에피소드1 에서 출현",
+    "Name": "철갑상어의 뼛가루",
+    "SubDescription": "철갑상어의\n뼛가루"
+  },
+  {
+    "__pkey": "2501301",
+    "BriefDescription": "",
+    "DetailDescription": "스페셜 에피소드1 에서 출현",
+    "Name": "애꾸눈 선장의 안대",
+    "SubDescription": "애꾸눈\n선장의 안대"
+  },
+  {
+    "__pkey": "2501302",
+    "BriefDescription": "",
+    "DetailDescription": "스페셜 에피소드1 에서 출현",
+    "Name": "원통한 선원의 원혼",
+    "SubDescription": "원통한\n선원의 원혼"
+  },
+  {
+    "__pkey": "2501303",
+    "BriefDescription": "",
+    "DetailDescription": "스페셜 에피소드1 에서 출현",
+    "Name": "전기뱀장어의 아가미",
+    "SubDescription": "전기뱀장어의\n아가미"
+  },
+  {
+    "__pkey": "2501401",
+    "BriefDescription": "",
+    "DetailDescription": "스페셜 에피소드1 에서 출현",
+    "Name": "귀신고래의 영혼",
+    "SubDescription": "귀신고래의 영혼"
+  },
+  {
+    "__pkey": "2501402",
+    "BriefDescription": "",
+    "DetailDescription": "스페셜 에피소드1 에서 출현",
+    "Name": "오로라 15g",
+    "SubDescription": "오로라 15g"
+  },
+  {
+    "__pkey": "2501403",
+    "BriefDescription": "",
+    "DetailDescription": "스페셜 에피소드1 에서 출현",
+    "Name": "검은 바다의 흑소금 결정",
+    "SubDescription": "검은 바다의\n흑소금 결정"
+  },
+  {
+    "__pkey": "2501404",
+    "BriefDescription": "",
+    "DetailDescription": "스페셜 에피소드1 에서 출현",
+    "Name": "하늘왕국 황금종의 추",
+    "SubDescription": "하늘왕국\n황금종의 추"
+  },
+  {
+    "__pkey": "2501501",
+    "BriefDescription": "",
+    "DetailDescription": "스페셜 에피소드1 에서 출현",
+    "Name": "캐리비안 38년산",
+    "SubDescription": "캐리비안 38년산"
+  },
+  {
+    "__pkey": "2501502",
+    "BriefDescription": "",
+    "DetailDescription": "스페셜 에피소드1 에서 출현",
+    "Name": "바다 여신의 선수상 조각",
+    "SubDescription": "바다 여신의\n선수상 조각"
+  },
+  {
+    "__pkey": "2501503",
+    "BriefDescription": "",
+    "DetailDescription": "스페셜 에피소드2 에서 출현",
+    "Name": "깨진 눈꽃사탕",
+    "SubDescription": "깨진 눈꽃사탕"
+  },
+  {
+    "__pkey": "2502101",
+    "BriefDescription": "",
+    "DetailDescription": "스페셜 에피소드2 에서 출현",
+    "Name": "흰수염고래의 수염",
+    "SubDescription": "흰수염고래의 수염"
+  },
+  {
+    "__pkey": "2502102",
+    "BriefDescription": "",
+    "DetailDescription": "스페셜 에피소드2 에서 출현",
+    "Name": "심해홍합의 쫀쫀한 속살",
+    "SubDescription": "심해홍합의\n쫀쫀한 속살"
+  },
+  {
+    "__pkey": "2502201",
+    "BriefDescription": "",
+    "DetailDescription": "스페셜 에피소드2 에서 출현",
+    "Name": "세발치의 세번째 다리",
+    "SubDescription": "세발치의\n세번째 다리"
+  },
+  {
+    "__pkey": "2502202",
+    "BriefDescription": "",
+    "DetailDescription": "스페셜 에피소드2 에서 출현",
+    "Name": "자이언트 해파리의 미끈한 촉수",
+    "SubDescription": "자이언트 해파리의\n미끈한 촉수"
+  },
+  {
+    "__pkey": "2502203",
+    "BriefDescription": "",
+    "DetailDescription": "스페셜 에피소드2 에서 출현",
+    "Name": "한 줌의 얼음소금",
+    "SubDescription": "한 줌의 얼음소금"
+  },
+  {
+    "__pkey": "2502301",
+    "BriefDescription": "",
+    "DetailDescription": "스페셜 에피소드2 에서 출현",
+    "Name": "마귀상어의 붉은 이빨",
+    "SubDescription": "마귀상어의\n붉은 이빨"
+  },
+  {
+    "__pkey": "2502302",
+    "BriefDescription": "",
+    "DetailDescription": "스페셜 에피소드2 에서 출현",
+    "Name": "얼어붙은 바닷바람",
+    "SubDescription": "얼어붙은 바닷바람"
+  },
+  {
+    "__pkey": "2502303",
+    "BriefDescription": "",
+    "DetailDescription": "스페셜 에피소드2 에서 출현",
+    "Name": "비상쏠베감펭의 화려한 지느러미",
+    "SubDescription": "비상쏠베감펭의\n화려한 지느러미"
+  },
+  {
+    "__pkey": "2502401",
+    "BriefDescription": "",
+    "DetailDescription": "스페셜 에피소드2 에서 출현",
+    "Name": "갓 떨어진 얼음 꽃잎",
+    "SubDescription": "갓 떨어진\n얼음 꽃잎"
+  },
+  {
+    "__pkey": "2502402",
+    "BriefDescription": "",
+    "DetailDescription": "스페셜 에피소드2 에서 출현",
+    "Name": "심해 반딧불이의 빛가루",
+    "SubDescription": "심해 반딧불이의\n빛가루"
+  },
+  {
+    "__pkey": "2502403",
+    "BriefDescription": "",
+    "DetailDescription": "스페셜 에피소드2 에서 출현",
+    "Name": "어쩌다 얼어버린 오로라 파편",
+    "SubDescription": "어쩌다 얼어버린\n오로라 파편"
+  },
+  {
+    "__pkey": "2502404",
+    "BriefDescription": "",
+    "DetailDescription": "스페셜 에피소드2 에서 출현",
+    "Name": "얼음조개의 얼음진주",
+    "SubDescription": "얼음조개의\n얼음진주"
+  },
+  {
+    "__pkey": "2502501",
+    "BriefDescription": "",
+    "DetailDescription": "스페셜 에피소드2 에서 출현",
+    "Name": "바다요정의 은빛눈물 고드름",
+    "SubDescription": "바다요정의\n은빛눈물 고드름"
+  },
+  {
+    "__pkey": "2502502",
+    "BriefDescription": "",
+    "DetailDescription": "스페셜 에피소드2 에서 출현",
+    "Name": "황금해룡의 금비늘",
+    "SubDescription": "황금해룡의 금비늘"
+  }
+]

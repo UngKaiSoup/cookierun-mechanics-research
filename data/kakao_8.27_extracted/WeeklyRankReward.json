@@ -1,0 +1,641 @@
+[
+  {
+    "friendWinCount": "1",
+    "reward1qty": "",
+    "reward1type": "",
+    "reward2qty": "",
+    "reward2type": "",
+    "reward3qty": "30",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "1",
+    "friendWinCount": "45",
+    "reward1qty": "2",
+    "reward1type": "G",
+    "reward2qty": "5000",
+    "reward2type": "C",
+    "reward3qty": "100",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "10",
+    "friendWinCount": "50",
+    "reward1qty": "3",
+    "reward1type": "G",
+    "reward2qty": "5000",
+    "reward2type": "C",
+    "reward3qty": "110",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "11",
+    "friendWinCount": "60",
+    "reward1qty": "3",
+    "reward1type": "G",
+    "reward2qty": "6000",
+    "reward2type": "C",
+    "reward3qty": "110",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "12",
+    "friendWinCount": "70",
+    "reward1qty": "3",
+    "reward1type": "G",
+    "reward2qty": "6000",
+    "reward2type": "C",
+    "reward3qty": "120",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "13",
+    "friendWinCount": "80",
+    "reward1qty": "3",
+    "reward1type": "G",
+    "reward2qty": "7000",
+    "reward2type": "C",
+    "reward3qty": "120",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "14",
+    "friendWinCount": "90",
+    "reward1qty": "3",
+    "reward1type": "G",
+    "reward2qty": "7000",
+    "reward2type": "C",
+    "reward3qty": "130",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "15",
+    "friendWinCount": "100",
+    "reward1qty": "4",
+    "reward1type": "G",
+    "reward2qty": "7000",
+    "reward2type": "C",
+    "reward3qty": "130",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "16",
+    "friendWinCount": "110",
+    "reward1qty": "4",
+    "reward1type": "G",
+    "reward2qty": "8000",
+    "reward2type": "C",
+    "reward3qty": "130",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "17",
+    "friendWinCount": "120",
+    "reward1qty": "4",
+    "reward1type": "G",
+    "reward2qty": "8000",
+    "reward2type": "C",
+    "reward3qty": "140",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "18",
+    "friendWinCount": "130",
+    "reward1qty": "4",
+    "reward1type": "G",
+    "reward2qty": "9000",
+    "reward2type": "C",
+    "reward3qty": "140",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "19",
+    "friendWinCount": "5",
+    "reward1qty": "",
+    "reward1type": "",
+    "reward2qty": "1000",
+    "reward2type": "C",
+    "reward3qty": "30",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "2",
+    "friendWinCount": "140",
+    "reward1qty": "4",
+    "reward1type": "G",
+    "reward2qty": "9000",
+    "reward2type": "C",
+    "reward3qty": "150",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "20",
+    "friendWinCount": "150",
+    "reward1qty": "5",
+    "reward1type": "G",
+    "reward2qty": "9000",
+    "reward2type": "C",
+    "reward3qty": "150",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "21",
+    "friendWinCount": "160",
+    "reward1qty": "5",
+    "reward1type": "G",
+    "reward2qty": "10000",
+    "reward2type": "C",
+    "reward3qty": "150",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "22",
+    "friendWinCount": "170",
+    "reward1qty": "5",
+    "reward1type": "G",
+    "reward2qty": "10000",
+    "reward2type": "C",
+    "reward3qty": "160",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "23",
+    "friendWinCount": "180",
+    "reward1qty": "5",
+    "reward1type": "G",
+    "reward2qty": "11000",
+    "reward2type": "C",
+    "reward3qty": "160",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "24",
+    "friendWinCount": "190",
+    "reward1qty": "5",
+    "reward1type": "G",
+    "reward2qty": "11000",
+    "reward2type": "C",
+    "reward3qty": "170",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "25",
+    "friendWinCount": "200",
+    "reward1qty": "6",
+    "reward1type": "G",
+    "reward2qty": "11000",
+    "reward2type": "C",
+    "reward3qty": "170",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "26",
+    "friendWinCount": "220",
+    "reward1qty": "6",
+    "reward1type": "G",
+    "reward2qty": "12000",
+    "reward2type": "C",
+    "reward3qty": "170",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "27",
+    "friendWinCount": "240",
+    "reward1qty": "6",
+    "reward1type": "G",
+    "reward2qty": "12000",
+    "reward2type": "C",
+    "reward3qty": "180",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "28",
+    "friendWinCount": "260",
+    "reward1qty": "6",
+    "reward1type": "G",
+    "reward2qty": "13000",
+    "reward2type": "C",
+    "reward3qty": "180",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "29",
+    "friendWinCount": "10",
+    "reward1qty": "1",
+    "reward1type": "G",
+    "reward2qty": "1000",
+    "reward2type": "C",
+    "reward3qty": "30",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "3",
+    "friendWinCount": "280",
+    "reward1qty": "6",
+    "reward1type": "G",
+    "reward2qty": "13000",
+    "reward2type": "C",
+    "reward3qty": "190",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "30",
+    "friendWinCount": "300",
+    "reward1qty": "7",
+    "reward1type": "G",
+    "reward2qty": "13000",
+    "reward2type": "C",
+    "reward3qty": "190",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "31",
+    "friendWinCount": "350",
+    "reward1qty": "7",
+    "reward1type": "G",
+    "reward2qty": "14000",
+    "reward2type": "C",
+    "reward3qty": "190",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "32",
+    "friendWinCount": "400",
+    "reward1qty": "7",
+    "reward1type": "G",
+    "reward2qty": "14000",
+    "reward2type": "C",
+    "reward3qty": "200",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "33",
+    "friendWinCount": "450",
+    "reward1qty": "7",
+    "reward1type": "G",
+    "reward2qty": "15000",
+    "reward2type": "C",
+    "reward3qty": "200",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "34",
+    "friendWinCount": "500",
+    "reward1qty": "8",
+    "reward1type": "G",
+    "reward2qty": "15000",
+    "reward2type": "C",
+    "reward3qty": "200",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "35",
+    "friendWinCount": "550",
+    "reward1qty": "8",
+    "reward1type": "G",
+    "reward2qty": "16000",
+    "reward2type": "C",
+    "reward3qty": "200",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "36",
+    "friendWinCount": "600",
+    "reward1qty": "8",
+    "reward1type": "G",
+    "reward2qty": "16000",
+    "reward2type": "C",
+    "reward3qty": "210",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "37",
+    "friendWinCount": "650",
+    "reward1qty": "8",
+    "reward1type": "G",
+    "reward2qty": "17000",
+    "reward2type": "C",
+    "reward3qty": "210",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "38",
+    "friendWinCount": "700",
+    "reward1qty": "8",
+    "reward1type": "G",
+    "reward2qty": "17000",
+    "reward2type": "C",
+    "reward3qty": "220",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "39",
+    "friendWinCount": "15",
+    "reward1qty": "1",
+    "reward1type": "G",
+    "reward2qty": "2000",
+    "reward2type": "C",
+    "reward3qty": "30",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "4",
+    "friendWinCount": "750",
+    "reward1qty": "8",
+    "reward1type": "G",
+    "reward2qty": "18000",
+    "reward2type": "C",
+    "reward3qty": "220",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "40",
+    "friendWinCount": "800",
+    "reward1qty": "9",
+    "reward1type": "G",
+    "reward2qty": "18000",
+    "reward2type": "C",
+    "reward3qty": "220",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "41",
+    "friendWinCount": "850",
+    "reward1qty": "9",
+    "reward1type": "G",
+    "reward2qty": "19000",
+    "reward2type": "C",
+    "reward3qty": "220",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "42",
+    "friendWinCount": "900",
+    "reward1qty": "9",
+    "reward1type": "G",
+    "reward2qty": "19000",
+    "reward2type": "C",
+    "reward3qty": "230",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "43",
+    "friendWinCount": "950",
+    "reward1qty": "9",
+    "reward1type": "G",
+    "reward2qty": "20000",
+    "reward2type": "C",
+    "reward3qty": "230",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "44",
+    "friendWinCount": "1000",
+    "reward1qty": "10",
+    "reward1type": "G",
+    "reward2qty": "20000",
+    "reward2type": "C",
+    "reward3qty": "230",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "45",
+    "friendWinCount": "1100",
+    "reward1qty": "10",
+    "reward1type": "G",
+    "reward2qty": "21000",
+    "reward2type": "C",
+    "reward3qty": "230",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "46",
+    "friendWinCount": "1200",
+    "reward1qty": "10",
+    "reward1type": "G",
+    "reward2qty": "21000",
+    "reward2type": "C",
+    "reward3qty": "240",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "47",
+    "friendWinCount": "1300",
+    "reward1qty": "10",
+    "reward1type": "G",
+    "reward2qty": "22000",
+    "reward2type": "C",
+    "reward3qty": "240",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "48",
+    "friendWinCount": "1400",
+    "reward1qty": "10",
+    "reward1type": "G",
+    "reward2qty": "22000",
+    "reward2type": "C",
+    "reward3qty": "250",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "49",
+    "friendWinCount": "20",
+    "reward1qty": "1",
+    "reward1type": "G",
+    "reward2qty": "2000",
+    "reward2type": "C",
+    "reward3qty": "60",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "5",
+    "friendWinCount": "1500",
+    "reward1qty": "10",
+    "reward1type": "G",
+    "reward2qty": "23000",
+    "reward2type": "C",
+    "reward3qty": "250",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "50",
+    "friendWinCount": "1600",
+    "reward1qty": "10",
+    "reward1type": "G",
+    "reward2qty": "23000",
+    "reward2type": "C",
+    "reward3qty": "260",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "51",
+    "friendWinCount": "1700",
+    "reward1qty": "10",
+    "reward1type": "G",
+    "reward2qty": "24000",
+    "reward2type": "C",
+    "reward3qty": "260",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "52",
+    "friendWinCount": "1800",
+    "reward1qty": "10",
+    "reward1type": "G",
+    "reward2qty": "24000",
+    "reward2type": "C",
+    "reward3qty": "270",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "53",
+    "friendWinCount": "1900",
+    "reward1qty": "10",
+    "reward1type": "G",
+    "reward2qty": "25000",
+    "reward2type": "C",
+    "reward3qty": "270",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "54",
+    "friendWinCount": "2000",
+    "reward1qty": "11",
+    "reward1type": "G",
+    "reward2qty": "25000",
+    "reward2type": "C",
+    "reward3qty": "270",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "55",
+    "friendWinCount": "2200",
+    "reward1qty": "11",
+    "reward1type": "G",
+    "reward2qty": "26000",
+    "reward2type": "C",
+    "reward3qty": "270",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "56",
+    "friendWinCount": "2400",
+    "reward1qty": "11",
+    "reward1type": "G",
+    "reward2qty": "26000",
+    "reward2type": "C",
+    "reward3qty": "280",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "57",
+    "friendWinCount": "2600",
+    "reward1qty": "11",
+    "reward1type": "G",
+    "reward2qty": "27000",
+    "reward2type": "C",
+    "reward3qty": "280",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "58",
+    "friendWinCount": "2800",
+    "reward1qty": "11",
+    "reward1type": "G",
+    "reward2qty": "27000",
+    "reward2type": "C",
+    "reward3qty": "290",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "59",
+    "friendWinCount": "25",
+    "reward1qty": "1",
+    "reward1type": "G",
+    "reward2qty": "3000",
+    "reward2type": "C",
+    "reward3qty": "60",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "6",
+    "friendWinCount": "3000",
+    "reward1qty": "12",
+    "reward1type": "G",
+    "reward2qty": "28000",
+    "reward2type": "C",
+    "reward3qty": "290",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "60",
+    "friendWinCount": "3500",
+    "reward1qty": "12",
+    "reward1type": "G",
+    "reward2qty": "28000",
+    "reward2type": "C",
+    "reward3qty": "300",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "61",
+    "friendWinCount": "4000",
+    "reward1qty": "12",
+    "reward1type": "G",
+    "reward2qty": "29000",
+    "reward2type": "C",
+    "reward3qty": "300",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "62",
+    "friendWinCount": "4500",
+    "reward1qty": "12",
+    "reward1type": "G",
+    "reward2qty": "29000",
+    "reward2type": "C",
+    "reward3qty": "310",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "63",
+    "friendWinCount": "5000",
+    "reward1qty": "13",
+    "reward1type": "G",
+    "reward2qty": "30000",
+    "reward2type": "C",
+    "reward3qty": "320",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "64",
+    "friendWinCount": "30",
+    "reward1qty": "2",
+    "reward1type": "G",
+    "reward2qty": "3000",
+    "reward2type": "C",
+    "reward3qty": "80",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "7",
+    "friendWinCount": "35",
+    "reward1qty": "2",
+    "reward1type": "G",
+    "reward2qty": "4000",
+    "reward2type": "C",
+    "reward3qty": "80",
+    "reward3type": "A"
+  },
+  {
+    "__pkey": "8",
+    "friendWinCount": "40",
+    "reward1qty": "2",
+    "reward1type": "G",
+    "reward2qty": "4000",
+    "reward2type": "C",
+    "reward3qty": "100",
+    "reward3type": "A"
+  }
+]

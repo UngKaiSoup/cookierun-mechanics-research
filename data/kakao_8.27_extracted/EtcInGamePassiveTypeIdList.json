@@ -1,0 +1,55 @@
+[
+  {
+    "ContinuousEffectTypeId": "403",
+    "MagnetTypeId": "0",
+    "TouchTypeId": "0"
+  },
+  {
+    "__pkey": "0",
+    "ContinuousEffectTypeId": "404",
+    "MagnetTypeId": "1",
+    "TouchTypeId": "1"
+  },
+  {
+    "__pkey": "1",
+    "ContinuousEffectTypeId": "405",
+    "MagnetTypeId": "",
+    "TouchTypeId": ""
+  },
+  {
+    "__pkey": "2",
+    "ContinuousEffectTypeId": "407",
+    "MagnetTypeId": "",
+    "TouchTypeId": ""
+  },
+  {
+    "__pkey": "3",
+    "ContinuousEffectTypeId": "",
+    "MagnetTypeId": "",
+    "TouchTypeId": ""
+  },
+  {
+    "__pkey": "4",
+    "ContinuousEffectTypeId": "",
+    "MagnetTypeId": "",
+    "TouchTypeId": ""
+  },
+  {
+    "__pkey": "5",
+    "ContinuousEffectTypeId": "",
+    "MagnetTypeId": "",
+    "TouchTypeId": ""
+  },
+  {
+    "__pkey": "6",
+    "ContinuousEffectTypeId": "",
+    "MagnetTypeId": "",
+    "TouchTypeId": ""
+  },
+  {
+    "__pkey": "7",
+    "ContinuousEffectTypeId": "",
+    "MagnetTypeId": "",
+    "TouchTypeId": ""
+  }
+]

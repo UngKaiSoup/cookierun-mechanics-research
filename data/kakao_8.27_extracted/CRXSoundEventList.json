@@ -1,0 +1,2936 @@
+[
+  {
+    "FullPathforEvent": "cookierun/OutGame_Artifact/ArtifactOpen_Loading",
+    "Notes": " "
+  },
+  {
+    "__pkey": "ArtifactOpen_Loading",
+    "FullPathforEvent": "cookierun/OutGame_Artifact/ArtifactOpen_Normal",
+    "Notes": " "
+  },
+  {
+    "__pkey": "ArtifactOpen_Normal",
+    "FullPathforEvent": "cookierun/OutGame_Artifact/ArtifactOpen_Special",
+    "Notes": " "
+  },
+  {
+    "__pkey": "ArtifactOpen_Special",
+    "FullPathforEvent": "cookierun/InGame_Pet41/CandlePet_FireToNewDimension",
+    "Notes": " "
+  },
+  {
+    "__pkey": "CandlePet_FireToNewDimension",
+    "FullPathforEvent": "cookierun/InGame_Pet72/Castanets_Shot",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Castanets_Shot",
+    "FullPathforEvent": "cookierun/InGame_Pet72/Castanets_ShotStart",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Castanets_ShotStart",
+    "FullPathforEvent": "cookierun/InGame_Common/Char_Jump_Gigantic",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_Gigantic",
+    "FullPathforEvent": "cookierun/InGame_Ch01/Char_Jump_ch01",
+    "Notes": " "
+  },
+  {
+    "__pkey": "Char_Jump_ch01",
+    "FullPathforEvent": "cookierun/InGame_Ch02/Char_Jump_ch02",
+    "Notes": " "
+  },
+  {
+    "__pkey": "Char_Jump_ch02",
+    "FullPathforEvent": "cookierun/InGame_Ch03/Char_Jump_ch03",
+    "Notes": " "
+  },
+  {
+    "__pkey": "Char_Jump_ch03",
+    "FullPathforEvent": "cookierun/InGame_Ch04/Char_Jump_ch04",
+    "Notes": " "
+  },
+  {
+    "__pkey": "Char_Jump_ch04",
+    "FullPathforEvent": "cookierun/InGame_Ch05/Char_Jump_ch05",
+    "Notes": " "
+  },
+  {
+    "__pkey": "Char_Jump_ch05",
+    "FullPathforEvent": "cookierun/InGame_Ch06/Char_Jump_ch06",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch06",
+    "FullPathforEvent": "cookierun/InGame_Ch07/Char_Jump_ch07",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch07",
+    "FullPathforEvent": "cookierun/InGame_Ch08/Char_Jump_ch08",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch08",
+    "FullPathforEvent": "cookierun/InGame_Ch09/Char_Jump_ch09",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch09",
+    "FullPathforEvent": "cookierun/InGame_Ch10/Char_Jump_ch10",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch10",
+    "FullPathforEvent": "cookierun/InGame_Ch11/Char_Jump_ch11",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch11",
+    "FullPathforEvent": "cookierun/InGame_Ch12/Char_Jump_ch12",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch12",
+    "FullPathforEvent": "cookierun/InGame_Ch13/Char_Jump_ch13",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch13",
+    "FullPathforEvent": "cookierun/InGame_Ch14/Char_Jump_ch14",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch14",
+    "FullPathforEvent": "cookierun/InGame_Ch15/Char_Jump_ch15",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch15",
+    "FullPathforEvent": "cookierun/InGame_Ch16/Char_Jump_ch16",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch16",
+    "FullPathforEvent": "cookierun/InGame_Ch18/Char_Jump_ch18",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch18",
+    "FullPathforEvent": "cookierun/InGame_Ch19/Char_Jump_ch19",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch19",
+    "FullPathforEvent": "cookierun/InGame_Ch20/Char_Jump_ch20",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch20",
+    "FullPathforEvent": "cookierun/InGame_Ch21/Char_Jump_ch21",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch21",
+    "FullPathforEvent": "cookierun/InGame_Ch22/Char_Jump_ch22",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch22",
+    "FullPathforEvent": "cookierun/InGame_Ch23/Char_Jump_ch23",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch23",
+    "FullPathforEvent": "cookierun/InGame_Ch24/Char_Jump_ch24",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch24",
+    "FullPathforEvent": "cookierun/InGame_Ch24/Char_Jump_ch24_Woman",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch24_Woman",
+    "FullPathforEvent": "cookierun/InGame_Ch25/Char_Jump_ch25",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch25",
+    "FullPathforEvent": "cookierun/InGame_Ch26/Char_Jump_ch26",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch26",
+    "FullPathforEvent": "cookierun/InGame_Ch27/Char_Jump_ch27",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch27",
+    "FullPathforEvent": "cookierun/InGame_Ch27/Char_Jump_ch27",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch27_1",
+    "FullPathforEvent": "cookierun/InGame_Ch27/Char_Jump_ch27",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch27_2",
+    "FullPathforEvent": "cookierun/InGame_Ch28/Char_Jump_ch28",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch28",
+    "FullPathforEvent": "cookierun/InGame_Ch29/Char_Jump_ch29",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch29",
+    "FullPathforEvent": "cookierun/InGame_Ch30/Char_Jump_ch30",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch30",
+    "FullPathforEvent": "cookierun/InGame_Ch31/Char_Jump_ch31",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch31",
+    "FullPathforEvent": "cookierun/InGame_Ch32/Char_Jump_ch32",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch32",
+    "FullPathforEvent": "cookierun/InGame_Ch33/Char_Jump_ch33",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch33",
+    "FullPathforEvent": "cookierun/InGame_Ch34/Char_Jump_ch34",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch34",
+    "FullPathforEvent": "cookierun/InGame_Ch35/Char_Jump_ch35",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch35",
+    "FullPathforEvent": "cookierun/InGame_Ch36/Char_Jump_ch36",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch36",
+    "FullPathforEvent": "cookierun/InGame_Ch37/Char_Jump_ch37",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch37",
+    "FullPathforEvent": "cookierun/InGame_Ch38/Char_Jump_ch38",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch38",
+    "FullPathforEvent": "cookierun/InGame_Ch39/Char_Jump_ch39",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch39",
+    "FullPathforEvent": "cookierun/InGame_Ch40/Char_Jump_ch40",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch40",
+    "FullPathforEvent": "cookierun/InGame_Ch40/Char_Jump_ch40_lance",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch40_lance",
+    "FullPathforEvent": "cookierun/InGame_Ch41/Char_Jump_ch41",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch41",
+    "FullPathforEvent": "cookierun/InGame_Ch42/Char_Jump_ch42",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch42",
+    "FullPathforEvent": "cookierun/InGame_Ch43/Char_Jump_ch43",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch43",
+    "FullPathforEvent": "cookierun/InGame_Ch44/Char_Jump_ch44",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch44",
+    "FullPathforEvent": "cookierun/InGame_Ch45/Char_Jump_ch45",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch45",
+    "FullPathforEvent": "cookierun/InGame_Ch46/Char_Jump_ch46_00",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch46",
+    "FullPathforEvent": "cookierun/InGame_Ch46/Char_Jump_ch46_01",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch46_1",
+    "FullPathforEvent": "cookierun/InGame_Ch46/Char_Jump_ch46_02",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch46_2",
+    "FullPathforEvent": "cookierun/InGame_Ch46/Char_Jump_ch46_Violinist_Sound_00",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch46_Violinist_Sound",
+    "FullPathforEvent": "cookierun/InGame_Ch46/Char_Jump_ch46_Violinist_Sound_01",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch46_Violinist_Sound_1",
+    "FullPathforEvent": "cookierun/InGame_Ch46/Char_Jump_ch46_Violinist_Sound_02",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch46_Violinist_Sound_2",
+    "FullPathforEvent": "cookierun/InGame_Ch46/Char_Jump_ch46_mid_00",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch46_mid",
+    "FullPathforEvent": "cookierun/InGame_Ch46/Char_Jump_ch46_mid_01",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch46_mid_1",
+    "FullPathforEvent": "cookierun/InGame_Ch46/Char_Jump_ch46_mid_02",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch46_mid_2",
+    "FullPathforEvent": "cookierun/InGame_Ch47/Char_Jump_ch47",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch47",
+    "FullPathforEvent": "cookierun/InGame_Ch48/Char_Jump_ch48",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch48",
+    "FullPathforEvent": "cookierun/InGame_Ch49/Char_Jump_ch49",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch49",
+    "FullPathforEvent": "cookierun/InGame_Ch50/Char_Jump_ch50",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch50",
+    "FullPathforEvent": "cookierun/InGame_Ch51/Char_Jump_ch51",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch51",
+    "FullPathforEvent": "cookierun/InGame_Ch52/Char_Jump_ch52",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch52",
+    "FullPathforEvent": "cookierun/InGame_Ch53/Char_Jump_ch53",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch53",
+    "FullPathforEvent": "cookierun/InGame_Ch54/Char_Jump_ch54",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch54",
+    "FullPathforEvent": "cookierun/InGame_Ch55/Char_Jump_ch55",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch55",
+    "FullPathforEvent": "cookierun/InGame_Ch56/Char_Jump_ch56",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch56",
+    "FullPathforEvent": "cookierun/InGame_Ch57/Char_Jump_ch57",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch57",
+    "FullPathforEvent": "cookierun/InGame_Ch58/Char_Jump_ch58",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch58",
+    "FullPathforEvent": "cookierun/InGame_Ch59/Char_Jump_ch59",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch59",
+    "FullPathforEvent": "cookierun/InGame_Ch60/Char_Jump_ch60",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch60",
+    "FullPathforEvent": "cookierun/InGame_Ch61/Char_Jump_ch61",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch61",
+    "FullPathforEvent": "cookierun/InGame_Ch62/Char_Jump_ch62",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch62",
+    "FullPathforEvent": "cookierun/InGame_Ch63/Char_Jump_ch63",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Jump_ch63",
+    "FullPathforEvent": "cookierun/InGame_Common/Char_Land_Gigantic",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Land_Gigantic",
+    "FullPathforEvent": "cookierun/InGame_Ch01/Char_Slide_ch01",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch01",
+    "FullPathforEvent": "cookierun/InGame_Ch02/Char_Slide_ch02",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch02",
+    "FullPathforEvent": "cookierun/InGame_Ch03/Char_Slide_ch03",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch03",
+    "FullPathforEvent": "cookierun/InGame_Ch04/Char_Slide_ch04",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch04",
+    "FullPathforEvent": "cookierun/InGame_Ch05/Char_Slide_ch05",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch05",
+    "FullPathforEvent": "cookierun/InGame_Ch06/Char_Slide_ch06",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch06",
+    "FullPathforEvent": "cookierun/InGame_Ch07/Char_Slide_ch07",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch07",
+    "FullPathforEvent": "cookierun/InGame_Ch08/Char_Slide_ch08",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch08",
+    "FullPathforEvent": "cookierun/InGame_Ch09/Char_Slide_ch09",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch09",
+    "FullPathforEvent": "cookierun/InGame_Ch10/Char_Slide_ch10",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch10",
+    "FullPathforEvent": "cookierun/InGame_Ch11/Char_Slide_ch11",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch11",
+    "FullPathforEvent": "cookierun/InGame_Ch12/Char_Slide_ch12",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch12",
+    "FullPathforEvent": "cookierun/InGame_Ch13/Char_Slide_ch13",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch13",
+    "FullPathforEvent": "cookierun/InGame_Ch14/Char_Slide_ch14",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch14",
+    "FullPathforEvent": "cookierun/InGame_Ch15/Char_Slide_ch15",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch15",
+    "FullPathforEvent": "cookierun/InGame_Ch16/Char_Slide_ch16",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch16",
+    "FullPathforEvent": "cookierun/InGame_Ch18/Char_Slide_ch18",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch18",
+    "FullPathforEvent": "cookierun/InGame_Ch19/Char_Slide_ch19",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch19",
+    "FullPathforEvent": "cookierun/InGame_Ch20/Char_Slide_ch20",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch20",
+    "FullPathforEvent": "cookierun/InGame_Ch21/Char_Slide_ch21",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch21",
+    "FullPathforEvent": "cookierun/InGame_Ch22/Char_Slide_ch22",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch22",
+    "FullPathforEvent": "cookierun/InGame_Ch23/Char_Slide_ch23",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch23",
+    "FullPathforEvent": "cookierun/InGame_Ch24/Char_Slide_ch24",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch24",
+    "FullPathforEvent": "cookierun/InGame_Ch24/Char_Slide_ch24_Woman",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch24_Woman",
+    "FullPathforEvent": "cookierun/InGame_Ch25/Char_Slide_ch25",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch25",
+    "FullPathforEvent": "cookierun/InGame_Ch26/Char_Slide_ch26",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch26",
+    "FullPathforEvent": "cookierun/InGame_Ch27/Char_Slide_ch27",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch27",
+    "FullPathforEvent": "cookierun/InGame_Ch27/Char_Slide_ch27",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch27_1",
+    "FullPathforEvent": "cookierun/InGame_Ch27/Char_Slide_ch27",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch27_2",
+    "FullPathforEvent": "cookierun/InGame_Ch28/Char_Slide_ch28",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch28",
+    "FullPathforEvent": "cookierun/InGame_Ch29/Char_Slide_ch29",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch29",
+    "FullPathforEvent": "cookierun/InGame_Ch30/Char_Slide_ch30",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch30",
+    "FullPathforEvent": "cookierun/InGame_Ch31/Char_Slide_ch31",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch31",
+    "FullPathforEvent": "cookierun/InGame_Ch32/Char_Slide_ch32",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch32",
+    "FullPathforEvent": "cookierun/InGame_Ch33/Char_Slide_ch33",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch33",
+    "FullPathforEvent": "cookierun/InGame_Ch34/Char_Slide_ch34",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch34",
+    "FullPathforEvent": "cookierun/InGame_Ch35/Char_Slide_ch35",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch35",
+    "FullPathforEvent": "cookierun/InGame_Ch36/Char_Slide_ch36",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch36",
+    "FullPathforEvent": "cookierun/InGame_Ch37/Char_Slide_ch37",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch37",
+    "FullPathforEvent": "cookierun/InGame_Ch38/Char_Slide_ch38",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch38",
+    "FullPathforEvent": "cookierun/InGame_Ch39/Char_Slide_ch39",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch39",
+    "FullPathforEvent": "cookierun/InGame_Ch40/Char_Slide_ch40",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch40",
+    "FullPathforEvent": "cookierun/InGame_Ch40/Char_Slide_ch40_lance",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch40_lance",
+    "FullPathforEvent": "cookierun/InGame_Ch41/Char_Slide_ch41",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch41",
+    "FullPathforEvent": "cookierun/InGame_Ch42/Char_Slide_ch42",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch42",
+    "FullPathforEvent": "cookierun/InGame_Ch43/Char_Slide_ch43",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch43",
+    "FullPathforEvent": "cookierun/InGame_Ch44/Char_Slide_ch44",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch44",
+    "FullPathforEvent": "cookierun/InGame_Ch45/Char_Slide_ch45",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch45",
+    "FullPathforEvent": "cookierun/InGame_Ch46/Char_Slide_ch46_00",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch46",
+    "FullPathforEvent": "cookierun/InGame_Ch46/Char_Slide_ch46_01",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch46_1",
+    "FullPathforEvent": "cookierun/InGame_Ch46/Char_Slide_ch46_02",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch46_2",
+    "FullPathforEvent": "cookierun/InGame_Ch46/Char_Slide_ch46_Violinist_Sound_00",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch46_Violinist_Sound",
+    "FullPathforEvent": "cookierun/InGame_Ch46/Char_Slide_ch46_Violinist_Sound_01",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch46_Violinist_Sound_1",
+    "FullPathforEvent": "cookierun/InGame_Ch46/Char_Slide_ch46_Violinist_Sound_02",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch46_Violinist_Sound_2",
+    "FullPathforEvent": "cookierun/InGame_Ch46/Char_Slide_ch46_mid_00",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch46_mid",
+    "FullPathforEvent": "cookierun/InGame_Ch46/Char_Slide_ch46_mid_01",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch46_mid_1",
+    "FullPathforEvent": "cookierun/InGame_Ch46/Char_Slide_ch46_mid_02",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch46_mid_2",
+    "FullPathforEvent": "cookierun/InGame_Ch47/Char_Slide_ch47",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch47",
+    "FullPathforEvent": "cookierun/InGame_Ch48/Char_Slide_ch48",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch48",
+    "FullPathforEvent": "cookierun/InGame_Ch49/Char_Slide_ch49",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch49",
+    "FullPathforEvent": "cookierun/InGame_Ch50/Char_Slide_ch50",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch50",
+    "FullPathforEvent": "cookierun/InGame_Ch51/Char_Slide_ch51",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch51",
+    "FullPathforEvent": "cookierun/InGame_Ch52/Char_Slide_ch52",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch52",
+    "FullPathforEvent": "cookierun/InGame_Ch53/Char_Slide_ch53",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch53",
+    "FullPathforEvent": "cookierun/InGame_Ch54/Char_Slide_ch54",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch54",
+    "FullPathforEvent": "cookierun/InGame_Ch55/Char_Slide_ch55",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch55",
+    "FullPathforEvent": "cookierun/InGame_Ch56/Char_Slide_ch56",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch56",
+    "FullPathforEvent": "cookierun/InGame_Ch57/Char_Slide_ch57",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch57",
+    "FullPathforEvent": "cookierun/InGame_Ch58/Char_Slide_ch58",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch58",
+    "FullPathforEvent": "cookierun/InGame_Ch59/Char_Slide_ch59",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch59",
+    "FullPathforEvent": "cookierun/InGame_Ch60/Char_Slide_ch60",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch60",
+    "FullPathforEvent": "cookierun/InGame_Ch61/Char_Slide_ch61",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch61",
+    "FullPathforEvent": "cookierun/InGame_Ch62/Char_Slide_ch62",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch62",
+    "FullPathforEvent": "cookierun/InGame_Ch63/Char_Slide_ch63",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Char_Slide_ch63",
+    "FullPathforEvent": "cookierun/InGame_Ch20/CheerLeader_CallFriends",
+    "Notes": " "
+  },
+  {
+    "__pkey": "CheerLeader_CallFriends",
+    "FullPathforEvent": "cookierun/InGame_Ch20/CheerLeader_Friends",
+    "Notes": " "
+  },
+  {
+    "__pkey": "CheerLeader_Friends",
+    "FullPathforEvent": "cookierun/InGame_Common/CheeseCakeFireworkExplosion",
+    "Notes": " "
+  },
+  {
+    "__pkey": "CheeseCakeFireworkExplosion",
+    "FullPathforEvent": "cookierun/InGame_Common/CheeseCakeFireworkFire",
+    "Notes": " "
+  },
+  {
+    "__pkey": "CheeseCakeFireworkFire",
+    "FullPathforEvent": "cookierun/InGame_Ch51/CherryBlossomMakeExplosion",
+    "Notes": ""
+  },
+  {
+    "__pkey": "CherryBlossomMakeExplosion",
+    "FullPathforEvent": "cookierun/InGame_Ch51/CherryBlossom_TransformEnd",
+    "Notes": ""
+  },
+  {
+    "__pkey": "CherryBlossom_TransformEnd",
+    "FullPathforEvent": "cookierun/InGame_Ch51/CherryBlossom_TransformFlight",
+    "Notes": ""
+  },
+  {
+    "__pkey": "CherryBlossom_TransformFlight",
+    "FullPathforEvent": "cookierun/InGame_Ch51/CherryBlossom_TransformStart",
+    "Notes": ""
+  },
+  {
+    "__pkey": "CherryBlossom_TransformStart",
+    "FullPathforEvent": "cookierun/InGame_Pet49/ChocoKing_RedCarpet",
+    "Notes": " "
+  },
+  {
+    "__pkey": "ChocoKing_RedCarpet",
+    "FullPathforEvent": "cookierun/InGame_Ch48/Choucream_TransformEnd",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Choucream_TransformEnd",
+    "FullPathforEvent": "cookierun/InGame_Ch48/Choucream_TransformJump",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Choucream_TransformJump",
+    "FullPathforEvent": "cookierun/InGame_Ch48/Choucream_TransformSlide",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Choucream_TransformSlide",
+    "FullPathforEvent": "cookierun/InGame_Ch48/Choucream_TransformStart",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Choucream_TransformStart",
+    "FullPathforEvent": "cookierun/InGame_Ch60/CinnamonSound_Magic1",
+    "Notes": ""
+  },
+  {
+    "__pkey": "CinnamonSound_Magic1",
+    "FullPathforEvent": "cookierun/InGame_Ch60/CinnamonSound_Magic2",
+    "Notes": ""
+  },
+  {
+    "__pkey": "CinnamonSound_Magic2",
+    "FullPathforEvent": "cookierun/InGame_Ch60/CinnamonSound_Magic3",
+    "Notes": ""
+  },
+  {
+    "__pkey": "CinnamonSound_Magic3",
+    "FullPathforEvent": "cookierun/InGame_Ch60/CinnamonSound_Magic4",
+    "Notes": ""
+  },
+  {
+    "__pkey": "CinnamonSound_Magic4",
+    "FullPathforEvent": "cookierun/InGame_Ch60/Cinnamon_JellyChange",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Cinnamon_JellyChange",
+    "FullPathforEvent": "cookierun/InGame_Ch45/Cocoa_TransformEnd",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Cocoa_TransformEnd",
+    "FullPathforEvent": "cookierun/InGame_Ch45/Cocoa_TransformFlight",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Cocoa_TransformFlight",
+    "FullPathforEvent": "cookierun/InGame_Ch45/Cocoa_TransformStart",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Cocoa_TransformStart",
+    "FullPathforEvent": "cookierun/InGame_Ch48/Coucream_shotBigMaigicJelly",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Coucream_shotBigMaigicJelly",
+    "FullPathforEvent": "cookierun/InGame_Ch48/Coucream_shotSmallMaigicJelly",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Coucream_shotSmallMaigicJelly",
+    "FullPathforEvent": "cookierun/InGame_Ch33/CrusaderFlightEnd",
+    "Notes": " "
+  },
+  {
+    "__pkey": "CrusaderFlightEnd",
+    "FullPathforEvent": "cookierun/InGame_Ch33/CrusaderFlightRun",
+    "Notes": " "
+  },
+  {
+    "__pkey": "CrusaderFlightRun",
+    "FullPathforEvent": "cookierun/InGame_Ch33/CrusaderFlightStart",
+    "Notes": " "
+  },
+  {
+    "__pkey": "CrusaderFlightStart",
+    "FullPathforEvent": "cookierun/InGame_Pet69/DumplingPanda_Splash",
+    "Notes": ""
+  },
+  {
+    "__pkey": "DumplingPanda_Splash",
+    "FullPathforEvent": "cookierun/OutGame_EnchantMagic/EnchantMagic_Best",
+    "Notes": " "
+  },
+  {
+    "__pkey": "EnchantMagic_Best",
+    "FullPathforEvent": "cookierun/OutGame_EnchantMagic/EnchantMagic_Loading",
+    "Notes": " "
+  },
+  {
+    "__pkey": "EnchantMagic_Loading",
+    "FullPathforEvent": "cookierun/OutGame_EnchantMagic/EnchantMagic_Normal",
+    "Notes": " "
+  },
+  {
+    "__pkey": "EnchantMagic_Normal",
+    "FullPathforEvent": "cookierun/InGame_Ch38/EnterExplorerHole",
+    "Notes": " "
+  },
+  {
+    "__pkey": "EnterExplorerHole",
+    "FullPathforEvent": "cookierun/OutGame_EvolutionTreasure/EvolutionTreasure_BigSuccess",
+    "Notes": " "
+  },
+  {
+    "__pkey": "EvolutionTreasure_BigSuccess",
+    "FullPathforEvent": "cookierun/OutGame_EvolutionTreasure/EvolutionTreasure_Fail",
+    "Notes": " "
+  },
+  {
+    "__pkey": "EvolutionTreasure_Fail",
+    "FullPathforEvent": "cookierun/OutGame_EvolutionTreasure/EvolutionTreasure_Loading",
+    "Notes": " "
+  },
+  {
+    "__pkey": "EvolutionTreasure_Loading",
+    "FullPathforEvent": "cookierun/OutGame_EvolutionTreasure/EvolutionTreasure_Start",
+    "Notes": " "
+  },
+  {
+    "__pkey": "EvolutionTreasure_Start",
+    "FullPathforEvent": "cookierun/OutGame_EvolutionTreasure/EvolutionTreasure_Success",
+    "Notes": " "
+  },
+  {
+    "__pkey": "EvolutionTreasure_Success",
+    "FullPathforEvent": "cookierun/InGame_Ch38/ExitExplorerHole",
+    "Notes": " "
+  },
+  {
+    "__pkey": "ExitExplorerHole",
+    "FullPathforEvent": "cookierun/InGame_Common/ExtraNormalScore",
+    "Notes": " "
+  },
+  {
+    "__pkey": "ExtraNormalScore",
+    "FullPathforEvent": "cookierun/InGame_Ch18/Figure_CriticalScore",
+    "Notes": " "
+  },
+  {
+    "__pkey": "Figure_CriticalScore",
+    "FullPathforEvent": "cookierun/InGame_Ch18/Figure_NormalScore",
+    "Notes": " "
+  },
+  {
+    "__pkey": "Figure_NormalScore",
+    "FullPathforEvent": "cookierun/InGame_Common/FireProtectorExplosion",
+    "Notes": ""
+  },
+  {
+    "__pkey": "FireProtectorExplosion",
+    "FullPathforEvent": "cookierun/InGame_Ch41/FireSpirit_ReviveStart",
+    "Notes": " "
+  },
+  {
+    "__pkey": "FireSpirit_ReviveStart",
+    "FullPathforEvent": "cookierun/InGame_Ch41/FireSpirit_TransformEnd",
+    "Notes": " "
+  },
+  {
+    "__pkey": "FireSpirit_TransformEnd",
+    "FullPathforEvent": "cookierun/InGame_Ch41/FireSpirit_TransformFlight",
+    "Notes": " "
+  },
+  {
+    "__pkey": "FireSpirit_TransformFlight",
+    "FullPathforEvent": "cookierun/InGame_Ch41/FireSpirit_TransformStart",
+    "Notes": " "
+  },
+  {
+    "__pkey": "FireSpirit_TransformStart",
+    "FullPathforEvent": "cookierun/InGame_Ch32/FortuneCookie_CastingSkill",
+    "Notes": " "
+  },
+  {
+    "__pkey": "FortuneCookie_CastingSkill",
+    "FullPathforEvent": "cookierun/OutGame_FortuneCookie/FortuneCookie_Done",
+    "Notes": ""
+  },
+  {
+    "__pkey": "FortuneCookie_Done",
+    "FullPathforEvent": "cookierun/OutGame_FortuneCookie/FortuneCookie_Loading",
+    "Notes": ""
+  },
+  {
+    "__pkey": "FortuneCookie_Loading",
+    "FullPathforEvent": "cookierun/OutGame_FortuneCookie/FortuneCookie_Result",
+    "Notes": ""
+  },
+  {
+    "__pkey": "FortuneCookie_Result",
+    "FullPathforEvent": "cookierun/OutGame_FortuneCookie/FortuneCookie_Result_Special",
+    "Notes": ""
+  },
+  {
+    "__pkey": "FortuneCookie_Result_Special",
+    "FullPathforEvent": "cookierun/OutGame_FortuneCookie/FortuneCookie_SecondPaper",
+    "Notes": ""
+  },
+  {
+    "__pkey": "FortuneCookie_SecondPaper",
+    "FullPathforEvent": "cookierun/InGame_Common/GiganticTreasurePangSound",
+    "Notes": ""
+  },
+  {
+    "__pkey": "GiganticTreasurePangSound",
+    "FullPathforEvent": "cookierun/InGame_Ch49/Guardian4_TransformEnd",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Guardian4_TransformEnd",
+    "FullPathforEvent": "cookierun/InGame_Ch49/Guardian4_TransformFlight",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Guardian4_TransformFlight",
+    "FullPathforEvent": "cookierun/InGame_Ch49/Guardian4_TransformStart",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Guardian4_TransformStart",
+    "FullPathforEvent": "cookierun/InGame_Ch50/GumballBomb",
+    "Notes": "검 터짐"
+  },
+  {
+    "__pkey": "GumballBomb",
+    "FullPathforEvent": "cookierun/InGame_Ch50/GumballBulletLoad",
+    "Notes": ""
+  },
+  {
+    "__pkey": "GumballBulletLoad",
+    "FullPathforEvent": "cookierun/InGame_Ch50/GumballShot",
+    "Notes": "총발사"
+  },
+  {
+    "__pkey": "GumballShot",
+    "FullPathforEvent": "cookierun/InGame_Ch50/GumballShotFullCombo",
+    "Notes": " 콤보 완성"
+  },
+  {
+    "__pkey": "GumballShotFullCombo",
+    "FullPathforEvent": "cookierun/InGame_Ch50/GumballShotOutOfBullet",
+    "Notes": " 총알 없음"
+  },
+  {
+    "__pkey": "GumballShotOutOfBullet",
+    "FullPathforEvent": "cookierun/InGame_Ch50/Gumball_Obstacle_Explosion",
+    "Notes": "장애물 파괴"
+  },
+  {
+    "__pkey": "Gumball_Obstacle_Explosion",
+    "FullPathforEvent": "cookierun/InGame_Ch24/GumihoTransToFox",
+    "Notes": " "
+  },
+  {
+    "__pkey": "GumihoTransToFox",
+    "FullPathforEvent": "cookierun/InGame_Ch24/GumihoTransToWoman",
+    "Notes": " "
+  },
+  {
+    "__pkey": "GumihoTransToWoman",
+    "FullPathforEvent": "cookierun/InGame_Pet74/HalfSeal_Bonus",
+    "Notes": ""
+  },
+  {
+    "__pkey": "HalfSeal_Bonus",
+    "FullPathforEvent": "cookierun/InGame_Pet74/HalfSeal_BonusFast",
+    "Notes": ""
+  },
+  {
+    "__pkey": "HalfSeal_BonusFast",
+    "FullPathforEvent": "cookierun/InGame_Ch63/Herb_GrassGrow",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Herb_GrassGrow",
+    "FullPathforEvent": "cookierun/InGame_Ch63/Herb_RainRepeat",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Herb_RainRepeat",
+    "FullPathforEvent": "cookierun/InGame_Ch63/Herb_RainStart",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Herb_RainStart",
+    "FullPathforEvent": "cookierun/InGame_Ch63/Herb_Sprout",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Herb_Sprout",
+    "FullPathforEvent": "cookierun/InGame_Ch63/Herb_SunRepeat",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Herb_SunRepeat",
+    "FullPathforEvent": "cookierun/InGame_Ch63/Herb_SunStart",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Herb_SunStart",
+    "FullPathforEvent": "cookierun/InGame_EpS02/Ice_Obstacle_Escape",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Ice_Obstacle_Escape",
+    "FullPathforEvent": "cookierun/InGame_EpS02/Ice_Obstacle_Shake",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Ice_Obstacle_Shake",
+    "FullPathforEvent": "cookierun/InGame_EpS02/Ice_Obstacle_Start",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Ice_Obstacle_Start",
+    "FullPathforEvent": "cookierun/InGame_EpS02/Ice_Tower_Boss_Summon_Platform",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Ice_Tower_Boss_Summon_Platform",
+    "FullPathforEvent": "cookierun/OutGame_Common/Ice_Tower_Locked",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Ice_Tower_Locked",
+    "FullPathforEvent": "cookierun/InGame_Common/InviteNinja_TeleportSlide",
+    "Notes": " "
+  },
+  {
+    "__pkey": "InviteNinja_TeleportSlide",
+    "FullPathforEvent": "cookierun/InGame_Ch57/Jujube_Attack",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Jujube_Attack",
+    "FullPathforEvent": "cookierun/InGame_Ch57/Jujube_DestroyObstacle",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Jujube_DestroyObstacle",
+    "FullPathforEvent": "cookierun/InGame_Ch57/Jujube_TransformEnd",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Jujube_TransformEnd",
+    "FullPathforEvent": "cookierun/InGame_Ch57/Jujube_TransformJump",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Jujube_TransformJump",
+    "FullPathforEvent": "cookierun/InGame_Ch57/Jujube_TransformStart",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Jujube_TransformStart",
+    "FullPathforEvent": "cookierun/InGame_Ch40/JungleWarrior_JavelinCrash",
+    "Notes": " "
+  },
+  {
+    "__pkey": "JungleWarrior_JavelinCrash",
+    "FullPathforEvent": "cookierun/InGame_Ch40/JungleWarrior_ThrowingJavelin",
+    "Notes": " "
+  },
+  {
+    "__pkey": "JungleWarrior_ThrowingJavelin",
+    "FullPathforEvent": "cookierun/InGame_Ch40/JungleWarrior_TigerCrash",
+    "Notes": " "
+  },
+  {
+    "__pkey": "JungleWarrior_TigerCrash",
+    "FullPathforEvent": "cookierun/InGame_Ch40/JungleWarrior_TransformEnd",
+    "Notes": " "
+  },
+  {
+    "__pkey": "JungleWarrior_TransformEnd",
+    "FullPathforEvent": "cookierun/InGame_Ch40/JungleWarrior_TransformFlight",
+    "Notes": " "
+  },
+  {
+    "__pkey": "JungleWarrior_TransformFlight",
+    "FullPathforEvent": "cookierun/InGame_Ch40/Char_Jump_ch40_lance_TigerForm",
+    "Notes": ""
+  },
+  {
+    "__pkey": "JungleWarrior_TransformJump",
+    "FullPathforEvent": "cookierun/InGame_Ch40/Char_Slide_ch40_TigerForm",
+    "Notes": ""
+  },
+  {
+    "__pkey": "JungleWarrior_TransformSlide",
+    "FullPathforEvent": "cookierun/InGame_Ch40/JungleWarrior_TransformStart",
+    "Notes": " "
+  },
+  {
+    "__pkey": "JungleWarrior_TransformStart",
+    "FullPathforEvent": "cookierun/InGame_Ch43/Kiwi_TransformEnd",
+    "Notes": " "
+  },
+  {
+    "__pkey": "Kiwi_TransformEnd",
+    "FullPathforEvent": "cookierun/InGame_Ch43/Kiwi_TransformFlight",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Kiwi_TransformFlight",
+    "FullPathforEvent": "cookierun/InGame_Ch43/Kiwi_TransformJump",
+    "Notes": " "
+  },
+  {
+    "__pkey": "Kiwi_TransformJump",
+    "FullPathforEvent": "cookierun/InGame_Ch43/Kiwi_TransformSlide",
+    "Notes": " "
+  },
+  {
+    "__pkey": "Kiwi_TransformSlide",
+    "FullPathforEvent": "cookierun/InGame_Ch43/Kiwi_TransformStart",
+    "Notes": " "
+  },
+  {
+    "__pkey": "Kiwi_TransformStart",
+    "FullPathforEvent": "cookierun/InGame_Common/SoundEff_JellychoExplosion",
+    "Notes": ""
+  },
+  {
+    "__pkey": "KongKongJellychoExplosion",
+    "FullPathforEvent": "cookierun/InGame_Ch52/LemonProtectorExplosion",
+    "Notes": ""
+  },
+  {
+    "__pkey": "LemonProtectorExplosion",
+    "FullPathforEvent": "cookierun/InGame_Ch52/Lemon_InvincibleBoost",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Lemon_InvincibleBoost",
+    "FullPathforEvent": "cookierun/InGame_Ch52/Lemon_Obstacle_Explosion",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Lemon_Obstacle_Explosion",
+    "FullPathforEvent": "cookierun/InGame_Ch52/Lemon_TransformEnd",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Lemon_TransformEnd",
+    "FullPathforEvent": "cookierun/InGame_Ch52/Lemon_TransformJump",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Lemon_TransformJump",
+    "FullPathforEvent": "cookierun/InGame_Ch52/Lemon_TransformSlide",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Lemon_TransformSlide",
+    "FullPathforEvent": "cookierun/InGame_Ch52/Lemon_TransformStart",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Lemon_TransformStart",
+    "FullPathforEvent": "cookierun/InGame_Ch54/LimeBoom",
+    "Notes": ""
+  },
+  {
+    "__pkey": "LimeBoom",
+    "FullPathforEvent": "cookierun/InGame_Ch54/LimeGetBall",
+    "Notes": ""
+  },
+  {
+    "__pkey": "LimeGetBall",
+    "FullPathforEvent": "cookierun/InGame_Ch54/LimePowerSpike",
+    "Notes": ""
+  },
+  {
+    "__pkey": "LimePowerSpike",
+    "FullPathforEvent": "cookierun/InGame_Ch54/LimeSpike",
+    "Notes": ""
+  },
+  {
+    "__pkey": "LimeSpike",
+    "FullPathforEvent": "cookierun/InGame_Ch54/Lime_Obstacle_Explosion",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Lime_Obstacle_Explosion",
+    "FullPathforEvent": "cookierun/InGame_Ch54/Lime_TransformEnd",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Lime_TransformEnd",
+    "FullPathforEvent": "cookierun/InGame_Ch54/Lime_TransformJump",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Lime_TransformJump",
+    "FullPathforEvent": "cookierun/InGame_Ch54/Lime_TransformStart",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Lime_TransformStart",
+    "FullPathforEvent": "cookierun/InGame_Ch59/Macaron_Bbooing",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Macaron_Bbooing",
+    "FullPathforEvent": "cookierun/InGame_Ch59/Macaron_JellyBoom",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Macaron_JellyBoom",
+    "FullPathforEvent": "cookierun/InGame_Ch59/Macaron_Jump",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Macaron_Jump",
+    "FullPathforEvent": "cookierun/InGame_Ch59/Macaron_SmallJump",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Macaron_SmallJump",
+    "FullPathforEvent": "cookierun/InGame_Ch59/Macaron_TransformEnd",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Macaron_TransformEnd",
+    "FullPathforEvent": "cookierun/InGame_Ch59/Macaron_TransformJump",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Macaron_TransformJump",
+    "FullPathforEvent": "cookierun/InGame_Ch59/Macaron_TransformSlide",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Macaron_TransformSlide",
+    "FullPathforEvent": "cookierun/InGame_Ch59/Macaron_TransformStart",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Macaron_TransformStart",
+    "FullPathforEvent": "cookierun/InGame_Ch25/MagicianChainLightning",
+    "Notes": " "
+  },
+  {
+    "__pkey": "MagicianChainLightning",
+    "FullPathforEvent": "cookierun/InGame_Ch25/MagicianObstacleExplosion",
+    "Notes": " "
+  },
+  {
+    "__pkey": "MagicianObstacleExplosion",
+    "FullPathforEvent": "cookierun/InGame_Ch25/MagicianSpecialSpellEnd",
+    "Notes": " "
+  },
+  {
+    "__pkey": "MagicianSpecialSpellEnd",
+    "FullPathforEvent": "cookierun/InGame_Ch25/MagicianSpecialSpellFlightStart",
+    "Notes": " "
+  },
+  {
+    "__pkey": "MagicianSpecialSpellFlightStart",
+    "FullPathforEvent": "cookierun/InGame_Ch25/MagicianSpecialSpellStart",
+    "Notes": " "
+  },
+  {
+    "__pkey": "MagicianSpecialSpellStart",
+    "FullPathforEvent": "cookierun/InGame_Ch467/MuayThai_TransformEnd",
+    "Notes": ""
+  },
+  {
+    "__pkey": "MuayThai_TransformEnd",
+    "FullPathforEvent": "cookierun/InGame_Ch47/Char_Jump_ch47",
+    "Notes": ""
+  },
+  {
+    "__pkey": "MuayThai_TransformJump",
+    "FullPathforEvent": "cookierun/InGame_Ch47/Char_Slide_ch47",
+    "Notes": ""
+  },
+  {
+    "__pkey": "MuayThai_TransformSlide",
+    "FullPathforEvent": "cookierun/InGame_Ch47/MuayThai_TransformStart",
+    "Notes": ""
+  },
+  {
+    "__pkey": "MuayThai_TransformStart",
+    "FullPathforEvent": "cookierun/OutGame_MysteryBox/MisteryBoxOpen_Best",
+    "Notes": " "
+  },
+  {
+    "__pkey": "MysteryBoxOpen_Best",
+    "FullPathforEvent": "cookierun/OutGame_MysteryBox/MisteryBoxOpen_Good",
+    "Notes": " "
+  },
+  {
+    "__pkey": "MysteryBoxOpen_Good",
+    "FullPathforEvent": "cookierun/OutGame_MysteryBox/MisteryBoxOpen_Normal",
+    "Notes": " "
+  },
+  {
+    "__pkey": "MysteryBoxOpen_Normal",
+    "FullPathforEvent": "cookierun/InGame_Common/MysteryBox_Get_Best",
+    "Notes": ""
+  },
+  {
+    "__pkey": "MysteryBox_Get_Best",
+    "FullPathforEvent": "cookierun/InGame_Common/MysteryBox_Get_Good",
+    "Notes": ""
+  },
+  {
+    "__pkey": "MysteryBox_Get_Good",
+    "FullPathforEvent": "cookierun/InGame_Common/MysteryBox_Get_Normal",
+    "Notes": ""
+  },
+  {
+    "__pkey": "MysteryBox_Get_Normal",
+    "FullPathforEvent": "cookierun/InGame_Pet71/OnionFish_Activate",
+    "Notes": ""
+  },
+  {
+    "__pkey": "OnionFish_Activate",
+    "FullPathforEvent": "cookierun/InGame_Pet71/OnionFish_ObstacleTearing",
+    "Notes": ""
+  },
+  {
+    "__pkey": "OnionFish_ObstacleTearing",
+    "FullPathforEvent": "cookierun/InGame_Ch58/Onion_Chendelier_Fall",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Onion_Chendelier_Fall",
+    "FullPathforEvent": "cookierun/InGame_Ch58/Onion_Chendelier_TurnOn",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Onion_Chendelier_TurnOn",
+    "FullPathforEvent": "cookierun/InGame_Ch58/Onion_PassedObstacle",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Onion_PassedObstacle",
+    "FullPathforEvent": "cookierun/InGame_Ch58/Onion_TransformJump",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Onion_TransformJump",
+    "FullPathforEvent": "cookierun/InGame_Ch58/Onion_TransformSlide",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Onion_TransformSlide",
+    "FullPathforEvent": "cookierun/InGame_Ch58/Onion_TransformStart",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Onion_TransformStart",
+    "FullPathforEvent": "cookierun/InGame_Ch53/OrangeBallBoom",
+    "Notes": ""
+  },
+  {
+    "__pkey": "OrangeBallBoom",
+    "FullPathforEvent": "cookierun/InGame_Ch53/OrangeBallBoom",
+    "Notes": ""
+  },
+  {
+    "__pkey": "OrangeBallPowerBoom",
+    "FullPathforEvent": "cookierun/InGame_Ch53/OrangeBallPowerSpike",
+    "Notes": ""
+  },
+  {
+    "__pkey": "OrangePowerSpike",
+    "FullPathforEvent": "cookierun/InGame_Ch53/OrangeBallSmash",
+    "Notes": ""
+  },
+  {
+    "__pkey": "OrangeSmash",
+    "FullPathforEvent": "cookierun/InGame_Ch53/OrangeBallSpike",
+    "Notes": ""
+  },
+  {
+    "__pkey": "OrangeSpike",
+    "FullPathforEvent": "cookierun/InGame_Ch53/Orange_Obstacle_Explosion",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Orange_Obstacle_Explosion",
+    "FullPathforEvent": "cookierun/InGame_Pet67/PaperShip_ShotBubble",
+    "Notes": ""
+  },
+  {
+    "__pkey": "PaperShip_ShotBubble",
+    "FullPathforEvent": "cookierun/InGame_Common/Passive_ch20",
+    "Notes": " "
+  },
+  {
+    "__pkey": "Passive_ch20",
+    "FullPathforEvent": "cookierun/InGame_Common/Passive_ch21",
+    "Notes": " "
+  },
+  {
+    "__pkey": "Passive_ch21",
+    "FullPathforEvent": "cookierun/InGame_Common/Passive_ch26",
+    "Notes": " "
+  },
+  {
+    "__pkey": "Passive_ch26",
+    "FullPathforEvent": "cookierun/InGame_Common/Passive_ch37",
+    "Notes": " "
+  },
+  {
+    "__pkey": "Passive_ch37",
+    "FullPathforEvent": "cookierun/InGame_Common/Passive_ch40",
+    "Notes": " "
+  },
+  {
+    "__pkey": "Passive_ch40",
+    "FullPathforEvent": "cookierun/InGame_Common/Passive_ch41",
+    "Notes": " "
+  },
+  {
+    "__pkey": "Passive_ch41",
+    "FullPathforEvent": "cookierun/InGame_Common/Passive_ch49",
+    "Notes": " "
+  },
+  {
+    "__pkey": "Passive_ch49",
+    "FullPathforEvent": "cookierun/InGame_Common/Passive_pet49",
+    "Notes": " "
+  },
+  {
+    "__pkey": "Passive_pet49",
+    "FullPathforEvent": "cookierun/InGame_Common/Passive_pet57_pet58",
+    "Notes": " "
+  },
+  {
+    "__pkey": "Passive_pet57_pet58",
+    "FullPathforEvent": "cookierun/InGame_Ch56/Peach_SmashObstacle",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Peach_SmashObstacle",
+    "FullPathforEvent": "cookierun/InGame_Ch56/Peach_TrainingKillSound",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Peach_TrainingKillSound",
+    "FullPathforEvent": "cookierun/InGame_Ch56/Peach_TransformEnd",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Peach_TransformEnd",
+    "FullPathforEvent": "cookierun/InGame_Ch56/Peach_TransformJump",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Peach_TransformJump",
+    "FullPathforEvent": "cookierun/InGame_Ch56/Peach_TransformSlide",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Peach_TransformSlide",
+    "FullPathforEvent": "cookierun/InGame_Ch56/Peach_TransformStart",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Peach_TransformStart",
+    "FullPathforEvent": "cookierun/InGame_Ch55/PepperMint_DolphinIn",
+    "Notes": ""
+  },
+  {
+    "__pkey": "PepperMint_DolphinIn",
+    "FullPathforEvent": "cookierun/InGame_Ch55/PepperMint_DolphinKikikick",
+    "Notes": ""
+  },
+  {
+    "__pkey": "PepperMint_DolphinKikikick",
+    "FullPathforEvent": "cookierun/InGame_Ch55/PepperMint_DolphinOut",
+    "Notes": ""
+  },
+  {
+    "__pkey": "PepperMint_DolphinOut",
+    "FullPathforEvent": "cookierun/InGame_Ch55/PepperMint_TransformEnd",
+    "Notes": ""
+  },
+  {
+    "__pkey": "PepperMint_TransformEnd",
+    "FullPathforEvent": "cookierun/InGame_Ch55/PepperMint_TransformFlight",
+    "Notes": ""
+  },
+  {
+    "__pkey": "PepperMint_TransformFlight",
+    "FullPathforEvent": "cookierun/InGame_Ch55/PepperMint_TransformStart",
+    "Notes": ""
+  },
+  {
+    "__pkey": "PepperMint_TransformStart",
+    "FullPathforEvent": "cookierun/InGame_Ch55/PepperMint_WhaleWaterSpray",
+    "Notes": ""
+  },
+  {
+    "__pkey": "PepperMint_WhaleWaterSpray",
+    "FullPathforEvent": "cookierun/InGame_Pet73/PetCinnamon_RabbitBounce",
+    "Notes": ""
+  },
+  {
+    "__pkey": "PetCinnamon_RabbitBounce",
+    "FullPathforEvent": "cookierun/InGame_Pet73/PetCinnamon_RabbitExplosion",
+    "Notes": ""
+  },
+  {
+    "__pkey": "PetCinnamon_RabbitExplosion",
+    "FullPathforEvent": "cookierun/InGame_Pet73/PetCinnamon_RabbitShoot",
+    "Notes": ""
+  },
+  {
+    "__pkey": "PetCinnamon_RabbitShoot",
+    "FullPathforEvent": "cookierun/InGame_Pet73/PetCinnamon_RabbitStart",
+    "Notes": ""
+  },
+  {
+    "__pkey": "PetCinnamon_RabbitStart",
+    "FullPathforEvent": "cookierun/InGame_Pet40/PinkCandyPet_AttractBearJellyMeteor",
+    "Notes": " "
+  },
+  {
+    "__pkey": "PinkCandyPet_AttractBearJellyMeteor",
+    "FullPathforEvent": "cookierun/InGame_Pet40/PinkCandyPet_BearMeteorCrash",
+    "Notes": " "
+  },
+  {
+    "__pkey": "PinkCandyPet_BearMeteorCrash",
+    "FullPathforEvent": "cookierun/InGame_Pet40/PinkCandyPet_BearMeteorExplosion",
+    "Notes": " "
+  },
+  {
+    "__pkey": "PinkCandyPet_BearMeteorExplosion",
+    "FullPathforEvent": "cookierun/InGame_Pet40/PinkCandyPet_BearMeteorFall",
+    "Notes": " "
+  },
+  {
+    "__pkey": "PinkCandyPet_BearMeteorFall",
+    "FullPathforEvent": "cookierun/InGame_Common/Platform_MoveDownFloor",
+    "Notes": " "
+  },
+  {
+    "__pkey": "Platform_MoveDownFloor",
+    "FullPathforEvent": "cookierun/InGame_Common/Platform_MoveDownJump",
+    "Notes": " "
+  },
+  {
+    "__pkey": "Platform_MoveDownJump",
+    "FullPathforEvent": "cookierun/InGame_Common/Platform_MoveDownSlide",
+    "Notes": " "
+  },
+  {
+    "__pkey": "Platform_MoveDownSlide",
+    "FullPathforEvent": "cookierun/InGame_Common/Platform_PillarOfFire",
+    "Notes": " "
+  },
+  {
+    "__pkey": "Platform_PillarOfFire",
+    "FullPathforEvent": "cookierun/InGame_Common/Platform_PopUpObstacle",
+    "Notes": " "
+  },
+  {
+    "__pkey": "Platform_PopUpObstacle",
+    "FullPathforEvent": "cookierun/InGame_Common/Platform_SlowDownSlide",
+    "Notes": " "
+  },
+  {
+    "__pkey": "Platform_SlowDownSlide",
+    "FullPathforEvent": "cookierun/OutGame_RandomPet/RandomPet_Born",
+    "Notes": " "
+  },
+  {
+    "__pkey": "RandomPet_Born",
+    "FullPathforEvent": "cookierun/OutGame_RandomPet/RandomPet_Egg_Crack2",
+    "Notes": " "
+  },
+  {
+    "__pkey": "RandomPet_Egg_Crack2",
+    "FullPathforEvent": "cookierun/OutGame_RandomPet/RandomPet_Result_A",
+    "Notes": " "
+  },
+  {
+    "__pkey": "RandomPet_Result_A",
+    "FullPathforEvent": "cookierun/OutGame_RandomPet/RandomPet_Result_Coin",
+    "Notes": " "
+  },
+  {
+    "__pkey": "RandomPet_Result_Coin",
+    "FullPathforEvent": "cookierun/OutGame_RandomPet/RandomPet_Result_S",
+    "Notes": " "
+  },
+  {
+    "__pkey": "RandomPet_Result_S",
+    "FullPathforEvent": "cookierun/OutGame_RandomTreasure/RandomTreasure_Loading",
+    "Notes": " "
+  },
+  {
+    "__pkey": "RandomTreasure_Loading",
+    "FullPathforEvent": "cookierun/OutGame_RandomTreasure/RandomTreasure_MoveBox",
+    "Notes": " "
+  },
+  {
+    "__pkey": "RandomTreasure_MoveBox",
+    "FullPathforEvent": "cookierun/OutGame_RandomTreasure/RandomTreasure_OpenBox",
+    "Notes": " "
+  },
+  {
+    "__pkey": "RandomTreasure_OpenBox",
+    "FullPathforEvent": "cookierun/OutGame_RandomTreasure/RandomTreasure_Result_A",
+    "Notes": " "
+  },
+  {
+    "__pkey": "RandomTreasure_Result_A",
+    "FullPathforEvent": "cookierun/OutGame_RandomTreasure/RandomTreasure_Result_BC",
+    "Notes": " "
+  },
+  {
+    "__pkey": "RandomTreasure_Result_BC",
+    "FullPathforEvent": "cookierun/OutGame_RandomTreasure/RandomTreasure_Result_S",
+    "Notes": " "
+  },
+  {
+    "__pkey": "RandomTreasure_Result_S",
+    "FullPathforEvent": "cookierun/InGame_Ch21/Ranger_ShotRifle",
+    "Notes": " "
+  },
+  {
+    "__pkey": "Ranger_ShotRifle",
+    "FullPathforEvent": "cookierun/InGame_Common/Ranger_StarCandyBomb",
+    "Notes": " "
+  },
+  {
+    "__pkey": "Ranger_StarCandyBomb",
+    "FullPathforEvent": "cookierun/InGame_Ch61/Redbean_ShowFish",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Redbean_ShowFish",
+    "FullPathforEvent": "cookierun/InGame_Ch61/Redbean_SpeedUp",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Redbean_SpeedUp",
+    "FullPathforEvent": "cookierun/InGame_Ch61/Redbean_TransformEnd",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Redbean_TransformEnd",
+    "FullPathforEvent": "cookierun/InGame_Ch61/Redbean_TransformJump",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Redbean_TransformJump",
+    "FullPathforEvent": "cookierun/InGame_Ch61/Redbean_TransformSlide",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Redbean_TransformSlide",
+    "FullPathforEvent": "cookierun/InGame_Ch61/Redbean_TransformStart",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Redbean_TransformStart",
+    "FullPathforEvent": "cookierun/OutGame_Result/Result_AdditionalScore",
+    "Notes": " "
+  },
+  {
+    "__pkey": "Result_AdditionalScore",
+    "FullPathforEvent": "cookierun/OutGame_Result/Result_DefeatFriend",
+    "Notes": " "
+  },
+  {
+    "__pkey": "Result_DefeatFriend",
+    "FullPathforEvent": "cookierun/OutGame_Result/Result_LevelReward",
+    "Notes": " "
+  },
+  {
+    "__pkey": "Result_LevelReward",
+    "FullPathforEvent": "cookierun/OutGame_Result/Result_LevelUnlock",
+    "Notes": " "
+  },
+  {
+    "__pkey": "Result_LevelUnlock",
+    "FullPathforEvent": "cookierun/OutGame_Result/Result_LevelUp",
+    "Notes": " "
+  },
+  {
+    "__pkey": "Result_LevelUp",
+    "FullPathforEvent": "cookierun/OutGame_Result/Result_Medal",
+    "Notes": " "
+  },
+  {
+    "__pkey": "Result_Medal",
+    "FullPathforEvent": "cookierun/OutGame_Result/Result_MyScore",
+    "Notes": " "
+  },
+  {
+    "__pkey": "Result_MyScore",
+    "FullPathforEvent": "cookierun/OutGame_Result/Result_NewRecord",
+    "Notes": " "
+  },
+  {
+    "__pkey": "Result_NewRecord",
+    "FullPathforEvent": "cookierun/OutGame_Result/Result_ScreenChange",
+    "Notes": " "
+  },
+  {
+    "__pkey": "Result_ScreenChange",
+    "FullPathforEvent": "cookierun/OutGame_Result/Result_Tip",
+    "Notes": " "
+  },
+  {
+    "__pkey": "Result_Tip",
+    "FullPathforEvent": "cookierun/InGame_Ch27/RockStarMakeNoteJelly",
+    "Notes": " "
+  },
+  {
+    "__pkey": "RockStarMakeNoteJelly",
+    "FullPathforEvent": "cookierun/InGame_Ch27/RockStarMakeNoteJellyMaxSliding",
+    "Notes": " "
+  },
+  {
+    "__pkey": "RockStarMakeNoteJellyMaxSliding",
+    "FullPathforEvent": "cookierun/InGame_Ch27/RockStarMaxSliding",
+    "Notes": " "
+  },
+  {
+    "__pkey": "RockStarMaxSliding",
+    "FullPathforEvent": "cookierun/InGame_Common/SoundBgm_BonusTime_King",
+    "Notes": ""
+  },
+  {
+    "__pkey": "SeaFairy_Unlock",
+    "FullPathforEvent": "cookierun/OutGame_Common/Shop_Pet_Result_Pop",
+    "Notes": " "
+  },
+  {
+    "__pkey": "Shop_Pet_Result_Pop",
+    "FullPathforEvent": "cookierun/OutGame_Common/Shop_Random_Boost",
+    "Notes": " "
+  },
+  {
+    "__pkey": "Shop_Random_Boost",
+    "FullPathforEvent": "cookierun/OutGame_Common/Shop_buy_Success",
+    "Notes": " "
+  },
+  {
+    "__pkey": "Shop_buy_Success",
+    "FullPathforEvent": "cookierun/InGame_Ch30/SnowSugar_Summon1Start",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SnowSugar_Summon1Start",
+    "FullPathforEvent": "cookierun/InGame_Ch30/SnowSugar_Summon2End",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SnowSugar_Summon2End",
+    "FullPathforEvent": "cookierun/InGame_Ch30/SnowSugar_Summon2Start",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SnowSugar_Summon2Start",
+    "FullPathforEvent": "cookierun/InGame_Ch39/Soda_TransformEnd",
+    "Notes": " "
+  },
+  {
+    "__pkey": "Soda_TransformEnd",
+    "FullPathforEvent": "cookierun/InGame_Ch39/Soda_TransformFlight",
+    "Notes": " "
+  },
+  {
+    "__pkey": "Soda_TransformFlight",
+    "FullPathforEvent": "cookierun/InGame_Ch39/Soda_TransformStart",
+    "Notes": " "
+  },
+  {
+    "__pkey": "Soda_TransformStart",
+    "FullPathforEvent": "cookierun/InGame_Ch39/Soda_Wave_ObstacleBlowBack",
+    "Notes": " "
+  },
+  {
+    "__pkey": "Soda_Wave_ObstacleBlowBack",
+    "FullPathforEvent": "cookierun/OutGame_Ambience/Ep01",
+    "Notes": ""
+  },
+  {
+    "__pkey": "SoundAmbience_Lobby_epN01",
+    "FullPathforEvent": "cookierun/OutGame_Ambience/Ep02",
+    "Notes": ""
+  },
+  {
+    "__pkey": "SoundAmbience_Lobby_epN02",
+    "FullPathforEvent": "cookierun/OutGame_Ambience/Ep03",
+    "Notes": ""
+  },
+  {
+    "__pkey": "SoundAmbience_Lobby_epN03",
+    "FullPathforEvent": "cookierun/InGame_BGM_epN01/SoundBgmChangeEff_epN01",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundBgmChangeEff_epN01",
+    "FullPathforEvent": "cookierun/InGame_BGM_epN02/SoundBgmChangeEff_epN02",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundBgmChangeEff_epN02",
+    "FullPathforEvent": "cookierun/InGame_BGM_epN03/SoundBgmChangeEff_epN03",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundBgmChangeEff_epN03",
+    "FullPathforEvent": "cookierun/InGame_BGM_epN04/SoundBgmChangeEff_epN04",
+    "Notes": ""
+  },
+  {
+    "__pkey": "SoundBgmChangeEff_epN04",
+    "FullPathforEvent": "cookierun/InGame_Ch46/SoundBgm_BonusTime_Day_Violinist",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundBgm_BonusTime_Day_Violinist",
+    "FullPathforEvent": "cookierun/InGame_BGM_epN01/SoundBgm_BonusTime_Day_epN01",
+    "Notes": "bgm은 Sound_ID에 SoundBgm이 포함되어있어야한다"
+  },
+  {
+    "__pkey": "SoundBgm_BonusTime_Day_epN01",
+    "FullPathforEvent": "cookierun/InGame_BGM_epN02/SoundBgm_BonusTime_Day_epN02",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundBgm_BonusTime_Day_epN02",
+    "FullPathforEvent": "cookierun/InGame_BGM_epN03/SoundBgm_BonusTime_Day_epN03",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundBgm_BonusTime_Day_epN03",
+    "FullPathforEvent": "cookierun/InGame_BGM_epN04/SoundBgm_BonusTime_Day_epN04",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundBgm_BonusTime_Day_epN04",
+    "FullPathforEvent": "cookierun/InGame_BGM_epS02/SoundBgm_BonusTime_Day_epS02",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundBgm_BonusTime_Day_epS02",
+    "FullPathforEvent": "cookierun/InGame_Ch27/SoundBgm_BonusTime_Day_rockstar",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundBgm_BonusTime_Day_rockstar",
+    "FullPathforEvent": "cookierun/InGame_Common/SoundBgm_BonusTime_King",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundBgm_BonusTime_King",
+    "FullPathforEvent": "cookierun/InGame_Ch46/SoundBgm_BonusTime_King_Violinist",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundBgm_BonusTime_King_Violinist",
+    "FullPathforEvent": "cookierun/InGame_Ch27/SoundBgm_BonusTime_King_rockstar",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundBgm_BonusTime_King_rockstar",
+    "FullPathforEvent": "cookierun/InGame_Ch46/SoundBgm_BonusTime_Night_Violinist",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundBgm_BonusTime_Night_Violinist",
+    "FullPathforEvent": "cookierun/InGame_BGM_epN01/SoundBgm_BonusTime_Night_epN01",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundBgm_BonusTime_Night_epN01",
+    "FullPathforEvent": "cookierun/InGame_BGM_epN02/SoundBgm_BonusTime_Night_epN02",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundBgm_BonusTime_Night_epN02",
+    "FullPathforEvent": "cookierun/InGame_BGM_epN03/SoundBgm_BonusTime_Night_epN03",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundBgm_BonusTime_Night_epN03",
+    "FullPathforEvent": "cookierun/InGame_BGM_epN04/SoundBgm_BonusTime_Night_epN04",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundBgm_BonusTime_Night_epN04",
+    "FullPathforEvent": "cookierun/InGame_BGM_epS02/SoundBgm_BonusTime_Night_epS02",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundBgm_BonusTime_Night_epS02",
+    "FullPathforEvent": "cookierun/InGame_Ch27/SoundBgm_BonusTime_Night_rockstar",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundBgm_BonusTime_Night_rockstar",
+    "FullPathforEvent": "cookierun/OutGame_Preview_BGM/SoundBgm_Episode_Select",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundBgm_Episode_Select",
+    "FullPathforEvent": "cookierun/InGame_Ch38/SoundBgm_ExplorerBgm",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundBgm_ExplorerBgm",
+    "FullPathforEvent": "cookierun/InGame_BGM_epN01/SoundBgm_Game_epN01_1",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundBgm_Game_epN01_1",
+    "FullPathforEvent": "cookierun/InGame_BGM_epN01/SoundBgm_Game_epN01_2",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundBgm_Game_epN01_2",
+    "FullPathforEvent": "cookierun/InGame_BGM_epN02/SoundBgm_Game_epN02_1",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundBgm_Game_epN02_1",
+    "FullPathforEvent": "cookierun/InGame_BGM_epN02/SoundBgm_Game_epN02_2",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundBgm_Game_epN02_2",
+    "FullPathforEvent": "cookierun/InGame_BGM_epN03/SoundBgm_Game_epN03_1",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundBgm_Game_epN03_1",
+    "FullPathforEvent": "cookierun/InGame_BGM_epN03/SoundBgm_Game_epN03_2",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundBgm_Game_epN03_2",
+    "FullPathforEvent": "cookierun/InGame_BGM_epN04/SoundBgm_Game_epN04_1",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundBgm_Game_epN04_1",
+    "FullPathforEvent": "cookierun/InGame_BGM_epN04/SoundBgm_Game_epN04_2",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundBgm_Game_epN04_2",
+    "FullPathforEvent": "cookierun/InGame_BGM_epN04/SoundBgm_Game_epN04_9",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundBgm_Game_epN04_9",
+    "FullPathforEvent": "cookierun/InGame_BGM_epS01/SoundBgm_Game_epS01",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundBgm_Game_epS01",
+    "FullPathforEvent": "cookierun/InGame_BGM_epS02/SoundBgm_Game_epS02_1",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundBgm_Game_epS02_1",
+    "FullPathforEvent": "cookierun/InGame_BGM_epS02/SoundBgm_Game_epS02_2",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundBgm_Game_epS02_2",
+    "FullPathforEvent": "cookierun/InGame_Ch46/SoundBgm_Game_epS02_2Violinist",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundBgm_Game_epS02_2Violinist",
+    "FullPathforEvent": "cookierun/InGame_Ch27/SoundBgm_Game_epS02_2rockstar",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundBgm_Game_epS02_2rockstar",
+    "FullPathforEvent": "cookierun/OutGame_BGM/SoundBgm_Lobby_epN01",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundBgm_Lobby_epN01",
+    "FullPathforEvent": "cookierun/OutGame_BGM/SoundBgm_Lobby_epN02",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundBgm_Lobby_epN02",
+    "FullPathforEvent": "cookierun/OutGame_BGM/SoundBgm_Lobby_epN03",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundBgm_Lobby_epN03",
+    "FullPathforEvent": "cookierun/OutGame_BGM/SoundBgm_Lobby_epN04",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundBgm_Lobby_epN04",
+    "FullPathforEvent": "cookierun/OutGame_BGM/SoundBgm_Lobby_epS01",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundBgm_Lobby_epS01",
+    "FullPathforEvent": "cookierun/OutGame_BGM/SoundBgm_Lobby_epS02",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundBgm_Lobby_epS02",
+    "FullPathforEvent": "cookierun/InGame_Ch59/SoundBgm_MacaronTransformBgm",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundBgm_MacaronTransformBgm",
+    "FullPathforEvent": "cookierun/InGame_Ch58/SoundBgm_OnionTransformBgm",
+    "Notes": ""
+  },
+  {
+    "__pkey": "SoundBgm_OnionTransformBgm",
+    "FullPathforEvent": "cookierun/InGame_Ch56/SoundBgm_PeachTransformBgm",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundBgm_PeachTransformBgm",
+    "FullPathforEvent": "cookierun/OutGame_Preview_BGM/SoundBgm_Preview_epN01",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundBgm_Preview_epN01",
+    "FullPathforEvent": "cookierun/OutGame_Preview_BGM/SoundBgm_Preview_epN02",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundBgm_Preview_epN02",
+    "FullPathforEvent": "cookierun/OutGame_Preview_BGM/SoundBgm_Preview_epN03",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundBgm_Preview_epN03",
+    "FullPathforEvent": "cookierun/OutGame_Preview_BGM/SoundBgm_Preview_epN04",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundBgm_Preview_epN04",
+    "FullPathforEvent": "cookierun/OutGame_Preview_BGM/SoundBgm_Preview_epS01",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundBgm_Preview_epS01",
+    "FullPathforEvent": "cookierun/OutGame_Preview_BGM/SoundBgm_Preview_epS02",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundBgm_Preview_epS02",
+    "FullPathforEvent": "cookierun/InGame_Ch27/SoundBgm_RockStarBgm",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundBgm_RockStarBgm",
+    "FullPathforEvent": "cookierun/InGame_Ch46/SoundBgm_ViolinistBgm",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundBgm_ViolinistBgm",
+    "FullPathforEvent": "cookierun/OutGame_Common/SoundEff_ActivityGiftPang",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_ActivityGiftPang",
+    "FullPathforEvent": "cookierun/InGame_Ch34/SoundEff_AlchemistChangeMagic",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_AlchemistChangeMagic",
+    "FullPathforEvent": "cookierun/InGame_Ch34/SoundEff_AlchemistExplosion",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_AlchemistExplosion",
+    "FullPathforEvent": "cookierun/InGame_Ch34/SoundEff_AlchemistReady",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_AlchemistReady",
+    "FullPathforEvent": "cookierun/InGame_Ch34/SoundEff_AlchemistThrowing",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_AlchemistThrowing",
+    "FullPathforEvent": "cookierun/InGame_Ch29/SoundEff_BardDestruction",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_BardDestruction",
+    "FullPathforEvent": "cookierun/InGame_Ch29/SoundEff_BardLife",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_BardLife",
+    "FullPathforEvent": "cookierun/InGame_Ch29/SoundEff_BardRichness",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_BardRichness",
+    "FullPathforEvent": "cookierun/InGame_Common/SoundEff_BonusCombo",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_BonusCombo",
+    "FullPathforEvent": "cookierun/InGame_Ch28/SoundEff_CherryBomb",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_CherryBomb",
+    "FullPathforEvent": "cookierun/InGame_Ch28/SoundEff_CherryBomb_Throwing_Mad",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_CherryBomb_Throwing_Mad",
+    "FullPathforEvent": "cookierun/InGame_Ch28/SoundEff_CherryBomb_Throwing_Normal",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_CherryBomb_Throwing_Normal",
+    "FullPathforEvent": "cookierun/InGame_Common/SoundEff_CrashWithBody",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_CrashWithBody",
+    "FullPathforEvent": "cookierun/InGame_Common/SoundEff_CrashWithPower",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_CrashWithPower",
+    "FullPathforEvent": "cookierun/InGame_Common/SoundEff_CrashWithShield",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_CrashWithShield",
+    "FullPathforEvent": "cookierun/OutGame_Common/SoundEff_DailyBonus",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_DailyBonus",
+    "FullPathforEvent": "cookierun/InGame_EpN03/SoundEff_Dragon_Breath",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_Dragon_Breath",
+    "FullPathforEvent": "cookierun/InGame_Common/SoundEff_FeverMode_Start",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_FeverMode_Start",
+    "FullPathforEvent": "cookierun/InGame_Common/SoundEff_GameEnd",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_GameEnd",
+    "FullPathforEvent": "cookierun/OutGame_Common/SoundEff_GameStart",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_GameStart",
+    "FullPathforEvent": "cookierun/InGame_Common/SoundEff_GetAlphabetJelly",
+    "Notes": ""
+  },
+  {
+    "__pkey": "SoundEff_GetAlphabetJelly",
+    "FullPathforEvent": "cookierun/InGame_Common/SoundEff_GetBearJelly",
+    "Notes": ""
+  },
+  {
+    "__pkey": "SoundEff_GetBearJelly",
+    "FullPathforEvent": "cookierun/InGame_Common/SoundEff_GetBigBearJelly",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_GetBigBearJelly",
+    "FullPathforEvent": "cookierun/InGame_Common/SoundEff_GetBigCoinJelly",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_GetBigCoinJelly",
+    "FullPathforEvent": "cookierun/InGame_Ch49/SoundEff_GetCh49Jelly",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_GetCh49Jelly",
+    "FullPathforEvent": "cookierun/InGame_Common/SoundEff_GetCoinJelly",
+    "Notes": ""
+  },
+  {
+    "__pkey": "SoundEff_GetCoinJelly",
+    "FullPathforEvent": "cookierun/InGame_EpS02/SoundEff_GetExplosionJelly",
+    "Notes": ""
+  },
+  {
+    "__pkey": "SoundEff_GetExplosionJelly",
+    "FullPathforEvent": "cookierun/InGame_Common/SoundEff_GetGoldJelly",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_GetGoldJelly",
+    "FullPathforEvent": "cookierun/InGame_Common/SoundEff_GetGoldenBellJelly",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_GetGoldenBellJelly",
+    "FullPathforEvent": "cookierun/InGame_Common/SoundEff_GetItemJelly",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_GetItemJelly",
+    "FullPathforEvent": "cookierun/InGame_Common/SoundEff_GetJelly",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_GetJelly",
+    "FullPathforEvent": "cookierun/InGame_Ch51/SoundEff_GetJellyCherryBlossom",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_GetJellyCherryBlossom",
+    "FullPathforEvent": "cookierun/InGame_Ch45/SoundEff_GetMarshmallowJelly",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_GetMarshmallowJelly",
+    "FullPathforEvent": "cookierun/InGame_Ch53/SoundEff_GetOrangeBallJelly",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_GetOrangeBallJelly",
+    "FullPathforEvent": "cookierun/InGame_Common/SoundEff_GetPlatinumCoin",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_GetPlatinumCoin",
+    "FullPathforEvent": "cookierun/InGame_Common/SoundEff_GetPointJelly",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_GetPointJelly",
+    "FullPathforEvent": "cookierun/InGame_ch61/SoundEff_GetRedbeanFishJelly",
+    "Notes": ""
+  },
+  {
+    "__pkey": "SoundEff_GetRedbeanFishJelly",
+    "FullPathforEvent": "cookierun/InGame_Common/SoundEff_GetSoulJelly",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_GetSoulJelly",
+    "FullPathforEvent": "cookierun/InGame_Common/SoundEff_GhostModeCrash",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_GhostModeCrash",
+    "FullPathforEvent": "cookierun/InGame_Common/SoundEff_GhostMode_Start",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_GhostMode_Start",
+    "FullPathforEvent": "cookierun/InGame_Common/SoundEff_GiganticLandingCoin1",
+    "Notes": ""
+  },
+  {
+    "__pkey": "SoundEff_GiganticLandingCoin1",
+    "FullPathforEvent": "cookierun/InGame_Common/SoundEff_GiganticLandingCoin2",
+    "Notes": ""
+  },
+  {
+    "__pkey": "SoundEff_GiganticLandingCoin2",
+    "FullPathforEvent": "cookierun/InGame_Common/SoundEff_GiganticLandingCoin3",
+    "Notes": ""
+  },
+  {
+    "__pkey": "SoundEff_GiganticLandingCoin3",
+    "FullPathforEvent": "cookierun/InGame_Common/SoundEff_HeadBlast_Start",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_HeadBlast_Start",
+    "FullPathforEvent": "cookierun/InGame_Pet60/SoundEff_Jackson2LaserExplosion",
+    "Notes": "레이저 끝에서 터짐"
+  },
+  {
+    "__pkey": "SoundEff_Jackson2LaserExplosion",
+    "FullPathforEvent": "cookierun/InGame_Pet60/SoundEff_Jackson2LaserShoot",
+    "Notes": "레이저 한발 한 발 발사할 때"
+  },
+  {
+    "__pkey": "SoundEff_Jackson2LaserShoot",
+    "FullPathforEvent": "cookierun/InGame_Pet60/SoundEff_Jackson2LaserStart",
+    "Notes": "펫능력발동 시작"
+  },
+  {
+    "__pkey": "SoundEff_Jackson2LaserStart",
+    "FullPathforEvent": "cookierun/InGame_Common/SoundEff_JellychoExplosion",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_JellychoExplosion",
+    "FullPathforEvent": "cookierun/InGame_Ch43/SoundEff_KiwiBikeFuel",
+    "Notes": ""
+  },
+  {
+    "__pkey": "SoundEff_KiwiBikeFuel",
+    "FullPathforEvent": "cookierun/InGame_Common/SoundEff_Large_Energy",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_Large_Energy",
+    "FullPathforEvent": "cookierun/InGame_Common/SoundEff_ObstacleHeart",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_ObstacleHeart",
+    "FullPathforEvent": "cookierun/InGame_Ch43/SoundEff_ObstacleKiwi",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_ObstacleKiwi",
+    "FullPathforEvent": "cookierun/InGame_Ch39/SoundEff_ObstacleSoda",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_ObstacleSoda",
+    "FullPathforEvent": "cookierun/InGame_Common/SoundEff_Pet_Bomb",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_Pet_Bomb",
+    "FullPathforEvent": "cookierun/InGame_Pet17/SoundEff_Pet_Dragon_Crash",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_Pet_Dragon_Crash",
+    "FullPathforEvent": "cookierun/InGame_Ch17/SoundEff_Pet_Dragon_Start",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_Pet_Dragon_Start",
+    "FullPathforEvent": "cookierun/InGame_Pet36/SoundEff_Pet_Rescue_Blast_End",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_Pet_Rescue_Blast_End",
+    "FullPathforEvent": "cookierun/InGame_Pet36/SoundEff_Pet_Rescue_Blast_Ready",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_Pet_Rescue_Blast_Ready",
+    "FullPathforEvent": "cookierun/InGame_Pet36/SoundEff_Pet_Rescue_Blast_Start",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_Pet_Rescue_Blast_Start",
+    "FullPathforEvent": "cookierun/InGame_Pet35/SoundEff_Pet_Spotlight_Start",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_Pet_Spotlight_Start",
+    "FullPathforEvent": "cookierun/InGame_Common/SoundEff_RecoverCrashDamage",
+    "Notes": ""
+  },
+  {
+    "__pkey": "SoundEff_RecoverCrashDamage",
+    "FullPathforEvent": "cookierun/InGame_Common/SoundEff_RelayRunning_Start",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_RelayRunning_Start",
+    "FullPathforEvent": "cookierun/InGame_Common/SoundEff_Revive_EffectStart",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_Revive_EffectStart",
+    "FullPathforEvent": "cookierun/InGame_Common/SoundEff_Revive_ReviveStart",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_Revive_ReviveStart",
+    "FullPathforEvent": "cookierun/InGame_Common/SoundEff_Small_Energy",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_Small_Energy",
+    "FullPathforEvent": "cookierun/InGame_Common/SoundEff_StarCandyExplosion",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_StarCandyExplosion",
+    "FullPathforEvent": "cookierun/OutGame_Common/SoundEff_TutorialPopup",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_TutorialPopup",
+    "FullPathforEvent": "cookierun/Common/SoundEff_UIButton",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_UIButton",
+    "FullPathforEvent": "cookierun/OutGame_Common/SoundEff_UIEquipmentButton",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_UIEquipmentButton",
+    "FullPathforEvent": "cookierun/InGame_Common/SoundEff_item02_Start",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_item02_Start",
+    "FullPathforEvent": "cookierun/InGame_Common/SoundEff_item03_Loop",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_item03_Loop",
+    "FullPathforEvent": "cookierun/InGame_Common/SoundEff_item04_Start",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_item04_Start",
+    "FullPathforEvent": "cookierun/InGame_Common/SoundEff_item05_Loop",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_item05_Loop",
+    "FullPathforEvent": "cookierun/InGame_Common/SoundEff_item06_Start",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_item06_Start",
+    "FullPathforEvent": "cookierun/InGame_Common/SoundEff_item07_Start",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEff_item07_Start",
+    "FullPathforEvent": "cookierun/InGame_Ch31/SoundEffect_MagicalGirlMagicExplosion",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEffect_MagicalGirlMagicExplosion",
+    "FullPathforEvent": "cookierun/InGame_Ch31/SoundEffect_MagicalGirlMagicShot",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SoundEffect_MagicalGirlMagicShot",
+    "FullPathforEvent": "cookierun/OutGame_Ambience/WorldMap",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Sound_Ambience_WorldMap",
+    "FullPathforEvent": "cookierun/InGame_Ch23/SuperDevil_ChangeStart",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SuperDevil_ChangeStart",
+    "FullPathforEvent": "cookierun/InGame_Ch23/SuperDevil_FlightEnd",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SuperDevil_FlightEnd",
+    "FullPathforEvent": "cookierun/InGame_Ch23/SuperDevil_FlightStart",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SuperDevil_FlightStart",
+    "FullPathforEvent": "cookierun/InGame_Ch19/SuperHero_ChangeStart",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SuperHero_ChangeStart",
+    "FullPathforEvent": "cookierun/InGame_Ch19/SuperHero_FlightEnd",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SuperHero_FlightEnd",
+    "FullPathforEvent": "cookierun/InGame_Ch19/SuperHero_FlightStart",
+    "Notes": " "
+  },
+  {
+    "__pkey": "SuperHero_FlightStart",
+    "FullPathforEvent": "cookierun/InGame_Ch36/UnripeSkillActivation",
+    "Notes": " "
+  },
+  {
+    "__pkey": "UnripeSkillActivation",
+    "FullPathforEvent": "cookierun/OutGame_UpgradeTreasure/UpgradeTreasure_Fail",
+    "Notes": " "
+  },
+  {
+    "__pkey": "UpgradeTreasure_Fail",
+    "FullPathforEvent": "cookierun/OutGame_UpgradeTreasure/UpgradeTreasure_Loading",
+    "Notes": " "
+  },
+  {
+    "__pkey": "UpgradeTreasure_Loading",
+    "FullPathforEvent": "cookierun/OutGame_UpgradeTreasure/UpgradeTreasure_LoadingDone",
+    "Notes": " "
+  },
+  {
+    "__pkey": "UpgradeTreasure_LoadingDone",
+    "FullPathforEvent": "cookierun/OutGame_UpgradeTreasure/UpgradeTreasure_Success",
+    "Notes": " "
+  },
+  {
+    "__pkey": "UpgradeTreasure_Success",
+    "FullPathforEvent": "cookierun/InGame_Ch35/VampireJumpAfterTransform",
+    "Notes": " "
+  },
+  {
+    "__pkey": "VampireJumpAfterTransform",
+    "FullPathforEvent": "cookierun/InGame_Ch35/VampireMakeJelly",
+    "Notes": " "
+  },
+  {
+    "__pkey": "VampireMakeJelly",
+    "FullPathforEvent": "cookierun/InGame_Ch35/VampireTransformEnd",
+    "Notes": " "
+  },
+  {
+    "__pkey": "VampireTransformEnd",
+    "FullPathforEvent": "cookierun/InGame_Ch35/VampireTransformStart",
+    "Notes": " "
+  },
+  {
+    "__pkey": "VampireTransformStart",
+    "FullPathforEvent": "cookierun/InGame_Ch46/Violinist_Sound_GetCoin",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Violinist_Sound_GetCoin",
+    "FullPathforEvent": "cookierun/InGame_Ch46/Violinist_Sound_GetCoin_Max",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Violinist_Sound_GetCoin_Max",
+    "FullPathforEvent": "cookierun/InGame_Pet76/WaterCan_ActivationStart",
+    "Notes": ""
+  },
+  {
+    "__pkey": "WaterCan_ActivationStart",
+    "FullPathforEvent": "cookierun/InGame_Pet76/WaterCan_BloomEnd",
+    "Notes": ""
+  },
+  {
+    "__pkey": "WaterCan_BloomEnd",
+    "FullPathforEvent": "cookierun/InGame_Pet76/WaterCan_BloomStart",
+    "Notes": ""
+  },
+  {
+    "__pkey": "WaterCan_BloomStart",
+    "FullPathforEvent": "cookierun/InGame_Ch44/Werewolf_CrashObstacle",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Werewolf_CrashObstacle",
+    "FullPathforEvent": "cookierun/InGame_Ch44/Werewolf_TransformEnd",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Werewolf_TransformEnd",
+    "FullPathforEvent": "cookierun/InGame_Ch44/Werewolf_TransformJump",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Werewolf_TransformJump",
+    "FullPathforEvent": "cookierun/InGame_Ch44/Werewolf_TransformSlide",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Werewolf_TransformSlide",
+    "FullPathforEvent": "cookierun/InGame_Ch44/Werewolf_TransformStart",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Werewolf_TransformStart",
+    "FullPathforEvent": "cookierun/InGame_Common/Whistle_Relay",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Whistle_Relay",
+    "FullPathforEvent": "cookierun/InGame_Common/Whistle_Rescue",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Whistle_Rescue",
+    "FullPathforEvent": "cookierun/InGame_Common/Whistle_Revive",
+    "Notes": ""
+  },
+  {
+    "__pkey": "Whistle_Revive",
+    "FullPathforEvent": "cookierun/InGame_Ch62/WhiteChocolateSound_Full_Gauge",
+    "Notes": ""
+  },
+  {
+    "__pkey": "WhiteChocolateSound_Full_Gauge",
+    "FullPathforEvent": "cookierun/InGame_Ch62/WhiteChocolateSound_Incomplete_Gauge",
+    "Notes": ""
+  },
+  {
+    "__pkey": "WhiteChocolateSound_Incomplete_Gauge",
+    "FullPathforEvent": "cookierun/InGame_Ch62/WhiteChocolateSound_Level_Incomplete",
+    "Notes": ""
+  },
+  {
+    "__pkey": "WhiteChocolateSound_Level_Incomplete",
+    "FullPathforEvent": "cookierun/InGame_Ch62/WhiteChocolateSound_SliceObstacle_0",
+    "Notes": ""
+  },
+  {
+    "__pkey": "WhiteChocolateSound_SliceObstacle_0",
+    "FullPathforEvent": "cookierun/InGame_Ch62/WhiteChocolateSound_SliceObstacle_0",
+    "Notes": ""
+  },
+  {
+    "__pkey": "WhiteChocolateSound_SliceObstacle_1",
+    "FullPathforEvent": "cookierun/InGame_Ch62/WhiteChocolateSound_TransformEnd",
+    "Notes": ""
+  },
+  {
+    "__pkey": "WhiteChocolateSound_TransformEnd",
+    "FullPathforEvent": "cookierun/InGame_Ch62/WhiteChocolateSound_TransformStart",
+    "Notes": ""
+  },
+  {
+    "__pkey": "WhiteChocolateSound_TransformStart",
+    "FullPathforEvent": "cookierun/InGame_EpN04/big_to_small",
+    "Notes": ""
+  },
+  {
+    "__pkey": "big_to_small",
+    "FullPathforEvent": "cookierun/InGame_EpN04/big_wheel",
+    "Notes": ""
+  },
+  {
+    "__pkey": "big_wheel",
+    "FullPathforEvent": "cookierun/InGame_EpN04/blue_explode",
+    "Notes": ""
+  },
+  {
+    "__pkey": "blue_explode",
+    "FullPathforEvent": "cookierun/InGame_EpN04/eat_book",
+    "Notes": ""
+  },
+  {
+    "__pkey": "eat_book",
+    "FullPathforEvent": "cookierun/InGame_Common/MysteryBox_Get_Good",
+    "Notes": "화면 뒤에서 조그맣게 날아가는 용 이펙트"
+  },
+  {
+    "__pkey": "epN03_Dragon_FlyingOnBackground",
+    "FullPathforEvent": "cookierun/InGame_Common/MysteryBox_Get_Best",
+    "Notes": "화면 최상단으로 날아가는 용 이펙트"
+  },
+  {
+    "__pkey": "epN03_Dragon_FlyingOnFront",
+    "FullPathforEvent": "cookierun/InGame_EpS02/epS02_Platform_MoveDownJump",
+    "Notes": ""
+  },
+  {
+    "__pkey": "epS02_Platform_MoveDownJump",
+    "FullPathforEvent": "cookierun/InGame_EpS02/epS02_Platform_PopUpObstacle",
+    "Notes": ""
+  },
+  {
+    "__pkey": "epS02_Platform_PopUpObstacle",
+    "FullPathforEvent": "cookierun/InGame_EpS02/epS02_blue_explode",
+    "Notes": ""
+  },
+  {
+    "__pkey": "epS02_blue_explode",
+    "FullPathforEvent": "cookierun/InGame_EpS02/epS02_ice_door_rune",
+    "Notes": ""
+  },
+  {
+    "__pkey": "epS02_ice_door_rune",
+    "FullPathforEvent": "cookierun/InGame_EpS02/epS02_lazer_end",
+    "Notes": ""
+  },
+  {
+    "__pkey": "epS02_lazer_end",
+    "FullPathforEvent": "cookierun/InGame_EpS02/epS02_lazer_shoot",
+    "Notes": ""
+  },
+  {
+    "__pkey": "epS02_lazer_shoot",
+    "FullPathforEvent": "cookierun/InGame_EpS02/epS02_lazer_shoot_loop",
+    "Notes": ""
+  },
+  {
+    "__pkey": "epS02_lazer_shoot_loop",
+    "FullPathforEvent": "cookierun/InGame_EpS02/epS02_lazer_start",
+    "Notes": ""
+  },
+  {
+    "__pkey": "epS02_lazer_start",
+    "FullPathforEvent": "cookierun/InGame_EpS02/epS02_light_mine",
+    "Notes": ""
+  },
+  {
+    "__pkey": "epS02_light_mine",
+    "FullPathforEvent": "cookierun/InGame_EpS02/epS02_light_mine_explode",
+    "Notes": ""
+  },
+  {
+    "__pkey": "epS02_light_mine_explode",
+    "FullPathforEvent": "cookierun/InGame_EpS02/epS02_pink_explode",
+    "Notes": ""
+  },
+  {
+    "__pkey": "epS02_pink_explode",
+    "FullPathforEvent": "cookierun/OutGame_Result/Result_IceMissionFail",
+    "Notes": ""
+  },
+  {
+    "__pkey": "ice_mission_fail",
+    "FullPathforEvent": "cookierun/OutGame_Result/Result_IceMissionSuccess",
+    "Notes": ""
+  },
+  {
+    "__pkey": "ice_mission_success",
+    "FullPathforEvent": "cookierun/InGame_EpS02/ice_open_door",
+    "Notes": ""
+  },
+  {
+    "__pkey": "ice_open_door",
+    "FullPathforEvent": "cookierun/OutGame_Common/ice_star_up_animation",
+    "Notes": ""
+  },
+  {
+    "__pkey": "ice_star_up_animation",
+    "FullPathforEvent": "cookierun/OutGame_Common/ice_unlock_door",
+    "Notes": ""
+  },
+  {
+    "__pkey": "ice_unlock_door",
+    "FullPathforEvent": "cookierun/OutGame_Common/ice_unlock_last_door",
+    "Notes": ""
+  },
+  {
+    "__pkey": "ice_unlock_last_door",
+    "FullPathforEvent": "cookierun/InGame_EpN04/lazer_end",
+    "Notes": ""
+  },
+  {
+    "__pkey": "lazer_end",
+    "FullPathforEvent": "cookierun/InGame_EpN04/lazer_hit",
+    "Notes": ""
+  },
+  {
+    "__pkey": "lazer_hit",
+    "FullPathforEvent": "cookierun/InGame_EpN04/lazer_shoot",
+    "Notes": ""
+  },
+  {
+    "__pkey": "lazer_shoot",
+    "FullPathforEvent": "cookierun/InGame_EpN04/lazer_shoot_loop",
+    "Notes": ""
+  },
+  {
+    "__pkey": "lazer_shoot_loop",
+    "FullPathforEvent": "cookierun/InGame_EpN04/lazer_start",
+    "Notes": ""
+  },
+  {
+    "__pkey": "lazer_start",
+    "FullPathforEvent": "cookierun/InGame_EpN04/light_mine",
+    "Notes": " "
+  },
+  {
+    "__pkey": "light_mine",
+    "FullPathforEvent": "cookierun/InGame_EpN04/mandragora_scream",
+    "Notes": ""
+  },
+  {
+    "__pkey": "mandragora_scream",
+    "FullPathforEvent": "cookierun/InGame_EpN04/pink_explode",
+    "Notes": ""
+  },
+  {
+    "__pkey": "pink_explode",
+    "FullPathforEvent": "cookierun/InGame_EpN04/small_to_big",
+    "Notes": ""
+  },
+  {
+    "__pkey": "small_to_big",
+    "FullPathforEvent": "cookierun/InGame_EpN04/wizard_move",
+    "Notes": ""
+  }
+]

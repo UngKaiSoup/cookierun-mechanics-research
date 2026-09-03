@@ -1,0 +1,49 @@
+[
+  {
+    "limit": "-1",
+    "messageParam": "{\"title\":\"%s\"}",
+    "templateId": "lgcookie_present"
+  },
+  {
+    "__pkey": "1",
+    "limit": "-1",
+    "messageParam": "{\"title\":\"%s\", \"map_title\":\"%s\", \"score\":%d, \"points\":\"%s\"}",
+    "templateId": "lgcookie_ranking"
+  },
+  {
+    "__pkey": "2",
+    "limit": "-1",
+    "messageParam": "{\"title\":\"%s\"}",
+    "templateId": "lgcookie_weeklyrank"
+  },
+  {
+    "__pkey": "3",
+    "limit": "-1",
+    "messageParam": "{\"title\":\"%s\", \"map_title\":\"%s\", \"score\":%d, \"points\":\"%s\"}",
+    "templateId": "lgcookie_score"
+  },
+  {
+    "__pkey": "4",
+    "limit": "30",
+    "messageParam": "{\"title\":\"%s\"}",
+    "templateId": "lgcookie_invite"
+  },
+  {
+    "__pkey": "5",
+    "limit": "-1",
+    "messageParam": "{\"title\":\"%s\"}",
+    "templateId": "lgcookie_giftSent"
+  },
+  {
+    "__pkey": "6",
+    "limit": "-1",
+    "messageParam": "{\"title\":\"%s\"}",
+    "templateId": "lgcookie_giftReceived"
+  },
+  {
+    "__pkey": "7",
+    "limit": "-1",
+    "messageParam": "{\"title\":\"%s\"}",
+    "templateId": "lgcookie_requestComeback"
+  }
+]

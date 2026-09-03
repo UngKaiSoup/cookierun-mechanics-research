@@ -1,0 +1,129 @@
+[
+  {
+    "ContinuousEffectTypeId": "403",
+    "JellyNameEffectId": "0",
+    "JellyTypeGroupId": "0",
+    "MagnetTypeId": "0",
+    "TouchTypeId": "0"
+  },
+  {
+    "__pkey": "0",
+    "ContinuousEffectTypeId": "404",
+    "JellyNameEffectId": "101",
+    "JellyTypeGroupId": "1",
+    "MagnetTypeId": "1",
+    "TouchTypeId": "1"
+  },
+  {
+    "__pkey": "1",
+    "ContinuousEffectTypeId": "",
+    "JellyNameEffectId": "",
+    "JellyTypeGroupId": "10",
+    "MagnetTypeId": "",
+    "TouchTypeId": ""
+  },
+  {
+    "__pkey": "10",
+    "ContinuousEffectTypeId": "",
+    "JellyNameEffectId": "",
+    "JellyTypeGroupId": "11",
+    "MagnetTypeId": "",
+    "TouchTypeId": ""
+  },
+  {
+    "__pkey": "110",
+    "ContinuousEffectTypeId": "",
+    "JellyNameEffectId": "",
+    "JellyTypeGroupId": "",
+    "MagnetTypeId": "",
+    "TouchTypeId": ""
+  },
+  {
+    "__pkey": "111",
+    "ContinuousEffectTypeId": "",
+    "JellyNameEffectId": "",
+    "JellyTypeGroupId": "",
+    "MagnetTypeId": "",
+    "TouchTypeId": ""
+  },
+  {
+    "__pkey": "112",
+    "ContinuousEffectTypeId": "405",
+    "JellyNameEffectId": "102",
+    "JellyTypeGroupId": "2",
+    "MagnetTypeId": "2",
+    "TouchTypeId": ""
+  },
+  {
+    "__pkey": "2",
+    "ContinuousEffectTypeId": "",
+    "JellyNameEffectId": "",
+    "JellyTypeGroupId": "",
+    "MagnetTypeId": "",
+    "TouchTypeId": ""
+  },
+  {
+    "__pkey": "208",
+    "ContinuousEffectTypeId": "407",
+    "JellyNameEffectId": "103",
+    "JellyTypeGroupId": "3",
+    "MagnetTypeId": "",
+    "TouchTypeId": ""
+  },
+  {
+    "__pkey": "3",
+    "ContinuousEffectTypeId": "",
+    "JellyNameEffectId": "104",
+    "JellyTypeGroupId": "4",
+    "MagnetTypeId": "",
+    "TouchTypeId": ""
+  },
+  {
+    "__pkey": "4",
+    "ContinuousEffectTypeId": "",
+    "JellyNameEffectId": "105",
+    "JellyTypeGroupId": "5",
+    "MagnetTypeId": "",
+    "TouchTypeId": ""
+  },
+  {
+    "__pkey": "5",
+    "ContinuousEffectTypeId": "",
+    "JellyNameEffectId": "",
+    "JellyTypeGroupId": "",
+    "MagnetTypeId": "",
+    "TouchTypeId": ""
+  },
+  {
+    "__pkey": "532",
+    "ContinuousEffectTypeId": "",
+    "JellyNameEffectId": "106",
+    "JellyTypeGroupId": "6",
+    "MagnetTypeId": "",
+    "TouchTypeId": ""
+  },
+  {
+    "__pkey": "6",
+    "ContinuousEffectTypeId": "",
+    "JellyNameEffectId": "107",
+    "JellyTypeGroupId": "7",
+    "MagnetTypeId": "",
+    "TouchTypeId": ""
+  },
+  {
+    "__pkey": "7",
+    "ContinuousEffectTypeId": "",
+    "JellyNameEffectId": "",
+    "JellyTypeGroupId": "8",
+    "MagnetTypeId": "",
+    "TouchTypeId": ""
+  },
+  {
+    "__pkey": "8",
+    "ContinuousEffectTypeId": "",
+    "JellyNameEffectId": "",
+    "JellyTypeGroupId": "9",
+    "MagnetTypeId": "",
+    "TouchTypeId": ""
+  }
+]

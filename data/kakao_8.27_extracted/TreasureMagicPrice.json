@@ -1,0 +1,73 @@
+[
+  {
+    "abilitiy1_prob": "9",
+    "ability2_prob": "1",
+    "ability_group": "mC1",
+    "buy_type": "0",
+    "magic_group": "mC",
+    "price": "3600"
+  },
+  {
+    "__pkey": "1",
+    "abilitiy1_prob": "0",
+    "ability2_prob": "1",
+    "ability_group": "mC2",
+    "buy_type": "1",
+    "magic_group": "mC",
+    "price": "3"
+  },
+  {
+    "__pkey": "2",
+    "abilitiy1_prob": "9",
+    "ability2_prob": "1",
+    "ability_group": "mB1",
+    "buy_type": "0",
+    "magic_group": "mB",
+    "price": "6000"
+  },
+  {
+    "__pkey": "3",
+    "abilitiy1_prob": "0",
+    "ability2_prob": "1",
+    "ability_group": "mB2",
+    "buy_type": "1",
+    "magic_group": "mB",
+    "price": "5"
+  },
+  {
+    "__pkey": "4",
+    "abilitiy1_prob": "9",
+    "ability2_prob": "1",
+    "ability_group": "mA1",
+    "buy_type": "0",
+    "magic_group": "mA",
+    "price": "12000"
+  },
+  {
+    "__pkey": "5",
+    "abilitiy1_prob": "0",
+    "ability2_prob": "1",
+    "ability_group": "mA2",
+    "buy_type": "1",
+    "magic_group": "mA",
+    "price": "10"
+  },
+  {
+    "__pkey": "6",
+    "abilitiy1_prob": "9",
+    "ability2_prob": "1",
+    "ability_group": "mS1",
+    "buy_type": "0",
+    "magic_group": "mS",
+    "price": "24000"
+  },
+  {
+    "__pkey": "7",
+    "abilitiy1_prob": "0",
+    "ability2_prob": "1",
+    "ability_group": "mS2",
+    "buy_type": "1",
+    "magic_group": "mS",
+    "price": "20"
+  }
+]

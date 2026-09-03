@@ -1,0 +1,267 @@
+[
+  {
+    "endgame_fps_limit_high_diff": "20",
+    "endgame_fps_limit_low_diff": "-20",
+    "ingame_fps_limit_high_diff": "30",
+    "ingame_fps_limit_low_diff": "-20"
+  },
+  {
+    "__pkey": "C2305",
+    "endgame_fps_limit_high_diff": "20",
+    "endgame_fps_limit_low_diff": "-20",
+    "ingame_fps_limit_high_diff": "30",
+    "ingame_fps_limit_low_diff": "-20"
+  },
+  {
+    "__pkey": "CONNECTIA",
+    "endgame_fps_limit_high_diff": "20",
+    "endgame_fps_limit_low_diff": "-20",
+    "ingame_fps_limit_high_diff": "30",
+    "ingame_fps_limit_low_diff": "-20"
+  },
+  {
+    "__pkey": "GT-I9158P",
+    "endgame_fps_limit_high_diff": "20",
+    "endgame_fps_limit_low_diff": "-20",
+    "ingame_fps_limit_high_diff": "30",
+    "ingame_fps_limit_low_diff": "-20"
+  },
+  {
+    "__pkey": "GT-S7500",
+    "endgame_fps_limit_high_diff": "20",
+    "endgame_fps_limit_low_diff": "-20",
+    "ingame_fps_limit_high_diff": "30",
+    "ingame_fps_limit_low_diff": "-20"
+  },
+  {
+    "__pkey": "GT-S7500L",
+    "endgame_fps_limit_high_diff": "20",
+    "endgame_fps_limit_low_diff": "-20",
+    "ingame_fps_limit_high_diff": "30",
+    "ingame_fps_limit_low_diff": "-20"
+  },
+  {
+    "__pkey": "HP7",
+    "endgame_fps_limit_high_diff": "20",
+    "endgame_fps_limit_low_diff": "-20",
+    "ingame_fps_limit_high_diff": "30",
+    "ingame_fps_limit_low_diff": "-20"
+  },
+  {
+    "__pkey": "HTC_D310n",
+    "endgame_fps_limit_high_diff": "20",
+    "endgame_fps_limit_low_diff": "-20",
+    "ingame_fps_limit_high_diff": "30",
+    "ingame_fps_limit_low_diff": "-20"
+  },
+  {
+    "__pkey": "IM-A770K",
+    "endgame_fps_limit_high_diff": "20",
+    "endgame_fps_limit_low_diff": "-20",
+    "ingame_fps_limit_high_diff": "30",
+    "ingame_fps_limit_low_diff": "-20"
+  },
+  {
+    "__pkey": "IM-A850K",
+    "endgame_fps_limit_high_diff": "20",
+    "endgame_fps_limit_low_diff": "-20",
+    "ingame_fps_limit_high_diff": "30",
+    "ingame_fps_limit_low_diff": "-20"
+  },
+  {
+    "__pkey": "IM-A870K",
+    "endgame_fps_limit_high_diff": "20",
+    "endgame_fps_limit_low_diff": "-20",
+    "ingame_fps_limit_high_diff": "30",
+    "ingame_fps_limit_low_diff": "-20"
+  },
+  {
+    "__pkey": "IM-A870L",
+    "endgame_fps_limit_high_diff": "20",
+    "endgame_fps_limit_low_diff": "-20",
+    "ingame_fps_limit_high_diff": "30",
+    "ingame_fps_limit_low_diff": "-20"
+  },
+  {
+    "__pkey": "IM-A870S",
+    "endgame_fps_limit_high_diff": "20",
+    "endgame_fps_limit_low_diff": "-20",
+    "ingame_fps_limit_high_diff": "30",
+    "ingame_fps_limit_low_diff": "-20"
+  },
+  {
+    "__pkey": "ITP-R208W",
+    "endgame_fps_limit_high_diff": "20",
+    "endgame_fps_limit_low_diff": "-20",
+    "ingame_fps_limit_high_diff": "30",
+    "ingame_fps_limit_low_diff": "-20"
+  },
+  {
+    "__pkey": "LG-E420",
+    "endgame_fps_limit_high_diff": "20",
+    "endgame_fps_limit_low_diff": "-20",
+    "ingame_fps_limit_high_diff": "30",
+    "ingame_fps_limit_low_diff": "-20"
+  },
+  {
+    "__pkey": "LG-SU870",
+    "endgame_fps_limit_high_diff": "20",
+    "endgame_fps_limit_low_diff": "-20",
+    "ingame_fps_limit_high_diff": "30",
+    "ingame_fps_limit_low_diff": "-20"
+  },
+  {
+    "__pkey": "LP078S",
+    "endgame_fps_limit_high_diff": "20",
+    "endgame_fps_limit_low_diff": "-20",
+    "ingame_fps_limit_high_diff": "30",
+    "ingame_fps_limit_low_diff": "-20"
+  },
+  {
+    "__pkey": "LegendX",
+    "endgame_fps_limit_high_diff": "20",
+    "endgame_fps_limit_low_diff": "-20",
+    "ingame_fps_limit_high_diff": "30",
+    "ingame_fps_limit_low_diff": "-20"
+  },
+  {
+    "__pkey": "LenovoA536",
+    "endgame_fps_limit_high_diff": "20",
+    "endgame_fps_limit_low_diff": "-20",
+    "ingame_fps_limit_high_diff": "30",
+    "ingame_fps_limit_low_diff": "-20"
+  },
+  {
+    "__pkey": "MID",
+    "endgame_fps_limit_high_diff": "20",
+    "endgame_fps_limit_low_diff": "-20",
+    "ingame_fps_limit_high_diff": "30",
+    "ingame_fps_limit_low_diff": "-20"
+  },
+  {
+    "__pkey": "MINI3",
+    "endgame_fps_limit_high_diff": "20",
+    "endgame_fps_limit_low_diff": "-20",
+    "ingame_fps_limit_high_diff": "30",
+    "ingame_fps_limit_low_diff": "-20"
+  },
+  {
+    "__pkey": "NEX_START7",
+    "endgame_fps_limit_high_diff": "20",
+    "endgame_fps_limit_low_diff": "-10",
+    "ingame_fps_limit_high_diff": "10",
+    "ingame_fps_limit_low_diff": "-5"
+  },
+  {
+    "__pkey": "SCH-SPECIAL",
+    "endgame_fps_limit_high_diff": "20",
+    "endgame_fps_limit_low_diff": "-20",
+    "ingame_fps_limit_high_diff": "30",
+    "ingame_fps_limit_low_diff": "-20"
+  },
+  {
+    "__pkey": "SEB-C8002-2",
+    "endgame_fps_limit_high_diff": "20",
+    "endgame_fps_limit_low_diff": "-20",
+    "ingame_fps_limit_high_diff": "30",
+    "ingame_fps_limit_low_diff": "-20"
+  },
+  {
+    "__pkey": "SHV-E250S",
+    "endgame_fps_limit_high_diff": "20",
+    "endgame_fps_limit_low_diff": "-20",
+    "ingame_fps_limit_high_diff": "30",
+    "ingame_fps_limit_low_diff": "-20"
+  },
+  {
+    "__pkey": "SHV-E500L",
+    "endgame_fps_limit_high_diff": "20",
+    "endgame_fps_limit_low_diff": "-20",
+    "ingame_fps_limit_high_diff": "30",
+    "ingame_fps_limit_low_diff": "-20"
+  },
+  {
+    "__pkey": "SHV-E500S",
+    "endgame_fps_limit_high_diff": "20",
+    "endgame_fps_limit_low_diff": "-20",
+    "ingame_fps_limit_high_diff": "30",
+    "ingame_fps_limit_low_diff": "-20"
+  },
+  {
+    "__pkey": "SHW-M460D",
+    "endgame_fps_limit_high_diff": "20",
+    "endgame_fps_limit_low_diff": "-20",
+    "ingame_fps_limit_high_diff": "30",
+    "ingame_fps_limit_low_diff": "-20"
+  },
+  {
+    "__pkey": "SM-N910U",
+    "endgame_fps_limit_high_diff": "20",
+    "endgame_fps_limit_low_diff": "-20",
+    "ingame_fps_limit_high_diff": "30",
+    "ingame_fps_limit_low_diff": "-20"
+  },
+  {
+    "__pkey": "SP0739B",
+    "endgame_fps_limit_high_diff": "5",
+    "endgame_fps_limit_low_diff": "-25",
+    "ingame_fps_limit_high_diff": "5",
+    "ingame_fps_limit_low_diff": "-5"
+  },
+  {
+    "__pkey": "Simulator x86_64",
+    "endgame_fps_limit_high_diff": "20",
+    "endgame_fps_limit_low_diff": "-20",
+    "ingame_fps_limit_high_diff": "30",
+    "ingame_fps_limit_low_diff": "-20"
+  },
+  {
+    "__pkey": "T80D",
+    "endgame_fps_limit_high_diff": "20",
+    "endgame_fps_limit_low_diff": "-20",
+    "ingame_fps_limit_high_diff": "30",
+    "ingame_fps_limit_low_diff": "-20"
+  },
+  {
+    "__pkey": "TX12D",
+    "endgame_fps_limit_high_diff": "20",
+    "endgame_fps_limit_low_diff": "-20",
+    "ingame_fps_limit_high_diff": "30",
+    "ingame_fps_limit_low_diff": "-20"
+  },
+  {
+    "__pkey": "Tab2A7-10F",
+    "endgame_fps_limit_high_diff": "20",
+    "endgame_fps_limit_low_diff": "-20",
+    "ingame_fps_limit_high_diff": "30",
+    "ingame_fps_limit_low_diff": "-20"
+  },
+  {
+    "__pkey": "bqAquaris5",
+    "endgame_fps_limit_high_diff": "20",
+    "endgame_fps_limit_low_diff": "-20",
+    "ingame_fps_limit_high_diff": "30",
+    "ingame_fps_limit_low_diff": "-20"
+  },
+  {
+    "__pkey": "i-mobilei-STYLE6",
+    "endgame_fps_limit_high_diff": "20",
+    "endgame_fps_limit_low_diff": "-20",
+    "ingame_fps_limit_high_diff": "30",
+    "ingame_fps_limit_low_diff": "-20"
+  },
+  {
+    "__pkey": "iris405+",
+    "endgame_fps_limit_high_diff": "20",
+    "endgame_fps_limit_low_diff": "-20",
+    "ingame_fps_limit_high_diff": "30",
+    "ingame_fps_limit_low_diff": "-20"
+  },
+  {
+    "__pkey": "iris500",
+    "endgame_fps_limit_high_diff": "20",
+    "endgame_fps_limit_low_diff": "-20",
+    "ingame_fps_limit_high_diff": "30",
+    "ingame_fps_limit_low_diff": "-20"
+  }
+]

@@ -1,0 +1,91 @@
+[
+  {
+    "default_activity_point": "10",
+    "default_qty": "10"
+  },
+  {
+    "__pkey": "751",
+    "default_activity_point": "50",
+    "default_qty": "55"
+  },
+  {
+    "__pkey": "752",
+    "default_activity_point": "100",
+    "default_qty": "120"
+  },
+  {
+    "__pkey": "753",
+    "default_activity_point": "300",
+    "default_qty": "400"
+  },
+  {
+    "__pkey": "754",
+    "default_activity_point": "500",
+    "default_qty": "750"
+  },
+  {
+    "__pkey": "755",
+    "default_activity_point": "1000",
+    "default_qty": "1550"
+  },
+  {
+    "__pkey": "756",
+    "default_activity_point": "10",
+    "default_qty": "10"
+  },
+  {
+    "__pkey": "771",
+    "default_activity_point": "50",
+    "default_qty": "55"
+  },
+  {
+    "__pkey": "772",
+    "default_activity_point": "100",
+    "default_qty": "120"
+  },
+  {
+    "__pkey": "773",
+    "default_activity_point": "300",
+    "default_qty": "360"
+  },
+  {
+    "__pkey": "774",
+    "default_activity_point": "500",
+    "default_qty": "675"
+  },
+  {
+    "__pkey": "775",
+    "default_activity_point": "1000",
+    "default_qty": "1440"
+  },
+  {
+    "__pkey": "776",
+    "default_activity_point": "10",
+    "default_qty": "10"
+  },
+  {
+    "__pkey": "791",
+    "default_activity_point": "50",
+    "default_qty": "55"
+  },
+  {
+    "__pkey": "792",
+    "default_activity_point": "100",
+    "default_qty": "120"
+  },
+  {
+    "__pkey": "793",
+    "default_activity_point": "300",
+    "default_qty": "360"
+  },
+  {
+    "__pkey": "794",
+    "default_activity_point": "500",
+    "default_qty": "675"
+  },
+  {
+    "__pkey": "795",
+    "default_activity_point": "1000",
+    "default_qty": "1440"
+  }
+]

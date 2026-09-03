@@ -1,0 +1,57 @@
+[
+  {
+    "ColBoxType": "0",
+    "CrashType": "0",
+    "MoveType": "0",
+    "ShowType": "0",
+    "TransformType": "0"
+  },
+  {
+    "__pkey": "0",
+    "ColBoxType": "1",
+    "CrashType": "1",
+    "MoveType": "1",
+    "ShowType": "1",
+    "TransformType": "1"
+  },
+  {
+    "__pkey": "1",
+    "ColBoxType": "2",
+    "CrashType": "2",
+    "MoveType": "2",
+    "ShowType": "10",
+    "TransformType": ""
+  },
+  {
+    "__pkey": "2",
+    "ColBoxType": "",
+    "CrashType": "3",
+    "MoveType": "3",
+    "ShowType": "11",
+    "TransformType": ""
+  },
+  {
+    "__pkey": "3",
+    "ColBoxType": "",
+    "CrashType": "",
+    "MoveType": "4",
+    "ShowType": "12",
+    "TransformType": ""
+  },
+  {
+    "__pkey": "4",
+    "ColBoxType": "",
+    "CrashType": "",
+    "MoveType": "5",
+    "ShowType": "13",
+    "TransformType": ""
+  },
+  {
+    "__pkey": "5",
+    "ColBoxType": "",
+    "CrashType": "",
+    "MoveType": "",
+    "ShowType": "14",
+    "TransformType": ""
+  }
+]

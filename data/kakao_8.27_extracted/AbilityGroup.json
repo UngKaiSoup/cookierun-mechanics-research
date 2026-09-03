@@ -1,0 +1,881 @@
+[
+  {
+    "ability_group": "mC1",
+    "ability_seq": "1004",
+    "distribution": "UNIFORM",
+    "max": "100",
+    "min": "10",
+    "prob": "2",
+    "unit": "10"
+  },
+  {
+    "__pkey": "1",
+    "ability_group": "mC1",
+    "ability_seq": "1022",
+    "distribution": "UNIFORM",
+    "max": "30",
+    "min": "5",
+    "prob": "9",
+    "unit": "5"
+  },
+  {
+    "__pkey": "10",
+    "ability_group": "mC1",
+    "ability_seq": "1023",
+    "distribution": "EASY",
+    "max": "30",
+    "min": "5",
+    "prob": "6",
+    "unit": "5"
+  },
+  {
+    "__pkey": "11",
+    "ability_group": "mC2",
+    "ability_seq": "1004",
+    "distribution": "NORMAL",
+    "max": "100",
+    "min": "10",
+    "prob": "2",
+    "unit": "10"
+  },
+  {
+    "__pkey": "12",
+    "ability_group": "mC2",
+    "ability_seq": "1005",
+    "distribution": "HARD",
+    "max": "100",
+    "min": "10",
+    "prob": "4",
+    "unit": "10"
+  },
+  {
+    "__pkey": "13",
+    "ability_group": "mC2",
+    "ability_seq": "1069",
+    "distribution": "UNIFORM",
+    "max": "500",
+    "min": "200",
+    "prob": "6",
+    "unit": "20"
+  },
+  {
+    "__pkey": "14",
+    "ability_group": "mC2",
+    "ability_seq": "1007",
+    "distribution": "EASY",
+    "max": "5",
+    "min": "1",
+    "prob": "8",
+    "unit": "1"
+  },
+  {
+    "__pkey": "15",
+    "ability_group": "mC2",
+    "ability_seq": "1095",
+    "distribution": "NORMAL",
+    "max": "20",
+    "min": "10",
+    "prob": "7",
+    "unit": "2"
+  },
+  {
+    "__pkey": "16",
+    "ability_group": "mC2",
+    "ability_seq": "1089",
+    "distribution": "UNIFORM",
+    "max": "500",
+    "min": "200",
+    "prob": "3",
+    "unit": "20"
+  },
+  {
+    "__pkey": "17",
+    "ability_group": "mC2",
+    "ability_seq": "1044",
+    "distribution": "EASY",
+    "max": "3",
+    "min": "1",
+    "prob": "4",
+    "unit": "1"
+  },
+  {
+    "__pkey": "18",
+    "ability_group": "mC2",
+    "ability_seq": "1062",
+    "distribution": "NORMAL",
+    "max": "50",
+    "min": "10",
+    "prob": "5",
+    "unit": "5"
+  },
+  {
+    "__pkey": "19",
+    "ability_group": "mC1",
+    "ability_seq": "1005",
+    "distribution": "EASY",
+    "max": "100",
+    "min": "10",
+    "prob": "4",
+    "unit": "10"
+  },
+  {
+    "__pkey": "2",
+    "ability_group": "mC2",
+    "ability_seq": "1120",
+    "distribution": "HARD",
+    "max": "20",
+    "min": "10",
+    "prob": "2",
+    "unit": "2"
+  },
+  {
+    "__pkey": "20",
+    "ability_group": "mC2",
+    "ability_seq": "1022",
+    "distribution": "UNIFORM",
+    "max": "30",
+    "min": "5",
+    "prob": "9",
+    "unit": "5"
+  },
+  {
+    "__pkey": "21",
+    "ability_group": "mC2",
+    "ability_seq": "1023",
+    "distribution": "EASY",
+    "max": "30",
+    "min": "5",
+    "prob": "6",
+    "unit": "5"
+  },
+  {
+    "__pkey": "22",
+    "ability_group": "mB1",
+    "ability_seq": "1004",
+    "distribution": "NORMAL",
+    "max": "100",
+    "min": "10",
+    "prob": "2",
+    "unit": "10"
+  },
+  {
+    "__pkey": "23",
+    "ability_group": "mB1",
+    "ability_seq": "1005",
+    "distribution": "HARD",
+    "max": "100",
+    "min": "10",
+    "prob": "4",
+    "unit": "10"
+  },
+  {
+    "__pkey": "24",
+    "ability_group": "mB1",
+    "ability_seq": "1069",
+    "distribution": "UNIFORM",
+    "max": "500",
+    "min": "200",
+    "prob": "6",
+    "unit": "20"
+  },
+  {
+    "__pkey": "25",
+    "ability_group": "mB1",
+    "ability_seq": "1007",
+    "distribution": "EASY",
+    "max": "5",
+    "min": "1",
+    "prob": "8",
+    "unit": "1"
+  },
+  {
+    "__pkey": "26",
+    "ability_group": "mB1",
+    "ability_seq": "1095",
+    "distribution": "NORMAL",
+    "max": "20",
+    "min": "10",
+    "prob": "7",
+    "unit": "2"
+  },
+  {
+    "__pkey": "27",
+    "ability_group": "mB1",
+    "ability_seq": "1089",
+    "distribution": "HARD",
+    "max": "500",
+    "min": "200",
+    "prob": "3",
+    "unit": "20"
+  },
+  {
+    "__pkey": "28",
+    "ability_group": "mB1",
+    "ability_seq": "1044",
+    "distribution": "UNIFORM",
+    "max": "3",
+    "min": "1",
+    "prob": "4",
+    "unit": "1"
+  },
+  {
+    "__pkey": "29",
+    "ability_group": "mC1",
+    "ability_seq": "1069",
+    "distribution": "NORMAL",
+    "max": "500",
+    "min": "200",
+    "prob": "6",
+    "unit": "20"
+  },
+  {
+    "__pkey": "3",
+    "ability_group": "mB1",
+    "ability_seq": "1062",
+    "distribution": "UNIFORM",
+    "max": "50",
+    "min": "10",
+    "prob": "5",
+    "unit": "5"
+  },
+  {
+    "__pkey": "30",
+    "ability_group": "mB1",
+    "ability_seq": "1120",
+    "distribution": "EASY",
+    "max": "20",
+    "min": "10",
+    "prob": "2",
+    "unit": "2"
+  },
+  {
+    "__pkey": "31",
+    "ability_group": "mB1",
+    "ability_seq": "1022",
+    "distribution": "NORMAL",
+    "max": "30",
+    "min": "5",
+    "prob": "9",
+    "unit": "5"
+  },
+  {
+    "__pkey": "32",
+    "ability_group": "mB1",
+    "ability_seq": "1023",
+    "distribution": "UNIFORM",
+    "max": "30",
+    "min": "5",
+    "prob": "6",
+    "unit": "5"
+  },
+  {
+    "__pkey": "33",
+    "ability_group": "mB2",
+    "ability_seq": "1004",
+    "distribution": "EASY",
+    "max": "100",
+    "min": "10",
+    "prob": "2",
+    "unit": "10"
+  },
+  {
+    "__pkey": "34",
+    "ability_group": "mB2",
+    "ability_seq": "1005",
+    "distribution": "NORMAL",
+    "max": "100",
+    "min": "10",
+    "prob": "4",
+    "unit": "10"
+  },
+  {
+    "__pkey": "35",
+    "ability_group": "mB2",
+    "ability_seq": "1069",
+    "distribution": "HARD",
+    "max": "500",
+    "min": "200",
+    "prob": "6",
+    "unit": "20"
+  },
+  {
+    "__pkey": "36",
+    "ability_group": "mB2",
+    "ability_seq": "1007",
+    "distribution": "UNIFORM",
+    "max": "5",
+    "min": "1",
+    "prob": "8",
+    "unit": "1"
+  },
+  {
+    "__pkey": "37",
+    "ability_group": "mB2",
+    "ability_seq": "1095",
+    "distribution": "EASY",
+    "max": "20",
+    "min": "10",
+    "prob": "7",
+    "unit": "2"
+  },
+  {
+    "__pkey": "38",
+    "ability_group": "mB2",
+    "ability_seq": "1089",
+    "distribution": "NORMAL",
+    "max": "500",
+    "min": "200",
+    "prob": "3",
+    "unit": "20"
+  },
+  {
+    "__pkey": "39",
+    "ability_group": "mC1",
+    "ability_seq": "1007",
+    "distribution": "HARD",
+    "max": "5",
+    "min": "1",
+    "prob": "8",
+    "unit": "1"
+  },
+  {
+    "__pkey": "4",
+    "ability_group": "mB2",
+    "ability_seq": "1044",
+    "distribution": "HARD",
+    "max": "3",
+    "min": "1",
+    "prob": "4",
+    "unit": "1"
+  },
+  {
+    "__pkey": "40",
+    "ability_group": "mB2",
+    "ability_seq": "1062",
+    "distribution": "UNIFORM",
+    "max": "50",
+    "min": "10",
+    "prob": "5",
+    "unit": "5"
+  },
+  {
+    "__pkey": "41",
+    "ability_group": "mB2",
+    "ability_seq": "1120",
+    "distribution": "UNIFORM",
+    "max": "20",
+    "min": "10",
+    "prob": "2",
+    "unit": "2"
+  },
+  {
+    "__pkey": "42",
+    "ability_group": "mB2",
+    "ability_seq": "1022",
+    "distribution": "EASY",
+    "max": "30",
+    "min": "5",
+    "prob": "9",
+    "unit": "5"
+  },
+  {
+    "__pkey": "43",
+    "ability_group": "mB2",
+    "ability_seq": "1023",
+    "distribution": "NORMAL",
+    "max": "30",
+    "min": "5",
+    "prob": "6",
+    "unit": "5"
+  },
+  {
+    "__pkey": "44",
+    "ability_group": "mA1",
+    "ability_seq": "1004",
+    "distribution": "HARD",
+    "max": "100",
+    "min": "10",
+    "prob": "2",
+    "unit": "10"
+  },
+  {
+    "__pkey": "45",
+    "ability_group": "mA1",
+    "ability_seq": "1005",
+    "distribution": "UNIFORM",
+    "max": "100",
+    "min": "10",
+    "prob": "4",
+    "unit": "10"
+  },
+  {
+    "__pkey": "46",
+    "ability_group": "mA1",
+    "ability_seq": "1069",
+    "distribution": "EASY",
+    "max": "500",
+    "min": "200",
+    "prob": "6",
+    "unit": "20"
+  },
+  {
+    "__pkey": "47",
+    "ability_group": "mA1",
+    "ability_seq": "1007",
+    "distribution": "NORMAL",
+    "max": "5",
+    "min": "1",
+    "prob": "8",
+    "unit": "1"
+  },
+  {
+    "__pkey": "48",
+    "ability_group": "mA1",
+    "ability_seq": "1095",
+    "distribution": "UNIFORM",
+    "max": "20",
+    "min": "10",
+    "prob": "7",
+    "unit": "2"
+  },
+  {
+    "__pkey": "49",
+    "ability_group": "mC1",
+    "ability_seq": "1095",
+    "distribution": "UNIFORM",
+    "max": "20",
+    "min": "10",
+    "prob": "7",
+    "unit": "2"
+  },
+  {
+    "__pkey": "5",
+    "ability_group": "mA1",
+    "ability_seq": "1089",
+    "distribution": "EASY",
+    "max": "500",
+    "min": "200",
+    "prob": "3",
+    "unit": "20"
+  },
+  {
+    "__pkey": "50",
+    "ability_group": "mA1",
+    "ability_seq": "1044",
+    "distribution": "NORMAL",
+    "max": "3",
+    "min": "1",
+    "prob": "4",
+    "unit": "1"
+  },
+  {
+    "__pkey": "51",
+    "ability_group": "mA1",
+    "ability_seq": "1062",
+    "distribution": "HARD",
+    "max": "50",
+    "min": "10",
+    "prob": "5",
+    "unit": "5"
+  },
+  {
+    "__pkey": "52",
+    "ability_group": "mA1",
+    "ability_seq": "1120",
+    "distribution": "UNIFORM",
+    "max": "20",
+    "min": "10",
+    "prob": "2",
+    "unit": "2"
+  },
+  {
+    "__pkey": "53",
+    "ability_group": "mA1",
+    "ability_seq": "1022",
+    "distribution": "EASY",
+    "max": "30",
+    "min": "5",
+    "prob": "9",
+    "unit": "5"
+  },
+  {
+    "__pkey": "54",
+    "ability_group": "mA1",
+    "ability_seq": "1023",
+    "distribution": "UNIFORM",
+    "max": "30",
+    "min": "5",
+    "prob": "6",
+    "unit": "5"
+  },
+  {
+    "__pkey": "55",
+    "ability_group": "mA2",
+    "ability_seq": "1004",
+    "distribution": "EASY",
+    "max": "100",
+    "min": "10",
+    "prob": "2",
+    "unit": "10"
+  },
+  {
+    "__pkey": "56",
+    "ability_group": "mA2",
+    "ability_seq": "1005",
+    "distribution": "NORMAL",
+    "max": "100",
+    "min": "10",
+    "prob": "4",
+    "unit": "10"
+  },
+  {
+    "__pkey": "57",
+    "ability_group": "mA2",
+    "ability_seq": "1069",
+    "distribution": "HARD",
+    "max": "500",
+    "min": "200",
+    "prob": "6",
+    "unit": "20"
+  },
+  {
+    "__pkey": "58",
+    "ability_group": "mA2",
+    "ability_seq": "1007",
+    "distribution": "UNIFORM",
+    "max": "5",
+    "min": "1",
+    "prob": "8",
+    "unit": "1"
+  },
+  {
+    "__pkey": "59",
+    "ability_group": "mC1",
+    "ability_seq": "1089",
+    "distribution": "EASY",
+    "max": "500",
+    "min": "200",
+    "prob": "3",
+    "unit": "20"
+  },
+  {
+    "__pkey": "6",
+    "ability_group": "mA2",
+    "ability_seq": "1095",
+    "distribution": "EASY",
+    "max": "20",
+    "min": "10",
+    "prob": "7",
+    "unit": "2"
+  },
+  {
+    "__pkey": "60",
+    "ability_group": "mA2",
+    "ability_seq": "1089",
+    "distribution": "NORMAL",
+    "max": "500",
+    "min": "200",
+    "prob": "3",
+    "unit": "20"
+  },
+  {
+    "__pkey": "61",
+    "ability_group": "mA2",
+    "ability_seq": "1044",
+    "distribution": "HARD",
+    "max": "3",
+    "min": "1",
+    "prob": "4",
+    "unit": "1"
+  },
+  {
+    "__pkey": "62",
+    "ability_group": "mA2",
+    "ability_seq": "1062",
+    "distribution": "UNIFORM",
+    "max": "50",
+    "min": "10",
+    "prob": "5",
+    "unit": "5"
+  },
+  {
+    "__pkey": "63",
+    "ability_group": "mA2",
+    "ability_seq": "1120",
+    "distribution": "UNIFORM",
+    "max": "20",
+    "min": "10",
+    "prob": "2",
+    "unit": "2"
+  },
+  {
+    "__pkey": "64",
+    "ability_group": "mA2",
+    "ability_seq": "1022",
+    "distribution": "EASY",
+    "max": "30",
+    "min": "5",
+    "prob": "9",
+    "unit": "5"
+  },
+  {
+    "__pkey": "65",
+    "ability_group": "mA2",
+    "ability_seq": "1023",
+    "distribution": "NORMAL",
+    "max": "30",
+    "min": "5",
+    "prob": "6",
+    "unit": "5"
+  },
+  {
+    "__pkey": "66",
+    "ability_group": "mS1",
+    "ability_seq": "1004",
+    "distribution": "HARD",
+    "max": "100",
+    "min": "10",
+    "prob": "2",
+    "unit": "10"
+  },
+  {
+    "__pkey": "67",
+    "ability_group": "mS1",
+    "ability_seq": "1005",
+    "distribution": "UNIFORM",
+    "max": "100",
+    "min": "10",
+    "prob": "4",
+    "unit": "10"
+  },
+  {
+    "__pkey": "68",
+    "ability_group": "mS1",
+    "ability_seq": "1069",
+    "distribution": "EASY",
+    "max": "500",
+    "min": "200",
+    "prob": "6",
+    "unit": "20"
+  },
+  {
+    "__pkey": "69",
+    "ability_group": "mC1",
+    "ability_seq": "1044",
+    "distribution": "NORMAL",
+    "max": "3",
+    "min": "1",
+    "prob": "4",
+    "unit": "1"
+  },
+  {
+    "__pkey": "7",
+    "ability_group": "mS1",
+    "ability_seq": "1007",
+    "distribution": "NORMAL",
+    "max": "5",
+    "min": "1",
+    "prob": "8",
+    "unit": "1"
+  },
+  {
+    "__pkey": "70",
+    "ability_group": "mS1",
+    "ability_seq": "1095",
+    "distribution": "UNIFORM",
+    "max": "20",
+    "min": "10",
+    "prob": "7",
+    "unit": "2"
+  },
+  {
+    "__pkey": "71",
+    "ability_group": "mS1",
+    "ability_seq": "1089",
+    "distribution": "EASY",
+    "max": "500",
+    "min": "200",
+    "prob": "3",
+    "unit": "20"
+  },
+  {
+    "__pkey": "72",
+    "ability_group": "mS1",
+    "ability_seq": "1044",
+    "distribution": "NORMAL",
+    "max": "3",
+    "min": "1",
+    "prob": "4",
+    "unit": "1"
+  },
+  {
+    "__pkey": "73",
+    "ability_group": "mS1",
+    "ability_seq": "1062",
+    "distribution": "UNIFORM",
+    "max": "50",
+    "min": "10",
+    "prob": "5",
+    "unit": "5"
+  },
+  {
+    "__pkey": "74",
+    "ability_group": "mS1",
+    "ability_seq": "1120",
+    "distribution": "EASY",
+    "max": "20",
+    "min": "10",
+    "prob": "2",
+    "unit": "2"
+  },
+  {
+    "__pkey": "75",
+    "ability_group": "mS1",
+    "ability_seq": "1022",
+    "distribution": "NORMAL",
+    "max": "30",
+    "min": "5",
+    "prob": "9",
+    "unit": "5"
+  },
+  {
+    "__pkey": "76",
+    "ability_group": "mS1",
+    "ability_seq": "1023",
+    "distribution": "HARD",
+    "max": "30",
+    "min": "5",
+    "prob": "6",
+    "unit": "5"
+  },
+  {
+    "__pkey": "77",
+    "ability_group": "mS2",
+    "ability_seq": "1004",
+    "distribution": "UNIFORM",
+    "max": "100",
+    "min": "10",
+    "prob": "2",
+    "unit": "10"
+  },
+  {
+    "__pkey": "78",
+    "ability_group": "mS2",
+    "ability_seq": "1005",
+    "distribution": "EASY",
+    "max": "100",
+    "min": "10",
+    "prob": "4",
+    "unit": "10"
+  },
+  {
+    "__pkey": "79",
+    "ability_group": "mC1",
+    "ability_seq": "1062",
+    "distribution": "HARD",
+    "max": "50",
+    "min": "10",
+    "prob": "5",
+    "unit": "5"
+  },
+  {
+    "__pkey": "8",
+    "ability_group": "mS2",
+    "ability_seq": "1069",
+    "distribution": "NORMAL",
+    "max": "500",
+    "min": "200",
+    "prob": "6",
+    "unit": "20"
+  },
+  {
+    "__pkey": "80",
+    "ability_group": "mS2",
+    "ability_seq": "1007",
+    "distribution": "HARD",
+    "max": "5",
+    "min": "1",
+    "prob": "8",
+    "unit": "1"
+  },
+  {
+    "__pkey": "81",
+    "ability_group": "mS2",
+    "ability_seq": "1095",
+    "distribution": "UNIFORM",
+    "max": "20",
+    "min": "10",
+    "prob": "7",
+    "unit": "2"
+  },
+  {
+    "__pkey": "82",
+    "ability_group": "mS2",
+    "ability_seq": "1089",
+    "distribution": "UNIFORM",
+    "max": "500",
+    "min": "200",
+    "prob": "3",
+    "unit": "20"
+  },
+  {
+    "__pkey": "83",
+    "ability_group": "mS2",
+    "ability_seq": "1044",
+    "distribution": "EASY",
+    "max": "3",
+    "min": "1",
+    "prob": "4",
+    "unit": "1"
+  },
+  {
+    "__pkey": "84",
+    "ability_group": "mS2",
+    "ability_seq": "1062",
+    "distribution": "NORMAL",
+    "max": "50",
+    "min": "10",
+    "prob": "5",
+    "unit": "5"
+  },
+  {
+    "__pkey": "85",
+    "ability_group": "mS2",
+    "ability_seq": "1120",
+    "distribution": "HARD",
+    "max": "20",
+    "min": "10",
+    "prob": "2",
+    "unit": "2"
+  },
+  {
+    "__pkey": "86",
+    "ability_group": "mS2",
+    "ability_seq": "1022",
+    "distribution": "UNIFORM",
+    "max": "30",
+    "min": "5",
+    "prob": "9",
+    "unit": "5"
+  },
+  {
+    "__pkey": "87",
+    "ability_group": "mS2",
+    "ability_seq": "1023",
+    "distribution": "EASY",
+    "max": "30",
+    "min": "5",
+    "prob": "6",
+    "unit": "5"
+  },
+  {
+    "__pkey": "88",
+    "ability_group": "mC1",
+    "ability_seq": "1120",
+    "distribution": "UNIFORM",
+    "max": "20",
+    "min": "10",
+    "prob": "2",
+    "unit": "2"
+  }
+]

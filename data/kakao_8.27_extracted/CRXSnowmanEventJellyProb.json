@@ -1,0 +1,249 @@
+[
+  {
+    "ChanceFactor": "0",
+    "EndPatternIndex": "8",
+    "MaxCandyCount": "0",
+    "MinCandyCount": "0",
+    "StartPatternIndex": "1"
+  },
+  {
+    "__pkey": "1",
+    "ChanceFactor": "0",
+    "EndPatternIndex": "195",
+    "MaxCandyCount": "0",
+    "MinCandyCount": "0",
+    "StartPatternIndex": "152"
+  },
+  {
+    "__pkey": "10",
+    "ChanceFactor": "0",
+    "EndPatternIndex": "247",
+    "MaxCandyCount": "0",
+    "MinCandyCount": "0",
+    "StartPatternIndex": "196"
+  },
+  {
+    "__pkey": "11",
+    "ChanceFactor": "0",
+    "EndPatternIndex": "328",
+    "MaxCandyCount": "0",
+    "MinCandyCount": "0",
+    "StartPatternIndex": "248"
+  },
+  {
+    "__pkey": "12",
+    "ChanceFactor": "0",
+    "EndPatternIndex": "869",
+    "MaxCandyCount": "0",
+    "MinCandyCount": "0",
+    "StartPatternIndex": "329"
+  },
+  {
+    "__pkey": "13",
+    "ChanceFactor": "7",
+    "EndPatternIndex": "8",
+    "MaxCandyCount": "10",
+    "MinCandyCount": "10",
+    "StartPatternIndex": "1"
+  },
+  {
+    "__pkey": "14",
+    "ChanceFactor": "10",
+    "EndPatternIndex": "18",
+    "MaxCandyCount": "10",
+    "MinCandyCount": "10",
+    "StartPatternIndex": "9"
+  },
+  {
+    "__pkey": "15",
+    "ChanceFactor": "9",
+    "EndPatternIndex": "33",
+    "MaxCandyCount": "10",
+    "MinCandyCount": "10",
+    "StartPatternIndex": "19"
+  },
+  {
+    "__pkey": "16",
+    "ChanceFactor": "10",
+    "EndPatternIndex": "50",
+    "MaxCandyCount": "10",
+    "MinCandyCount": "10",
+    "StartPatternIndex": "34"
+  },
+  {
+    "__pkey": "17",
+    "ChanceFactor": "9",
+    "EndPatternIndex": "68",
+    "MaxCandyCount": "10",
+    "MinCandyCount": "10",
+    "StartPatternIndex": "51"
+  },
+  {
+    "__pkey": "18",
+    "ChanceFactor": "9",
+    "EndPatternIndex": "89",
+    "MaxCandyCount": "10",
+    "MinCandyCount": "10",
+    "StartPatternIndex": "69"
+  },
+  {
+    "__pkey": "19",
+    "ChanceFactor": "0",
+    "EndPatternIndex": "18",
+    "MaxCandyCount": "0",
+    "MinCandyCount": "0",
+    "StartPatternIndex": "9"
+  },
+  {
+    "__pkey": "2",
+    "ChanceFactor": "10",
+    "EndPatternIndex": "109",
+    "MaxCandyCount": "10",
+    "MinCandyCount": "10",
+    "StartPatternIndex": "90"
+  },
+  {
+    "__pkey": "20",
+    "ChanceFactor": "10",
+    "EndPatternIndex": "129",
+    "MaxCandyCount": "1",
+    "MinCandyCount": "0",
+    "StartPatternIndex": "110"
+  },
+  {
+    "__pkey": "21",
+    "ChanceFactor": "10",
+    "EndPatternIndex": "151",
+    "MaxCandyCount": "2",
+    "MinCandyCount": "1",
+    "StartPatternIndex": "130"
+  },
+  {
+    "__pkey": "22",
+    "ChanceFactor": "10",
+    "EndPatternIndex": "173",
+    "MaxCandyCount": "1",
+    "MinCandyCount": "1",
+    "StartPatternIndex": "152"
+  },
+  {
+    "__pkey": "23",
+    "ChanceFactor": "7",
+    "EndPatternIndex": "195",
+    "MaxCandyCount": "1",
+    "MinCandyCount": "1",
+    "StartPatternIndex": "174"
+  },
+  {
+    "__pkey": "24",
+    "ChanceFactor": "7",
+    "EndPatternIndex": "222",
+    "MaxCandyCount": "2",
+    "MinCandyCount": "1",
+    "StartPatternIndex": "196"
+  },
+  {
+    "__pkey": "25",
+    "ChanceFactor": "7",
+    "EndPatternIndex": "247",
+    "MaxCandyCount": "1",
+    "MinCandyCount": "0",
+    "StartPatternIndex": "223"
+  },
+  {
+    "__pkey": "26",
+    "ChanceFactor": "8",
+    "EndPatternIndex": "275",
+    "MaxCandyCount": "2",
+    "MinCandyCount": "1",
+    "StartPatternIndex": "248"
+  },
+  {
+    "__pkey": "27",
+    "ChanceFactor": "8",
+    "EndPatternIndex": "302",
+    "MaxCandyCount": "1",
+    "MinCandyCount": "0",
+    "StartPatternIndex": "276"
+  },
+  {
+    "__pkey": "28",
+    "ChanceFactor": "5",
+    "EndPatternIndex": "328",
+    "MaxCandyCount": "1",
+    "MinCandyCount": "1",
+    "StartPatternIndex": "304"
+  },
+  {
+    "__pkey": "29",
+    "ChanceFactor": "0",
+    "EndPatternIndex": "33",
+    "MaxCandyCount": "0",
+    "MinCandyCount": "0",
+    "StartPatternIndex": "19"
+  },
+  {
+    "__pkey": "3",
+    "ChanceFactor": "5",
+    "EndPatternIndex": "359",
+    "MaxCandyCount": "1",
+    "MinCandyCount": "1",
+    "StartPatternIndex": "329"
+  },
+  {
+    "__pkey": "30",
+    "ChanceFactor": "0",
+    "EndPatternIndex": "869",
+    "MaxCandyCount": "0",
+    "MinCandyCount": "0",
+    "StartPatternIndex": "360"
+  },
+  {
+    "__pkey": "31",
+    "ChanceFactor": "0",
+    "EndPatternIndex": "50",
+    "MaxCandyCount": "0",
+    "MinCandyCount": "0",
+    "StartPatternIndex": "34"
+  },
+  {
+    "__pkey": "4",
+    "ChanceFactor": "0",
+    "EndPatternIndex": "68",
+    "MaxCandyCount": "0",
+    "MinCandyCount": "0",
+    "StartPatternIndex": "51"
+  },
+  {
+    "__pkey": "5",
+    "ChanceFactor": "0",
+    "EndPatternIndex": "89",
+    "MaxCandyCount": "0",
+    "MinCandyCount": "0",
+    "StartPatternIndex": "69"
+  },
+  {
+    "__pkey": "6",
+    "ChanceFactor": "0",
+    "EndPatternIndex": "109",
+    "MaxCandyCount": "0",
+    "MinCandyCount": "0",
+    "StartPatternIndex": "90"
+  },
+  {
+    "__pkey": "7",
+    "ChanceFactor": "0",
+    "EndPatternIndex": "129",
+    "MaxCandyCount": "0",
+    "MinCandyCount": "0",
+    "StartPatternIndex": "110"
+  },
+  {
+    "__pkey": "8",
+    "ChanceFactor": "0",
+    "EndPatternIndex": "151",
+    "MaxCandyCount": "0",
+    "MinCandyCount": "0",
+    "StartPatternIndex": "130"
+  }
+]

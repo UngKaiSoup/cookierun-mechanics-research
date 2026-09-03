@@ -1,0 +1,505 @@
+[
+  {
+    "MysteryBoxAniName": "bc_mysterybox2",
+    "MysteryBoxGrade": "C",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Normal",
+    "ResKeyString": "myBox_c"
+  },
+  {
+    "__pkey": "700111",
+    "MysteryBoxAniName": "bc_mysterybox1",
+    "MysteryBoxGrade": "B",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Normal",
+    "ResKeyString": "myBox_b"
+  },
+  {
+    "__pkey": "700112",
+    "MysteryBoxAniName": "bc_mysterybox0",
+    "MysteryBoxGrade": "A",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Good",
+    "ResKeyString": "myBox_a"
+  },
+  {
+    "__pkey": "700113",
+    "MysteryBoxAniName": "bc_mysterybox3",
+    "MysteryBoxGrade": "S",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Best",
+    "ResKeyString": "myBox_s"
+  },
+  {
+    "__pkey": "700114",
+    "MysteryBoxAniName": "bc_mysterybox2",
+    "MysteryBoxGrade": "C",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Normal",
+    "ResKeyString": "myBox_c"
+  },
+  {
+    "__pkey": "700121",
+    "MysteryBoxAniName": "bc_mysterybox1",
+    "MysteryBoxGrade": "B",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Normal",
+    "ResKeyString": "myBox_b"
+  },
+  {
+    "__pkey": "700122",
+    "MysteryBoxAniName": "bc_mysterybox0",
+    "MysteryBoxGrade": "A",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Good",
+    "ResKeyString": "myBox_a"
+  },
+  {
+    "__pkey": "700123",
+    "MysteryBoxAniName": "bc_mysterybox3",
+    "MysteryBoxGrade": "S",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Best",
+    "ResKeyString": "myBox_s"
+  },
+  {
+    "__pkey": "700124",
+    "MysteryBoxAniName": "bc_mysterybox2",
+    "MysteryBoxGrade": "C",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Normal",
+    "ResKeyString": "myBox_c"
+  },
+  {
+    "__pkey": "700131",
+    "MysteryBoxAniName": "bc_mysterybox1",
+    "MysteryBoxGrade": "B",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Normal",
+    "ResKeyString": "myBox_b"
+  },
+  {
+    "__pkey": "700132",
+    "MysteryBoxAniName": "bc_mysterybox0",
+    "MysteryBoxGrade": "A",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Good",
+    "ResKeyString": "myBox_a"
+  },
+  {
+    "__pkey": "700133",
+    "MysteryBoxAniName": "bc_mysterybox3",
+    "MysteryBoxGrade": "S",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Best",
+    "ResKeyString": "myBox_s"
+  },
+  {
+    "__pkey": "700134",
+    "MysteryBoxAniName": "bc_mysterybox2",
+    "MysteryBoxGrade": "C",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Normal",
+    "ResKeyString": "myBox_c"
+  },
+  {
+    "__pkey": "700211",
+    "MysteryBoxAniName": "bc_mysterybox1",
+    "MysteryBoxGrade": "B",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Normal",
+    "ResKeyString": "myBox_b"
+  },
+  {
+    "__pkey": "700212",
+    "MysteryBoxAniName": "bc_mysterybox0",
+    "MysteryBoxGrade": "A",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Good",
+    "ResKeyString": "myBox_a"
+  },
+  {
+    "__pkey": "700213",
+    "MysteryBoxAniName": "bc_mysterybox3",
+    "MysteryBoxGrade": "S",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Best",
+    "ResKeyString": "myBox_s"
+  },
+  {
+    "__pkey": "700214",
+    "MysteryBoxAniName": "bc_mysterybox2",
+    "MysteryBoxGrade": "C",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Normal",
+    "ResKeyString": "myBox_c"
+  },
+  {
+    "__pkey": "700221",
+    "MysteryBoxAniName": "bc_mysterybox1",
+    "MysteryBoxGrade": "B",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Normal",
+    "ResKeyString": "myBox_b"
+  },
+  {
+    "__pkey": "700222",
+    "MysteryBoxAniName": "bc_mysterybox0",
+    "MysteryBoxGrade": "A",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Good",
+    "ResKeyString": "myBox_a"
+  },
+  {
+    "__pkey": "700223",
+    "MysteryBoxAniName": "bc_mysterybox3",
+    "MysteryBoxGrade": "S",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Best",
+    "ResKeyString": "myBox_s"
+  },
+  {
+    "__pkey": "700224",
+    "MysteryBoxAniName": "bc_mysterybox2",
+    "MysteryBoxGrade": "C",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Normal",
+    "ResKeyString": "myBox_c"
+  },
+  {
+    "__pkey": "700231",
+    "MysteryBoxAniName": "bc_mysterybox1",
+    "MysteryBoxGrade": "B",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Normal",
+    "ResKeyString": "myBox_b"
+  },
+  {
+    "__pkey": "700232",
+    "MysteryBoxAniName": "bc_mysterybox0",
+    "MysteryBoxGrade": "A",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Good",
+    "ResKeyString": "myBox_a"
+  },
+  {
+    "__pkey": "700233",
+    "MysteryBoxAniName": "bc_mysterybox3",
+    "MysteryBoxGrade": "S",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Best",
+    "ResKeyString": "myBox_s"
+  },
+  {
+    "__pkey": "700234",
+    "MysteryBoxAniName": "bc_mysterybox2",
+    "MysteryBoxGrade": "C",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Normal",
+    "ResKeyString": "myBox_c"
+  },
+  {
+    "__pkey": "700311",
+    "MysteryBoxAniName": "bc_mysterybox1",
+    "MysteryBoxGrade": "B",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Normal",
+    "ResKeyString": "myBox_b"
+  },
+  {
+    "__pkey": "700312",
+    "MysteryBoxAniName": "bc_mysterybox0",
+    "MysteryBoxGrade": "A",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Good",
+    "ResKeyString": "myBox_a"
+  },
+  {
+    "__pkey": "700313",
+    "MysteryBoxAniName": "bc_mysterybox3",
+    "MysteryBoxGrade": "S",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Best",
+    "ResKeyString": "myBox_s"
+  },
+  {
+    "__pkey": "700314",
+    "MysteryBoxAniName": "bc_mysterybox2",
+    "MysteryBoxGrade": "C",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Normal",
+    "ResKeyString": "myBox_c"
+  },
+  {
+    "__pkey": "700321",
+    "MysteryBoxAniName": "bc_mysterybox1",
+    "MysteryBoxGrade": "B",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Normal",
+    "ResKeyString": "myBox_b"
+  },
+  {
+    "__pkey": "700322",
+    "MysteryBoxAniName": "bc_mysterybox0",
+    "MysteryBoxGrade": "A",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Good",
+    "ResKeyString": "myBox_a"
+  },
+  {
+    "__pkey": "700323",
+    "MysteryBoxAniName": "bc_mysterybox3",
+    "MysteryBoxGrade": "S",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Best",
+    "ResKeyString": "myBox_s"
+  },
+  {
+    "__pkey": "700324",
+    "MysteryBoxAniName": "bc_mysterybox2",
+    "MysteryBoxGrade": "C",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Normal",
+    "ResKeyString": "myBox_c"
+  },
+  {
+    "__pkey": "700331",
+    "MysteryBoxAniName": "bc_mysterybox1",
+    "MysteryBoxGrade": "B",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Normal",
+    "ResKeyString": "myBox_b"
+  },
+  {
+    "__pkey": "700332",
+    "MysteryBoxAniName": "bc_mysterybox0",
+    "MysteryBoxGrade": "A",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Good",
+    "ResKeyString": "myBox_a"
+  },
+  {
+    "__pkey": "700333",
+    "MysteryBoxAniName": "bc_mysterybox3",
+    "MysteryBoxGrade": "S",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Best",
+    "ResKeyString": "myBox_s"
+  },
+  {
+    "__pkey": "700334",
+    "MysteryBoxAniName": "bc_mysterybox2",
+    "MysteryBoxGrade": "C",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Normal",
+    "ResKeyString": "myBox_c"
+  },
+  {
+    "__pkey": "700411",
+    "MysteryBoxAniName": "bc_mysterybox1",
+    "MysteryBoxGrade": "B",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Normal",
+    "ResKeyString": "myBox_b"
+  },
+  {
+    "__pkey": "700412",
+    "MysteryBoxAniName": "bc_mysterybox0",
+    "MysteryBoxGrade": "A",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Good",
+    "ResKeyString": "myBox_a"
+  },
+  {
+    "__pkey": "700413",
+    "MysteryBoxAniName": "bc_mysterybox3",
+    "MysteryBoxGrade": "S",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Best",
+    "ResKeyString": "myBox_s"
+  },
+  {
+    "__pkey": "700414",
+    "MysteryBoxAniName": "bc_mysterybox2",
+    "MysteryBoxGrade": "C",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Normal",
+    "ResKeyString": "myBox_c"
+  },
+  {
+    "__pkey": "700421",
+    "MysteryBoxAniName": "bc_mysterybox1",
+    "MysteryBoxGrade": "B",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Normal",
+    "ResKeyString": "myBox_b"
+  },
+  {
+    "__pkey": "700422",
+    "MysteryBoxAniName": "bc_mysterybox0",
+    "MysteryBoxGrade": "A",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Good",
+    "ResKeyString": "myBox_a"
+  },
+  {
+    "__pkey": "700423",
+    "MysteryBoxAniName": "bc_mysterybox3",
+    "MysteryBoxGrade": "S",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Best",
+    "ResKeyString": "myBox_s"
+  },
+  {
+    "__pkey": "700424",
+    "MysteryBoxAniName": "bc_mysterybox2",
+    "MysteryBoxGrade": "C",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Normal",
+    "ResKeyString": "myBox_c"
+  },
+  {
+    "__pkey": "700431",
+    "MysteryBoxAniName": "bc_mysterybox1",
+    "MysteryBoxGrade": "B",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Normal",
+    "ResKeyString": "myBox_b"
+  },
+  {
+    "__pkey": "700432",
+    "MysteryBoxAniName": "bc_mysterybox0",
+    "MysteryBoxGrade": "A",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Good",
+    "ResKeyString": "myBox_a"
+  },
+  {
+    "__pkey": "700433",
+    "MysteryBoxAniName": "bc_mysterybox3",
+    "MysteryBoxGrade": "S",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Best",
+    "ResKeyString": "myBox_s"
+  },
+  {
+    "__pkey": "700434",
+    "MysteryBoxAniName": "bc_mysterybox2",
+    "MysteryBoxGrade": "C",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Normal",
+    "ResKeyString": "myBox_c"
+  },
+  {
+    "__pkey": "750111",
+    "MysteryBoxAniName": "bc_mysterybox1",
+    "MysteryBoxGrade": "B",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Normal",
+    "ResKeyString": "myBox_b"
+  },
+  {
+    "__pkey": "750112",
+    "MysteryBoxAniName": "bc_mysterybox0",
+    "MysteryBoxGrade": "A",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Good",
+    "ResKeyString": "myBox_a"
+  },
+  {
+    "__pkey": "750113",
+    "MysteryBoxAniName": "bc_mysterybox3",
+    "MysteryBoxGrade": "S",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Best",
+    "ResKeyString": "myBox_s"
+  },
+  {
+    "__pkey": "750114",
+    "MysteryBoxAniName": "bc_mysterybox2",
+    "MysteryBoxGrade": "C",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Normal",
+    "ResKeyString": "myBox_c"
+  },
+  {
+    "__pkey": "750121",
+    "MysteryBoxAniName": "bc_mysterybox1",
+    "MysteryBoxGrade": "B",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Normal",
+    "ResKeyString": "myBox_b"
+  },
+  {
+    "__pkey": "750122",
+    "MysteryBoxAniName": "bc_mysterybox0",
+    "MysteryBoxGrade": "A",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Good",
+    "ResKeyString": "myBox_a"
+  },
+  {
+    "__pkey": "750123",
+    "MysteryBoxAniName": "bc_mysterybox3",
+    "MysteryBoxGrade": "S",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Best",
+    "ResKeyString": "myBox_s"
+  },
+  {
+    "__pkey": "750124",
+    "MysteryBoxAniName": "bc_mysterybox2",
+    "MysteryBoxGrade": "C",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Normal",
+    "ResKeyString": "myBox_c"
+  },
+  {
+    "__pkey": "750131",
+    "MysteryBoxAniName": "bc_mysterybox1",
+    "MysteryBoxGrade": "B",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Normal",
+    "ResKeyString": "myBox_b"
+  },
+  {
+    "__pkey": "750132",
+    "MysteryBoxAniName": "bc_mysterybox0",
+    "MysteryBoxGrade": "A",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Good",
+    "ResKeyString": "myBox_a"
+  },
+  {
+    "__pkey": "750133",
+    "MysteryBoxAniName": "bc_mysterybox3",
+    "MysteryBoxGrade": "S",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Best",
+    "ResKeyString": "myBox_s"
+  },
+  {
+    "__pkey": "750134",
+    "MysteryBoxAniName": "bc_mysterybox2",
+    "MysteryBoxGrade": "C",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Normal",
+    "ResKeyString": "myBox_c"
+  },
+  {
+    "__pkey": "750211",
+    "MysteryBoxAniName": "bc_mysterybox1",
+    "MysteryBoxGrade": "B",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Normal",
+    "ResKeyString": "myBox_b"
+  },
+  {
+    "__pkey": "750212",
+    "MysteryBoxAniName": "bc_mysterybox0",
+    "MysteryBoxGrade": "A",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Good",
+    "ResKeyString": "myBox_a"
+  },
+  {
+    "__pkey": "750213",
+    "MysteryBoxAniName": "bc_mysterybox3",
+    "MysteryBoxGrade": "S",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Best",
+    "ResKeyString": "myBox_s"
+  },
+  {
+    "__pkey": "750214",
+    "MysteryBoxAniName": "bc_mysterybox2",
+    "MysteryBoxGrade": "C",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Normal",
+    "ResKeyString": "myBox_c"
+  },
+  {
+    "__pkey": "750221",
+    "MysteryBoxAniName": "bc_mysterybox1",
+    "MysteryBoxGrade": "B",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Normal",
+    "ResKeyString": "myBox_b"
+  },
+  {
+    "__pkey": "750222",
+    "MysteryBoxAniName": "bc_mysterybox0",
+    "MysteryBoxGrade": "A",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Good",
+    "ResKeyString": "myBox_a"
+  },
+  {
+    "__pkey": "750223",
+    "MysteryBoxAniName": "bc_mysterybox3",
+    "MysteryBoxGrade": "S",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Best",
+    "ResKeyString": "myBox_s"
+  },
+  {
+    "__pkey": "750224",
+    "MysteryBoxAniName": "bc_mysterybox2",
+    "MysteryBoxGrade": "C",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Normal",
+    "ResKeyString": "myBox_c"
+  },
+  {
+    "__pkey": "750231",
+    "MysteryBoxAniName": "bc_mysterybox1",
+    "MysteryBoxGrade": "B",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Normal",
+    "ResKeyString": "myBox_b"
+  },
+  {
+    "__pkey": "750232",
+    "MysteryBoxAniName": "bc_mysterybox0",
+    "MysteryBoxGrade": "A",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Good",
+    "ResKeyString": "myBox_a"
+  },
+  {
+    "__pkey": "750233",
+    "MysteryBoxAniName": "bc_mysterybox3",
+    "MysteryBoxGrade": "S",
+    "MysteryBoxOpenSoundName": "MysteryBoxOpen_Best",
+    "ResKeyString": "myBox_s"
+  }
+]

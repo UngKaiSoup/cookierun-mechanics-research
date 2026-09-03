@@ -1,0 +1,51 @@
+[
+  {
+    "active_point": "0",
+    "max_active_point": "2720"
+  },
+  {
+    "__pkey": "0",
+    "active_point": "30",
+    "max_active_point": "-1"
+  },
+  {
+    "__pkey": "1",
+    "active_point": "5",
+    "max_active_point": "50"
+  },
+  {
+    "__pkey": "10",
+    "active_point": "3",
+    "max_active_point": "120"
+  },
+  {
+    "__pkey": "2",
+    "active_point": "30",
+    "max_active_point": "1500"
+  },
+  {
+    "__pkey": "3",
+    "active_point": "2",
+    "max_active_point": "1000"
+  },
+  {
+    "__pkey": "4",
+    "active_point": "5",
+    "max_active_point": "50"
+  },
+  {
+    "__pkey": "5",
+    "active_point": "0",
+    "max_active_point": "-1"
+  },
+  {
+    "__pkey": "6",
+    "active_point": "5",
+    "max_active_point": "-1"
+  },
+  {
+    "__pkey": "7",
+    "active_point": "150",
+    "max_active_point": "-1"
+  }
+]

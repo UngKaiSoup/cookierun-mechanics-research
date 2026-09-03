@@ -1,0 +1,7030 @@
+[
+  {
+    "comment": "유물뽑기_에피소드1",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "41001",
+    "set_name": "Artifact_Ep1",
+    "stuff_seq": "40001"
+  },
+  {
+    "__pkey": "4000100",
+    "comment": "유물뽑기_에피소드2",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "41002",
+    "set_name": "Artifact_Ep2",
+    "stuff_seq": "40002"
+  },
+  {
+    "__pkey": "4000200",
+    "comment": "유물뽑기_에피소드3",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "41003",
+    "set_name": "Artifact_Ep3",
+    "stuff_seq": "40003"
+  },
+  {
+    "__pkey": "4000300",
+    "comment": "유물뽑기_에피소드4",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "41004",
+    "set_name": "Artifact_Ep4",
+    "stuff_seq": "40004"
+  },
+  {
+    "__pkey": "4000400",
+    "comment": "유물뽑기_스페셜에피소드1",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "41501",
+    "set_name": "Artifact_SEp1",
+    "stuff_seq": "40501"
+  },
+  {
+    "__pkey": "4050100",
+    "comment": "유물뽑기_스페셜에피소드2",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "41502",
+    "set_name": "Artifact_SEp2",
+    "stuff_seq": "40502"
+  },
+  {
+    "__pkey": "4050200",
+    "comment": "유물뽑기_대체보상_에피소드1",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "",
+    "set_name": "AR_Ep1",
+    "stuff_seq": "41001"
+  },
+  {
+    "__pkey": "4100100",
+    "comment": "유물뽑기_대체보상_에피소드2",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "",
+    "set_name": "AR_Ep2",
+    "stuff_seq": "41002"
+  },
+  {
+    "__pkey": "4100200",
+    "comment": "유물뽑기_대체보상_에피소드3",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "",
+    "set_name": "AR_Ep3",
+    "stuff_seq": "41003"
+  },
+  {
+    "__pkey": "4100300",
+    "comment": "유물뽑기_대체보상_에피소드4",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "",
+    "set_name": "AR_Ep4",
+    "stuff_seq": "41004"
+  },
+  {
+    "__pkey": "4100400",
+    "comment": "유물뽑기_대체보상_스페셜에피소드1",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "",
+    "set_name": "AR_SEp1",
+    "stuff_seq": "41501"
+  },
+  {
+    "__pkey": "4150100",
+    "comment": "유물뽑기_대체보상_스페셜에피소드2",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "",
+    "set_name": "AR_SEp2",
+    "stuff_seq": "41502"
+  },
+  {
+    "__pkey": "4150200",
+    "comment": "친구쿠키로달리기선물뽑기",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "FriendGasha",
+    "stuff_seq": "50001"
+  },
+  {
+    "__pkey": "5000100",
+    "comment": "사용효과_보물_코인_뽑기",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Coin_Gashapon",
+    "stuff_seq": "1101"
+  },
+  {
+    "__pkey": "50400",
+    "comment": "추석송편모아 대체보상",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "EventReplace",
+    "stuff_seq": "60002"
+  },
+  {
+    "__pkey": "6000200",
+    "comment": "생고구마이벤트",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "60002",
+    "set_name": "EventGacha_1127",
+    "stuff_seq": "60003"
+  },
+  {
+    "__pkey": "6000300",
+    "comment": "미스테리박스뽑기",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MysteryBoxGasha",
+    "stuff_seq": "600101"
+  },
+  {
+    "__pkey": "60010100",
+    "comment": "미스테리박스뽑기",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MysteryBoxGasha",
+    "stuff_seq": "600102"
+  },
+  {
+    "__pkey": "60010200",
+    "comment": "미스테리박스뽑기",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MysteryBoxGasha",
+    "stuff_seq": "600103"
+  },
+  {
+    "__pkey": "60010300",
+    "comment": "미스테리박스뽑기",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MysteryBoxGasha",
+    "stuff_seq": "600201"
+  },
+  {
+    "__pkey": "60020100",
+    "comment": "미스테리박스뽑기",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MysteryBoxGasha",
+    "stuff_seq": "600202"
+  },
+  {
+    "__pkey": "60020200",
+    "comment": "미스테리박스뽑기",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MysteryBoxGasha",
+    "stuff_seq": "600203"
+  },
+  {
+    "__pkey": "60020300",
+    "comment": "미스테리박스뽑기",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MysteryBoxGasha",
+    "stuff_seq": "600301"
+  },
+  {
+    "__pkey": "60030100",
+    "comment": "미스테리박스뽑기",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MysteryBoxGasha",
+    "stuff_seq": "600302"
+  },
+  {
+    "__pkey": "60030200",
+    "comment": "미스테리박스뽑기",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MysteryBoxGasha",
+    "stuff_seq": "600303"
+  },
+  {
+    "__pkey": "60030300",
+    "comment": "미스테리박스뽑기",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MysteryBoxGasha",
+    "stuff_seq": "600401"
+  },
+  {
+    "__pkey": "60040100",
+    "comment": "미스테리박스뽑기",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MysteryBoxGasha",
+    "stuff_seq": "600402"
+  },
+  {
+    "__pkey": "60040200",
+    "comment": "미스테리박스뽑기",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MysteryBoxGasha",
+    "stuff_seq": "600403"
+  },
+  {
+    "__pkey": "60040300",
+    "comment": "미스테리박스뽑기",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MysteryBoxGasha",
+    "stuff_seq": "650101"
+  },
+  {
+    "__pkey": "65010100",
+    "comment": "미스테리박스뽑기",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MysteryBoxGasha",
+    "stuff_seq": "650102"
+  },
+  {
+    "__pkey": "65010200",
+    "comment": "미스테리박스뽑기",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MysteryBoxGasha",
+    "stuff_seq": "650103"
+  },
+  {
+    "__pkey": "65010300",
+    "comment": "미스테리박스뽑기",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MysteryBoxGasha",
+    "stuff_seq": "650201"
+  },
+  {
+    "__pkey": "65020100",
+    "comment": "미스테리박스뽑기",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MysteryBoxGasha",
+    "stuff_seq": "650202"
+  },
+  {
+    "__pkey": "65020200",
+    "comment": "미스테리박스뽑기",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MysteryBoxGasha",
+    "stuff_seq": "650203"
+  },
+  {
+    "__pkey": "65020300",
+    "comment": "다람쥐상점 상자열기 뽑기(유료)",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Sqrl_1_Ticket",
+    "stuff_seq": "70001"
+  },
+  {
+    "__pkey": "7000100",
+    "comment": "다람쥐상점 상자열기 뽑기(유료)",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Sqrl_1_Tr1",
+    "stuff_seq": "70001"
+  },
+  {
+    "__pkey": "7000101",
+    "comment": "다람쥐상점 상자열기 뽑기(유료)",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Sqrl_1_Tr2",
+    "stuff_seq": "70001"
+  },
+  {
+    "__pkey": "7000102",
+    "comment": "다람쥐상점 상자열기 뽑기(유료)",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Sqrl_1_Tr3",
+    "stuff_seq": "70001"
+  },
+  {
+    "__pkey": "7000103",
+    "comment": "다람쥐상점 상자열기 뽑기(유료)",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Sqrl_1_Tr4",
+    "stuff_seq": "70001"
+  },
+  {
+    "__pkey": "7000104",
+    "comment": "다람쥐상점 상자열기 뽑기(유료)",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Sqrl_1_Tr5",
+    "stuff_seq": "70001"
+  },
+  {
+    "__pkey": "7000105",
+    "comment": "다람쥐상점 상자열기 뽑기(유료)",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Sqrl_1_Powder",
+    "stuff_seq": "70001"
+  },
+  {
+    "__pkey": "7000106",
+    "comment": "다람쥐상점 상자열기 뽑기(유료)",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Sqrl_1_Mat_S",
+    "stuff_seq": "70001"
+  },
+  {
+    "__pkey": "7000107",
+    "comment": "다람쥐상점 상자열기 뽑기(유료)",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Sqrl_1_Mat_SS",
+    "stuff_seq": "70001"
+  },
+  {
+    "__pkey": "7000108",
+    "comment": "다람쥐상점 상자열기 뽑기(무료)",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Sqrl_2_Ticket",
+    "stuff_seq": "70002"
+  },
+  {
+    "__pkey": "7000200",
+    "comment": "다람쥐상점 상자열기 뽑기(무료)",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Sqrl_2_Tr1",
+    "stuff_seq": "70002"
+  },
+  {
+    "__pkey": "7000201",
+    "comment": "다람쥐상점 상자열기 뽑기(무료)",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Sqrl_2_Tr2",
+    "stuff_seq": "70002"
+  },
+  {
+    "__pkey": "7000202",
+    "comment": "다람쥐상점 상자열기 뽑기(무료)",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Sqrl_2_Tr3",
+    "stuff_seq": "70002"
+  },
+  {
+    "__pkey": "7000203",
+    "comment": "다람쥐상점 상자열기 뽑기(무료)",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Sqrl_2_Tr4",
+    "stuff_seq": "70002"
+  },
+  {
+    "__pkey": "7000204",
+    "comment": "다람쥐상점 상자열기 뽑기(무료)",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Sqrl_2_Tr5",
+    "stuff_seq": "70002"
+  },
+  {
+    "__pkey": "7000205",
+    "comment": "다람쥐상점 상자열기 뽑기(무료)",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Sqrl_2_Powder",
+    "stuff_seq": "70002"
+  },
+  {
+    "__pkey": "7000206",
+    "comment": "다람쥐상점 상자열기 뽑기(무료)",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Sqrl_2_Mat_S",
+    "stuff_seq": "70002"
+  },
+  {
+    "__pkey": "7000207",
+    "comment": "다람쥐상점 상자열기 뽑기(무료)",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Sqrl_2_Mat_SS",
+    "stuff_seq": "70002"
+  },
+  {
+    "__pkey": "7000208",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "700111"
+  },
+  {
+    "__pkey": "70011100",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "700111"
+  },
+  {
+    "__pkey": "70011101",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "700111"
+  },
+  {
+    "__pkey": "70011102",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "700111"
+  },
+  {
+    "__pkey": "70011103",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "700111"
+  },
+  {
+    "__pkey": "70011104",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "700111"
+  },
+  {
+    "__pkey": "70011105",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "700111"
+  },
+  {
+    "__pkey": "70011106",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "700111"
+  },
+  {
+    "__pkey": "70011107",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "700111"
+  },
+  {
+    "__pkey": "70011108",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "700112"
+  },
+  {
+    "__pkey": "70011200",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "700112"
+  },
+  {
+    "__pkey": "70011201",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "700112"
+  },
+  {
+    "__pkey": "70011202",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "700112"
+  },
+  {
+    "__pkey": "70011203",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "700112"
+  },
+  {
+    "__pkey": "70011204",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "700112"
+  },
+  {
+    "__pkey": "70011205",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "700112"
+  },
+  {
+    "__pkey": "70011206",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "700112"
+  },
+  {
+    "__pkey": "70011207",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "700112"
+  },
+  {
+    "__pkey": "70011208",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "700113"
+  },
+  {
+    "__pkey": "70011300",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "700113"
+  },
+  {
+    "__pkey": "70011301",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "700113"
+  },
+  {
+    "__pkey": "70011302",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "700113"
+  },
+  {
+    "__pkey": "70011303",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "700113"
+  },
+  {
+    "__pkey": "70011304",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "700113"
+  },
+  {
+    "__pkey": "70011305",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "700113"
+  },
+  {
+    "__pkey": "70011306",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "700113"
+  },
+  {
+    "__pkey": "70011307",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "700113"
+  },
+  {
+    "__pkey": "70011308",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "700114"
+  },
+  {
+    "__pkey": "70011400",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "700114"
+  },
+  {
+    "__pkey": "70011401",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "700114"
+  },
+  {
+    "__pkey": "70011402",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "700114"
+  },
+  {
+    "__pkey": "70011403",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "700114"
+  },
+  {
+    "__pkey": "70011404",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "700114"
+  },
+  {
+    "__pkey": "70011405",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "700114"
+  },
+  {
+    "__pkey": "70011406",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "700114"
+  },
+  {
+    "__pkey": "70011407",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "700114"
+  },
+  {
+    "__pkey": "70011408",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "700121"
+  },
+  {
+    "__pkey": "70012100",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "700121"
+  },
+  {
+    "__pkey": "70012101",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "700121"
+  },
+  {
+    "__pkey": "70012102",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "700121"
+  },
+  {
+    "__pkey": "70012103",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "700121"
+  },
+  {
+    "__pkey": "70012104",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "700121"
+  },
+  {
+    "__pkey": "70012105",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "700121"
+  },
+  {
+    "__pkey": "70012106",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "700121"
+  },
+  {
+    "__pkey": "70012107",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "700121"
+  },
+  {
+    "__pkey": "70012108",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "700122"
+  },
+  {
+    "__pkey": "70012200",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "700122"
+  },
+  {
+    "__pkey": "70012201",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "700122"
+  },
+  {
+    "__pkey": "70012202",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "700122"
+  },
+  {
+    "__pkey": "70012203",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "700122"
+  },
+  {
+    "__pkey": "70012204",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "700122"
+  },
+  {
+    "__pkey": "70012205",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "700122"
+  },
+  {
+    "__pkey": "70012206",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "700122"
+  },
+  {
+    "__pkey": "70012207",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "700122"
+  },
+  {
+    "__pkey": "70012208",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "700123"
+  },
+  {
+    "__pkey": "70012300",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "700123"
+  },
+  {
+    "__pkey": "70012301",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "700123"
+  },
+  {
+    "__pkey": "70012302",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "700123"
+  },
+  {
+    "__pkey": "70012303",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "700123"
+  },
+  {
+    "__pkey": "70012304",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "700123"
+  },
+  {
+    "__pkey": "70012305",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "700123"
+  },
+  {
+    "__pkey": "70012306",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "700123"
+  },
+  {
+    "__pkey": "70012307",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "700123"
+  },
+  {
+    "__pkey": "70012308",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "700124"
+  },
+  {
+    "__pkey": "70012400",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "700124"
+  },
+  {
+    "__pkey": "70012401",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "700124"
+  },
+  {
+    "__pkey": "70012402",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "700124"
+  },
+  {
+    "__pkey": "70012403",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "700124"
+  },
+  {
+    "__pkey": "70012404",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "700124"
+  },
+  {
+    "__pkey": "70012405",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "700124"
+  },
+  {
+    "__pkey": "70012406",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "700124"
+  },
+  {
+    "__pkey": "70012407",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "700124"
+  },
+  {
+    "__pkey": "70012408",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "700131"
+  },
+  {
+    "__pkey": "70013100",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "700131"
+  },
+  {
+    "__pkey": "70013101",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "700131"
+  },
+  {
+    "__pkey": "70013102",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "700131"
+  },
+  {
+    "__pkey": "70013103",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "700131"
+  },
+  {
+    "__pkey": "70013104",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "700131"
+  },
+  {
+    "__pkey": "70013105",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "700131"
+  },
+  {
+    "__pkey": "70013106",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "700131"
+  },
+  {
+    "__pkey": "70013107",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "700131"
+  },
+  {
+    "__pkey": "70013108",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "700132"
+  },
+  {
+    "__pkey": "70013200",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "700132"
+  },
+  {
+    "__pkey": "70013201",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "700132"
+  },
+  {
+    "__pkey": "70013202",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "700132"
+  },
+  {
+    "__pkey": "70013203",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "700132"
+  },
+  {
+    "__pkey": "70013204",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "700132"
+  },
+  {
+    "__pkey": "70013205",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "700132"
+  },
+  {
+    "__pkey": "70013206",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "700132"
+  },
+  {
+    "__pkey": "70013207",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "700132"
+  },
+  {
+    "__pkey": "70013208",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "700133"
+  },
+  {
+    "__pkey": "70013300",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "700133"
+  },
+  {
+    "__pkey": "70013301",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "700133"
+  },
+  {
+    "__pkey": "70013302",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "700133"
+  },
+  {
+    "__pkey": "70013303",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "700133"
+  },
+  {
+    "__pkey": "70013304",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "700133"
+  },
+  {
+    "__pkey": "70013305",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "700133"
+  },
+  {
+    "__pkey": "70013306",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "700133"
+  },
+  {
+    "__pkey": "70013307",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "700133"
+  },
+  {
+    "__pkey": "70013308",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "700134"
+  },
+  {
+    "__pkey": "70013400",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "700134"
+  },
+  {
+    "__pkey": "70013401",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "700134"
+  },
+  {
+    "__pkey": "70013402",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "700134"
+  },
+  {
+    "__pkey": "70013403",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "700134"
+  },
+  {
+    "__pkey": "70013404",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "700134"
+  },
+  {
+    "__pkey": "70013405",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "700134"
+  },
+  {
+    "__pkey": "70013406",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "700134"
+  },
+  {
+    "__pkey": "70013407",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "700134"
+  },
+  {
+    "__pkey": "70013408",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "700211"
+  },
+  {
+    "__pkey": "70021100",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "700211"
+  },
+  {
+    "__pkey": "70021101",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "700211"
+  },
+  {
+    "__pkey": "70021102",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "700211"
+  },
+  {
+    "__pkey": "70021103",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "700211"
+  },
+  {
+    "__pkey": "70021104",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "700211"
+  },
+  {
+    "__pkey": "70021105",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "700211"
+  },
+  {
+    "__pkey": "70021106",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "700211"
+  },
+  {
+    "__pkey": "70021107",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "700211"
+  },
+  {
+    "__pkey": "70021108",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "700212"
+  },
+  {
+    "__pkey": "70021200",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "700212"
+  },
+  {
+    "__pkey": "70021201",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "700212"
+  },
+  {
+    "__pkey": "70021202",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "700212"
+  },
+  {
+    "__pkey": "70021203",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "700212"
+  },
+  {
+    "__pkey": "70021204",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "700212"
+  },
+  {
+    "__pkey": "70021205",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "700212"
+  },
+  {
+    "__pkey": "70021206",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "700212"
+  },
+  {
+    "__pkey": "70021207",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "700212"
+  },
+  {
+    "__pkey": "70021208",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "700213"
+  },
+  {
+    "__pkey": "70021300",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "700213"
+  },
+  {
+    "__pkey": "70021301",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "700213"
+  },
+  {
+    "__pkey": "70021302",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "700213"
+  },
+  {
+    "__pkey": "70021303",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "700213"
+  },
+  {
+    "__pkey": "70021304",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "700213"
+  },
+  {
+    "__pkey": "70021305",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "700213"
+  },
+  {
+    "__pkey": "70021306",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "700213"
+  },
+  {
+    "__pkey": "70021307",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "700213"
+  },
+  {
+    "__pkey": "70021308",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "700214"
+  },
+  {
+    "__pkey": "70021400",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "700214"
+  },
+  {
+    "__pkey": "70021401",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "700214"
+  },
+  {
+    "__pkey": "70021402",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "700214"
+  },
+  {
+    "__pkey": "70021403",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "700214"
+  },
+  {
+    "__pkey": "70021404",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "700214"
+  },
+  {
+    "__pkey": "70021405",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "700214"
+  },
+  {
+    "__pkey": "70021406",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "700214"
+  },
+  {
+    "__pkey": "70021407",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "700214"
+  },
+  {
+    "__pkey": "70021408",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "700221"
+  },
+  {
+    "__pkey": "70022100",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "700221"
+  },
+  {
+    "__pkey": "70022101",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "700221"
+  },
+  {
+    "__pkey": "70022102",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "700221"
+  },
+  {
+    "__pkey": "70022103",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "700221"
+  },
+  {
+    "__pkey": "70022104",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "700221"
+  },
+  {
+    "__pkey": "70022105",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "700221"
+  },
+  {
+    "__pkey": "70022106",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "700221"
+  },
+  {
+    "__pkey": "70022107",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "700221"
+  },
+  {
+    "__pkey": "70022108",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "700222"
+  },
+  {
+    "__pkey": "70022200",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "700222"
+  },
+  {
+    "__pkey": "70022201",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "700222"
+  },
+  {
+    "__pkey": "70022202",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "700222"
+  },
+  {
+    "__pkey": "70022203",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "700222"
+  },
+  {
+    "__pkey": "70022204",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "700222"
+  },
+  {
+    "__pkey": "70022205",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "700222"
+  },
+  {
+    "__pkey": "70022206",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "700222"
+  },
+  {
+    "__pkey": "70022207",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "700222"
+  },
+  {
+    "__pkey": "70022208",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "700223"
+  },
+  {
+    "__pkey": "70022300",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "700223"
+  },
+  {
+    "__pkey": "70022301",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "700223"
+  },
+  {
+    "__pkey": "70022302",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "700223"
+  },
+  {
+    "__pkey": "70022303",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "700223"
+  },
+  {
+    "__pkey": "70022304",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "700223"
+  },
+  {
+    "__pkey": "70022305",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "700223"
+  },
+  {
+    "__pkey": "70022306",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "700223"
+  },
+  {
+    "__pkey": "70022307",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "700223"
+  },
+  {
+    "__pkey": "70022308",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "700224"
+  },
+  {
+    "__pkey": "70022400",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "700224"
+  },
+  {
+    "__pkey": "70022401",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "700224"
+  },
+  {
+    "__pkey": "70022402",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "700224"
+  },
+  {
+    "__pkey": "70022403",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "700224"
+  },
+  {
+    "__pkey": "70022404",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "700224"
+  },
+  {
+    "__pkey": "70022405",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "700224"
+  },
+  {
+    "__pkey": "70022406",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "700224"
+  },
+  {
+    "__pkey": "70022407",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "700224"
+  },
+  {
+    "__pkey": "70022408",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "700231"
+  },
+  {
+    "__pkey": "70023100",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "700231"
+  },
+  {
+    "__pkey": "70023101",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "700231"
+  },
+  {
+    "__pkey": "70023102",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "700231"
+  },
+  {
+    "__pkey": "70023103",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "700231"
+  },
+  {
+    "__pkey": "70023104",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "700231"
+  },
+  {
+    "__pkey": "70023105",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "700231"
+  },
+  {
+    "__pkey": "70023106",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "700231"
+  },
+  {
+    "__pkey": "70023107",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "700231"
+  },
+  {
+    "__pkey": "70023108",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "700232"
+  },
+  {
+    "__pkey": "70023200",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "700232"
+  },
+  {
+    "__pkey": "70023201",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "700232"
+  },
+  {
+    "__pkey": "70023202",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "700232"
+  },
+  {
+    "__pkey": "70023203",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "700232"
+  },
+  {
+    "__pkey": "70023204",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "700232"
+  },
+  {
+    "__pkey": "70023205",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "700232"
+  },
+  {
+    "__pkey": "70023206",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "700232"
+  },
+  {
+    "__pkey": "70023207",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "700232"
+  },
+  {
+    "__pkey": "70023208",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "700233"
+  },
+  {
+    "__pkey": "70023300",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "700233"
+  },
+  {
+    "__pkey": "70023301",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "700233"
+  },
+  {
+    "__pkey": "70023302",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "700233"
+  },
+  {
+    "__pkey": "70023303",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "700233"
+  },
+  {
+    "__pkey": "70023304",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "700233"
+  },
+  {
+    "__pkey": "70023305",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "700233"
+  },
+  {
+    "__pkey": "70023306",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "700233"
+  },
+  {
+    "__pkey": "70023307",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "700233"
+  },
+  {
+    "__pkey": "70023308",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "700234"
+  },
+  {
+    "__pkey": "70023400",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "700234"
+  },
+  {
+    "__pkey": "70023401",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "700234"
+  },
+  {
+    "__pkey": "70023402",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "700234"
+  },
+  {
+    "__pkey": "70023403",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "700234"
+  },
+  {
+    "__pkey": "70023404",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "700234"
+  },
+  {
+    "__pkey": "70023405",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "700234"
+  },
+  {
+    "__pkey": "70023406",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "700234"
+  },
+  {
+    "__pkey": "70023407",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "700234"
+  },
+  {
+    "__pkey": "70023408",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "700311"
+  },
+  {
+    "__pkey": "70031100",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "700311"
+  },
+  {
+    "__pkey": "70031101",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "700311"
+  },
+  {
+    "__pkey": "70031102",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "700311"
+  },
+  {
+    "__pkey": "70031103",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "700311"
+  },
+  {
+    "__pkey": "70031104",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "700311"
+  },
+  {
+    "__pkey": "70031105",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "700311"
+  },
+  {
+    "__pkey": "70031106",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "700311"
+  },
+  {
+    "__pkey": "70031107",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "700311"
+  },
+  {
+    "__pkey": "70031108",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "700312"
+  },
+  {
+    "__pkey": "70031200",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "700312"
+  },
+  {
+    "__pkey": "70031201",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "700312"
+  },
+  {
+    "__pkey": "70031202",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "700312"
+  },
+  {
+    "__pkey": "70031203",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "700312"
+  },
+  {
+    "__pkey": "70031204",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "700312"
+  },
+  {
+    "__pkey": "70031205",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "700312"
+  },
+  {
+    "__pkey": "70031206",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "700312"
+  },
+  {
+    "__pkey": "70031207",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "700312"
+  },
+  {
+    "__pkey": "70031208",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "700313"
+  },
+  {
+    "__pkey": "70031300",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "700313"
+  },
+  {
+    "__pkey": "70031301",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "700313"
+  },
+  {
+    "__pkey": "70031302",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "700313"
+  },
+  {
+    "__pkey": "70031303",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "700313"
+  },
+  {
+    "__pkey": "70031304",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "700313"
+  },
+  {
+    "__pkey": "70031305",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "700313"
+  },
+  {
+    "__pkey": "70031306",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "700313"
+  },
+  {
+    "__pkey": "70031307",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "700313"
+  },
+  {
+    "__pkey": "70031308",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "700314"
+  },
+  {
+    "__pkey": "70031400",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "700314"
+  },
+  {
+    "__pkey": "70031401",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "700314"
+  },
+  {
+    "__pkey": "70031402",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "700314"
+  },
+  {
+    "__pkey": "70031403",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "700314"
+  },
+  {
+    "__pkey": "70031404",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "700314"
+  },
+  {
+    "__pkey": "70031405",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "700314"
+  },
+  {
+    "__pkey": "70031406",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "700314"
+  },
+  {
+    "__pkey": "70031407",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "700314"
+  },
+  {
+    "__pkey": "70031408",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "700321"
+  },
+  {
+    "__pkey": "70032100",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "700321"
+  },
+  {
+    "__pkey": "70032101",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "700321"
+  },
+  {
+    "__pkey": "70032102",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "700321"
+  },
+  {
+    "__pkey": "70032103",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "700321"
+  },
+  {
+    "__pkey": "70032104",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "700321"
+  },
+  {
+    "__pkey": "70032105",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "700321"
+  },
+  {
+    "__pkey": "70032106",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "700321"
+  },
+  {
+    "__pkey": "70032107",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "700321"
+  },
+  {
+    "__pkey": "70032108",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "700322"
+  },
+  {
+    "__pkey": "70032200",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "700322"
+  },
+  {
+    "__pkey": "70032201",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "700322"
+  },
+  {
+    "__pkey": "70032202",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "700322"
+  },
+  {
+    "__pkey": "70032203",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "700322"
+  },
+  {
+    "__pkey": "70032204",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "700322"
+  },
+  {
+    "__pkey": "70032205",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "700322"
+  },
+  {
+    "__pkey": "70032206",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "700322"
+  },
+  {
+    "__pkey": "70032207",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "700322"
+  },
+  {
+    "__pkey": "70032208",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "700323"
+  },
+  {
+    "__pkey": "70032300",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "700323"
+  },
+  {
+    "__pkey": "70032301",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "700323"
+  },
+  {
+    "__pkey": "70032302",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "700323"
+  },
+  {
+    "__pkey": "70032303",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "700323"
+  },
+  {
+    "__pkey": "70032304",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "700323"
+  },
+  {
+    "__pkey": "70032305",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "700323"
+  },
+  {
+    "__pkey": "70032306",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "700323"
+  },
+  {
+    "__pkey": "70032307",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "700323"
+  },
+  {
+    "__pkey": "70032308",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "700324"
+  },
+  {
+    "__pkey": "70032400",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "700324"
+  },
+  {
+    "__pkey": "70032401",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "700324"
+  },
+  {
+    "__pkey": "70032402",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "700324"
+  },
+  {
+    "__pkey": "70032403",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "700324"
+  },
+  {
+    "__pkey": "70032404",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "700324"
+  },
+  {
+    "__pkey": "70032405",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "700324"
+  },
+  {
+    "__pkey": "70032406",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "700324"
+  },
+  {
+    "__pkey": "70032407",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "700324"
+  },
+  {
+    "__pkey": "70032408",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "700331"
+  },
+  {
+    "__pkey": "70033100",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "700331"
+  },
+  {
+    "__pkey": "70033101",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "700331"
+  },
+  {
+    "__pkey": "70033102",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "700331"
+  },
+  {
+    "__pkey": "70033103",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "700331"
+  },
+  {
+    "__pkey": "70033104",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "700331"
+  },
+  {
+    "__pkey": "70033105",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "700331"
+  },
+  {
+    "__pkey": "70033106",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "700331"
+  },
+  {
+    "__pkey": "70033107",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "700331"
+  },
+  {
+    "__pkey": "70033108",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "700332"
+  },
+  {
+    "__pkey": "70033200",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "700332"
+  },
+  {
+    "__pkey": "70033201",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "700332"
+  },
+  {
+    "__pkey": "70033202",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "700332"
+  },
+  {
+    "__pkey": "70033203",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "700332"
+  },
+  {
+    "__pkey": "70033204",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "700332"
+  },
+  {
+    "__pkey": "70033205",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "700332"
+  },
+  {
+    "__pkey": "70033206",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "700332"
+  },
+  {
+    "__pkey": "70033207",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "700332"
+  },
+  {
+    "__pkey": "70033208",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "700333"
+  },
+  {
+    "__pkey": "70033300",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "700333"
+  },
+  {
+    "__pkey": "70033301",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "700333"
+  },
+  {
+    "__pkey": "70033302",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "700333"
+  },
+  {
+    "__pkey": "70033303",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "700333"
+  },
+  {
+    "__pkey": "70033304",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "700333"
+  },
+  {
+    "__pkey": "70033305",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "700333"
+  },
+  {
+    "__pkey": "70033306",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "700333"
+  },
+  {
+    "__pkey": "70033307",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "700333"
+  },
+  {
+    "__pkey": "70033308",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "700334"
+  },
+  {
+    "__pkey": "70033400",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "700334"
+  },
+  {
+    "__pkey": "70033401",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "700334"
+  },
+  {
+    "__pkey": "70033402",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "700334"
+  },
+  {
+    "__pkey": "70033403",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "700334"
+  },
+  {
+    "__pkey": "70033404",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "700334"
+  },
+  {
+    "__pkey": "70033405",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "700334"
+  },
+  {
+    "__pkey": "70033406",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "700334"
+  },
+  {
+    "__pkey": "70033407",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "700334"
+  },
+  {
+    "__pkey": "70033408",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "700411"
+  },
+  {
+    "__pkey": "70041100",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "700411"
+  },
+  {
+    "__pkey": "70041101",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "700411"
+  },
+  {
+    "__pkey": "70041102",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "700411"
+  },
+  {
+    "__pkey": "70041103",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "700411"
+  },
+  {
+    "__pkey": "70041104",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "700411"
+  },
+  {
+    "__pkey": "70041105",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "700411"
+  },
+  {
+    "__pkey": "70041106",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "700411"
+  },
+  {
+    "__pkey": "70041107",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "700411"
+  },
+  {
+    "__pkey": "70041108",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "700412"
+  },
+  {
+    "__pkey": "70041200",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "700412"
+  },
+  {
+    "__pkey": "70041201",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "700412"
+  },
+  {
+    "__pkey": "70041202",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "700412"
+  },
+  {
+    "__pkey": "70041203",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "700412"
+  },
+  {
+    "__pkey": "70041204",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "700412"
+  },
+  {
+    "__pkey": "70041205",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "700412"
+  },
+  {
+    "__pkey": "70041206",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "700412"
+  },
+  {
+    "__pkey": "70041207",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "700412"
+  },
+  {
+    "__pkey": "70041208",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "700413"
+  },
+  {
+    "__pkey": "70041300",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "700413"
+  },
+  {
+    "__pkey": "70041301",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "700413"
+  },
+  {
+    "__pkey": "70041302",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "700413"
+  },
+  {
+    "__pkey": "70041303",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "700413"
+  },
+  {
+    "__pkey": "70041304",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "700413"
+  },
+  {
+    "__pkey": "70041305",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "700413"
+  },
+  {
+    "__pkey": "70041306",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "700413"
+  },
+  {
+    "__pkey": "70041307",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "700413"
+  },
+  {
+    "__pkey": "70041308",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "700414"
+  },
+  {
+    "__pkey": "70041400",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "700414"
+  },
+  {
+    "__pkey": "70041401",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "700414"
+  },
+  {
+    "__pkey": "70041402",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "700414"
+  },
+  {
+    "__pkey": "70041403",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "700414"
+  },
+  {
+    "__pkey": "70041404",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "700414"
+  },
+  {
+    "__pkey": "70041405",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "700414"
+  },
+  {
+    "__pkey": "70041406",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "700414"
+  },
+  {
+    "__pkey": "70041407",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "700414"
+  },
+  {
+    "__pkey": "70041408",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "700421"
+  },
+  {
+    "__pkey": "70042100",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "700421"
+  },
+  {
+    "__pkey": "70042101",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "700421"
+  },
+  {
+    "__pkey": "70042102",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "700421"
+  },
+  {
+    "__pkey": "70042103",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "700421"
+  },
+  {
+    "__pkey": "70042104",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "700421"
+  },
+  {
+    "__pkey": "70042105",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "700421"
+  },
+  {
+    "__pkey": "70042106",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "700421"
+  },
+  {
+    "__pkey": "70042107",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "700421"
+  },
+  {
+    "__pkey": "70042108",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "700422"
+  },
+  {
+    "__pkey": "70042200",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "700422"
+  },
+  {
+    "__pkey": "70042201",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "700422"
+  },
+  {
+    "__pkey": "70042202",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "700422"
+  },
+  {
+    "__pkey": "70042203",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "700422"
+  },
+  {
+    "__pkey": "70042204",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "700422"
+  },
+  {
+    "__pkey": "70042205",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "700422"
+  },
+  {
+    "__pkey": "70042206",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "700422"
+  },
+  {
+    "__pkey": "70042207",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "700422"
+  },
+  {
+    "__pkey": "70042208",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "700423"
+  },
+  {
+    "__pkey": "70042300",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "700423"
+  },
+  {
+    "__pkey": "70042301",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "700423"
+  },
+  {
+    "__pkey": "70042302",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "700423"
+  },
+  {
+    "__pkey": "70042303",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "700423"
+  },
+  {
+    "__pkey": "70042304",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "700423"
+  },
+  {
+    "__pkey": "70042305",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "700423"
+  },
+  {
+    "__pkey": "70042306",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "700423"
+  },
+  {
+    "__pkey": "70042307",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "700423"
+  },
+  {
+    "__pkey": "70042308",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "700424"
+  },
+  {
+    "__pkey": "70042400",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "700424"
+  },
+  {
+    "__pkey": "70042401",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "700424"
+  },
+  {
+    "__pkey": "70042402",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "700424"
+  },
+  {
+    "__pkey": "70042403",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "700424"
+  },
+  {
+    "__pkey": "70042404",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "700424"
+  },
+  {
+    "__pkey": "70042405",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "700424"
+  },
+  {
+    "__pkey": "70042406",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "700424"
+  },
+  {
+    "__pkey": "70042407",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "700424"
+  },
+  {
+    "__pkey": "70042408",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "700431"
+  },
+  {
+    "__pkey": "70043100",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "700431"
+  },
+  {
+    "__pkey": "70043101",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "700431"
+  },
+  {
+    "__pkey": "70043102",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "700431"
+  },
+  {
+    "__pkey": "70043103",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "700431"
+  },
+  {
+    "__pkey": "70043104",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "700431"
+  },
+  {
+    "__pkey": "70043105",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "700431"
+  },
+  {
+    "__pkey": "70043106",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "700431"
+  },
+  {
+    "__pkey": "70043107",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "700431"
+  },
+  {
+    "__pkey": "70043108",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "700432"
+  },
+  {
+    "__pkey": "70043200",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "700432"
+  },
+  {
+    "__pkey": "70043201",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "700432"
+  },
+  {
+    "__pkey": "70043202",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "700432"
+  },
+  {
+    "__pkey": "70043203",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "700432"
+  },
+  {
+    "__pkey": "70043204",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "700432"
+  },
+  {
+    "__pkey": "70043205",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "700432"
+  },
+  {
+    "__pkey": "70043206",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "700432"
+  },
+  {
+    "__pkey": "70043207",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "700432"
+  },
+  {
+    "__pkey": "70043208",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "700433"
+  },
+  {
+    "__pkey": "70043300",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "700433"
+  },
+  {
+    "__pkey": "70043301",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "700433"
+  },
+  {
+    "__pkey": "70043302",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "700433"
+  },
+  {
+    "__pkey": "70043303",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "700433"
+  },
+  {
+    "__pkey": "70043304",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "700433"
+  },
+  {
+    "__pkey": "70043305",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "700433"
+  },
+  {
+    "__pkey": "70043306",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "700433"
+  },
+  {
+    "__pkey": "70043307",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "700433"
+  },
+  {
+    "__pkey": "70043308",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "700434"
+  },
+  {
+    "__pkey": "70043400",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "700434"
+  },
+  {
+    "__pkey": "70043401",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "700434"
+  },
+  {
+    "__pkey": "70043402",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "700434"
+  },
+  {
+    "__pkey": "70043403",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "700434"
+  },
+  {
+    "__pkey": "70043404",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "700434"
+  },
+  {
+    "__pkey": "70043405",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "700434"
+  },
+  {
+    "__pkey": "70043406",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "700434"
+  },
+  {
+    "__pkey": "70043407",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "700434"
+  },
+  {
+    "__pkey": "70043408",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "750111"
+  },
+  {
+    "__pkey": "75011100",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "750111"
+  },
+  {
+    "__pkey": "75011101",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "750111"
+  },
+  {
+    "__pkey": "75011102",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "750111"
+  },
+  {
+    "__pkey": "75011103",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "750111"
+  },
+  {
+    "__pkey": "75011104",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "750111"
+  },
+  {
+    "__pkey": "75011105",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "750111"
+  },
+  {
+    "__pkey": "75011106",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "750111"
+  },
+  {
+    "__pkey": "75011107",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "750111"
+  },
+  {
+    "__pkey": "75011108",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "750112"
+  },
+  {
+    "__pkey": "75011200",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "750112"
+  },
+  {
+    "__pkey": "75011201",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "750112"
+  },
+  {
+    "__pkey": "75011202",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "750112"
+  },
+  {
+    "__pkey": "75011203",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "750112"
+  },
+  {
+    "__pkey": "75011204",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "750112"
+  },
+  {
+    "__pkey": "75011205",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "750112"
+  },
+  {
+    "__pkey": "75011206",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "750112"
+  },
+  {
+    "__pkey": "75011207",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "750112"
+  },
+  {
+    "__pkey": "75011208",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "750113"
+  },
+  {
+    "__pkey": "75011300",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "750113"
+  },
+  {
+    "__pkey": "75011301",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "750113"
+  },
+  {
+    "__pkey": "75011302",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "750113"
+  },
+  {
+    "__pkey": "75011303",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "750113"
+  },
+  {
+    "__pkey": "75011304",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "750113"
+  },
+  {
+    "__pkey": "75011305",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "750113"
+  },
+  {
+    "__pkey": "75011306",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "750113"
+  },
+  {
+    "__pkey": "75011307",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "750113"
+  },
+  {
+    "__pkey": "75011308",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "750114"
+  },
+  {
+    "__pkey": "75011400",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "750114"
+  },
+  {
+    "__pkey": "75011401",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "750114"
+  },
+  {
+    "__pkey": "75011402",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "750114"
+  },
+  {
+    "__pkey": "75011403",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "750114"
+  },
+  {
+    "__pkey": "75011404",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "750114"
+  },
+  {
+    "__pkey": "75011405",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "750114"
+  },
+  {
+    "__pkey": "75011406",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "750114"
+  },
+  {
+    "__pkey": "75011407",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "750114"
+  },
+  {
+    "__pkey": "75011408",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "750121"
+  },
+  {
+    "__pkey": "75012100",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "750121"
+  },
+  {
+    "__pkey": "75012101",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "750121"
+  },
+  {
+    "__pkey": "75012102",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "750121"
+  },
+  {
+    "__pkey": "75012103",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "750121"
+  },
+  {
+    "__pkey": "75012104",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "750121"
+  },
+  {
+    "__pkey": "75012105",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "750121"
+  },
+  {
+    "__pkey": "75012106",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "750121"
+  },
+  {
+    "__pkey": "75012107",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "750121"
+  },
+  {
+    "__pkey": "75012108",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "750122"
+  },
+  {
+    "__pkey": "75012200",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "750122"
+  },
+  {
+    "__pkey": "75012201",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "750122"
+  },
+  {
+    "__pkey": "75012202",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "750122"
+  },
+  {
+    "__pkey": "75012203",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "750122"
+  },
+  {
+    "__pkey": "75012204",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "750122"
+  },
+  {
+    "__pkey": "75012205",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "750122"
+  },
+  {
+    "__pkey": "75012206",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "750122"
+  },
+  {
+    "__pkey": "75012207",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "750122"
+  },
+  {
+    "__pkey": "75012208",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "750123"
+  },
+  {
+    "__pkey": "75012300",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "750123"
+  },
+  {
+    "__pkey": "75012301",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "750123"
+  },
+  {
+    "__pkey": "75012302",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "750123"
+  },
+  {
+    "__pkey": "75012303",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "750123"
+  },
+  {
+    "__pkey": "75012304",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "750123"
+  },
+  {
+    "__pkey": "75012305",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "750123"
+  },
+  {
+    "__pkey": "75012306",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "750123"
+  },
+  {
+    "__pkey": "75012307",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "750123"
+  },
+  {
+    "__pkey": "75012308",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "750124"
+  },
+  {
+    "__pkey": "75012400",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "750124"
+  },
+  {
+    "__pkey": "75012401",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "750124"
+  },
+  {
+    "__pkey": "75012402",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "750124"
+  },
+  {
+    "__pkey": "75012403",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "750124"
+  },
+  {
+    "__pkey": "75012404",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "750124"
+  },
+  {
+    "__pkey": "75012405",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "750124"
+  },
+  {
+    "__pkey": "75012406",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "750124"
+  },
+  {
+    "__pkey": "75012407",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "750124"
+  },
+  {
+    "__pkey": "75012408",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "750131"
+  },
+  {
+    "__pkey": "75013100",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "750131"
+  },
+  {
+    "__pkey": "75013101",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "750131"
+  },
+  {
+    "__pkey": "75013102",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "750131"
+  },
+  {
+    "__pkey": "75013103",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "750131"
+  },
+  {
+    "__pkey": "75013104",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "750131"
+  },
+  {
+    "__pkey": "75013105",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "750131"
+  },
+  {
+    "__pkey": "75013106",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "750131"
+  },
+  {
+    "__pkey": "75013107",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "750131"
+  },
+  {
+    "__pkey": "75013108",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "750132"
+  },
+  {
+    "__pkey": "75013200",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "750132"
+  },
+  {
+    "__pkey": "75013201",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "750132"
+  },
+  {
+    "__pkey": "75013202",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "750132"
+  },
+  {
+    "__pkey": "75013203",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "750132"
+  },
+  {
+    "__pkey": "75013204",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "750132"
+  },
+  {
+    "__pkey": "75013205",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "750132"
+  },
+  {
+    "__pkey": "75013206",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "750132"
+  },
+  {
+    "__pkey": "75013207",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "750132"
+  },
+  {
+    "__pkey": "75013208",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "750133"
+  },
+  {
+    "__pkey": "75013300",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "750133"
+  },
+  {
+    "__pkey": "75013301",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "750133"
+  },
+  {
+    "__pkey": "75013302",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "750133"
+  },
+  {
+    "__pkey": "75013303",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "750133"
+  },
+  {
+    "__pkey": "75013304",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "750133"
+  },
+  {
+    "__pkey": "75013305",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "750133"
+  },
+  {
+    "__pkey": "75013306",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "750133"
+  },
+  {
+    "__pkey": "75013307",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "750133"
+  },
+  {
+    "__pkey": "75013308",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "750134"
+  },
+  {
+    "__pkey": "75013400",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "750134"
+  },
+  {
+    "__pkey": "75013401",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "750134"
+  },
+  {
+    "__pkey": "75013402",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "750134"
+  },
+  {
+    "__pkey": "75013403",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "750134"
+  },
+  {
+    "__pkey": "75013404",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "750134"
+  },
+  {
+    "__pkey": "75013405",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "750134"
+  },
+  {
+    "__pkey": "75013406",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "750134"
+  },
+  {
+    "__pkey": "75013407",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "750134"
+  },
+  {
+    "__pkey": "75013408",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "750211"
+  },
+  {
+    "__pkey": "75021100",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "750211"
+  },
+  {
+    "__pkey": "75021101",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "750211"
+  },
+  {
+    "__pkey": "75021102",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "750211"
+  },
+  {
+    "__pkey": "75021103",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "750211"
+  },
+  {
+    "__pkey": "75021104",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "750211"
+  },
+  {
+    "__pkey": "75021105",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "750211"
+  },
+  {
+    "__pkey": "75021106",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "750211"
+  },
+  {
+    "__pkey": "75021107",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "750211"
+  },
+  {
+    "__pkey": "75021108",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "750212"
+  },
+  {
+    "__pkey": "75021200",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "750212"
+  },
+  {
+    "__pkey": "75021201",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "750212"
+  },
+  {
+    "__pkey": "75021202",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "750212"
+  },
+  {
+    "__pkey": "75021203",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "750212"
+  },
+  {
+    "__pkey": "75021204",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "750212"
+  },
+  {
+    "__pkey": "75021205",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "750212"
+  },
+  {
+    "__pkey": "75021206",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "750212"
+  },
+  {
+    "__pkey": "75021207",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "750212"
+  },
+  {
+    "__pkey": "75021208",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "750213"
+  },
+  {
+    "__pkey": "75021300",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "750213"
+  },
+  {
+    "__pkey": "75021301",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "750213"
+  },
+  {
+    "__pkey": "75021302",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "750213"
+  },
+  {
+    "__pkey": "75021303",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "750213"
+  },
+  {
+    "__pkey": "75021304",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "750213"
+  },
+  {
+    "__pkey": "75021305",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "750213"
+  },
+  {
+    "__pkey": "75021306",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "750213"
+  },
+  {
+    "__pkey": "75021307",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "750213"
+  },
+  {
+    "__pkey": "75021308",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "750214"
+  },
+  {
+    "__pkey": "75021400",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "750214"
+  },
+  {
+    "__pkey": "75021401",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "750214"
+  },
+  {
+    "__pkey": "75021402",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "750214"
+  },
+  {
+    "__pkey": "75021403",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "750214"
+  },
+  {
+    "__pkey": "75021404",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "750214"
+  },
+  {
+    "__pkey": "75021405",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "750214"
+  },
+  {
+    "__pkey": "75021406",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "750214"
+  },
+  {
+    "__pkey": "75021407",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "750214"
+  },
+  {
+    "__pkey": "75021408",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "750221"
+  },
+  {
+    "__pkey": "75022100",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "750221"
+  },
+  {
+    "__pkey": "75022101",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "750221"
+  },
+  {
+    "__pkey": "75022102",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "750221"
+  },
+  {
+    "__pkey": "75022103",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "750221"
+  },
+  {
+    "__pkey": "75022104",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "750221"
+  },
+  {
+    "__pkey": "75022105",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "750221"
+  },
+  {
+    "__pkey": "75022106",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "750221"
+  },
+  {
+    "__pkey": "75022107",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "750221"
+  },
+  {
+    "__pkey": "75022108",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "750222"
+  },
+  {
+    "__pkey": "75022200",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "750222"
+  },
+  {
+    "__pkey": "75022201",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "750222"
+  },
+  {
+    "__pkey": "75022202",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "750222"
+  },
+  {
+    "__pkey": "75022203",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "750222"
+  },
+  {
+    "__pkey": "75022204",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "750222"
+  },
+  {
+    "__pkey": "75022205",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "750222"
+  },
+  {
+    "__pkey": "75022206",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "750222"
+  },
+  {
+    "__pkey": "75022207",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "750222"
+  },
+  {
+    "__pkey": "75022208",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "750223"
+  },
+  {
+    "__pkey": "75022300",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "750223"
+  },
+  {
+    "__pkey": "75022301",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "750223"
+  },
+  {
+    "__pkey": "75022302",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "750223"
+  },
+  {
+    "__pkey": "75022303",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "750223"
+  },
+  {
+    "__pkey": "75022304",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "750223"
+  },
+  {
+    "__pkey": "75022305",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "750223"
+  },
+  {
+    "__pkey": "75022306",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "750223"
+  },
+  {
+    "__pkey": "75022307",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "750223"
+  },
+  {
+    "__pkey": "75022308",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "750224"
+  },
+  {
+    "__pkey": "75022400",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "750224"
+  },
+  {
+    "__pkey": "75022401",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "750224"
+  },
+  {
+    "__pkey": "75022402",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "750224"
+  },
+  {
+    "__pkey": "75022403",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "750224"
+  },
+  {
+    "__pkey": "75022404",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "750224"
+  },
+  {
+    "__pkey": "75022405",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "750224"
+  },
+  {
+    "__pkey": "75022406",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "750224"
+  },
+  {
+    "__pkey": "75022407",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "750224"
+  },
+  {
+    "__pkey": "75022408",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "750231"
+  },
+  {
+    "__pkey": "75023100",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "750231"
+  },
+  {
+    "__pkey": "75023101",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "750231"
+  },
+  {
+    "__pkey": "75023102",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "750231"
+  },
+  {
+    "__pkey": "75023103",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "750231"
+  },
+  {
+    "__pkey": "75023104",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "750231"
+  },
+  {
+    "__pkey": "75023105",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "750231"
+  },
+  {
+    "__pkey": "75023106",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "750231"
+  },
+  {
+    "__pkey": "75023107",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "750231"
+  },
+  {
+    "__pkey": "75023108",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "750232"
+  },
+  {
+    "__pkey": "75023200",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "750232"
+  },
+  {
+    "__pkey": "75023201",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "750232"
+  },
+  {
+    "__pkey": "75023202",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "750232"
+  },
+  {
+    "__pkey": "75023203",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "750232"
+  },
+  {
+    "__pkey": "75023204",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "750232"
+  },
+  {
+    "__pkey": "75023205",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "750232"
+  },
+  {
+    "__pkey": "75023206",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "750232"
+  },
+  {
+    "__pkey": "75023207",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "750232"
+  },
+  {
+    "__pkey": "75023208",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "750233"
+  },
+  {
+    "__pkey": "75023300",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "750233"
+  },
+  {
+    "__pkey": "75023301",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "750233"
+  },
+  {
+    "__pkey": "75023302",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "750233"
+  },
+  {
+    "__pkey": "75023303",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "750233"
+  },
+  {
+    "__pkey": "75023304",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "750233"
+  },
+  {
+    "__pkey": "75023305",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "750233"
+  },
+  {
+    "__pkey": "75023306",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "750233"
+  },
+  {
+    "__pkey": "75023307",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "750233"
+  },
+  {
+    "__pkey": "75023308",
+    "comment": "미스테리박스_최고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_3",
+    "stuff_seq": "750234"
+  },
+  {
+    "__pkey": "75023400",
+    "comment": "미스테리박스_고급보뽑",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_TrTicket_2",
+    "stuff_seq": "750234"
+  },
+  {
+    "__pkey": "75023401",
+    "comment": "미스테리박스_유물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Artifact",
+    "stuff_seq": "750234"
+  },
+  {
+    "__pkey": "75023402",
+    "comment": "미스테리박스_재료_SS급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_SS",
+    "stuff_seq": "750234"
+  },
+  {
+    "__pkey": "75023403",
+    "comment": "미스테리박스_재료_S급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_S",
+    "stuff_seq": "750234"
+  },
+  {
+    "__pkey": "75023404",
+    "comment": "미스테리박스_재료_A급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_A",
+    "stuff_seq": "750234"
+  },
+  {
+    "__pkey": "75023405",
+    "comment": "미스테리박스_재료_B급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_B",
+    "stuff_seq": "750234"
+  },
+  {
+    "__pkey": "75023406",
+    "comment": "미스테리박스_재료_C급",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Mt_C",
+    "stuff_seq": "750234"
+  },
+  {
+    "__pkey": "75023407",
+    "comment": "미스테리박스_코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "MBox_Coin",
+    "stuff_seq": "750234"
+  },
+  {
+    "__pkey": "75023408",
+    "comment": "갈색반죽 SS 재료",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_Mt_SS",
+    "stuff_seq": "80001"
+  },
+  {
+    "__pkey": "8000100",
+    "comment": "갈색반죽 S 재료",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_Mt_S",
+    "stuff_seq": "80001"
+  },
+  {
+    "__pkey": "8000101",
+    "comment": "갈색반죽 A 재료",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_Mt_A",
+    "stuff_seq": "80001"
+  },
+  {
+    "__pkey": "8000102",
+    "comment": "갈색반죽 코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_Coin",
+    "stuff_seq": "80001"
+  },
+  {
+    "__pkey": "8000103",
+    "comment": "갈색반죽 열쇠",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_Key",
+    "stuff_seq": "80001"
+  },
+  {
+    "__pkey": "8000104",
+    "comment": "갈색반죽 생명",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_Life",
+    "stuff_seq": "80001"
+  },
+  {
+    "__pkey": "8000105",
+    "comment": "갈색반죽 크리스탈",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_Gem",
+    "stuff_seq": "80001"
+  },
+  {
+    "__pkey": "8000106",
+    "comment": "갈색반죽 선물포인트",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_AP",
+    "stuff_seq": "80001"
+  },
+  {
+    "__pkey": "8000107",
+    "comment": "갈색반죽 마법가루",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_Powder",
+    "stuff_seq": "80001"
+  },
+  {
+    "__pkey": "8000108",
+    "comment": "갈색반죽 보물함확장",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_TrInven",
+    "stuff_seq": "80001"
+  },
+  {
+    "__pkey": "8000109",
+    "comment": "갈색반죽 최고급보물뽑기권",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_TrTkt_AS",
+    "stuff_seq": "80001"
+  },
+  {
+    "__pkey": "8000110",
+    "comment": "갈색반죽 고급보물뽑기권",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_TrTkt_BA",
+    "stuff_seq": "80001"
+  },
+  {
+    "__pkey": "8000111",
+    "comment": "갈색반죽 부스트세트",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_BS",
+    "stuff_seq": "80001"
+  },
+  {
+    "__pkey": "8000112",
+    "comment": "갈색반죽 S급 보물 보장뽑기",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_STr",
+    "stuff_seq": "80001"
+  },
+  {
+    "__pkey": "8000113",
+    "comment": "갈색반죽 경험의 영약 보물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_Tr_XP",
+    "stuff_seq": "80001"
+  },
+  {
+    "__pkey": "8000114",
+    "comment": "은빛반죽 SS 재료",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_Mt_SS",
+    "stuff_seq": "80002"
+  },
+  {
+    "__pkey": "8000200",
+    "comment": "은빛반죽 S 재료",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_Mt_S",
+    "stuff_seq": "80002"
+  },
+  {
+    "__pkey": "8000201",
+    "comment": "은빛반죽 A 재료",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_Mt_A",
+    "stuff_seq": "80002"
+  },
+  {
+    "__pkey": "8000202",
+    "comment": "은빛반죽 코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_Coin",
+    "stuff_seq": "80002"
+  },
+  {
+    "__pkey": "8000203",
+    "comment": "은빛반죽 열쇠",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_Key",
+    "stuff_seq": "80002"
+  },
+  {
+    "__pkey": "8000204",
+    "comment": "은빛반죽 생명",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_Life",
+    "stuff_seq": "80002"
+  },
+  {
+    "__pkey": "8000205",
+    "comment": "은빛반죽 크리스탈",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_Gem",
+    "stuff_seq": "80002"
+  },
+  {
+    "__pkey": "8000206",
+    "comment": "은빛반죽 선물포인트",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_AP",
+    "stuff_seq": "80002"
+  },
+  {
+    "__pkey": "8000207",
+    "comment": "은빛반죽 마법가루",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_Powder",
+    "stuff_seq": "80002"
+  },
+  {
+    "__pkey": "8000208",
+    "comment": "은빛반죽 보물함확장",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_TrInven",
+    "stuff_seq": "80002"
+  },
+  {
+    "__pkey": "8000209",
+    "comment": "은빛반죽 최고급보물뽑기권",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_TrTkt_AS",
+    "stuff_seq": "80002"
+  },
+  {
+    "__pkey": "8000210",
+    "comment": "은빛반죽 고급보물뽑기권",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_TrTkt_BA",
+    "stuff_seq": "80002"
+  },
+  {
+    "__pkey": "8000211",
+    "comment": "은빛반죽 부스트세트",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_BS",
+    "stuff_seq": "80002"
+  },
+  {
+    "__pkey": "8000212",
+    "comment": "은빛반죽 S급 보장보물뽑기",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_STr",
+    "stuff_seq": "80002"
+  },
+  {
+    "__pkey": "8000213",
+    "comment": "은빛반죽 경험의 영약 보물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_Tr_XP",
+    "stuff_seq": "80002"
+  },
+  {
+    "__pkey": "8000214",
+    "comment": "금빛반죽 SS 재료",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_Mt_SS",
+    "stuff_seq": "80003"
+  },
+  {
+    "__pkey": "8000300",
+    "comment": "금빛반죽 S 재료",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_Mt_S",
+    "stuff_seq": "80003"
+  },
+  {
+    "__pkey": "8000301",
+    "comment": "금빛반죽 A 재료",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_Mt_A",
+    "stuff_seq": "80003"
+  },
+  {
+    "__pkey": "8000302",
+    "comment": "금빛반죽 코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_Coin",
+    "stuff_seq": "80003"
+  },
+  {
+    "__pkey": "8000303",
+    "comment": "금빛반죽 열쇠",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_Key",
+    "stuff_seq": "80003"
+  },
+  {
+    "__pkey": "8000304",
+    "comment": "금빛반죽 생명",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_Life",
+    "stuff_seq": "80003"
+  },
+  {
+    "__pkey": "8000305",
+    "comment": "금빛반죽 크리스탈",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_Gem",
+    "stuff_seq": "80003"
+  },
+  {
+    "__pkey": "8000306",
+    "comment": "금빛반죽 선물포인트",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_AP",
+    "stuff_seq": "80003"
+  },
+  {
+    "__pkey": "8000307",
+    "comment": "금빛반죽 마법가루",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_Powder",
+    "stuff_seq": "80003"
+  },
+  {
+    "__pkey": "8000308",
+    "comment": "금빛반죽 보물함확장",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_TrInven",
+    "stuff_seq": "80003"
+  },
+  {
+    "__pkey": "8000309",
+    "comment": "금빛반죽 최고급보물뽑기권",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_TrTkt_AS",
+    "stuff_seq": "80003"
+  },
+  {
+    "__pkey": "8000310",
+    "comment": "금빛반죽 고급보물뽑기권",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_TrTkt_BA",
+    "stuff_seq": "80003"
+  },
+  {
+    "__pkey": "8000311",
+    "comment": "금빛반죽 부스트세트",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_BS",
+    "stuff_seq": "80003"
+  },
+  {
+    "__pkey": "8000312",
+    "comment": "금빛반죽 S급 보물 보장뽑기",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_STr",
+    "stuff_seq": "80003"
+  },
+  {
+    "__pkey": "8000313",
+    "comment": "금빛반죽 경험의 영약 보물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_Tr_XP",
+    "stuff_seq": "80003"
+  },
+  {
+    "__pkey": "8000314",
+    "comment": "무지개반죽 SS 재료",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_Mt_SS",
+    "stuff_seq": "80004"
+  },
+  {
+    "__pkey": "8000400",
+    "comment": "무지개반죽 S 재료",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_Mt_S",
+    "stuff_seq": "80004"
+  },
+  {
+    "__pkey": "8000401",
+    "comment": "무지개반죽 A 재료",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_Mt_A",
+    "stuff_seq": "80004"
+  },
+  {
+    "__pkey": "8000402",
+    "comment": "무지개반죽 코인",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_Coin",
+    "stuff_seq": "80004"
+  },
+  {
+    "__pkey": "8000403",
+    "comment": "무지개반죽 열쇠",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_Key",
+    "stuff_seq": "80004"
+  },
+  {
+    "__pkey": "8000404",
+    "comment": "무지개반죽 생명",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_Life",
+    "stuff_seq": "80004"
+  },
+  {
+    "__pkey": "8000405",
+    "comment": "무지개반죽 크리스탈",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_Gem",
+    "stuff_seq": "80004"
+  },
+  {
+    "__pkey": "8000406",
+    "comment": "무지개반죽선물포인트",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_AP",
+    "stuff_seq": "80004"
+  },
+  {
+    "__pkey": "8000407",
+    "comment": "무지개반죽 마법가루",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_Powder",
+    "stuff_seq": "80004"
+  },
+  {
+    "__pkey": "8000408",
+    "comment": "무지개반죽보물함확장",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_TrInven",
+    "stuff_seq": "80004"
+  },
+  {
+    "__pkey": "8000409",
+    "comment": "무지개반죽 최고급보물뽑기권",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_TrTkt_AS",
+    "stuff_seq": "80004"
+  },
+  {
+    "__pkey": "8000410",
+    "comment": "무지개반죽 고급보물뽑기권",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_TrTkt_BA",
+    "stuff_seq": "80004"
+  },
+  {
+    "__pkey": "8000411",
+    "comment": "무지개반죽부스트세트",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_BS",
+    "stuff_seq": "80004"
+  },
+  {
+    "__pkey": "8000412",
+    "comment": "무지개반죽 S급 보장보물뽑기",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_STr",
+    "stuff_seq": "80004"
+  },
+  {
+    "__pkey": "8000413",
+    "comment": "무지개반죽 경험의 영약 보물",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_Tr_XP",
+    "stuff_seq": "80004"
+  },
+  {
+    "__pkey": "8000414",
+    "comment": "갈색반죽_반죽",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_1_Dough",
+    "stuff_seq": "80051"
+  },
+  {
+    "__pkey": "8005100",
+    "comment": "은빛반죽_반죽",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_2_Dough",
+    "stuff_seq": "80052"
+  },
+  {
+    "__pkey": "8005200",
+    "comment": "금빛반죽_반죽",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_3_Dough",
+    "stuff_seq": "80053"
+  },
+  {
+    "__pkey": "8005300",
+    "comment": "무지개빛반죽_반죽",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "Dough_4_Dough",
+    "stuff_seq": "80054"
+  },
+  {
+    "__pkey": "8005400",
+    "comment": "일반 알",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "910",
+    "set_name": "COIN",
+    "stuff_seq": "801"
+  },
+  {
+    "__pkey": "80100",
+    "comment": "일반 알",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "910",
+    "set_name": "C",
+    "stuff_seq": "801"
+  },
+  {
+    "__pkey": "80101",
+    "comment": "일반 알",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "910",
+    "set_name": "B",
+    "stuff_seq": "801"
+  },
+  {
+    "__pkey": "80102",
+    "comment": "고급알",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "917",
+    "set_name": "COIN",
+    "stuff_seq": "802"
+  },
+  {
+    "__pkey": "80200",
+    "comment": "고급알",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "917",
+    "set_name": "B",
+    "stuff_seq": "802"
+  },
+  {
+    "__pkey": "80201",
+    "comment": "고급알",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "917",
+    "set_name": "A",
+    "stuff_seq": "802"
+  },
+  {
+    "__pkey": "80202",
+    "comment": "최고급알",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "A/S",
+    "stuff_seq": "803"
+  },
+  {
+    "__pkey": "80300",
+    "comment": "선물상자",
+    "event_group_probability": "",
+    "group_probability": "800",
+    "replacement_stuff_seq": "913",
+    "set_name": "All_Pet",
+    "stuff_seq": "804"
+  },
+  {
+    "__pkey": "80400",
+    "comment": "선물상자",
+    "event_group_probability": "",
+    "group_probability": "800",
+    "replacement_stuff_seq": "913",
+    "set_name": "All_Breaker",
+    "stuff_seq": "804"
+  },
+  {
+    "__pkey": "80401",
+    "comment": "선물상자",
+    "event_group_probability": "",
+    "group_probability": "6600",
+    "replacement_stuff_seq": "913",
+    "set_name": "Coin_Package",
+    "stuff_seq": "804"
+  },
+  {
+    "__pkey": "80402",
+    "comment": "선물상자",
+    "event_group_probability": "",
+    "group_probability": "1800",
+    "replacement_stuff_seq": "913",
+    "set_name": "Boost_Package",
+    "stuff_seq": "804"
+  },
+  {
+    "__pkey": "80403",
+    "comment": "일반 보물 뽑기",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "TreasureB3",
+    "stuff_seq": "811"
+  },
+  {
+    "__pkey": "81100",
+    "comment": "일반 보물 뽑기",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "TreasureC3",
+    "stuff_seq": "811"
+  },
+  {
+    "__pkey": "81101",
+    "comment": "고급 보물 뽑기",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "TreasureA2",
+    "stuff_seq": "812"
+  },
+  {
+    "__pkey": "81200",
+    "comment": "고급 보물 뽑기",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "TreasureB2",
+    "stuff_seq": "812"
+  },
+  {
+    "__pkey": "81201",
+    "comment": "최고급 보물 뽑기",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "TreasureS1",
+    "stuff_seq": "813"
+  },
+  {
+    "__pkey": "81300",
+    "comment": "최고급 보물 뽑기",
+    "event_group_probability": "",
+    "group_probability": "",
+    "replacement_stuff_seq": "0",
+    "set_name": "TreasureA1",
+    "stuff_seq": "813"
+  }
+]

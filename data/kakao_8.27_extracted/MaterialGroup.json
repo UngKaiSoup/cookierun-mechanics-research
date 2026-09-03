@@ -1,0 +1,641 @@
+[
+  {
+    "powder_group": "MT_C"
+  },
+  {
+    "__pkey": "2000101",
+    "powder_group": "MT_C"
+  },
+  {
+    "__pkey": "2000102",
+    "powder_group": "MT_C"
+  },
+  {
+    "__pkey": "2000103",
+    "powder_group": "MT_C"
+  },
+  {
+    "__pkey": "2000104",
+    "powder_group": "MT_C"
+  },
+  {
+    "__pkey": "2000105",
+    "powder_group": "MT_B"
+  },
+  {
+    "__pkey": "2000201",
+    "powder_group": "MT_B"
+  },
+  {
+    "__pkey": "2000202",
+    "powder_group": "MT_B"
+  },
+  {
+    "__pkey": "2000203",
+    "powder_group": "MT_AX"
+  },
+  {
+    "__pkey": "2000301",
+    "powder_group": "MT_C"
+  },
+  {
+    "__pkey": "2001101",
+    "powder_group": "MT_C"
+  },
+  {
+    "__pkey": "2001102",
+    "powder_group": "MT_C"
+  },
+  {
+    "__pkey": "2001103",
+    "powder_group": "MT_C"
+  },
+  {
+    "__pkey": "2001104",
+    "powder_group": "MT_C"
+  },
+  {
+    "__pkey": "2001105",
+    "powder_group": "MT_B"
+  },
+  {
+    "__pkey": "2001201",
+    "powder_group": "MT_B"
+  },
+  {
+    "__pkey": "2001202",
+    "powder_group": "MT_B"
+  },
+  {
+    "__pkey": "2001203",
+    "powder_group": "MT_B"
+  },
+  {
+    "__pkey": "2001204",
+    "powder_group": "MT_B"
+  },
+  {
+    "__pkey": "2001205",
+    "powder_group": "MT_A"
+  },
+  {
+    "__pkey": "2001301",
+    "powder_group": "MT_A"
+  },
+  {
+    "__pkey": "2001302",
+    "powder_group": "MT_A"
+  },
+  {
+    "__pkey": "2001303",
+    "powder_group": "MT_A"
+  },
+  {
+    "__pkey": "2001304",
+    "powder_group": "MT_A"
+  },
+  {
+    "__pkey": "2001305",
+    "powder_group": "MT_A"
+  },
+  {
+    "__pkey": "2001306",
+    "powder_group": "MT_A"
+  },
+  {
+    "__pkey": "2001307",
+    "powder_group": "MT_A"
+  },
+  {
+    "__pkey": "2001308",
+    "powder_group": "MT_S"
+  },
+  {
+    "__pkey": "2001401",
+    "powder_group": "MT_S"
+  },
+  {
+    "__pkey": "2001402",
+    "powder_group": "MT_S"
+  },
+  {
+    "__pkey": "2001403",
+    "powder_group": "MT_S"
+  },
+  {
+    "__pkey": "2001404",
+    "powder_group": "MT_S"
+  },
+  {
+    "__pkey": "2001405",
+    "powder_group": "MT_S"
+  },
+  {
+    "__pkey": "2001406",
+    "powder_group": "MT_S"
+  },
+  {
+    "__pkey": "2001407",
+    "powder_group": "MT_S"
+  },
+  {
+    "__pkey": "2001408",
+    "powder_group": "MT_S"
+  },
+  {
+    "__pkey": "2001409",
+    "powder_group": "MT_SS"
+  },
+  {
+    "__pkey": "2001501",
+    "powder_group": "MT_SS"
+  },
+  {
+    "__pkey": "2001502",
+    "powder_group": "MT_SS"
+  },
+  {
+    "__pkey": "2001503",
+    "powder_group": "MT_SS"
+  },
+  {
+    "__pkey": "2001504",
+    "powder_group": "MT_C"
+  },
+  {
+    "__pkey": "2002101",
+    "powder_group": "MT_C"
+  },
+  {
+    "__pkey": "2002102",
+    "powder_group": "MT_B"
+  },
+  {
+    "__pkey": "2002201",
+    "powder_group": "MT_B"
+  },
+  {
+    "__pkey": "2002202",
+    "powder_group": "MT_B"
+  },
+  {
+    "__pkey": "2002203",
+    "powder_group": "MT_B"
+  },
+  {
+    "__pkey": "2002204",
+    "powder_group": "MT_B"
+  },
+  {
+    "__pkey": "2002205",
+    "powder_group": "MT_A"
+  },
+  {
+    "__pkey": "2002301",
+    "powder_group": "MT_A"
+  },
+  {
+    "__pkey": "2002302",
+    "powder_group": "MT_A"
+  },
+  {
+    "__pkey": "2002303",
+    "powder_group": "MT_A"
+  },
+  {
+    "__pkey": "2002304",
+    "powder_group": "MT_A"
+  },
+  {
+    "__pkey": "2002305",
+    "powder_group": "MT_A"
+  },
+  {
+    "__pkey": "2002306",
+    "powder_group": "MT_A"
+  },
+  {
+    "__pkey": "2002307",
+    "powder_group": "MT_A"
+  },
+  {
+    "__pkey": "2002308",
+    "powder_group": "MT_A"
+  },
+  {
+    "__pkey": "2002309",
+    "powder_group": "MT_S"
+  },
+  {
+    "__pkey": "2002401",
+    "powder_group": "MT_S"
+  },
+  {
+    "__pkey": "2002402",
+    "powder_group": "MT_S"
+  },
+  {
+    "__pkey": "2002403",
+    "powder_group": "MT_S"
+  },
+  {
+    "__pkey": "2002404",
+    "powder_group": "MT_S"
+  },
+  {
+    "__pkey": "2002405",
+    "powder_group": "MT_S"
+  },
+  {
+    "__pkey": "2002406",
+    "powder_group": "MT_S"
+  },
+  {
+    "__pkey": "2002407",
+    "powder_group": "MT_S"
+  },
+  {
+    "__pkey": "2002408",
+    "powder_group": "MT_S"
+  },
+  {
+    "__pkey": "2002409",
+    "powder_group": "MT_S"
+  },
+  {
+    "__pkey": "2002410",
+    "powder_group": "MT_S"
+  },
+  {
+    "__pkey": "2002411",
+    "powder_group": "MT_SS"
+  },
+  {
+    "__pkey": "2002501",
+    "powder_group": "MT_SS"
+  },
+  {
+    "__pkey": "2002502",
+    "powder_group": "MT_SS"
+  },
+  {
+    "__pkey": "2002503",
+    "powder_group": "MT_SS"
+  },
+  {
+    "__pkey": "2002504",
+    "powder_group": "MT_SS"
+  },
+  {
+    "__pkey": "2002505",
+    "powder_group": "MT_SS"
+  },
+  {
+    "__pkey": "2002506",
+    "powder_group": "MT_C"
+  },
+  {
+    "__pkey": "2003101",
+    "powder_group": "MT_C"
+  },
+  {
+    "__pkey": "2003102",
+    "powder_group": "MT_B"
+  },
+  {
+    "__pkey": "2003201",
+    "powder_group": "MT_B"
+  },
+  {
+    "__pkey": "2003202",
+    "powder_group": "MT_B"
+  },
+  {
+    "__pkey": "2003203",
+    "powder_group": "MT_B"
+  },
+  {
+    "__pkey": "2003204",
+    "powder_group": "MT_A"
+  },
+  {
+    "__pkey": "2003301",
+    "powder_group": "MT_A"
+  },
+  {
+    "__pkey": "2003302",
+    "powder_group": "MT_A"
+  },
+  {
+    "__pkey": "2003303",
+    "powder_group": "MT_A"
+  },
+  {
+    "__pkey": "2003304",
+    "powder_group": "MT_A"
+  },
+  {
+    "__pkey": "2003305",
+    "powder_group": "MT_A"
+  },
+  {
+    "__pkey": "2003306",
+    "powder_group": "MT_A"
+  },
+  {
+    "__pkey": "2003307",
+    "powder_group": "MT_S"
+  },
+  {
+    "__pkey": "2003401",
+    "powder_group": "MT_S"
+  },
+  {
+    "__pkey": "2003402",
+    "powder_group": "MT_S"
+  },
+  {
+    "__pkey": "2003403",
+    "powder_group": "MT_S"
+  },
+  {
+    "__pkey": "2003404",
+    "powder_group": "MT_S"
+  },
+  {
+    "__pkey": "2003405",
+    "powder_group": "MT_S"
+  },
+  {
+    "__pkey": "2003406",
+    "powder_group": "MT_S"
+  },
+  {
+    "__pkey": "2003407",
+    "powder_group": "MT_S"
+  },
+  {
+    "__pkey": "2003408",
+    "powder_group": "MT_S"
+  },
+  {
+    "__pkey": "2003409",
+    "powder_group": "MT_S"
+  },
+  {
+    "__pkey": "2003410",
+    "powder_group": "MT_SS"
+  },
+  {
+    "__pkey": "2003501",
+    "powder_group": "MT_SS"
+  },
+  {
+    "__pkey": "2003502",
+    "powder_group": "MT_SS"
+  },
+  {
+    "__pkey": "2003503",
+    "powder_group": "MT_SS"
+  },
+  {
+    "__pkey": "2003504",
+    "powder_group": "MT_SS"
+  },
+  {
+    "__pkey": "2003505",
+    "powder_group": "MT_SS"
+  },
+  {
+    "__pkey": "2003506",
+    "powder_group": "MT_C"
+  },
+  {
+    "__pkey": "2004101",
+    "powder_group": "MT_C"
+  },
+  {
+    "__pkey": "2004102",
+    "powder_group": "MT_B"
+  },
+  {
+    "__pkey": "2004201",
+    "powder_group": "MT_B"
+  },
+  {
+    "__pkey": "2004202",
+    "powder_group": "MT_B"
+  },
+  {
+    "__pkey": "2004203",
+    "powder_group": "MT_B"
+  },
+  {
+    "__pkey": "2004204",
+    "powder_group": "MT_A"
+  },
+  {
+    "__pkey": "2004301",
+    "powder_group": "MT_A"
+  },
+  {
+    "__pkey": "2004302",
+    "powder_group": "MT_A"
+  },
+  {
+    "__pkey": "2004303",
+    "powder_group": "MT_A"
+  },
+  {
+    "__pkey": "2004304",
+    "powder_group": "MT_A"
+  },
+  {
+    "__pkey": "2004305",
+    "powder_group": "MT_A"
+  },
+  {
+    "__pkey": "2004306",
+    "powder_group": "MT_A"
+  },
+  {
+    "__pkey": "2004307",
+    "powder_group": "MT_A"
+  },
+  {
+    "__pkey": "2004308",
+    "powder_group": "MT_S"
+  },
+  {
+    "__pkey": "2004401",
+    "powder_group": "MT_S"
+  },
+  {
+    "__pkey": "2004402",
+    "powder_group": "MT_S"
+  },
+  {
+    "__pkey": "2004403",
+    "powder_group": "MT_S"
+  },
+  {
+    "__pkey": "2004404",
+    "powder_group": "MT_S"
+  },
+  {
+    "__pkey": "2004405",
+    "powder_group": "MT_S"
+  },
+  {
+    "__pkey": "2004406",
+    "powder_group": "MT_S"
+  },
+  {
+    "__pkey": "2004407",
+    "powder_group": "MT_SS"
+  },
+  {
+    "__pkey": "2004501",
+    "powder_group": "MT_SS"
+  },
+  {
+    "__pkey": "2004502",
+    "powder_group": "MT_SS"
+  },
+  {
+    "__pkey": "2004503",
+    "powder_group": "MT_SS"
+  },
+  {
+    "__pkey": "2004504",
+    "powder_group": "MT_SS"
+  },
+  {
+    "__pkey": "2004505",
+    "powder_group": "MT_SS"
+  },
+  {
+    "__pkey": "2004506",
+    "powder_group": "MT_SS"
+  },
+  {
+    "__pkey": "2004507",
+    "powder_group": "MT_C"
+  },
+  {
+    "__pkey": "2501101",
+    "powder_group": "MT_C"
+  },
+  {
+    "__pkey": "2501102",
+    "powder_group": "MT_B"
+  },
+  {
+    "__pkey": "2501201",
+    "powder_group": "MT_B"
+  },
+  {
+    "__pkey": "2501202",
+    "powder_group": "MT_B"
+  },
+  {
+    "__pkey": "2501203",
+    "powder_group": "MT_A"
+  },
+  {
+    "__pkey": "2501301",
+    "powder_group": "MT_A"
+  },
+  {
+    "__pkey": "2501302",
+    "powder_group": "MT_A"
+  },
+  {
+    "__pkey": "2501303",
+    "powder_group": "MT_S"
+  },
+  {
+    "__pkey": "2501401",
+    "powder_group": "MT_S"
+  },
+  {
+    "__pkey": "2501402",
+    "powder_group": "MT_S"
+  },
+  {
+    "__pkey": "2501403",
+    "powder_group": "MT_S"
+  },
+  {
+    "__pkey": "2501404",
+    "powder_group": "MT_SS"
+  },
+  {
+    "__pkey": "2501501",
+    "powder_group": "MT_SS"
+  },
+  {
+    "__pkey": "2501502",
+    "powder_group": "MT_SS"
+  },
+  {
+    "__pkey": "2501503",
+    "powder_group": "MT_C"
+  },
+  {
+    "__pkey": "2502101",
+    "powder_group": "MT_C"
+  },
+  {
+    "__pkey": "2502102",
+    "powder_group": "MT_B"
+  },
+  {
+    "__pkey": "2502201",
+    "powder_group": "MT_B"
+  },
+  {
+    "__pkey": "2502202",
+    "powder_group": "MT_B"
+  },
+  {
+    "__pkey": "2502203",
+    "powder_group": "MT_A"
+  },
+  {
+    "__pkey": "2502301",
+    "powder_group": "MT_A"
+  },
+  {
+    "__pkey": "2502302",
+    "powder_group": "MT_A"
+  },
+  {
+    "__pkey": "2502303",
+    "powder_group": "MT_S"
+  },
+  {
+    "__pkey": "2502401",
+    "powder_group": "MT_S"
+  },
+  {
+    "__pkey": "2502402",
+    "powder_group": "MT_S"
+  },
+  {
+    "__pkey": "2502403",
+    "powder_group": "MT_S"
+  },
+  {
+    "__pkey": "2502404",
+    "powder_group": "MT_SS"
+  },
+  {
+    "__pkey": "2502501",
+    "powder_group": "MT_SS"
+  },
+  {
+    "__pkey": "2502502",
+    "powder_group": "MT_SS"
+  }
+]

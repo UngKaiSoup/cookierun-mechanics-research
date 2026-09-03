@@ -1,0 +1,16 @@
+[
+  {
+    "CollectibleItemStartId": "301",
+    "CreateAfterFull": "0",
+    "EventEndTime": "2014-12-31 23:59:59",
+    "EventJellyStatId": "4702",
+    "EventMaterialProb": "-1",
+    "EventStartTime": "2014-12-16 00:00:01",
+    "JellyMaxHeight": "160",
+    "JellyMinHeight": "60",
+    "MaterialSlotColor": "100",
+    "MaterialSlotOpacity": "150",
+    "OneGameLimitMax": "27",
+    "OneGameLimitMin": "22"
+  }
+]

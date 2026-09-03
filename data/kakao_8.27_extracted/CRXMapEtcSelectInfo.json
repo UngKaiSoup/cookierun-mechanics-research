@@ -1,0 +1,17 @@
+[
+  {
+    "CcbLayerTag": "10001",
+    "CcbiFileName": "map_crowShop.ccbi",
+    "VisibleEndTime": "2000-10-02 17:00:01",
+    "VisibleStartTime": "2000-10-02 17:00:01",
+    "type": "blackMarket"
+  },
+  {
+    "__pkey": "10001",
+    "CcbLayerTag": "10001",
+    "CcbiFileName": "map_xmasShop.ccbi",
+    "VisibleEndTime": "2016-01-03 23:59:59",
+    "VisibleStartTime": "2015-12-17 00:00:01",
+    "type": "squirrelShop"
+  }
+]

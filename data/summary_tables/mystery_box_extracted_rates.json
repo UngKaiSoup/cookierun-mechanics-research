@@ -1,0 +1,3839 @@
+{
+  "Episode 7000 - Stage Tier 1 -  Box ()": {
+    "stuff_seq": "70002",
+    "episode": "Episode 7000",
+    "grade": "",
+    "res_key": "",
+    "total_prob": 1000.0,
+    "rates": [
+      {
+        "category": "Sqrl_Ticket",
+        "korean": "다람쥐상점 상자열기 뽑기(무료)",
+        "raw_prob": 120.0,
+        "percentage": 12.0
+      },
+      {
+        "category": "Sqrl_Tr1",
+        "korean": "다람쥐상점 상자열기 뽑기(무료)",
+        "raw_prob": 40.0,
+        "percentage": 4.0
+      },
+      {
+        "category": "Sqrl_Tr2",
+        "korean": "다람쥐상점 상자열기 뽑기(무료)",
+        "raw_prob": 10.0,
+        "percentage": 1.0
+      },
+      {
+        "category": "Sqrl_Tr3",
+        "korean": "다람쥐상점 상자열기 뽑기(무료)",
+        "raw_prob": 40.0,
+        "percentage": 4.0
+      },
+      {
+        "category": "Sqrl_Tr4",
+        "korean": "다람쥐상점 상자열기 뽑기(무료)",
+        "raw_prob": 10.0,
+        "percentage": 1.0
+      },
+      {
+        "category": "Sqrl_Powder",
+        "korean": "다람쥐상점 상자열기 뽑기(무료)",
+        "raw_prob": 410.0,
+        "percentage": 41.0
+      },
+      {
+        "category": "Sqrl_Mat_S",
+        "korean": "다람쥐상점 상자열기 뽑기(무료)",
+        "raw_prob": 260.0,
+        "percentage": 26.0
+      },
+      {
+        "category": "Sqrl_Mat_SS",
+        "korean": "다람쥐상점 상자열기 뽑기(무료)",
+        "raw_prob": 110.0,
+        "percentage": 11.0
+      }
+    ]
+  },
+  "Episode 1 (OvenBreak) - Stage Tier 1 - B Box (myBox_b)": {
+    "stuff_seq": "700111",
+    "episode": "Episode 1 (OvenBreak)",
+    "grade": "B",
+    "res_key": "myBox_b",
+    "total_prob": 6900.0,
+    "rates": [
+      {
+        "category": "MBox_TrTicket_3",
+        "korean": "미스테리박스_최고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_TrTicket_2",
+        "korean": "미스테리박스_고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Artifact",
+        "korean": "미스테리박스_유물",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_SS",
+        "korean": "미스테리박스_재료_SS급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_S",
+        "korean": "미스테리박스_재료_S급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_A",
+        "korean": "미스테리박스_재료_A급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_B",
+        "korean": "미스테리박스_재료_B급",
+        "raw_prob": 500.0,
+        "percentage": 7.2464
+      },
+      {
+        "category": "MBox_Mt_C",
+        "korean": "미스테리박스_재료_C급",
+        "raw_prob": 3300.0,
+        "percentage": 47.8261
+      },
+      {
+        "category": "MBox_Coin",
+        "korean": "미스테리박스_코인",
+        "raw_prob": 3100.0,
+        "percentage": 44.9275
+      }
+    ]
+  },
+  "Episode 1 (OvenBreak) - Stage Tier 1 - A Box (myBox_a)": {
+    "stuff_seq": "700112",
+    "episode": "Episode 1 (OvenBreak)",
+    "grade": "A",
+    "res_key": "myBox_a",
+    "total_prob": 1725.0,
+    "rates": [
+      {
+        "category": "MBox_TrTicket_3",
+        "korean": "미스테리박스_최고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_TrTicket_2",
+        "korean": "미스테리박스_고급보뽑",
+        "raw_prob": 25.0,
+        "percentage": 1.4493
+      },
+      {
+        "category": "MBox_Artifact",
+        "korean": "미스테리박스_유물",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_SS",
+        "korean": "미스테리박스_재료_SS급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_S",
+        "korean": "미스테리박스_재료_S급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_A",
+        "korean": "미스테리박스_재료_A급",
+        "raw_prob": 100.0,
+        "percentage": 5.7971
+      },
+      {
+        "category": "MBox_Mt_B",
+        "korean": "미스테리박스_재료_B급",
+        "raw_prob": 1300.0,
+        "percentage": 75.3623
+      },
+      {
+        "category": "MBox_Mt_C",
+        "korean": "미스테리박스_재료_C급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Coin",
+        "korean": "미스테리박스_코인",
+        "raw_prob": 300.0,
+        "percentage": 17.3913
+      }
+    ]
+  },
+  "Episode 1 (OvenBreak) - Stage Tier 1 - S Box (myBox_s)": {
+    "stuff_seq": "700113",
+    "episode": "Episode 1 (OvenBreak)",
+    "grade": "S",
+    "res_key": "myBox_s",
+    "total_prob": 1075.0,
+    "rates": [
+      {
+        "category": "MBox_TrTicket_3",
+        "korean": "미스테리박스_최고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_TrTicket_2",
+        "korean": "미스테리박스_고급보뽑",
+        "raw_prob": 25.0,
+        "percentage": 2.3256
+      },
+      {
+        "category": "MBox_Artifact",
+        "korean": "미스테리박스_유물",
+        "raw_prob": 800.0,
+        "percentage": 74.4186
+      },
+      {
+        "category": "MBox_Mt_SS",
+        "korean": "미스테리박스_재료_SS급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_S",
+        "korean": "미스테리박스_재료_S급",
+        "raw_prob": 50.0,
+        "percentage": 4.6512
+      },
+      {
+        "category": "MBox_Mt_A",
+        "korean": "미스테리박스_재료_A급",
+        "raw_prob": 200.0,
+        "percentage": 18.6047
+      },
+      {
+        "category": "MBox_Mt_B",
+        "korean": "미스테리박스_재료_B급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_C",
+        "korean": "미스테리박스_재료_C급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Coin",
+        "korean": "미스테리박스_코인",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      }
+    ]
+  },
+  "Episode 1 (OvenBreak) - Stage Tier 1 - C Box (myBox_c)": {
+    "stuff_seq": "700114",
+    "episode": "Episode 1 (OvenBreak)",
+    "grade": "C",
+    "res_key": "myBox_c",
+    "total_prob": 300.0,
+    "rates": [
+      {
+        "category": "MBox_TrTicket_3",
+        "korean": "미스테리박스_최고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_TrTicket_2",
+        "korean": "미스테리박스_고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Artifact",
+        "korean": "미스테리박스_유물",
+        "raw_prob": 200.0,
+        "percentage": 66.6667
+      },
+      {
+        "category": "MBox_Mt_SS",
+        "korean": "미스테리박스_재료_SS급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_S",
+        "korean": "미스테리박스_재료_S급",
+        "raw_prob": 100.0,
+        "percentage": 33.3333
+      },
+      {
+        "category": "MBox_Mt_A",
+        "korean": "미스테리박스_재료_A급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_B",
+        "korean": "미스테리박스_재료_B급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_C",
+        "korean": "미스테리박스_재료_C급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Coin",
+        "korean": "미스테리박스_코인",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      }
+    ]
+  },
+  "Episode 1 (OvenBreak) - Stage Tier 2 - B Box (myBox_b)": {
+    "stuff_seq": "700121",
+    "episode": "Episode 1 (OvenBreak)",
+    "grade": "B",
+    "res_key": "myBox_b",
+    "total_prob": 4400.0,
+    "rates": [
+      {
+        "category": "MBox_TrTicket_3",
+        "korean": "미스테리박스_최고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_TrTicket_2",
+        "korean": "미스테리박스_고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Artifact",
+        "korean": "미스테리박스_유물",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_SS",
+        "korean": "미스테리박스_재료_SS급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_S",
+        "korean": "미스테리박스_재료_S급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_A",
+        "korean": "미스테리박스_재료_A급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_B",
+        "korean": "미스테리박스_재료_B급",
+        "raw_prob": 1000.0,
+        "percentage": 22.7273
+      },
+      {
+        "category": "MBox_Mt_C",
+        "korean": "미스테리박스_재료_C급",
+        "raw_prob": 1300.0,
+        "percentage": 29.5455
+      },
+      {
+        "category": "MBox_Coin",
+        "korean": "미스테리박스_코인",
+        "raw_prob": 2100.0,
+        "percentage": 47.7273
+      }
+    ]
+  },
+  "Episode 1 (OvenBreak) - Stage Tier 2 - A Box (myBox_a)": {
+    "stuff_seq": "700122",
+    "episode": "Episode 1 (OvenBreak)",
+    "grade": "A",
+    "res_key": "myBox_a",
+    "total_prob": 3085.0,
+    "rates": [
+      {
+        "category": "MBox_TrTicket_3",
+        "korean": "미스테리박스_최고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_TrTicket_2",
+        "korean": "미스테리박스_고급보뽑",
+        "raw_prob": 50.0,
+        "percentage": 1.6207
+      },
+      {
+        "category": "MBox_Artifact",
+        "korean": "미스테리박스_유물",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_SS",
+        "korean": "미스테리박스_재료_SS급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_S",
+        "korean": "미스테리박스_재료_S급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_A",
+        "korean": "미스테리박스_재료_A급",
+        "raw_prob": 500.0,
+        "percentage": 16.2075
+      },
+      {
+        "category": "MBox_Mt_B",
+        "korean": "미스테리박스_재료_B급",
+        "raw_prob": 1800.0,
+        "percentage": 58.3468
+      },
+      {
+        "category": "MBox_Mt_C",
+        "korean": "미스테리박스_재료_C급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Coin",
+        "korean": "미스테리박스_코인",
+        "raw_prob": 735.0,
+        "percentage": 23.825
+      }
+    ]
+  },
+  "Episode 1 (OvenBreak) - Stage Tier 2 - S Box (myBox_s)": {
+    "stuff_seq": "700123",
+    "episode": "Episode 1 (OvenBreak)",
+    "grade": "S",
+    "res_key": "myBox_s",
+    "total_prob": 1850.0,
+    "rates": [
+      {
+        "category": "MBox_TrTicket_3",
+        "korean": "미스테리박스_최고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_TrTicket_2",
+        "korean": "미스테리박스_고급보뽑",
+        "raw_prob": 50.0,
+        "percentage": 2.7027
+      },
+      {
+        "category": "MBox_Artifact",
+        "korean": "미스테리박스_유물",
+        "raw_prob": 1000.0,
+        "percentage": 54.0541
+      },
+      {
+        "category": "MBox_Mt_SS",
+        "korean": "미스테리박스_재료_SS급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_S",
+        "korean": "미스테리박스_재료_S급",
+        "raw_prob": 100.0,
+        "percentage": 5.4054
+      },
+      {
+        "category": "MBox_Mt_A",
+        "korean": "미스테리박스_재료_A급",
+        "raw_prob": 700.0,
+        "percentage": 37.8378
+      },
+      {
+        "category": "MBox_Mt_B",
+        "korean": "미스테리박스_재료_B급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_C",
+        "korean": "미스테리박스_재료_C급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Coin",
+        "korean": "미스테리박스_코인",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      }
+    ]
+  },
+  "Episode 1 (OvenBreak) - Stage Tier 2 - C Box (myBox_c)": {
+    "stuff_seq": "700124",
+    "episode": "Episode 1 (OvenBreak)",
+    "grade": "C",
+    "res_key": "myBox_c",
+    "total_prob": 665.0,
+    "rates": [
+      {
+        "category": "MBox_TrTicket_3",
+        "korean": "미스테리박스_최고급보뽑",
+        "raw_prob": 15.0,
+        "percentage": 2.2556
+      },
+      {
+        "category": "MBox_TrTicket_2",
+        "korean": "미스테리박스_고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Artifact",
+        "korean": "미스테리박스_유물",
+        "raw_prob": 300.0,
+        "percentage": 45.1128
+      },
+      {
+        "category": "MBox_Mt_SS",
+        "korean": "미스테리박스_재료_SS급",
+        "raw_prob": 50.0,
+        "percentage": 7.5188
+      },
+      {
+        "category": "MBox_Mt_S",
+        "korean": "미스테리박스_재료_S급",
+        "raw_prob": 300.0,
+        "percentage": 45.1128
+      },
+      {
+        "category": "MBox_Mt_A",
+        "korean": "미스테리박스_재료_A급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_B",
+        "korean": "미스테리박스_재료_B급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_C",
+        "korean": "미스테리박스_재료_C급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Coin",
+        "korean": "미스테리박스_코인",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      }
+    ]
+  },
+  "Episode 1 (OvenBreak) - Stage Tier 3 - B Box (myBox_b)": {
+    "stuff_seq": "700131",
+    "episode": "Episode 1 (OvenBreak)",
+    "grade": "B",
+    "res_key": "myBox_b",
+    "total_prob": 2400.0,
+    "rates": [
+      {
+        "category": "MBox_TrTicket_3",
+        "korean": "미스테리박스_최고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_TrTicket_2",
+        "korean": "미스테리박스_고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Artifact",
+        "korean": "미스테리박스_유물",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_SS",
+        "korean": "미스테리박스_재료_SS급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_S",
+        "korean": "미스테리박스_재료_S급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_A",
+        "korean": "미스테리박스_재료_A급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_B",
+        "korean": "미스테리박스_재료_B급",
+        "raw_prob": 200.0,
+        "percentage": 8.3333
+      },
+      {
+        "category": "MBox_Mt_C",
+        "korean": "미스테리박스_재료_C급",
+        "raw_prob": 900.0,
+        "percentage": 37.5
+      },
+      {
+        "category": "MBox_Coin",
+        "korean": "미스테리박스_코인",
+        "raw_prob": 1300.0,
+        "percentage": 54.1667
+      }
+    ]
+  },
+  "Episode 1 (OvenBreak) - Stage Tier 3 - A Box (myBox_a)": {
+    "stuff_seq": "700132",
+    "episode": "Episode 1 (OvenBreak)",
+    "grade": "A",
+    "res_key": "myBox_a",
+    "total_prob": 3480.0,
+    "rates": [
+      {
+        "category": "MBox_TrTicket_3",
+        "korean": "미스테리박스_최고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_TrTicket_2",
+        "korean": "미스테리박스_고급보뽑",
+        "raw_prob": 50.0,
+        "percentage": 1.4368
+      },
+      {
+        "category": "MBox_Artifact",
+        "korean": "미스테리박스_유물",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_SS",
+        "korean": "미스테리박스_재료_SS급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_S",
+        "korean": "미스테리박스_재료_S급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_A",
+        "korean": "미스테리박스_재료_A급",
+        "raw_prob": 600.0,
+        "percentage": 17.2414
+      },
+      {
+        "category": "MBox_Mt_B",
+        "korean": "미스테리박스_재료_B급",
+        "raw_prob": 2100.0,
+        "percentage": 60.3448
+      },
+      {
+        "category": "MBox_Mt_C",
+        "korean": "미스테리박스_재료_C급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Coin",
+        "korean": "미스테리박스_코인",
+        "raw_prob": 730.0,
+        "percentage": 20.977
+      }
+    ]
+  },
+  "Episode 1 (OvenBreak) - Stage Tier 3 - S Box (myBox_s)": {
+    "stuff_seq": "700133",
+    "episode": "Episode 1 (OvenBreak)",
+    "grade": "S",
+    "res_key": "myBox_s",
+    "total_prob": 2850.0,
+    "rates": [
+      {
+        "category": "MBox_TrTicket_3",
+        "korean": "미스테리박스_최고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_TrTicket_2",
+        "korean": "미스테리박스_고급보뽑",
+        "raw_prob": 50.0,
+        "percentage": 1.7544
+      },
+      {
+        "category": "MBox_Artifact",
+        "korean": "미스테리박스_유물",
+        "raw_prob": 1300.0,
+        "percentage": 45.614
+      },
+      {
+        "category": "MBox_Mt_SS",
+        "korean": "미스테리박스_재료_SS급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_S",
+        "korean": "미스테리박스_재료_S급",
+        "raw_prob": 200.0,
+        "percentage": 7.0175
+      },
+      {
+        "category": "MBox_Mt_A",
+        "korean": "미스테리박스_재료_A급",
+        "raw_prob": 1300.0,
+        "percentage": 45.614
+      },
+      {
+        "category": "MBox_Mt_B",
+        "korean": "미스테리박스_재료_B급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_C",
+        "korean": "미스테리박스_재료_C급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Coin",
+        "korean": "미스테리박스_코인",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      }
+    ]
+  },
+  "Episode 1 (OvenBreak) - Stage Tier 3 - C Box (myBox_c)": {
+    "stuff_seq": "700134",
+    "episode": "Episode 1 (OvenBreak)",
+    "grade": "C",
+    "res_key": "myBox_c",
+    "total_prob": 1270.0,
+    "rates": [
+      {
+        "category": "MBox_TrTicket_3",
+        "korean": "미스테리박스_최고급보뽑",
+        "raw_prob": 20.0,
+        "percentage": 1.5748
+      },
+      {
+        "category": "MBox_TrTicket_2",
+        "korean": "미스테리박스_고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Artifact",
+        "korean": "미스테리박스_유물",
+        "raw_prob": 400.0,
+        "percentage": 31.4961
+      },
+      {
+        "category": "MBox_Mt_SS",
+        "korean": "미스테리박스_재료_SS급",
+        "raw_prob": 150.0,
+        "percentage": 11.811
+      },
+      {
+        "category": "MBox_Mt_S",
+        "korean": "미스테리박스_재료_S급",
+        "raw_prob": 700.0,
+        "percentage": 55.1181
+      },
+      {
+        "category": "MBox_Mt_A",
+        "korean": "미스테리박스_재료_A급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_B",
+        "korean": "미스테리박스_재료_B급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_C",
+        "korean": "미스테리박스_재료_C급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Coin",
+        "korean": "미스테리박스_코인",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      }
+    ]
+  },
+  "Episode 2 (Primeval Forest) - Stage Tier 1 - B Box (myBox_b)": {
+    "stuff_seq": "700211",
+    "episode": "Episode 2 (Primeval Forest)",
+    "grade": "B",
+    "res_key": "myBox_b",
+    "total_prob": 5600.0,
+    "rates": [
+      {
+        "category": "MBox_TrTicket_3",
+        "korean": "미스테리박스_최고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_TrTicket_2",
+        "korean": "미스테리박스_고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Artifact",
+        "korean": "미스테리박스_유물",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_SS",
+        "korean": "미스테리박스_재료_SS급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_S",
+        "korean": "미스테리박스_재료_S급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_A",
+        "korean": "미스테리박스_재료_A급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_B",
+        "korean": "미스테리박스_재료_B급",
+        "raw_prob": 800.0,
+        "percentage": 14.2857
+      },
+      {
+        "category": "MBox_Mt_C",
+        "korean": "미스테리박스_재료_C급",
+        "raw_prob": 2200.0,
+        "percentage": 39.2857
+      },
+      {
+        "category": "MBox_Coin",
+        "korean": "미스테리박스_코인",
+        "raw_prob": 2600.0,
+        "percentage": 46.4286
+      }
+    ]
+  },
+  "Episode 2 (Primeval Forest) - Stage Tier 1 - A Box (myBox_a)": {
+    "stuff_seq": "700212",
+    "episode": "Episode 2 (Primeval Forest)",
+    "grade": "A",
+    "res_key": "myBox_a",
+    "total_prob": 2325.0,
+    "rates": [
+      {
+        "category": "MBox_TrTicket_3",
+        "korean": "미스테리박스_최고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_TrTicket_2",
+        "korean": "미스테리박스_고급보뽑",
+        "raw_prob": 50.0,
+        "percentage": 2.1505
+      },
+      {
+        "category": "MBox_Artifact",
+        "korean": "미스테리박스_유물",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_SS",
+        "korean": "미스테리박스_재료_SS급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_S",
+        "korean": "미스테리박스_재료_S급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_A",
+        "korean": "미스테리박스_재료_A급",
+        "raw_prob": 400.0,
+        "percentage": 17.2043
+      },
+      {
+        "category": "MBox_Mt_B",
+        "korean": "미스테리박스_재료_B급",
+        "raw_prob": 1400.0,
+        "percentage": 60.2151
+      },
+      {
+        "category": "MBox_Mt_C",
+        "korean": "미스테리박스_재료_C급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Coin",
+        "korean": "미스테리박스_코인",
+        "raw_prob": 475.0,
+        "percentage": 20.4301
+      }
+    ]
+  },
+  "Episode 2 (Primeval Forest) - Stage Tier 1 - S Box (myBox_s)": {
+    "stuff_seq": "700213",
+    "episode": "Episode 2 (Primeval Forest)",
+    "grade": "S",
+    "res_key": "myBox_s",
+    "total_prob": 1650.0,
+    "rates": [
+      {
+        "category": "MBox_TrTicket_3",
+        "korean": "미스테리박스_최고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_TrTicket_2",
+        "korean": "미스테리박스_고급보뽑",
+        "raw_prob": 50.0,
+        "percentage": 3.0303
+      },
+      {
+        "category": "MBox_Artifact",
+        "korean": "미스테리박스_유물",
+        "raw_prob": 1000.0,
+        "percentage": 60.6061
+      },
+      {
+        "category": "MBox_Mt_SS",
+        "korean": "미스테리박스_재료_SS급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_S",
+        "korean": "미스테리박스_재료_S급",
+        "raw_prob": 100.0,
+        "percentage": 6.0606
+      },
+      {
+        "category": "MBox_Mt_A",
+        "korean": "미스테리박스_재료_A급",
+        "raw_prob": 500.0,
+        "percentage": 30.303
+      },
+      {
+        "category": "MBox_Mt_B",
+        "korean": "미스테리박스_재료_B급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_C",
+        "korean": "미스테리박스_재료_C급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Coin",
+        "korean": "미스테리박스_코인",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      }
+    ]
+  },
+  "Episode 2 (Primeval Forest) - Stage Tier 1 - C Box (myBox_c)": {
+    "stuff_seq": "700214",
+    "episode": "Episode 2 (Primeval Forest)",
+    "grade": "C",
+    "res_key": "myBox_c",
+    "total_prob": 425.0,
+    "rates": [
+      {
+        "category": "MBox_TrTicket_3",
+        "korean": "미스테리박스_최고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_TrTicket_2",
+        "korean": "미스테리박스_고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Artifact",
+        "korean": "미스테리박스_유물",
+        "raw_prob": 200.0,
+        "percentage": 47.0588
+      },
+      {
+        "category": "MBox_Mt_SS",
+        "korean": "미스테리박스_재료_SS급",
+        "raw_prob": 25.0,
+        "percentage": 5.8824
+      },
+      {
+        "category": "MBox_Mt_S",
+        "korean": "미스테리박스_재료_S급",
+        "raw_prob": 200.0,
+        "percentage": 47.0588
+      },
+      {
+        "category": "MBox_Mt_A",
+        "korean": "미스테리박스_재료_A급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_B",
+        "korean": "미스테리박스_재료_B급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_C",
+        "korean": "미스테리박스_재료_C급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Coin",
+        "korean": "미스테리박스_코인",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      }
+    ]
+  },
+  "Episode 2 (Primeval Forest) - Stage Tier 2 - B Box (myBox_b)": {
+    "stuff_seq": "700221",
+    "episode": "Episode 2 (Primeval Forest)",
+    "grade": "B",
+    "res_key": "myBox_b",
+    "total_prob": 1900.0,
+    "rates": [
+      {
+        "category": "MBox_TrTicket_3",
+        "korean": "미스테리박스_최고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_TrTicket_2",
+        "korean": "미스테리박스_고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Artifact",
+        "korean": "미스테리박스_유물",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_SS",
+        "korean": "미스테리박스_재료_SS급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_S",
+        "korean": "미스테리박스_재료_S급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_A",
+        "korean": "미스테리박스_재료_A급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_B",
+        "korean": "미스테리박스_재료_B급",
+        "raw_prob": 200.0,
+        "percentage": 10.5263
+      },
+      {
+        "category": "MBox_Mt_C",
+        "korean": "미스테리박스_재료_C급",
+        "raw_prob": 800.0,
+        "percentage": 42.1053
+      },
+      {
+        "category": "MBox_Coin",
+        "korean": "미스테리박스_코인",
+        "raw_prob": 900.0,
+        "percentage": 47.3684
+      }
+    ]
+  },
+  "Episode 2 (Primeval Forest) - Stage Tier 2 - A Box (myBox_a)": {
+    "stuff_seq": "700222",
+    "episode": "Episode 2 (Primeval Forest)",
+    "grade": "A",
+    "res_key": "myBox_a",
+    "total_prob": 3400.0,
+    "rates": [
+      {
+        "category": "MBox_TrTicket_3",
+        "korean": "미스테리박스_최고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_TrTicket_2",
+        "korean": "미스테리박스_고급보뽑",
+        "raw_prob": 50.0,
+        "percentage": 1.4706
+      },
+      {
+        "category": "MBox_Artifact",
+        "korean": "미스테리박스_유물",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_SS",
+        "korean": "미스테리박스_재료_SS급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_S",
+        "korean": "미스테리박스_재료_S급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_A",
+        "korean": "미스테리박스_재료_A급",
+        "raw_prob": 700.0,
+        "percentage": 20.5882
+      },
+      {
+        "category": "MBox_Mt_B",
+        "korean": "미스테리박스_재료_B급",
+        "raw_prob": 2000.0,
+        "percentage": 58.8235
+      },
+      {
+        "category": "MBox_Mt_C",
+        "korean": "미스테리박스_재료_C급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Coin",
+        "korean": "미스테리박스_코인",
+        "raw_prob": 650.0,
+        "percentage": 19.1176
+      }
+    ]
+  },
+  "Episode 2 (Primeval Forest) - Stage Tier 2 - S Box (myBox_s)": {
+    "stuff_seq": "700223",
+    "episode": "Episode 2 (Primeval Forest)",
+    "grade": "S",
+    "res_key": "myBox_s",
+    "total_prob": 3250.0,
+    "rates": [
+      {
+        "category": "MBox_TrTicket_3",
+        "korean": "미스테리박스_최고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_TrTicket_2",
+        "korean": "미스테리박스_고급보뽑",
+        "raw_prob": 50.0,
+        "percentage": 1.5385
+      },
+      {
+        "category": "MBox_Artifact",
+        "korean": "미스테리박스_유물",
+        "raw_prob": 1700.0,
+        "percentage": 52.3077
+      },
+      {
+        "category": "MBox_Mt_SS",
+        "korean": "미스테리박스_재료_SS급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_S",
+        "korean": "미스테리박스_재료_S급",
+        "raw_prob": 200.0,
+        "percentage": 6.1538
+      },
+      {
+        "category": "MBox_Mt_A",
+        "korean": "미스테리박스_재료_A급",
+        "raw_prob": 1300.0,
+        "percentage": 40.0
+      },
+      {
+        "category": "MBox_Mt_B",
+        "korean": "미스테리박스_재료_B급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_C",
+        "korean": "미스테리박스_재료_C급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Coin",
+        "korean": "미스테리박스_코인",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      }
+    ]
+  },
+  "Episode 2 (Primeval Forest) - Stage Tier 2 - C Box (myBox_c)": {
+    "stuff_seq": "700224",
+    "episode": "Episode 2 (Primeval Forest)",
+    "grade": "C",
+    "res_key": "myBox_c",
+    "total_prob": 1450.0,
+    "rates": [
+      {
+        "category": "MBox_TrTicket_3",
+        "korean": "미스테리박스_최고급보뽑",
+        "raw_prob": 25.0,
+        "percentage": 1.7241
+      },
+      {
+        "category": "MBox_TrTicket_2",
+        "korean": "미스테리박스_고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Artifact",
+        "korean": "미스테리박스_유물",
+        "raw_prob": 600.0,
+        "percentage": 41.3793
+      },
+      {
+        "category": "MBox_Mt_SS",
+        "korean": "미스테리박스_재료_SS급",
+        "raw_prob": 125.0,
+        "percentage": 8.6207
+      },
+      {
+        "category": "MBox_Mt_S",
+        "korean": "미스테리박스_재료_S급",
+        "raw_prob": 700.0,
+        "percentage": 48.2759
+      },
+      {
+        "category": "MBox_Mt_A",
+        "korean": "미스테리박스_재료_A급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_B",
+        "korean": "미스테리박스_재료_B급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_C",
+        "korean": "미스테리박스_재료_C급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Coin",
+        "korean": "미스테리박스_코인",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      }
+    ]
+  },
+  "Episode 2 (Primeval Forest) - Stage Tier 3 - B Box (myBox_b)": {
+    "stuff_seq": "700231",
+    "episode": "Episode 2 (Primeval Forest)",
+    "grade": "B",
+    "res_key": "myBox_b",
+    "total_prob": 800.0,
+    "rates": [
+      {
+        "category": "MBox_TrTicket_3",
+        "korean": "미스테리박스_최고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_TrTicket_2",
+        "korean": "미스테리박스_고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Artifact",
+        "korean": "미스테리박스_유물",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_SS",
+        "korean": "미스테리박스_재료_SS급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_S",
+        "korean": "미스테리박스_재료_S급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_A",
+        "korean": "미스테리박스_재료_A급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_B",
+        "korean": "미스테리박스_재료_B급",
+        "raw_prob": 100.0,
+        "percentage": 12.5
+      },
+      {
+        "category": "MBox_Mt_C",
+        "korean": "미스테리박스_재료_C급",
+        "raw_prob": 100.0,
+        "percentage": 12.5
+      },
+      {
+        "category": "MBox_Coin",
+        "korean": "미스테리박스_코인",
+        "raw_prob": 600.0,
+        "percentage": 75.0
+      }
+    ]
+  },
+  "Episode 2 (Primeval Forest) - Stage Tier 3 - A Box (myBox_a)": {
+    "stuff_seq": "700232",
+    "episode": "Episode 2 (Primeval Forest)",
+    "grade": "A",
+    "res_key": "myBox_a",
+    "total_prob": 3575.0,
+    "rates": [
+      {
+        "category": "MBox_TrTicket_3",
+        "korean": "미스테리박스_최고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_TrTicket_2",
+        "korean": "미스테리박스_고급보뽑",
+        "raw_prob": 50.0,
+        "percentage": 1.3986
+      },
+      {
+        "category": "MBox_Artifact",
+        "korean": "미스테리박스_유물",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_SS",
+        "korean": "미스테리박스_재료_SS급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_S",
+        "korean": "미스테리박스_재료_S급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_A",
+        "korean": "미스테리박스_재료_A급",
+        "raw_prob": 500.0,
+        "percentage": 13.986
+      },
+      {
+        "category": "MBox_Mt_B",
+        "korean": "미스테리박스_재료_B급",
+        "raw_prob": 2500.0,
+        "percentage": 69.9301
+      },
+      {
+        "category": "MBox_Mt_C",
+        "korean": "미스테리박스_재료_C급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Coin",
+        "korean": "미스테리박스_코인",
+        "raw_prob": 525.0,
+        "percentage": 14.6853
+      }
+    ]
+  },
+  "Episode 2 (Primeval Forest) - Stage Tier 3 - S Box (myBox_s)": {
+    "stuff_seq": "700233",
+    "episode": "Episode 2 (Primeval Forest)",
+    "grade": "S",
+    "res_key": "myBox_s",
+    "total_prob": 3950.0,
+    "rates": [
+      {
+        "category": "MBox_TrTicket_3",
+        "korean": "미스테리박스_최고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_TrTicket_2",
+        "korean": "미스테리박스_고급보뽑",
+        "raw_prob": 50.0,
+        "percentage": 1.2658
+      },
+      {
+        "category": "MBox_Artifact",
+        "korean": "미스테리박스_유물",
+        "raw_prob": 1100.0,
+        "percentage": 27.8481
+      },
+      {
+        "category": "MBox_Mt_SS",
+        "korean": "미스테리박스_재료_SS급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_S",
+        "korean": "미스테리박스_재료_S급",
+        "raw_prob": 400.0,
+        "percentage": 10.1266
+      },
+      {
+        "category": "MBox_Mt_A",
+        "korean": "미스테리박스_재료_A급",
+        "raw_prob": 2400.0,
+        "percentage": 60.7595
+      },
+      {
+        "category": "MBox_Mt_B",
+        "korean": "미스테리박스_재료_B급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_C",
+        "korean": "미스테리박스_재료_C급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Coin",
+        "korean": "미스테리박스_코인",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      }
+    ]
+  },
+  "Episode 2 (Primeval Forest) - Stage Tier 3 - C Box (myBox_c)": {
+    "stuff_seq": "700234",
+    "episode": "Episode 2 (Primeval Forest)",
+    "grade": "C",
+    "res_key": "myBox_c",
+    "total_prob": 1675.0,
+    "rates": [
+      {
+        "category": "MBox_TrTicket_3",
+        "korean": "미스테리박스_최고급보뽑",
+        "raw_prob": 25.0,
+        "percentage": 1.4925
+      },
+      {
+        "category": "MBox_TrTicket_2",
+        "korean": "미스테리박스_고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Artifact",
+        "korean": "미스테리박스_유물",
+        "raw_prob": 600.0,
+        "percentage": 35.8209
+      },
+      {
+        "category": "MBox_Mt_SS",
+        "korean": "미스테리박스_재료_SS급",
+        "raw_prob": 150.0,
+        "percentage": 8.9552
+      },
+      {
+        "category": "MBox_Mt_S",
+        "korean": "미스테리박스_재료_S급",
+        "raw_prob": 900.0,
+        "percentage": 53.7313
+      },
+      {
+        "category": "MBox_Mt_A",
+        "korean": "미스테리박스_재료_A급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_B",
+        "korean": "미스테리박스_재료_B급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_C",
+        "korean": "미스테리박스_재료_C급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Coin",
+        "korean": "미스테리박스_코인",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      }
+    ]
+  },
+  "Episode 3 (Dragon's Valley) - Stage Tier 1 - B Box (myBox_b)": {
+    "stuff_seq": "700311",
+    "episode": "Episode 3 (Dragon's Valley)",
+    "grade": "B",
+    "res_key": "myBox_b",
+    "total_prob": 5600.0,
+    "rates": [
+      {
+        "category": "MBox_TrTicket_3",
+        "korean": "미스테리박스_최고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_TrTicket_2",
+        "korean": "미스테리박스_고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Artifact",
+        "korean": "미스테리박스_유물",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_SS",
+        "korean": "미스테리박스_재료_SS급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_S",
+        "korean": "미스테리박스_재료_S급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_A",
+        "korean": "미스테리박스_재료_A급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_B",
+        "korean": "미스테리박스_재료_B급",
+        "raw_prob": 800.0,
+        "percentage": 14.2857
+      },
+      {
+        "category": "MBox_Mt_C",
+        "korean": "미스테리박스_재료_C급",
+        "raw_prob": 2400.0,
+        "percentage": 42.8571
+      },
+      {
+        "category": "MBox_Coin",
+        "korean": "미스테리박스_코인",
+        "raw_prob": 2400.0,
+        "percentage": 42.8571
+      }
+    ]
+  },
+  "Episode 3 (Dragon's Valley) - Stage Tier 1 - A Box (myBox_a)": {
+    "stuff_seq": "700312",
+    "episode": "Episode 3 (Dragon's Valley)",
+    "grade": "A",
+    "res_key": "myBox_a",
+    "total_prob": 2315.0,
+    "rates": [
+      {
+        "category": "MBox_TrTicket_3",
+        "korean": "미스테리박스_최고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_TrTicket_2",
+        "korean": "미스테리박스_고급보뽑",
+        "raw_prob": 50.0,
+        "percentage": 2.1598
+      },
+      {
+        "category": "MBox_Artifact",
+        "korean": "미스테리박스_유물",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_SS",
+        "korean": "미스테리박스_재료_SS급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_S",
+        "korean": "미스테리박스_재료_S급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_A",
+        "korean": "미스테리박스_재료_A급",
+        "raw_prob": 400.0,
+        "percentage": 17.2786
+      },
+      {
+        "category": "MBox_Mt_B",
+        "korean": "미스테리박스_재료_B급",
+        "raw_prob": 1500.0,
+        "percentage": 64.7948
+      },
+      {
+        "category": "MBox_Mt_C",
+        "korean": "미스테리박스_재료_C급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Coin",
+        "korean": "미스테리박스_코인",
+        "raw_prob": 365.0,
+        "percentage": 15.7667
+      }
+    ]
+  },
+  "Episode 3 (Dragon's Valley) - Stage Tier 1 - S Box (myBox_s)": {
+    "stuff_seq": "700313",
+    "episode": "Episode 3 (Dragon's Valley)",
+    "grade": "S",
+    "res_key": "myBox_s",
+    "total_prob": 1550.0,
+    "rates": [
+      {
+        "category": "MBox_TrTicket_3",
+        "korean": "미스테리박스_최고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_TrTicket_2",
+        "korean": "미스테리박스_고급보뽑",
+        "raw_prob": 50.0,
+        "percentage": 3.2258
+      },
+      {
+        "category": "MBox_Artifact",
+        "korean": "미스테리박스_유물",
+        "raw_prob": 800.0,
+        "percentage": 51.6129
+      },
+      {
+        "category": "MBox_Mt_SS",
+        "korean": "미스테리박스_재료_SS급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_S",
+        "korean": "미스테리박스_재료_S급",
+        "raw_prob": 200.0,
+        "percentage": 12.9032
+      },
+      {
+        "category": "MBox_Mt_A",
+        "korean": "미스테리박스_재료_A급",
+        "raw_prob": 500.0,
+        "percentage": 32.2581
+      },
+      {
+        "category": "MBox_Mt_B",
+        "korean": "미스테리박스_재료_B급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_C",
+        "korean": "미스테리박스_재료_C급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Coin",
+        "korean": "미스테리박스_코인",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      }
+    ]
+  },
+  "Episode 3 (Dragon's Valley) - Stage Tier 1 - C Box (myBox_c)": {
+    "stuff_seq": "700314",
+    "episode": "Episode 3 (Dragon's Valley)",
+    "grade": "C",
+    "res_key": "myBox_c",
+    "total_prob": 535.0,
+    "rates": [
+      {
+        "category": "MBox_TrTicket_3",
+        "korean": "미스테리박스_최고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_TrTicket_2",
+        "korean": "미스테리박스_고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Artifact",
+        "korean": "미스테리박스_유물",
+        "raw_prob": 200.0,
+        "percentage": 37.3832
+      },
+      {
+        "category": "MBox_Mt_SS",
+        "korean": "미스테리박스_재료_SS급",
+        "raw_prob": 35.0,
+        "percentage": 6.5421
+      },
+      {
+        "category": "MBox_Mt_S",
+        "korean": "미스테리박스_재료_S급",
+        "raw_prob": 300.0,
+        "percentage": 56.0748
+      },
+      {
+        "category": "MBox_Mt_A",
+        "korean": "미스테리박스_재료_A급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_B",
+        "korean": "미스테리박스_재료_B급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_C",
+        "korean": "미스테리박스_재료_C급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Coin",
+        "korean": "미스테리박스_코인",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      }
+    ]
+  },
+  "Episode 3 (Dragon's Valley) - Stage Tier 2 - B Box (myBox_b)": {
+    "stuff_seq": "700321",
+    "episode": "Episode 3 (Dragon's Valley)",
+    "grade": "B",
+    "res_key": "myBox_b",
+    "total_prob": 1600.0,
+    "rates": [
+      {
+        "category": "MBox_TrTicket_3",
+        "korean": "미스테리박스_최고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_TrTicket_2",
+        "korean": "미스테리박스_고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Artifact",
+        "korean": "미스테리박스_유물",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_SS",
+        "korean": "미스테리박스_재료_SS급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_S",
+        "korean": "미스테리박스_재료_S급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_A",
+        "korean": "미스테리박스_재료_A급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_B",
+        "korean": "미스테리박스_재료_B급",
+        "raw_prob": 200.0,
+        "percentage": 12.5
+      },
+      {
+        "category": "MBox_Mt_C",
+        "korean": "미스테리박스_재료_C급",
+        "raw_prob": 600.0,
+        "percentage": 37.5
+      },
+      {
+        "category": "MBox_Coin",
+        "korean": "미스테리박스_코인",
+        "raw_prob": 800.0,
+        "percentage": 50.0
+      }
+    ]
+  },
+  "Episode 3 (Dragon's Valley) - Stage Tier 2 - A Box (myBox_a)": {
+    "stuff_seq": "700322",
+    "episode": "Episode 3 (Dragon's Valley)",
+    "grade": "A",
+    "res_key": "myBox_a",
+    "total_prob": 3675.0,
+    "rates": [
+      {
+        "category": "MBox_TrTicket_3",
+        "korean": "미스테리박스_최고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_TrTicket_2",
+        "korean": "미스테리박스_고급보뽑",
+        "raw_prob": 50.0,
+        "percentage": 1.3605
+      },
+      {
+        "category": "MBox_Artifact",
+        "korean": "미스테리박스_유물",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_SS",
+        "korean": "미스테리박스_재료_SS급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_S",
+        "korean": "미스테리박스_재료_S급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_A",
+        "korean": "미스테리박스_재료_A급",
+        "raw_prob": 800.0,
+        "percentage": 21.7687
+      },
+      {
+        "category": "MBox_Mt_B",
+        "korean": "미스테리박스_재료_B급",
+        "raw_prob": 2100.0,
+        "percentage": 57.1429
+      },
+      {
+        "category": "MBox_Mt_C",
+        "korean": "미스테리박스_재료_C급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Coin",
+        "korean": "미스테리박스_코인",
+        "raw_prob": 725.0,
+        "percentage": 19.7279
+      }
+    ]
+  },
+  "Episode 3 (Dragon's Valley) - Stage Tier 2 - S Box (myBox_s)": {
+    "stuff_seq": "700323",
+    "episode": "Episode 3 (Dragon's Valley)",
+    "grade": "S",
+    "res_key": "myBox_s",
+    "total_prob": 3150.0,
+    "rates": [
+      {
+        "category": "MBox_TrTicket_3",
+        "korean": "미스테리박스_최고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_TrTicket_2",
+        "korean": "미스테리박스_고급보뽑",
+        "raw_prob": 50.0,
+        "percentage": 1.5873
+      },
+      {
+        "category": "MBox_Artifact",
+        "korean": "미스테리박스_유물",
+        "raw_prob": 1400.0,
+        "percentage": 44.4444
+      },
+      {
+        "category": "MBox_Mt_SS",
+        "korean": "미스테리박스_재료_SS급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_S",
+        "korean": "미스테리박스_재료_S급",
+        "raw_prob": 300.0,
+        "percentage": 9.5238
+      },
+      {
+        "category": "MBox_Mt_A",
+        "korean": "미스테리박스_재료_A급",
+        "raw_prob": 1400.0,
+        "percentage": 44.4444
+      },
+      {
+        "category": "MBox_Mt_B",
+        "korean": "미스테리박스_재료_B급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_C",
+        "korean": "미스테리박스_재료_C급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Coin",
+        "korean": "미스테리박스_코인",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      }
+    ]
+  },
+  "Episode 3 (Dragon's Valley) - Stage Tier 2 - C Box (myBox_c)": {
+    "stuff_seq": "700324",
+    "episode": "Episode 3 (Dragon's Valley)",
+    "grade": "C",
+    "res_key": "myBox_c",
+    "total_prob": 1575.0,
+    "rates": [
+      {
+        "category": "MBox_TrTicket_3",
+        "korean": "미스테리박스_최고급보뽑",
+        "raw_prob": 25.0,
+        "percentage": 1.5873
+      },
+      {
+        "category": "MBox_TrTicket_2",
+        "korean": "미스테리박스_고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Artifact",
+        "korean": "미스테리박스_유물",
+        "raw_prob": 600.0,
+        "percentage": 38.0952
+      },
+      {
+        "category": "MBox_Mt_SS",
+        "korean": "미스테리박스_재료_SS급",
+        "raw_prob": 150.0,
+        "percentage": 9.5238
+      },
+      {
+        "category": "MBox_Mt_S",
+        "korean": "미스테리박스_재료_S급",
+        "raw_prob": 800.0,
+        "percentage": 50.7937
+      },
+      {
+        "category": "MBox_Mt_A",
+        "korean": "미스테리박스_재료_A급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_B",
+        "korean": "미스테리박스_재료_B급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_C",
+        "korean": "미스테리박스_재료_C급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Coin",
+        "korean": "미스테리박스_코인",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      }
+    ]
+  },
+  "Episode 3 (Dragon's Valley) - Stage Tier 3 - B Box (myBox_b)": {
+    "stuff_seq": "700331",
+    "episode": "Episode 3 (Dragon's Valley)",
+    "grade": "B",
+    "res_key": "myBox_b",
+    "total_prob": 700.0,
+    "rates": [
+      {
+        "category": "MBox_TrTicket_3",
+        "korean": "미스테리박스_최고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_TrTicket_2",
+        "korean": "미스테리박스_고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Artifact",
+        "korean": "미스테리박스_유물",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_SS",
+        "korean": "미스테리박스_재료_SS급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_S",
+        "korean": "미스테리박스_재료_S급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_A",
+        "korean": "미스테리박스_재료_A급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_B",
+        "korean": "미스테리박스_재료_B급",
+        "raw_prob": 100.0,
+        "percentage": 14.2857
+      },
+      {
+        "category": "MBox_Mt_C",
+        "korean": "미스테리박스_재료_C급",
+        "raw_prob": 100.0,
+        "percentage": 14.2857
+      },
+      {
+        "category": "MBox_Coin",
+        "korean": "미스테리박스_코인",
+        "raw_prob": 500.0,
+        "percentage": 71.4286
+      }
+    ]
+  },
+  "Episode 3 (Dragon's Valley) - Stage Tier 3 - A Box (myBox_a)": {
+    "stuff_seq": "700332",
+    "episode": "Episode 3 (Dragon's Valley)",
+    "grade": "A",
+    "res_key": "myBox_a",
+    "total_prob": 3600.0,
+    "rates": [
+      {
+        "category": "MBox_TrTicket_3",
+        "korean": "미스테리박스_최고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_TrTicket_2",
+        "korean": "미스테리박스_고급보뽑",
+        "raw_prob": 50.0,
+        "percentage": 1.3889
+      },
+      {
+        "category": "MBox_Artifact",
+        "korean": "미스테리박스_유물",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_SS",
+        "korean": "미스테리박스_재료_SS급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_S",
+        "korean": "미스테리박스_재료_S급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_A",
+        "korean": "미스테리박스_재료_A급",
+        "raw_prob": 600.0,
+        "percentage": 16.6667
+      },
+      {
+        "category": "MBox_Mt_B",
+        "korean": "미스테리박스_재료_B급",
+        "raw_prob": 2200.0,
+        "percentage": 61.1111
+      },
+      {
+        "category": "MBox_Mt_C",
+        "korean": "미스테리박스_재료_C급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Coin",
+        "korean": "미스테리박스_코인",
+        "raw_prob": 750.0,
+        "percentage": 20.8333
+      }
+    ]
+  },
+  "Episode 3 (Dragon's Valley) - Stage Tier 3 - S Box (myBox_s)": {
+    "stuff_seq": "700333",
+    "episode": "Episode 3 (Dragon's Valley)",
+    "grade": "S",
+    "res_key": "myBox_s",
+    "total_prob": 3750.0,
+    "rates": [
+      {
+        "category": "MBox_TrTicket_3",
+        "korean": "미스테리박스_최고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_TrTicket_2",
+        "korean": "미스테리박스_고급보뽑",
+        "raw_prob": 50.0,
+        "percentage": 1.3333
+      },
+      {
+        "category": "MBox_Artifact",
+        "korean": "미스테리박스_유물",
+        "raw_prob": 1000.0,
+        "percentage": 26.6667
+      },
+      {
+        "category": "MBox_Mt_SS",
+        "korean": "미스테리박스_재료_SS급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_S",
+        "korean": "미스테리박스_재료_S급",
+        "raw_prob": 300.0,
+        "percentage": 8.0
+      },
+      {
+        "category": "MBox_Mt_A",
+        "korean": "미스테리박스_재료_A급",
+        "raw_prob": 2400.0,
+        "percentage": 64.0
+      },
+      {
+        "category": "MBox_Mt_B",
+        "korean": "미스테리박스_재료_B급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_C",
+        "korean": "미스테리박스_재료_C급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Coin",
+        "korean": "미스테리박스_코인",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      }
+    ]
+  },
+  "Episode 3 (Dragon's Valley) - Stage Tier 3 - C Box (myBox_c)": {
+    "stuff_seq": "700334",
+    "episode": "Episode 3 (Dragon's Valley)",
+    "grade": "C",
+    "res_key": "myBox_c",
+    "total_prob": 1950.0,
+    "rates": [
+      {
+        "category": "MBox_TrTicket_3",
+        "korean": "미스테리박스_최고급보뽑",
+        "raw_prob": 25.0,
+        "percentage": 1.2821
+      },
+      {
+        "category": "MBox_TrTicket_2",
+        "korean": "미스테리박스_고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Artifact",
+        "korean": "미스테리박스_유물",
+        "raw_prob": 600.0,
+        "percentage": 30.7692
+      },
+      {
+        "category": "MBox_Mt_SS",
+        "korean": "미스테리박스_재료_SS급",
+        "raw_prob": 225.0,
+        "percentage": 11.5385
+      },
+      {
+        "category": "MBox_Mt_S",
+        "korean": "미스테리박스_재료_S급",
+        "raw_prob": 1100.0,
+        "percentage": 56.4103
+      },
+      {
+        "category": "MBox_Mt_A",
+        "korean": "미스테리박스_재료_A급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_B",
+        "korean": "미스테리박스_재료_B급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_C",
+        "korean": "미스테리박스_재료_C급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Coin",
+        "korean": "미스테리박스_코인",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      }
+    ]
+  },
+  "Episode 4 (City of Wizards) - Stage Tier 1 - B Box (myBox_b)": {
+    "stuff_seq": "700411",
+    "episode": "Episode 4 (City of Wizards)",
+    "grade": "B",
+    "res_key": "myBox_b",
+    "total_prob": 4800.0,
+    "rates": [
+      {
+        "category": "MBox_TrTicket_3",
+        "korean": "미스테리박스_최고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_TrTicket_2",
+        "korean": "미스테리박스_고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Artifact",
+        "korean": "미스테리박스_유물",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_SS",
+        "korean": "미스테리박스_재료_SS급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_S",
+        "korean": "미스테리박스_재료_S급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_A",
+        "korean": "미스테리박스_재료_A급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_B",
+        "korean": "미스테리박스_재료_B급",
+        "raw_prob": 800.0,
+        "percentage": 16.6667
+      },
+      {
+        "category": "MBox_Mt_C",
+        "korean": "미스테리박스_재료_C급",
+        "raw_prob": 1800.0,
+        "percentage": 37.5
+      },
+      {
+        "category": "MBox_Coin",
+        "korean": "미스테리박스_코인",
+        "raw_prob": 2200.0,
+        "percentage": 45.8333
+      }
+    ]
+  },
+  "Episode 4 (City of Wizards) - Stage Tier 1 - A Box (myBox_a)": {
+    "stuff_seq": "700412",
+    "episode": "Episode 4 (City of Wizards)",
+    "grade": "A",
+    "res_key": "myBox_a",
+    "total_prob": 3265.0,
+    "rates": [
+      {
+        "category": "MBox_TrTicket_3",
+        "korean": "미스테리박스_최고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_TrTicket_2",
+        "korean": "미스테리박스_고급보뽑",
+        "raw_prob": 50.0,
+        "percentage": 1.5314
+      },
+      {
+        "category": "MBox_Artifact",
+        "korean": "미스테리박스_유물",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_SS",
+        "korean": "미스테리박스_재료_SS급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_S",
+        "korean": "미스테리박스_재료_S급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_A",
+        "korean": "미스테리박스_재료_A급",
+        "raw_prob": 700.0,
+        "percentage": 21.4395
+      },
+      {
+        "category": "MBox_Mt_B",
+        "korean": "미스테리박스_재료_B급",
+        "raw_prob": 1700.0,
+        "percentage": 52.0674
+      },
+      {
+        "category": "MBox_Mt_C",
+        "korean": "미스테리박스_재료_C급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Coin",
+        "korean": "미스테리박스_코인",
+        "raw_prob": 815.0,
+        "percentage": 24.9617
+      }
+    ]
+  },
+  "Episode 4 (City of Wizards) - Stage Tier 1 - S Box (myBox_s)": {
+    "stuff_seq": "700413",
+    "episode": "Episode 4 (City of Wizards)",
+    "grade": "S",
+    "res_key": "myBox_s",
+    "total_prob": 1500.0,
+    "rates": [
+      {
+        "category": "MBox_TrTicket_3",
+        "korean": "미스테리박스_최고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_TrTicket_2",
+        "korean": "미스테리박스_고급보뽑",
+        "raw_prob": 50.0,
+        "percentage": 3.3333
+      },
+      {
+        "category": "MBox_Artifact",
+        "korean": "미스테리박스_유물",
+        "raw_prob": 350.0,
+        "percentage": 23.3333
+      },
+      {
+        "category": "MBox_Mt_SS",
+        "korean": "미스테리박스_재료_SS급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_S",
+        "korean": "미스테리박스_재료_S급",
+        "raw_prob": 300.0,
+        "percentage": 20.0
+      },
+      {
+        "category": "MBox_Mt_A",
+        "korean": "미스테리박스_재료_A급",
+        "raw_prob": 800.0,
+        "percentage": 53.3333
+      },
+      {
+        "category": "MBox_Mt_B",
+        "korean": "미스테리박스_재료_B급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_C",
+        "korean": "미스테리박스_재료_C급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Coin",
+        "korean": "미스테리박스_코인",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      }
+    ]
+  },
+  "Episode 4 (City of Wizards) - Stage Tier 1 - C Box (myBox_c)": {
+    "stuff_seq": "700414",
+    "episode": "Episode 4 (City of Wizards)",
+    "grade": "C",
+    "res_key": "myBox_c",
+    "total_prob": 435.0,
+    "rates": [
+      {
+        "category": "MBox_TrTicket_3",
+        "korean": "미스테리박스_최고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_TrTicket_2",
+        "korean": "미스테리박스_고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Artifact",
+        "korean": "미스테리박스_유물",
+        "raw_prob": 100.0,
+        "percentage": 22.9885
+      },
+      {
+        "category": "MBox_Mt_SS",
+        "korean": "미스테리박스_재료_SS급",
+        "raw_prob": 35.0,
+        "percentage": 8.046
+      },
+      {
+        "category": "MBox_Mt_S",
+        "korean": "미스테리박스_재료_S급",
+        "raw_prob": 300.0,
+        "percentage": 68.9655
+      },
+      {
+        "category": "MBox_Mt_A",
+        "korean": "미스테리박스_재료_A급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_B",
+        "korean": "미스테리박스_재료_B급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_C",
+        "korean": "미스테리박스_재료_C급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Coin",
+        "korean": "미스테리박스_코인",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      }
+    ]
+  },
+  "Episode 4 (City of Wizards) - Stage Tier 2 - B Box (myBox_b)": {
+    "stuff_seq": "700421",
+    "episode": "Episode 4 (City of Wizards)",
+    "grade": "B",
+    "res_key": "myBox_b",
+    "total_prob": 1200.0,
+    "rates": [
+      {
+        "category": "MBox_TrTicket_3",
+        "korean": "미스테리박스_최고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_TrTicket_2",
+        "korean": "미스테리박스_고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Artifact",
+        "korean": "미스테리박스_유물",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_SS",
+        "korean": "미스테리박스_재료_SS급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_S",
+        "korean": "미스테리박스_재료_S급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_A",
+        "korean": "미스테리박스_재료_A급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_B",
+        "korean": "미스테리박스_재료_B급",
+        "raw_prob": 200.0,
+        "percentage": 16.6667
+      },
+      {
+        "category": "MBox_Mt_C",
+        "korean": "미스테리박스_재료_C급",
+        "raw_prob": 400.0,
+        "percentage": 33.3333
+      },
+      {
+        "category": "MBox_Coin",
+        "korean": "미스테리박스_코인",
+        "raw_prob": 600.0,
+        "percentage": 50.0
+      }
+    ]
+  },
+  "Episode 4 (City of Wizards) - Stage Tier 2 - A Box (myBox_a)": {
+    "stuff_seq": "700422",
+    "episode": "Episode 4 (City of Wizards)",
+    "grade": "A",
+    "res_key": "myBox_a",
+    "total_prob": 4075.0,
+    "rates": [
+      {
+        "category": "MBox_TrTicket_3",
+        "korean": "미스테리박스_최고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_TrTicket_2",
+        "korean": "미스테리박스_고급보뽑",
+        "raw_prob": 50.0,
+        "percentage": 1.227
+      },
+      {
+        "category": "MBox_Artifact",
+        "korean": "미스테리박스_유물",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_SS",
+        "korean": "미스테리박스_재료_SS급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_S",
+        "korean": "미스테리박스_재료_S급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_A",
+        "korean": "미스테리박스_재료_A급",
+        "raw_prob": 800.0,
+        "percentage": 19.6319
+      },
+      {
+        "category": "MBox_Mt_B",
+        "korean": "미스테리박스_재료_B급",
+        "raw_prob": 2300.0,
+        "percentage": 56.4417
+      },
+      {
+        "category": "MBox_Mt_C",
+        "korean": "미스테리박스_재료_C급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Coin",
+        "korean": "미스테리박스_코인",
+        "raw_prob": 925.0,
+        "percentage": 22.6994
+      }
+    ]
+  },
+  "Episode 4 (City of Wizards) - Stage Tier 2 - S Box (myBox_s)": {
+    "stuff_seq": "700423",
+    "episode": "Episode 4 (City of Wizards)",
+    "grade": "S",
+    "res_key": "myBox_s",
+    "total_prob": 3250.0,
+    "rates": [
+      {
+        "category": "MBox_TrTicket_3",
+        "korean": "미스테리박스_최고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_TrTicket_2",
+        "korean": "미스테리박스_고급보뽑",
+        "raw_prob": 50.0,
+        "percentage": 1.5385
+      },
+      {
+        "category": "MBox_Artifact",
+        "korean": "미스테리박스_유물",
+        "raw_prob": 1100.0,
+        "percentage": 33.8462
+      },
+      {
+        "category": "MBox_Mt_SS",
+        "korean": "미스테리박스_재료_SS급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_S",
+        "korean": "미스테리박스_재료_S급",
+        "raw_prob": 500.0,
+        "percentage": 15.3846
+      },
+      {
+        "category": "MBox_Mt_A",
+        "korean": "미스테리박스_재료_A급",
+        "raw_prob": 1600.0,
+        "percentage": 49.2308
+      },
+      {
+        "category": "MBox_Mt_B",
+        "korean": "미스테리박스_재료_B급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_C",
+        "korean": "미스테리박스_재료_C급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Coin",
+        "korean": "미스테리박스_코인",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      }
+    ]
+  },
+  "Episode 4 (City of Wizards) - Stage Tier 2 - C Box (myBox_c)": {
+    "stuff_seq": "700424",
+    "episode": "Episode 4 (City of Wizards)",
+    "grade": "C",
+    "res_key": "myBox_c",
+    "total_prob": 1475.0,
+    "rates": [
+      {
+        "category": "MBox_TrTicket_3",
+        "korean": "미스테리박스_최고급보뽑",
+        "raw_prob": 25.0,
+        "percentage": 1.6949
+      },
+      {
+        "category": "MBox_TrTicket_2",
+        "korean": "미스테리박스_고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Artifact",
+        "korean": "미스테리박스_유물",
+        "raw_prob": 400.0,
+        "percentage": 27.1186
+      },
+      {
+        "category": "MBox_Mt_SS",
+        "korean": "미스테리박스_재료_SS급",
+        "raw_prob": 150.0,
+        "percentage": 10.1695
+      },
+      {
+        "category": "MBox_Mt_S",
+        "korean": "미스테리박스_재료_S급",
+        "raw_prob": 900.0,
+        "percentage": 61.0169
+      },
+      {
+        "category": "MBox_Mt_A",
+        "korean": "미스테리박스_재료_A급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_B",
+        "korean": "미스테리박스_재료_B급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_C",
+        "korean": "미스테리박스_재료_C급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Coin",
+        "korean": "미스테리박스_코인",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      }
+    ]
+  },
+  "Episode 4 (City of Wizards) - Stage Tier 3 - B Box (myBox_b)": {
+    "stuff_seq": "700431",
+    "episode": "Episode 4 (City of Wizards)",
+    "grade": "B",
+    "res_key": "myBox_b",
+    "total_prob": 300.0,
+    "rates": [
+      {
+        "category": "MBox_TrTicket_3",
+        "korean": "미스테리박스_최고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_TrTicket_2",
+        "korean": "미스테리박스_고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Artifact",
+        "korean": "미스테리박스_유물",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_SS",
+        "korean": "미스테리박스_재료_SS급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_S",
+        "korean": "미스테리박스_재료_S급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_A",
+        "korean": "미스테리박스_재료_A급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_B",
+        "korean": "미스테리박스_재료_B급",
+        "raw_prob": 100.0,
+        "percentage": 33.3333
+      },
+      {
+        "category": "MBox_Mt_C",
+        "korean": "미스테리박스_재료_C급",
+        "raw_prob": 100.0,
+        "percentage": 33.3333
+      },
+      {
+        "category": "MBox_Coin",
+        "korean": "미스테리박스_코인",
+        "raw_prob": 100.0,
+        "percentage": 33.3333
+      }
+    ]
+  },
+  "Episode 4 (City of Wizards) - Stage Tier 3 - A Box (myBox_a)": {
+    "stuff_seq": "700432",
+    "episode": "Episode 4 (City of Wizards)",
+    "grade": "A",
+    "res_key": "myBox_a",
+    "total_prob": 3375.0,
+    "rates": [
+      {
+        "category": "MBox_TrTicket_3",
+        "korean": "미스테리박스_최고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_TrTicket_2",
+        "korean": "미스테리박스_고급보뽑",
+        "raw_prob": 50.0,
+        "percentage": 1.4815
+      },
+      {
+        "category": "MBox_Artifact",
+        "korean": "미스테리박스_유물",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_SS",
+        "korean": "미스테리박스_재료_SS급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_S",
+        "korean": "미스테리박스_재료_S급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_A",
+        "korean": "미스테리박스_재료_A급",
+        "raw_prob": 700.0,
+        "percentage": 20.7407
+      },
+      {
+        "category": "MBox_Mt_B",
+        "korean": "미스테리박스_재료_B급",
+        "raw_prob": 1700.0,
+        "percentage": 50.3704
+      },
+      {
+        "category": "MBox_Mt_C",
+        "korean": "미스테리박스_재료_C급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Coin",
+        "korean": "미스테리박스_코인",
+        "raw_prob": 925.0,
+        "percentage": 27.4074
+      }
+    ]
+  },
+  "Episode 4 (City of Wizards) - Stage Tier 3 - S Box (myBox_s)": {
+    "stuff_seq": "700433",
+    "episode": "Episode 4 (City of Wizards)",
+    "grade": "S",
+    "res_key": "myBox_s",
+    "total_prob": 4050.0,
+    "rates": [
+      {
+        "category": "MBox_TrTicket_3",
+        "korean": "미스테리박스_최고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_TrTicket_2",
+        "korean": "미스테리박스_고급보뽑",
+        "raw_prob": 50.0,
+        "percentage": 1.2346
+      },
+      {
+        "category": "MBox_Artifact",
+        "korean": "미스테리박스_유물",
+        "raw_prob": 1100.0,
+        "percentage": 27.1605
+      },
+      {
+        "category": "MBox_Mt_SS",
+        "korean": "미스테리박스_재료_SS급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_S",
+        "korean": "미스테리박스_재료_S급",
+        "raw_prob": 500.0,
+        "percentage": 12.3457
+      },
+      {
+        "category": "MBox_Mt_A",
+        "korean": "미스테리박스_재료_A급",
+        "raw_prob": 2400.0,
+        "percentage": 59.2593
+      },
+      {
+        "category": "MBox_Mt_B",
+        "korean": "미스테리박스_재료_B급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_C",
+        "korean": "미스테리박스_재료_C급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Coin",
+        "korean": "미스테리박스_코인",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      }
+    ]
+  },
+  "Episode 4 (City of Wizards) - Stage Tier 3 - C Box (myBox_c)": {
+    "stuff_seq": "700434",
+    "episode": "Episode 4 (City of Wizards)",
+    "grade": "C",
+    "res_key": "myBox_c",
+    "total_prob": 2275.0,
+    "rates": [
+      {
+        "category": "MBox_TrTicket_3",
+        "korean": "미스테리박스_최고급보뽑",
+        "raw_prob": 25.0,
+        "percentage": 1.0989
+      },
+      {
+        "category": "MBox_TrTicket_2",
+        "korean": "미스테리박스_고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Artifact",
+        "korean": "미스테리박스_유물",
+        "raw_prob": 800.0,
+        "percentage": 35.1648
+      },
+      {
+        "category": "MBox_Mt_SS",
+        "korean": "미스테리박스_재료_SS급",
+        "raw_prob": 250.0,
+        "percentage": 10.989
+      },
+      {
+        "category": "MBox_Mt_S",
+        "korean": "미스테리박스_재료_S급",
+        "raw_prob": 1200.0,
+        "percentage": 52.7473
+      },
+      {
+        "category": "MBox_Mt_A",
+        "korean": "미스테리박스_재료_A급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_B",
+        "korean": "미스테리박스_재료_B급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_C",
+        "korean": "미스테리박스_재료_C급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Coin",
+        "korean": "미스테리박스_코인",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      }
+    ]
+  },
+  "Special Episode 1 (Tower of Waves) - Stage Tier 1 - B Box (myBox_b)": {
+    "stuff_seq": "750111",
+    "episode": "Special Episode 1 (Tower of Waves)",
+    "grade": "B",
+    "res_key": "myBox_b",
+    "total_prob": 5700.0,
+    "rates": [
+      {
+        "category": "MBox_TrTicket_3",
+        "korean": "미스테리박스_최고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_TrTicket_2",
+        "korean": "미스테리박스_고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Artifact",
+        "korean": "미스테리박스_유물",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_SS",
+        "korean": "미스테리박스_재료_SS급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_S",
+        "korean": "미스테리박스_재료_S급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_A",
+        "korean": "미스테리박스_재료_A급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_B",
+        "korean": "미스테리박스_재료_B급",
+        "raw_prob": 300.0,
+        "percentage": 5.2632
+      },
+      {
+        "category": "MBox_Mt_C",
+        "korean": "미스테리박스_재료_C급",
+        "raw_prob": 2100.0,
+        "percentage": 36.8421
+      },
+      {
+        "category": "MBox_Coin",
+        "korean": "미스테리박스_코인",
+        "raw_prob": 3300.0,
+        "percentage": 57.8947
+      }
+    ]
+  },
+  "Special Episode 1 (Tower of Waves) - Stage Tier 1 - A Box (myBox_a)": {
+    "stuff_seq": "750112",
+    "episode": "Special Episode 1 (Tower of Waves)",
+    "grade": "A",
+    "res_key": "myBox_a",
+    "total_prob": 2350.0,
+    "rates": [
+      {
+        "category": "MBox_TrTicket_3",
+        "korean": "미스테리박스_최고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_TrTicket_2",
+        "korean": "미스테리박스_고급보뽑",
+        "raw_prob": 25.0,
+        "percentage": 1.0638
+      },
+      {
+        "category": "MBox_Artifact",
+        "korean": "미스테리박스_유물",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_SS",
+        "korean": "미스테리박스_재료_SS급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_S",
+        "korean": "미스테리박스_재료_S급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_A",
+        "korean": "미스테리박스_재료_A급",
+        "raw_prob": 500.0,
+        "percentage": 21.2766
+      },
+      {
+        "category": "MBox_Mt_B",
+        "korean": "미스테리박스_재료_B급",
+        "raw_prob": 1600.0,
+        "percentage": 68.0851
+      },
+      {
+        "category": "MBox_Mt_C",
+        "korean": "미스테리박스_재료_C급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Coin",
+        "korean": "미스테리박스_코인",
+        "raw_prob": 225.0,
+        "percentage": 9.5745
+      }
+    ]
+  },
+  "Special Episode 1 (Tower of Waves) - Stage Tier 1 - S Box (myBox_s)": {
+    "stuff_seq": "750113",
+    "episode": "Special Episode 1 (Tower of Waves)",
+    "grade": "S",
+    "res_key": "myBox_s",
+    "total_prob": 1625.0,
+    "rates": [
+      {
+        "category": "MBox_TrTicket_3",
+        "korean": "미스테리박스_최고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_TrTicket_2",
+        "korean": "미스테리박스_고급보뽑",
+        "raw_prob": 25.0,
+        "percentage": 1.5385
+      },
+      {
+        "category": "MBox_Artifact",
+        "korean": "미스테리박스_유물",
+        "raw_prob": 900.0,
+        "percentage": 55.3846
+      },
+      {
+        "category": "MBox_Mt_SS",
+        "korean": "미스테리박스_재료_SS급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_S",
+        "korean": "미스테리박스_재료_S급",
+        "raw_prob": 200.0,
+        "percentage": 12.3077
+      },
+      {
+        "category": "MBox_Mt_A",
+        "korean": "미스테리박스_재료_A급",
+        "raw_prob": 500.0,
+        "percentage": 30.7692
+      },
+      {
+        "category": "MBox_Mt_B",
+        "korean": "미스테리박스_재료_B급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_C",
+        "korean": "미스테리박스_재료_C급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Coin",
+        "korean": "미스테리박스_코인",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      }
+    ]
+  },
+  "Special Episode 1 (Tower of Waves) - Stage Tier 1 - C Box (myBox_c)": {
+    "stuff_seq": "750114",
+    "episode": "Special Episode 1 (Tower of Waves)",
+    "grade": "C",
+    "res_key": "myBox_c",
+    "total_prob": 325.0,
+    "rates": [
+      {
+        "category": "MBox_TrTicket_3",
+        "korean": "미스테리박스_최고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_TrTicket_2",
+        "korean": "미스테리박스_고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Artifact",
+        "korean": "미스테리박스_유물",
+        "raw_prob": 100.0,
+        "percentage": 30.7692
+      },
+      {
+        "category": "MBox_Mt_SS",
+        "korean": "미스테리박스_재료_SS급",
+        "raw_prob": 25.0,
+        "percentage": 7.6923
+      },
+      {
+        "category": "MBox_Mt_S",
+        "korean": "미스테리박스_재료_S급",
+        "raw_prob": 200.0,
+        "percentage": 61.5385
+      },
+      {
+        "category": "MBox_Mt_A",
+        "korean": "미스테리박스_재료_A급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_B",
+        "korean": "미스테리박스_재료_B급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_C",
+        "korean": "미스테리박스_재료_C급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Coin",
+        "korean": "미스테리박스_코인",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      }
+    ]
+  },
+  "Special Episode 1 (Tower of Waves) - Stage Tier 2 - B Box (myBox_b)": {
+    "stuff_seq": "750121",
+    "episode": "Special Episode 1 (Tower of Waves)",
+    "grade": "B",
+    "res_key": "myBox_b",
+    "total_prob": 3000.0,
+    "rates": [
+      {
+        "category": "MBox_TrTicket_3",
+        "korean": "미스테리박스_최고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_TrTicket_2",
+        "korean": "미스테리박스_고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Artifact",
+        "korean": "미스테리박스_유물",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_SS",
+        "korean": "미스테리박스_재료_SS급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_S",
+        "korean": "미스테리박스_재료_S급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_A",
+        "korean": "미스테리박스_재료_A급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_B",
+        "korean": "미스테리박스_재료_B급",
+        "raw_prob": 200.0,
+        "percentage": 6.6667
+      },
+      {
+        "category": "MBox_Mt_C",
+        "korean": "미스테리박스_재료_C급",
+        "raw_prob": 1000.0,
+        "percentage": 33.3333
+      },
+      {
+        "category": "MBox_Coin",
+        "korean": "미스테리박스_코인",
+        "raw_prob": 1800.0,
+        "percentage": 60.0
+      }
+    ]
+  },
+  "Special Episode 1 (Tower of Waves) - Stage Tier 2 - A Box (myBox_a)": {
+    "stuff_seq": "750122",
+    "episode": "Special Episode 1 (Tower of Waves)",
+    "grade": "A",
+    "res_key": "myBox_a",
+    "total_prob": 3250.0,
+    "rates": [
+      {
+        "category": "MBox_TrTicket_3",
+        "korean": "미스테리박스_최고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_TrTicket_2",
+        "korean": "미스테리박스_고급보뽑",
+        "raw_prob": 50.0,
+        "percentage": 1.5385
+      },
+      {
+        "category": "MBox_Artifact",
+        "korean": "미스테리박스_유물",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_SS",
+        "korean": "미스테리박스_재료_SS급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_S",
+        "korean": "미스테리박스_재료_S급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_A",
+        "korean": "미스테리박스_재료_A급",
+        "raw_prob": 400.0,
+        "percentage": 12.3077
+      },
+      {
+        "category": "MBox_Mt_B",
+        "korean": "미스테리박스_재료_B급",
+        "raw_prob": 2200.0,
+        "percentage": 67.6923
+      },
+      {
+        "category": "MBox_Mt_C",
+        "korean": "미스테리박스_재료_C급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Coin",
+        "korean": "미스테리박스_코인",
+        "raw_prob": 600.0,
+        "percentage": 18.4615
+      }
+    ]
+  },
+  "Special Episode 1 (Tower of Waves) - Stage Tier 2 - S Box (myBox_s)": {
+    "stuff_seq": "750123",
+    "episode": "Special Episode 1 (Tower of Waves)",
+    "grade": "S",
+    "res_key": "myBox_s",
+    "total_prob": 2750.0,
+    "rates": [
+      {
+        "category": "MBox_TrTicket_3",
+        "korean": "미스테리박스_최고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_TrTicket_2",
+        "korean": "미스테리박스_고급보뽑",
+        "raw_prob": 50.0,
+        "percentage": 1.8182
+      },
+      {
+        "category": "MBox_Artifact",
+        "korean": "미스테리박스_유물",
+        "raw_prob": 1300.0,
+        "percentage": 47.2727
+      },
+      {
+        "category": "MBox_Mt_SS",
+        "korean": "미스테리박스_재료_SS급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_S",
+        "korean": "미스테리박스_재료_S급",
+        "raw_prob": 300.0,
+        "percentage": 10.9091
+      },
+      {
+        "category": "MBox_Mt_A",
+        "korean": "미스테리박스_재료_A급",
+        "raw_prob": 1100.0,
+        "percentage": 40.0
+      },
+      {
+        "category": "MBox_Mt_B",
+        "korean": "미스테리박스_재료_B급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_C",
+        "korean": "미스테리박스_재료_C급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Coin",
+        "korean": "미스테리박스_코인",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      }
+    ]
+  },
+  "Special Episode 1 (Tower of Waves) - Stage Tier 2 - C Box (myBox_c)": {
+    "stuff_seq": "750124",
+    "episode": "Special Episode 1 (Tower of Waves)",
+    "grade": "C",
+    "res_key": "myBox_c",
+    "total_prob": 1000.0,
+    "rates": [
+      {
+        "category": "MBox_TrTicket_3",
+        "korean": "미스테리박스_최고급보뽑",
+        "raw_prob": 25.0,
+        "percentage": 2.5
+      },
+      {
+        "category": "MBox_TrTicket_2",
+        "korean": "미스테리박스_고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Artifact",
+        "korean": "미스테리박스_유물",
+        "raw_prob": 500.0,
+        "percentage": 50.0
+      },
+      {
+        "category": "MBox_Mt_SS",
+        "korean": "미스테리박스_재료_SS급",
+        "raw_prob": 75.0,
+        "percentage": 7.5
+      },
+      {
+        "category": "MBox_Mt_S",
+        "korean": "미스테리박스_재료_S급",
+        "raw_prob": 400.0,
+        "percentage": 40.0
+      },
+      {
+        "category": "MBox_Mt_A",
+        "korean": "미스테리박스_재료_A급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_B",
+        "korean": "미스테리박스_재료_B급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_C",
+        "korean": "미스테리박스_재료_C급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Coin",
+        "korean": "미스테리박스_코인",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      }
+    ]
+  },
+  "Special Episode 1 (Tower of Waves) - Stage Tier 3 - B Box (myBox_b)": {
+    "stuff_seq": "750131",
+    "episode": "Special Episode 1 (Tower of Waves)",
+    "grade": "B",
+    "res_key": "myBox_b",
+    "total_prob": 1800.0,
+    "rates": [
+      {
+        "category": "MBox_TrTicket_3",
+        "korean": "미스테리박스_최고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_TrTicket_2",
+        "korean": "미스테리박스_고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Artifact",
+        "korean": "미스테리박스_유물",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_SS",
+        "korean": "미스테리박스_재료_SS급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_S",
+        "korean": "미스테리박스_재료_S급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_A",
+        "korean": "미스테리박스_재료_A급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_B",
+        "korean": "미스테리박스_재료_B급",
+        "raw_prob": 500.0,
+        "percentage": 27.7778
+      },
+      {
+        "category": "MBox_Mt_C",
+        "korean": "미스테리박스_재료_C급",
+        "raw_prob": 500.0,
+        "percentage": 27.7778
+      },
+      {
+        "category": "MBox_Coin",
+        "korean": "미스테리박스_코인",
+        "raw_prob": 800.0,
+        "percentage": 44.4444
+      }
+    ]
+  },
+  "Special Episode 1 (Tower of Waves) - Stage Tier 3 - A Box (myBox_a)": {
+    "stuff_seq": "750132",
+    "episode": "Special Episode 1 (Tower of Waves)",
+    "grade": "A",
+    "res_key": "myBox_a",
+    "total_prob": 3900.0,
+    "rates": [
+      {
+        "category": "MBox_TrTicket_3",
+        "korean": "미스테리박스_최고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_TrTicket_2",
+        "korean": "미스테리박스_고급보뽑",
+        "raw_prob": 50.0,
+        "percentage": 1.2821
+      },
+      {
+        "category": "MBox_Artifact",
+        "korean": "미스테리박스_유물",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_SS",
+        "korean": "미스테리박스_재료_SS급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_S",
+        "korean": "미스테리박스_재료_S급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_A",
+        "korean": "미스테리박스_재료_A급",
+        "raw_prob": 600.0,
+        "percentage": 15.3846
+      },
+      {
+        "category": "MBox_Mt_B",
+        "korean": "미스테리박스_재료_B급",
+        "raw_prob": 2500.0,
+        "percentage": 64.1026
+      },
+      {
+        "category": "MBox_Mt_C",
+        "korean": "미스테리박스_재료_C급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Coin",
+        "korean": "미스테리박스_코인",
+        "raw_prob": 750.0,
+        "percentage": 19.2308
+      }
+    ]
+  },
+  "Special Episode 1 (Tower of Waves) - Stage Tier 3 - S Box (myBox_s)": {
+    "stuff_seq": "750133",
+    "episode": "Special Episode 1 (Tower of Waves)",
+    "grade": "S",
+    "res_key": "myBox_s",
+    "total_prob": 3150.0,
+    "rates": [
+      {
+        "category": "MBox_TrTicket_3",
+        "korean": "미스테리박스_최고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_TrTicket_2",
+        "korean": "미스테리박스_고급보뽑",
+        "raw_prob": 50.0,
+        "percentage": 1.5873
+      },
+      {
+        "category": "MBox_Artifact",
+        "korean": "미스테리박스_유물",
+        "raw_prob": 800.0,
+        "percentage": 25.3968
+      },
+      {
+        "category": "MBox_Mt_SS",
+        "korean": "미스테리박스_재료_SS급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_S",
+        "korean": "미스테리박스_재료_S급",
+        "raw_prob": 500.0,
+        "percentage": 15.873
+      },
+      {
+        "category": "MBox_Mt_A",
+        "korean": "미스테리박스_재료_A급",
+        "raw_prob": 1800.0,
+        "percentage": 57.1429
+      },
+      {
+        "category": "MBox_Mt_B",
+        "korean": "미스테리박스_재료_B급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_C",
+        "korean": "미스테리박스_재료_C급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Coin",
+        "korean": "미스테리박스_코인",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      }
+    ]
+  },
+  "Special Episode 1 (Tower of Waves) - Stage Tier 3 -  Box ()": {
+    "stuff_seq": "750134",
+    "episode": "Special Episode 1 (Tower of Waves)",
+    "grade": "",
+    "res_key": "",
+    "total_prob": 1150.0,
+    "rates": [
+      {
+        "category": "MBox_TrTicket_3",
+        "korean": "미스테리박스_최고급보뽑",
+        "raw_prob": 25.0,
+        "percentage": 2.1739
+      },
+      {
+        "category": "MBox_TrTicket_2",
+        "korean": "미스테리박스_고급보뽑",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Artifact",
+        "korean": "미스테리박스_유물",
+        "raw_prob": 300.0,
+        "percentage": 26.087
+      },
+      {
+        "category": "MBox_Mt_SS",
+        "korean": "미스테리박스_재료_SS급",
+        "raw_prob": 125.0,
+        "percentage": 10.8696
+      },
+      {
+        "category": "MBox_Mt_S",
+        "korean": "미스테리박스_재료_S급",
+        "raw_prob": 700.0,
+        "percentage": 60.8696
+      },
+      {
+        "category": "MBox_Mt_A",
+        "korean": "미스테리박스_재료_A급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_B",
+        "korean": "미스테리박스_재료_B급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Mt_C",
+        "korean": "미스테리박스_재료_C급",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      },
+      {
+        "category": "MBox_Coin",
+        "korean": "미스테리박스_코인",
+        "raw_prob": 0.0,
+        "percentage": 0.0
+      }
+    ]
+  }
+}

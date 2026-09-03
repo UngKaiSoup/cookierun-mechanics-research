@@ -1,0 +1,53 @@
+# =============================================================================
+# .gitignore for Cookie Run Reverse Engineering & Research Toolkit
+# Configured for Clean, Safe, and Legally Compliant GitHub Publication
+# =============================================================================
+
+# Python & Environment
+__pycache__/
+*.py[cod]
+*$py.class
+*.log
+.env
+venv/
+env/
+
+# Sensitive Local Archives & Research Scratchpads (Exclude scratch RAM scrapers & dumps)
+research_archive/
+binaries_and_dumps/
+CookieRun-DJBF-Converter/
+tools/CookieRun-DJBF-Converter-source/
+tools/cookie_run_treasure_converter.py
+GHIDRA_READY_SO/
+com.devsisters.crg/
+
+# Proprietary Game Binaries, Encrypted Archives & Raw Assets
+*.apk
+*.zip
+*.bin
+*.so
+*.djb
+*.exe
+*.mp4
+*.bank
+*.plist
+*.ccbi
+
+# IDE & Editor files
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Windows & OS metadata
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Scratch & Personal Drafts in docs/ (Keep ONLY _en and _th breakdowns)
+docs/ghidra_decompiled_code_breakdown.md
+docs/hp_drain_mechanics_proof.md
+docs/medium_article_cookie_run_ambulance.md
+docs/video_onscreen_text_script.md

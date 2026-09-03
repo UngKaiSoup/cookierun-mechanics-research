@@ -1,0 +1,26 @@
+[
+  {
+    "messageParam": "{\"title\":\"%s\"}",
+    "templateId": "lgcookie_present"
+  },
+  {
+    "__pkey": "1",
+    "messageParam": "{\"title\":\"%s\", \"score\":%d }",
+    "templateId": "lgcookie_ranking"
+  },
+  {
+    "__pkey": "2",
+    "messageParam": "{\"title\":\"%s\"}",
+    "templateId": "lgcookie_weeklyrank"
+  },
+  {
+    "__pkey": "3",
+    "messageParam": "{\"title\":\"%s\", \"score\":%d }",
+    "templateId": "lgcookie_score"
+  },
+  {
+    "__pkey": "4",
+    "messageParam": "{\"title\":\"%s\"}",
+    "templateId": "lgcookie_invite"
+  }
+]

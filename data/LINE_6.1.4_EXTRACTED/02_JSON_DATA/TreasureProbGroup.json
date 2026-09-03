@@ -1,0 +1,10012 @@
+{
+  "344": {
+    "group_seq": "1103200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "345": {
+    "group_seq": "1103200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "346": {
+    "group_seq": "1103200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "347": {
+    "group_seq": "1103200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "340": {
+    "group_seq": "1103100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "341": {
+    "group_seq": "1103100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "342": {
+    "group_seq": "1103200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "343": {
+    "group_seq": "1103200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "348": {
+    "group_seq": "1103200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "349": {
+    "group_seq": "1103200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1653": {
+    "group_seq": "1307300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "298": {
+    "group_seq": "1102800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "299": {
+    "group_seq": "1102800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "296": {
+    "group_seq": "1102700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "297": {
+    "group_seq": "1102700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "294": {
+    "group_seq": "1102700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "295": {
+    "group_seq": "1102700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "292": {
+    "group_seq": "1102700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "293": {
+    "group_seq": "1102700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "290": {
+    "group_seq": "1102700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "291": {
+    "group_seq": "1102700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "270": {
+    "group_seq": "1102500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "271": {
+    "group_seq": "1102500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "272": {
+    "group_seq": "1102500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "273": {
+    "group_seq": "1102500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "274": {
+    "group_seq": "1102500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "275": {
+    "group_seq": "1102500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "276": {
+    "group_seq": "1102600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "277": {
+    "group_seq": "1102600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "278": {
+    "group_seq": "1102600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "279": {
+    "group_seq": "1102600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1780": {
+    "group_seq": "1308400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1781": {
+    "group_seq": "1308400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "108": {
+    "group_seq": "1101000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "109": {
+    "group_seq": "1101000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "102": {
+    "group_seq": "1101000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "103": {
+    "group_seq": "1101000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "100": {
+    "group_seq": "1101000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "101": {
+    "group_seq": "1101000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "106": {
+    "group_seq": "1101000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "107": {
+    "group_seq": "1101000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "104": {
+    "group_seq": "1101000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "105": {
+    "group_seq": "1101000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1372": {
+    "group_seq": "1304700",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1001": {
+    "group_seq": "1301300",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1210": {
+    "group_seq": "1303200",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1375": {
+    "group_seq": "1304700",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1655": {
+    "group_seq": "1307300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1374": {
+    "group_seq": "1304700",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "99": {
+    "group_seq": "1100900",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "98": {
+    "group_seq": "1100900",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "91": {
+    "group_seq": "1100900",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "90": {
+    "group_seq": "1100900",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "93": {
+    "group_seq": "1100900",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "92": {
+    "group_seq": "1100900",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "95": {
+    "group_seq": "1100900",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "94": {
+    "group_seq": "1100900",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "97": {
+    "group_seq": "1100900",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "96": {
+    "group_seq": "1100900",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1623": {
+    "group_seq": "1307000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1622": {
+    "group_seq": "1307000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1621": {
+    "group_seq": "1307000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1620": {
+    "group_seq": "1307000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1627": {
+    "group_seq": "1307000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1626": {
+    "group_seq": "1307000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1625": {
+    "group_seq": "1307000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1624": {
+    "group_seq": "1307000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1999": {
+    "group_seq": "1501400",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1998": {
+    "group_seq": "1501400",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1629": {
+    "group_seq": "1307100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1377": {
+    "group_seq": "1304800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "559": {
+    "group_seq": "1201600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "558": {
+    "group_seq": "1201600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "555": {
+    "group_seq": "1201600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "554": {
+    "group_seq": "1201600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "557": {
+    "group_seq": "1201600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "556": {
+    "group_seq": "1201600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "551": {
+    "group_seq": "1201600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "550": {
+    "group_seq": "1201500",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "553": {
+    "group_seq": "1201600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "552": {
+    "group_seq": "1201600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1439": {
+    "group_seq": "1305300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1199": {
+    "group_seq": "1303100",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1198": {
+    "group_seq": "1303100",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1191": {
+    "group_seq": "1303100",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1190": {
+    "group_seq": "1303100",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1193": {
+    "group_seq": "1303100",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1192": {
+    "group_seq": "1303100",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1195": {
+    "group_seq": "1303100",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1194": {
+    "group_seq": "1303100",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1197": {
+    "group_seq": "1303100",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1196": {
+    "group_seq": "1303100",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1759": {
+    "group_seq": "1308200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1758": {
+    "group_seq": "1308200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1757": {
+    "group_seq": "1308200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1756": {
+    "group_seq": "1308200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1755": {
+    "group_seq": "1308200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1754": {
+    "group_seq": "1308200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1753": {
+    "group_seq": "1308200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1752": {
+    "group_seq": "1308200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1751": {
+    "group_seq": "1308200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1750": {
+    "group_seq": "1308200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1177": {
+    "group_seq": "1302900",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1176": {
+    "group_seq": "1302900",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1175": {
+    "group_seq": "1302900",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1174": {
+    "group_seq": "1302900",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1173": {
+    "group_seq": "1302900",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1172": {
+    "group_seq": "1302900",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1171": {
+    "group_seq": "1302900",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1170": {
+    "group_seq": "1302900",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1179": {
+    "group_seq": "1303000",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1178": {
+    "group_seq": "1303000",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "511": {
+    "group_seq": "1201200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "510": {
+    "group_seq": "1201200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "513": {
+    "group_seq": "1201200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1285": {
+    "group_seq": "1303900",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1284": {
+    "group_seq": "1303900",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1287": {
+    "group_seq": "1303900",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "512": {
+    "group_seq": "1201200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1281": {
+    "group_seq": "1303900",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1280": {
+    "group_seq": "1303900",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1283": {
+    "group_seq": "1303900",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1282": {
+    "group_seq": "1303900",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1003": {
+    "group_seq": "1301400",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "879": {
+    "group_seq": "1300200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1289": {
+    "group_seq": "1304000",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1288": {
+    "group_seq": "1304000",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "514": {
+    "group_seq": "1201200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1579": {
+    "group_seq": "1306600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1578": {
+    "group_seq": "1306600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "689": {
+    "group_seq": "1203000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "688": {
+    "group_seq": "1203000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "685": {
+    "group_seq": "1203000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "684": {
+    "group_seq": "1203000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "687": {
+    "group_seq": "1203000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "686": {
+    "group_seq": "1203000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "681": {
+    "group_seq": "1202900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "680": {
+    "group_seq": "1202900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "683": {
+    "group_seq": "1203000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "682": {
+    "group_seq": "1202900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "458": {
+    "group_seq": "1200700",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1226": {
+    "group_seq": "1303400",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "621": {
+    "group_seq": "1202300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "873": {
+    "group_seq": "1300200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1224": {
+    "group_seq": "1303400",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1223": {
+    "group_seq": "1303400",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1222": {
+    "group_seq": "1303400",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1221": {
+    "group_seq": "1303300",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1220": {
+    "group_seq": "1303300",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "407": {
+    "group_seq": "1200200",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "406": {
+    "group_seq": "1200200",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "405": {
+    "group_seq": "1200200",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "404": {
+    "group_seq": "1200200",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "403": {
+    "group_seq": "1200200",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "402": {
+    "group_seq": "1200200",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "401": {
+    "group_seq": "1200200",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "400": {
+    "group_seq": "1200200",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1379": {
+    "group_seq": "1304800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1378": {
+    "group_seq": "1304800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1342": {
+    "group_seq": "1304400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "409": {
+    "group_seq": "1200300",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "408": {
+    "group_seq": "1200300",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "453": {
+    "group_seq": "1200700",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "454": {
+    "group_seq": "1200700",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "455": {
+    "group_seq": "1200700",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1346": {
+    "group_seq": "1304500",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1347": {
+    "group_seq": "1304500",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "379": {
+    "group_seq": "1103500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "378": {
+    "group_seq": "1103500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "371": {
+    "group_seq": "1103400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "370": {
+    "group_seq": "1103400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "373": {
+    "group_seq": "1103400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "372": {
+    "group_seq": "1103400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "375": {
+    "group_seq": "1103500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "374": {
+    "group_seq": "1103400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "377": {
+    "group_seq": "1103500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "376": {
+    "group_seq": "1103500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "393": {
+    "group_seq": "1200100",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "392": {
+    "group_seq": "1200100",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "391": {
+    "group_seq": "1200100",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "390": {
+    "group_seq": "1200100",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "397": {
+    "group_seq": "1200200",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "396": {
+    "group_seq": "1200100",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "395": {
+    "group_seq": "1200100",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "394": {
+    "group_seq": "1200100",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "399": {
+    "group_seq": "1200200",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "398": {
+    "group_seq": "1200200",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "895": {
+    "group_seq": "1300400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "245": {
+    "group_seq": "1102300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "244": {
+    "group_seq": "1102300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "247": {
+    "group_seq": "1102300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "246": {
+    "group_seq": "1102300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "241": {
+    "group_seq": "1102200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "240": {
+    "group_seq": "1102200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "243": {
+    "group_seq": "1102300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "242": {
+    "group_seq": "1102200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "249": {
+    "group_seq": "1102300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "248": {
+    "group_seq": "1102300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "179": {
+    "group_seq": "1101700",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "178": {
+    "group_seq": "1101700",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "177": {
+    "group_seq": "1101700",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "176": {
+    "group_seq": "1101600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "175": {
+    "group_seq": "1101600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "174": {
+    "group_seq": "1101600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "173": {
+    "group_seq": "1101600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "172": {
+    "group_seq": "1101600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "171": {
+    "group_seq": "1101600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "170": {
+    "group_seq": "1101600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1502": {
+    "group_seq": "1305900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1503": {
+    "group_seq": "1305900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1500": {
+    "group_seq": "1305900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1501": {
+    "group_seq": "1305900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1506": {
+    "group_seq": "1305900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1507": {
+    "group_seq": "1305900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1367": {
+    "group_seq": "1304700",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1504": {
+    "group_seq": "1305900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1505": {
+    "group_seq": "1305900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1227": {
+    "group_seq": "1303400",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1977": {
+    "group_seq": "1501200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1976": {
+    "group_seq": "1501200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "659": {
+    "group_seq": "1202700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1975": {
+    "group_seq": "1501200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1974": {
+    "group_seq": "1501200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1973": {
+    "group_seq": "1501200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1972": {
+    "group_seq": "1501200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1971": {
+    "group_seq": "1501200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1970": {
+    "group_seq": "1501200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1968": {
+    "group_seq": "1501100",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1969": {
+    "group_seq": "1501100",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1618": {
+    "group_seq": "1307000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1619": {
+    "group_seq": "1307000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1616": {
+    "group_seq": "1306900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1617": {
+    "group_seq": "1306900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1614": {
+    "group_seq": "1306900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1615": {
+    "group_seq": "1306900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1612": {
+    "group_seq": "1306900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1613": {
+    "group_seq": "1306900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1610": {
+    "group_seq": "1306900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1611": {
+    "group_seq": "1306900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1985": {
+    "group_seq": "1501300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1768": {
+    "group_seq": "1308300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1769": {
+    "group_seq": "1308300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1762": {
+    "group_seq": "1308300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1763": {
+    "group_seq": "1308300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1760": {
+    "group_seq": "1308200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1761": {
+    "group_seq": "1308300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1766": {
+    "group_seq": "1308300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1767": {
+    "group_seq": "1308300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1764": {
+    "group_seq": "1308300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1765": {
+    "group_seq": "1308300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1142": {
+    "group_seq": "1302600",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1143": {
+    "group_seq": "1302600",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1140": {
+    "group_seq": "1302600",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1141": {
+    "group_seq": "1302600",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1146": {
+    "group_seq": "1302700",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1147": {
+    "group_seq": "1302700",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1144": {
+    "group_seq": "1302600",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1145": {
+    "group_seq": "1302700",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1148": {
+    "group_seq": "1302700",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1149": {
+    "group_seq": "1302700",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "692": {
+    "group_seq": "1203000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "693": {
+    "group_seq": "1203000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "690": {
+    "group_seq": "1203000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "691": {
+    "group_seq": "1203000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "696": {
+    "group_seq": "1203100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "697": {
+    "group_seq": "1203100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "694": {
+    "group_seq": "1203100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "695": {
+    "group_seq": "1203100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "698": {
+    "group_seq": "1203100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "699": {
+    "group_seq": "1203100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1548": {
+    "group_seq": "1306300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1549": {
+    "group_seq": "1306300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "542": {
+    "group_seq": "1201500",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "543": {
+    "group_seq": "1201500",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "540": {
+    "group_seq": "1201500",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "541": {
+    "group_seq": "1201500",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "546": {
+    "group_seq": "1201500",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "547": {
+    "group_seq": "1201500",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "544": {
+    "group_seq": "1201500",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "545": {
+    "group_seq": "1201500",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "548": {
+    "group_seq": "1201500",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "549": {
+    "group_seq": "1201500",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1782": {
+    "group_seq": "1308400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1783": {
+    "group_seq": "1308500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1784": {
+    "group_seq": "1308500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1785": {
+    "group_seq": "1308500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1786": {
+    "group_seq": "1308500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1787": {
+    "group_seq": "1308500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "414": {
+    "group_seq": "1200300",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "415": {
+    "group_seq": "1200300",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "416": {
+    "group_seq": "1200300",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "417": {
+    "group_seq": "1200300",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "410": {
+    "group_seq": "1200300",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "411": {
+    "group_seq": "1200300",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "412": {
+    "group_seq": "1200300",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "413": {
+    "group_seq": "1200300",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1384": {
+    "group_seq": "1304800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1385": {
+    "group_seq": "1304800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1386": {
+    "group_seq": "1304800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1387": {
+    "group_seq": "1304900",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "418": {
+    "group_seq": "1200300",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "419": {
+    "group_seq": "1200400",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1382": {
+    "group_seq": "1304800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1383": {
+    "group_seq": "1304800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "368": {
+    "group_seq": "1103400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "369": {
+    "group_seq": "1103400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "366": {
+    "group_seq": "1103400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "367": {
+    "group_seq": "1103400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "364": {
+    "group_seq": "1103400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "365": {
+    "group_seq": "1103400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "362": {
+    "group_seq": "1103300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "363": {
+    "group_seq": "1103300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "360": {
+    "group_seq": "1103300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "361": {
+    "group_seq": "1103300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "380": {
+    "group_seq": "1103500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "381": {
+    "group_seq": "1103500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "382": {
+    "group_seq": "1103500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "383": {
+    "group_seq": "1103500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "384": {
+    "group_seq": "1103500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "385": {
+    "group_seq": "1103500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "386": {
+    "group_seq": "1200100",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "387": {
+    "group_seq": "1200100",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "388": {
+    "group_seq": "1200100",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "389": {
+    "group_seq": "1200100",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "258": {
+    "group_seq": "1102400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "259": {
+    "group_seq": "1102400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "252": {
+    "group_seq": "1102300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "253": {
+    "group_seq": "1102300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "250": {
+    "group_seq": "1102300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "251": {
+    "group_seq": "1102300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "256": {
+    "group_seq": "1102400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "257": {
+    "group_seq": "1102400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "254": {
+    "group_seq": "1102400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "255": {
+    "group_seq": "1102400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1679": {
+    "group_seq": "1307500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1849": {
+    "group_seq": "1500100",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1848": {
+    "group_seq": "1309000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "168": {
+    "group_seq": "1101600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "169": {
+    "group_seq": "1101600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "164": {
+    "group_seq": "1101500",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "165": {
+    "group_seq": "1101500",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "166": {
+    "group_seq": "1101600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "167": {
+    "group_seq": "1101600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "160": {
+    "group_seq": "1101500",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "161": {
+    "group_seq": "1101500",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "162": {
+    "group_seq": "1101500",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "163": {
+    "group_seq": "1101500",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1842": {
+    "group_seq": "1309000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1841": {
+    "group_seq": "1309000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1840": {
+    "group_seq": "1309000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "678": {
+    "group_seq": "1202900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "679": {
+    "group_seq": "1202900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1814": {
+    "group_seq": "1308700",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1815": {
+    "group_seq": "1308700",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1816": {
+    "group_seq": "1308800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1817": {
+    "group_seq": "1308800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1810": {
+    "group_seq": "1308700",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1811": {
+    "group_seq": "1308700",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1812": {
+    "group_seq": "1308700",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1813": {
+    "group_seq": "1308700",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1818": {
+    "group_seq": "1308800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1819": {
+    "group_seq": "1308800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "670": {
+    "group_seq": "1202800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "671": {
+    "group_seq": "1202800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1609": {
+    "group_seq": "1306900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1608": {
+    "group_seq": "1306900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1979": {
+    "group_seq": "1501200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1978": {
+    "group_seq": "1501200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1601": {
+    "group_seq": "1306800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1600": {
+    "group_seq": "1306800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1603": {
+    "group_seq": "1306800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1602": {
+    "group_seq": "1306800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1605": {
+    "group_seq": "1306800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1604": {
+    "group_seq": "1306800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1607": {
+    "group_seq": "1306900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1606": {
+    "group_seq": "1306800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "809": {
+    "group_seq": "1204100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "808": {
+    "group_seq": "1204100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "803": {
+    "group_seq": "1204000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "802": {
+    "group_seq": "1204000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "801": {
+    "group_seq": "1204000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "800": {
+    "group_seq": "1204000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "807": {
+    "group_seq": "1204100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "806": {
+    "group_seq": "1204100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "805": {
+    "group_seq": "1204100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "804": {
+    "group_seq": "1204100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1775": {
+    "group_seq": "1308400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1774": {
+    "group_seq": "1308400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1777": {
+    "group_seq": "1308400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1776": {
+    "group_seq": "1308400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1771": {
+    "group_seq": "1308300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1770": {
+    "group_seq": "1308300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1773": {
+    "group_seq": "1308400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1772": {
+    "group_seq": "1308400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1779": {
+    "group_seq": "1308400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1778": {
+    "group_seq": "1308400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "608": {
+    "group_seq": "1202100",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1159": {
+    "group_seq": "1302800",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1158": {
+    "group_seq": "1302800",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1155": {
+    "group_seq": "1302700",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1154": {
+    "group_seq": "1302700",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1157": {
+    "group_seq": "1302800",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1156": {
+    "group_seq": "1302800",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1151": {
+    "group_seq": "1302700",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1150": {
+    "group_seq": "1302700",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1153": {
+    "group_seq": "1302700",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1152": {
+    "group_seq": "1302700",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1555": {
+    "group_seq": "1306400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1554": {
+    "group_seq": "1306400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1551": {
+    "group_seq": "1306300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1550": {
+    "group_seq": "1306300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1553": {
+    "group_seq": "1306400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1552": {
+    "group_seq": "1306400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "59": {
+    "group_seq": "1100600",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "58": {
+    "group_seq": "1100600",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1557": {
+    "group_seq": "1306400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1556": {
+    "group_seq": "1306400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "55": {
+    "group_seq": "1100500",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "54": {
+    "group_seq": "1100500",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "57": {
+    "group_seq": "1100600",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "56": {
+    "group_seq": "1100600",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "51": {
+    "group_seq": "1100500",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "50": {
+    "group_seq": "1100500",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "53": {
+    "group_seq": "1100500",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "52": {
+    "group_seq": "1100500",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "537": {
+    "group_seq": "1201400",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "536": {
+    "group_seq": "1201400",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "535": {
+    "group_seq": "1201400",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "534": {
+    "group_seq": "1201400",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "533": {
+    "group_seq": "1201400",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "532": {
+    "group_seq": "1201400",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "531": {
+    "group_seq": "1201400",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "530": {
+    "group_seq": "1201400",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "539": {
+    "group_seq": "1201400",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "538": {
+    "group_seq": "1201400",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1558": {
+    "group_seq": "1306400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "429": {
+    "group_seq": "1200400",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "428": {
+    "group_seq": "1200400",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1399": {
+    "group_seq": "1305000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1398": {
+    "group_seq": "1305000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "421": {
+    "group_seq": "1200400",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "420": {
+    "group_seq": "1200400",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "423": {
+    "group_seq": "1200400",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "422": {
+    "group_seq": "1200400",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "425": {
+    "group_seq": "1200400",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "424": {
+    "group_seq": "1200400",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "427": {
+    "group_seq": "1200400",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "426": {
+    "group_seq": "1200400",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "229": {
+    "group_seq": "1102100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "228": {
+    "group_seq": "1102100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "227": {
+    "group_seq": "1102100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "226": {
+    "group_seq": "1102100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "225": {
+    "group_seq": "1102100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "224": {
+    "group_seq": "1102100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "223": {
+    "group_seq": "1102100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "222": {
+    "group_seq": "1102100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "221": {
+    "group_seq": "1102100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "220": {
+    "group_seq": "1102000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "151": {
+    "group_seq": "1101400",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "150": {
+    "group_seq": "1101400",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "153": {
+    "group_seq": "1101400",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "152": {
+    "group_seq": "1101400",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "155": {
+    "group_seq": "1101500",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "154": {
+    "group_seq": "1101400",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "157": {
+    "group_seq": "1101500",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "156": {
+    "group_seq": "1101500",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "159": {
+    "group_seq": "1101500",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "158": {
+    "group_seq": "1101500",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1807": {
+    "group_seq": "1308700",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1806": {
+    "group_seq": "1308700",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1805": {
+    "group_seq": "1308700",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1804": {
+    "group_seq": "1308600",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1803": {
+    "group_seq": "1308600",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1802": {
+    "group_seq": "1308600",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1801": {
+    "group_seq": "1308600",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1800": {
+    "group_seq": "1308600",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1809": {
+    "group_seq": "1308700",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1808": {
+    "group_seq": "1308700",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1524": {
+    "group_seq": "1306100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1948": {
+    "group_seq": "1501000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1544": {
+    "group_seq": "1306300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1525": {
+    "group_seq": "1306100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1942": {
+    "group_seq": "1500900",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1943": {
+    "group_seq": "1500900",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1940": {
+    "group_seq": "1500900",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1941": {
+    "group_seq": "1500900",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1946": {
+    "group_seq": "1500900",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1526": {
+    "group_seq": "1306100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1944": {
+    "group_seq": "1500900",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1945": {
+    "group_seq": "1500900",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "818": {
+    "group_seq": "1204200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "819": {
+    "group_seq": "1204200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1527": {
+    "group_seq": "1306100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "810": {
+    "group_seq": "1204100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "811": {
+    "group_seq": "1204100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "812": {
+    "group_seq": "1204100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "813": {
+    "group_seq": "1204100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "814": {
+    "group_seq": "1204100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "815": {
+    "group_seq": "1204200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "816": {
+    "group_seq": "1204200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "817": {
+    "group_seq": "1204200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1545": {
+    "group_seq": "1306300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1522": {
+    "group_seq": "1306100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1990": {
+    "group_seq": "1501300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1523": {
+    "group_seq": "1306100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1993": {
+    "group_seq": "1501400",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1490": {
+    "group_seq": "1305800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1397": {
+    "group_seq": "1304900",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1492": {
+    "group_seq": "1305800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1493": {
+    "group_seq": "1305800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1494": {
+    "group_seq": "1305800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1495": {
+    "group_seq": "1305800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1496": {
+    "group_seq": "1305800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1396": {
+    "group_seq": "1304900",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1498": {
+    "group_seq": "1305900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1499": {
+    "group_seq": "1305900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1395": {
+    "group_seq": "1304900",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1994": {
+    "group_seq": "1501400",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1700": {
+    "group_seq": "1307700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1701": {
+    "group_seq": "1307700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1702": {
+    "group_seq": "1307700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1394": {
+    "group_seq": "1304900",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1704": {
+    "group_seq": "1307700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1705": {
+    "group_seq": "1307700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1706": {
+    "group_seq": "1307800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1707": {
+    "group_seq": "1307800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1708": {
+    "group_seq": "1307800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1393": {
+    "group_seq": "1304900",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1996": {
+    "group_seq": "1501400",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1392": {
+    "group_seq": "1304900",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1391": {
+    "group_seq": "1304900",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1390": {
+    "group_seq": "1304900",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1128": {
+    "group_seq": "1302500",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1129": {
+    "group_seq": "1302500",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1628": {
+    "group_seq": "1307000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1120": {
+    "group_seq": "1302400",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1121": {
+    "group_seq": "1302400",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1122": {
+    "group_seq": "1302400",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1123": {
+    "group_seq": "1302500",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1124": {
+    "group_seq": "1302500",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1125": {
+    "group_seq": "1302500",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1126": {
+    "group_seq": "1302500",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1127": {
+    "group_seq": "1302500",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "524": {
+    "group_seq": "1201300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "525": {
+    "group_seq": "1201300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "526": {
+    "group_seq": "1201300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "527": {
+    "group_seq": "1201300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "520": {
+    "group_seq": "1201300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "521": {
+    "group_seq": "1201300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "522": {
+    "group_seq": "1201300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "523": {
+    "group_seq": "1201300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1014": {
+    "group_seq": "1301500",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1015": {
+    "group_seq": "1301500",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1016": {
+    "group_seq": "1301500",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1017": {
+    "group_seq": "1301500",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "528": {
+    "group_seq": "1201300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "529": {
+    "group_seq": "1201400",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1012": {
+    "group_seq": "1301400",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1013": {
+    "group_seq": "1301500",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1234": {
+    "group_seq": "1303500",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1235": {
+    "group_seq": "1303500",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1236": {
+    "group_seq": "1303500",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1237": {
+    "group_seq": "1303500",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1230": {
+    "group_seq": "1303400",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1231": {
+    "group_seq": "1303400",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1232": {
+    "group_seq": "1303400",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1233": {
+    "group_seq": "1303500",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1238": {
+    "group_seq": "1303500",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1239": {
+    "group_seq": "1303500",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "438": {
+    "group_seq": "1200500",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "439": {
+    "group_seq": "1200500",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "436": {
+    "group_seq": "1200500",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "437": {
+    "group_seq": "1200500",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "434": {
+    "group_seq": "1200500",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "435": {
+    "group_seq": "1200500",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "432": {
+    "group_seq": "1200500",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "433": {
+    "group_seq": "1200500",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "430": {
+    "group_seq": "1200500",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "431": {
+    "group_seq": "1200500",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1967": {
+    "group_seq": "1501100",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1960": {
+    "group_seq": "1501100",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1961": {
+    "group_seq": "1501100",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "238": {
+    "group_seq": "1102200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "239": {
+    "group_seq": "1102200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "234": {
+    "group_seq": "1102200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "235": {
+    "group_seq": "1102200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "236": {
+    "group_seq": "1102200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "237": {
+    "group_seq": "1102200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "230": {
+    "group_seq": "1102100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "231": {
+    "group_seq": "1102100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "232": {
+    "group_seq": "1102200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "233": {
+    "group_seq": "1102200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1": {
+    "group_seq": "1100100",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "146": {
+    "group_seq": "1101400",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "147": {
+    "group_seq": "1101400",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "144": {
+    "group_seq": "1101400",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "145": {
+    "group_seq": "1101400",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "142": {
+    "group_seq": "1101300",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "143": {
+    "group_seq": "1101300",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "140": {
+    "group_seq": "1101300",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "141": {
+    "group_seq": "1101300",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "148": {
+    "group_seq": "1101400",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "149": {
+    "group_seq": "1101400",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1832": {
+    "group_seq": "1308900",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1833": {
+    "group_seq": "1308900",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1830": {
+    "group_seq": "1308900",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1831": {
+    "group_seq": "1308900",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1836": {
+    "group_seq": "1308900",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1837": {
+    "group_seq": "1308900",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1834": {
+    "group_seq": "1308900",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1835": {
+    "group_seq": "1308900",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1838": {
+    "group_seq": "1309000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1839": {
+    "group_seq": "1309000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "939": {
+    "group_seq": "1300800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "938": {
+    "group_seq": "1300800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "933": {
+    "group_seq": "1300700",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "932": {
+    "group_seq": "1300700",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "931": {
+    "group_seq": "1300700",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "930": {
+    "group_seq": "1300700",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "937": {
+    "group_seq": "1300800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "936": {
+    "group_seq": "1300800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "935": {
+    "group_seq": "1300700",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "934": {
+    "group_seq": "1300700",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1955": {
+    "group_seq": "1501000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1954": {
+    "group_seq": "1501000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1957": {
+    "group_seq": "1501000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1956": {
+    "group_seq": "1501000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1951": {
+    "group_seq": "1501000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1950": {
+    "group_seq": "1501000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1953": {
+    "group_seq": "1501000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1952": {
+    "group_seq": "1501000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1959": {
+    "group_seq": "1501100",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1958": {
+    "group_seq": "1501000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "829": {
+    "group_seq": "1204300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "828": {
+    "group_seq": "1204300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "825": {
+    "group_seq": "1204200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "824": {
+    "group_seq": "1204200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "827": {
+    "group_seq": "1204300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "826": {
+    "group_seq": "1204300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "821": {
+    "group_seq": "1204200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "820": {
+    "group_seq": "1204200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "823": {
+    "group_seq": "1204200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "822": {
+    "group_seq": "1204200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1536": {
+    "group_seq": "1306200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1483": {
+    "group_seq": "1305700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1482": {
+    "group_seq": "1305700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1481": {
+    "group_seq": "1305700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1480": {
+    "group_seq": "1305700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1487": {
+    "group_seq": "1305800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1486": {
+    "group_seq": "1305800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1485": {
+    "group_seq": "1305700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1484": {
+    "group_seq": "1305700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1489": {
+    "group_seq": "1305800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1488": {
+    "group_seq": "1305800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "797": {
+    "group_seq": "1204000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "796": {
+    "group_seq": "1204000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "795": {
+    "group_seq": "1204000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "794": {
+    "group_seq": "1204000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "793": {
+    "group_seq": "1204000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "792": {
+    "group_seq": "1203900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "791": {
+    "group_seq": "1203900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "790": {
+    "group_seq": "1203900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1719": {
+    "group_seq": "1307900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1718": {
+    "group_seq": "1307900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "799": {
+    "group_seq": "1204000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "798": {
+    "group_seq": "1204000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1270": {
+    "group_seq": "1303800",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1271": {
+    "group_seq": "1303800",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1272": {
+    "group_seq": "1303800",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1139": {
+    "group_seq": "1302600",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1138": {
+    "group_seq": "1302600",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1133": {
+    "group_seq": "1302500",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1132": {
+    "group_seq": "1302500",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1131": {
+    "group_seq": "1302500",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1130": {
+    "group_seq": "1302500",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1137": {
+    "group_seq": "1302600",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1136": {
+    "group_seq": "1302600",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1135": {
+    "group_seq": "1302600",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1134": {
+    "group_seq": "1302600",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1276": {
+    "group_seq": "1303800",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1277": {
+    "group_seq": "1303900",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "519": {
+    "group_seq": "1201300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "518": {
+    "group_seq": "1201300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1009": {
+    "group_seq": "1301400",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1008": {
+    "group_seq": "1301400",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1007": {
+    "group_seq": "1301400",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1006": {
+    "group_seq": "1301400",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1005": {
+    "group_seq": "1301400",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1004": {
+    "group_seq": "1301400",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "515": {
+    "group_seq": "1201200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1002": {
+    "group_seq": "1301400",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "517": {
+    "group_seq": "1201200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1000": {
+    "group_seq": "1301300",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "623": {
+    "group_seq": "1202300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "622": {
+    "group_seq": "1202300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1225": {
+    "group_seq": "1303400",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "620": {
+    "group_seq": "1202300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "627": {
+    "group_seq": "1202300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "626": {
+    "group_seq": "1202300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "625": {
+    "group_seq": "1202300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "624": {
+    "group_seq": "1202300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "629": {
+    "group_seq": "1202400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "628": {
+    "group_seq": "1202400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1229": {
+    "group_seq": "1303400",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1228": {
+    "group_seq": "1303400",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1535": {
+    "group_seq": "1306200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "2": {
+    "group_seq": "1100100",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1286": {
+    "group_seq": "1303900",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "11": {
+    "group_seq": "1100100",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "10": {
+    "group_seq": "1100100",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "13": {
+    "group_seq": "1100200",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "12": {
+    "group_seq": "1100200",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "15": {
+    "group_seq": "1100200",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "14": {
+    "group_seq": "1100200",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "17": {
+    "group_seq": "1100200",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "16": {
+    "group_seq": "1100200",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "19": {
+    "group_seq": "1100200",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "18": {
+    "group_seq": "1100200",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1534": {
+    "group_seq": "1306200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "201": {
+    "group_seq": "1101900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "200": {
+    "group_seq": "1101900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "203": {
+    "group_seq": "1101900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "202": {
+    "group_seq": "1101900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "205": {
+    "group_seq": "1101900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "204": {
+    "group_seq": "1101900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "207": {
+    "group_seq": "1101900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "206": {
+    "group_seq": "1101900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "209": {
+    "group_seq": "1101900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "208": {
+    "group_seq": "1101900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1573": {
+    "group_seq": "1306500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1572": {
+    "group_seq": "1306500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1571": {
+    "group_seq": "1306500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1570": {
+    "group_seq": "1306500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1577": {
+    "group_seq": "1306600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1576": {
+    "group_seq": "1306600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1575": {
+    "group_seq": "1306600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1574": {
+    "group_seq": "1306600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1829": {
+    "group_seq": "1308900",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1828": {
+    "group_seq": "1308900",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1825": {
+    "group_seq": "1308800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1824": {
+    "group_seq": "1308800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1827": {
+    "group_seq": "1308900",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1826": {
+    "group_seq": "1308800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1821": {
+    "group_seq": "1308800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1820": {
+    "group_seq": "1308800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1823": {
+    "group_seq": "1308800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1822": {
+    "group_seq": "1308800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "928": {
+    "group_seq": "1300700",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "929": {
+    "group_seq": "1300700",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "920": {
+    "group_seq": "1300600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "921": {
+    "group_seq": "1300600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "922": {
+    "group_seq": "1300600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "923": {
+    "group_seq": "1300600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "924": {
+    "group_seq": "1300600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "925": {
+    "group_seq": "1300700",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "926": {
+    "group_seq": "1300700",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "927": {
+    "group_seq": "1300700",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1920": {
+    "group_seq": "1500700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1921": {
+    "group_seq": "1500700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1922": {
+    "group_seq": "1500700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1923": {
+    "group_seq": "1500700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1924": {
+    "group_seq": "1500700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1925": {
+    "group_seq": "1500700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1926": {
+    "group_seq": "1500800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1927": {
+    "group_seq": "1500800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1928": {
+    "group_seq": "1500800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1929": {
+    "group_seq": "1500800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "832": {
+    "group_seq": "1204300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "833": {
+    "group_seq": "1204300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "830": {
+    "group_seq": "1204300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "831": {
+    "group_seq": "1204300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "836": {
+    "group_seq": "1204300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "837": {
+    "group_seq": "1204400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "834": {
+    "group_seq": "1204300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "835": {
+    "group_seq": "1204300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "838": {
+    "group_seq": "1204400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "839": {
+    "group_seq": "1204400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "3": {
+    "group_seq": "1100100",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1986": {
+    "group_seq": "1501300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1987": {
+    "group_seq": "1501300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1532": {
+    "group_seq": "1306200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "784": {
+    "group_seq": "1203900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "785": {
+    "group_seq": "1203900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "786": {
+    "group_seq": "1203900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "787": {
+    "group_seq": "1203900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "780": {
+    "group_seq": "1203800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "781": {
+    "group_seq": "1203800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "782": {
+    "group_seq": "1203900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "783": {
+    "group_seq": "1203900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1726": {
+    "group_seq": "1307900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1727": {
+    "group_seq": "1307900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1724": {
+    "group_seq": "1307900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1725": {
+    "group_seq": "1307900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "788": {
+    "group_seq": "1203900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "789": {
+    "group_seq": "1203900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1720": {
+    "group_seq": "1307900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1721": {
+    "group_seq": "1307900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "60": {
+    "group_seq": "1100600",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "61": {
+    "group_seq": "1100600",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "62": {
+    "group_seq": "1100600",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "63": {
+    "group_seq": "1100600",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "64": {
+    "group_seq": "1100600",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "65": {
+    "group_seq": "1100600",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "66": {
+    "group_seq": "1100600",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "67": {
+    "group_seq": "1100700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "68": {
+    "group_seq": "1100700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "69": {
+    "group_seq": "1100700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1371": {
+    "group_seq": "1304700",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1588": {
+    "group_seq": "1306700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1589": {
+    "group_seq": "1306700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1370": {
+    "group_seq": "1304700",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1582": {
+    "group_seq": "1306600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1583": {
+    "group_seq": "1306600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1580": {
+    "group_seq": "1306600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1581": {
+    "group_seq": "1306600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1586": {
+    "group_seq": "1306700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1373": {
+    "group_seq": "1304700",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1584": {
+    "group_seq": "1306600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1585": {
+    "group_seq": "1306700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1038": {
+    "group_seq": "1301700",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1039": {
+    "group_seq": "1301700",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "508": {
+    "group_seq": "1201200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "509": {
+    "group_seq": "1201200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1032": {
+    "group_seq": "1301600",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "507": {
+    "group_seq": "1201200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1030": {
+    "group_seq": "1301600",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "505": {
+    "group_seq": "1201100",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "502": {
+    "group_seq": "1201100",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "503": {
+    "group_seq": "1201100",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "500": {
+    "group_seq": "1201100",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "501": {
+    "group_seq": "1201100",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1212": {
+    "group_seq": "1303300",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1213": {
+    "group_seq": "1303300",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "632": {
+    "group_seq": "1202400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "633": {
+    "group_seq": "1202400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1216": {
+    "group_seq": "1303300",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1217": {
+    "group_seq": "1303300",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "636": {
+    "group_seq": "1202400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "637": {
+    "group_seq": "1202400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "638": {
+    "group_seq": "1202400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "639": {
+    "group_seq": "1202600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1218": {
+    "group_seq": "1303300",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1219": {
+    "group_seq": "1303300",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "465": {
+    "group_seq": "1200800",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1728": {
+    "group_seq": "1308000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1729": {
+    "group_seq": "1308000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1106": {
+    "group_seq": "1302300",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1107": {
+    "group_seq": "1302300",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1104": {
+    "group_seq": "1302300",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1105": {
+    "group_seq": "1302300",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1102": {
+    "group_seq": "1302300",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1103": {
+    "group_seq": "1302300",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1100": {
+    "group_seq": "1302200",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1101": {
+    "group_seq": "1302300",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1458": {
+    "group_seq": "1305500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1459": {
+    "group_seq": "1305500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1108": {
+    "group_seq": "1302300",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1109": {
+    "group_seq": "1302300",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1722": {
+    "group_seq": "1307900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1723": {
+    "group_seq": "1307900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1897": {
+    "group_seq": "1500500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1891": {
+    "group_seq": "1500400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "216": {
+    "group_seq": "1102000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "217": {
+    "group_seq": "1102000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "214": {
+    "group_seq": "1102000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "215": {
+    "group_seq": "1102000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "212": {
+    "group_seq": "1102000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "213": {
+    "group_seq": "1102000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "210": {
+    "group_seq": "1102000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "211": {
+    "group_seq": "1102000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1530": {
+    "group_seq": "1306200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "218": {
+    "group_seq": "1102000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "219": {
+    "group_seq": "1102000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "4": {
+    "group_seq": "1100100",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1858": {
+    "group_seq": "1500100",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1859": {
+    "group_seq": "1500100",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1850": {
+    "group_seq": "1500100",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1851": {
+    "group_seq": "1500100",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1852": {
+    "group_seq": "1500100",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1853": {
+    "group_seq": "1500100",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1854": {
+    "group_seq": "1500100",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1855": {
+    "group_seq": "1500100",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1856": {
+    "group_seq": "1500100",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1857": {
+    "group_seq": "1500100",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "919": {
+    "group_seq": "1300600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "918": {
+    "group_seq": "1300600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "915": {
+    "group_seq": "1300600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "914": {
+    "group_seq": "1300600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "917": {
+    "group_seq": "1300600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "916": {
+    "group_seq": "1300600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "911": {
+    "group_seq": "1300500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "910": {
+    "group_seq": "1300500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "913": {
+    "group_seq": "1300500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "912": {
+    "group_seq": "1300500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1933": {
+    "group_seq": "1500800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1932": {
+    "group_seq": "1500800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1931": {
+    "group_seq": "1500800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1930": {
+    "group_seq": "1500800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1937": {
+    "group_seq": "1500900",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1936": {
+    "group_seq": "1500800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1935": {
+    "group_seq": "1500800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1934": {
+    "group_seq": "1500800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1939": {
+    "group_seq": "1500900",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1938": {
+    "group_seq": "1500900",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "847": {
+    "group_seq": "1204400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "846": {
+    "group_seq": "1204400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "845": {
+    "group_seq": "1204400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "844": {
+    "group_seq": "1204400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "843": {
+    "group_seq": "1204400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "842": {
+    "group_seq": "1204400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "841": {
+    "group_seq": "1204400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "840": {
+    "group_seq": "1204400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "849": {
+    "group_seq": "1204500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "848": {
+    "group_seq": "1204500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "663": {
+    "group_seq": "1202800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1587": {
+    "group_seq": "1306700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1739": {
+    "group_seq": "1308100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1738": {
+    "group_seq": "1308000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1731": {
+    "group_seq": "1308000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1730": {
+    "group_seq": "1308000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1733": {
+    "group_seq": "1308000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1732": {
+    "group_seq": "1308000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "662": {
+    "group_seq": "1202800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1734": {
+    "group_seq": "1308000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1737": {
+    "group_seq": "1308000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1736": {
+    "group_seq": "1308000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "753": {
+    "group_seq": "1203600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "752": {
+    "group_seq": "1203600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "751": {
+    "group_seq": "1203600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "750": {
+    "group_seq": "1203600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "757": {
+    "group_seq": "1203600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "756": {
+    "group_seq": "1203600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "755": {
+    "group_seq": "1203600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "754": {
+    "group_seq": "1203600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "759": {
+    "group_seq": "1203600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "758": {
+    "group_seq": "1203600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1595": {
+    "group_seq": "1306700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "506": {
+    "group_seq": "1201100",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1597": {
+    "group_seq": "1306800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1596": {
+    "group_seq": "1306800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1591": {
+    "group_seq": "1306700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1590": {
+    "group_seq": "1306700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1593": {
+    "group_seq": "1306700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1033": {
+    "group_seq": "1301600",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1599": {
+    "group_seq": "1306800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "504": {
+    "group_seq": "1201100",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1025": {
+    "group_seq": "1301600",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1024": {
+    "group_seq": "1301600",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1027": {
+    "group_seq": "1301600",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1031": {
+    "group_seq": "1301600",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1021": {
+    "group_seq": "1301500",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1020": {
+    "group_seq": "1301500",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1023": {
+    "group_seq": "1301500",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1022": {
+    "group_seq": "1301500",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1036": {
+    "group_seq": "1301700",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1029": {
+    "group_seq": "1301600",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1028": {
+    "group_seq": "1301600",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1037": {
+    "group_seq": "1301700",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1034": {
+    "group_seq": "1301600",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1035": {
+    "group_seq": "1301700",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "605": {
+    "group_seq": "1202000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "604": {
+    "group_seq": "1202000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "607": {
+    "group_seq": "1202100",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "606": {
+    "group_seq": "1202100",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "601": {
+    "group_seq": "1202000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "600": {
+    "group_seq": "1202000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "603": {
+    "group_seq": "1202000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "602": {
+    "group_seq": "1202000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1205": {
+    "group_seq": "1303200",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1204": {
+    "group_seq": "1303200",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1207": {
+    "group_seq": "1303200",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1206": {
+    "group_seq": "1303200",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "609": {
+    "group_seq": "1202100",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1200": {
+    "group_seq": "1303200",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1203": {
+    "group_seq": "1303200",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1202": {
+    "group_seq": "1303200",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1211": {
+    "group_seq": "1303300",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "634": {
+    "group_seq": "1202400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "635": {
+    "group_seq": "1202400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1214": {
+    "group_seq": "1303300",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1215": {
+    "group_seq": "1303300",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1111": {
+    "group_seq": "1302300",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1110": {
+    "group_seq": "1302300",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1113": {
+    "group_seq": "1302400",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1112": {
+    "group_seq": "1302400",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1115": {
+    "group_seq": "1302400",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1114": {
+    "group_seq": "1302400",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1117": {
+    "group_seq": "1302400",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "464": {
+    "group_seq": "1200800",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1119": {
+    "group_seq": "1302400",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1118": {
+    "group_seq": "1302400",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "467": {
+    "group_seq": "1200800",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1449": {
+    "group_seq": "1305400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1448": {
+    "group_seq": "1305400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "466": {
+    "group_seq": "1200800",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1357": {
+    "group_seq": "1304600",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "460": {
+    "group_seq": "1200700",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1355": {
+    "group_seq": "1304600",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "489": {
+    "group_seq": "1201000",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "488": {
+    "group_seq": "1201000",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "487": {
+    "group_seq": "1201000",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "486": {
+    "group_seq": "1201000",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "485": {
+    "group_seq": "1201000",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1354": {
+    "group_seq": "1304600",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "483": {
+    "group_seq": "1200900",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "482": {
+    "group_seq": "1200900",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "481": {
+    "group_seq": "1200900",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "480": {
+    "group_seq": "1200900",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "199": {
+    "group_seq": "1101900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "198": {
+    "group_seq": "1101800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "195": {
+    "group_seq": "1101800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "194": {
+    "group_seq": "1101800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "197": {
+    "group_seq": "1101800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "196": {
+    "group_seq": "1101800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "191": {
+    "group_seq": "1101800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "190": {
+    "group_seq": "1101800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "193": {
+    "group_seq": "1101800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "192": {
+    "group_seq": "1101800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1454": {
+    "group_seq": "1305500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1455": {
+    "group_seq": "1305500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1456": {
+    "group_seq": "1305500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1457": {
+    "group_seq": "1305500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1450": {
+    "group_seq": "1305400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1451": {
+    "group_seq": "1305400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1452": {
+    "group_seq": "1305400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1453": {
+    "group_seq": "1305500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1949": {
+    "group_seq": "1501000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "902": {
+    "group_seq": "1300400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "903": {
+    "group_seq": "1300500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "900": {
+    "group_seq": "1300400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "901": {
+    "group_seq": "1300400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "906": {
+    "group_seq": "1300500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "907": {
+    "group_seq": "1300500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "904": {
+    "group_seq": "1300500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "905": {
+    "group_seq": "1300500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1843": {
+    "group_seq": "1309000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1511": {
+    "group_seq": "1306000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "908": {
+    "group_seq": "1300500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "909": {
+    "group_seq": "1300500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1847": {
+    "group_seq": "1309000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1846": {
+    "group_seq": "1309000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1845": {
+    "group_seq": "1309000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1844": {
+    "group_seq": "1309000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1947": {
+    "group_seq": "1500900",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1908": {
+    "group_seq": "1500600",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1909": {
+    "group_seq": "1500600",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1906": {
+    "group_seq": "1500600",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1907": {
+    "group_seq": "1500600",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1904": {
+    "group_seq": "1500600",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1905": {
+    "group_seq": "1500600",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1902": {
+    "group_seq": "1500500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1903": {
+    "group_seq": "1500500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1900": {
+    "group_seq": "1500500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1901": {
+    "group_seq": "1500500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "854": {
+    "group_seq": "1204500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "855": {
+    "group_seq": "1204500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "856": {
+    "group_seq": "1204500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "857": {
+    "group_seq": "1204500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "850": {
+    "group_seq": "1204500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "851": {
+    "group_seq": "1204500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "852": {
+    "group_seq": "1204500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "853": {
+    "group_seq": "1204500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "858": {
+    "group_seq": "1204500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "859": {
+    "group_seq": "1300100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "6": {
+    "group_seq": "1100100",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "740": {
+    "group_seq": "1203500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "741": {
+    "group_seq": "1203500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "742": {
+    "group_seq": "1203500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "743": {
+    "group_seq": "1203500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "744": {
+    "group_seq": "1203500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "745": {
+    "group_seq": "1203500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "746": {
+    "group_seq": "1203500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "747": {
+    "group_seq": "1203500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "748": {
+    "group_seq": "1203500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "749": {
+    "group_seq": "1203600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1798": {
+    "group_seq": "1308600",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1050": {
+    "group_seq": "1301800",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1051": {
+    "group_seq": "1301800",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1052": {
+    "group_seq": "1301800",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1053": {
+    "group_seq": "1301800",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1054": {
+    "group_seq": "1301800",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1055": {
+    "group_seq": "1301800",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1056": {
+    "group_seq": "1301800",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1057": {
+    "group_seq": "1301900",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1058": {
+    "group_seq": "1301900",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1059": {
+    "group_seq": "1301900",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1696": {
+    "group_seq": "1307700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1697": {
+    "group_seq": "1307700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1694": {
+    "group_seq": "1307600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1695": {
+    "group_seq": "1307700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1692": {
+    "group_seq": "1307600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1693": {
+    "group_seq": "1307600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1690": {
+    "group_seq": "1307600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1691": {
+    "group_seq": "1307600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1791": {
+    "group_seq": "1308500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1698": {
+    "group_seq": "1307700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1699": {
+    "group_seq": "1307700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1278": {
+    "group_seq": "1303900",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1279": {
+    "group_seq": "1303900",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "618": {
+    "group_seq": "1202300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "619": {
+    "group_seq": "1202300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "612": {
+    "group_seq": "1202100",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "613": {
+    "group_seq": "1202100",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "610": {
+    "group_seq": "1202100",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "611": {
+    "group_seq": "1202100",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "616": {
+    "group_seq": "1202100",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "617": {
+    "group_seq": "1202300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "614": {
+    "group_seq": "1202100",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "615": {
+    "group_seq": "1202100",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1795": {
+    "group_seq": "1308600",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1794": {
+    "group_seq": "1308600",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1491": {
+    "group_seq": "1305800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1472": {
+    "group_seq": "1305600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1473": {
+    "group_seq": "1305600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1470": {
+    "group_seq": "1305600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1471": {
+    "group_seq": "1305600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1476": {
+    "group_seq": "1305700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1477": {
+    "group_seq": "1305700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1474": {
+    "group_seq": "1305600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1475": {
+    "group_seq": "1305700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1478": {
+    "group_seq": "1305700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1479": {
+    "group_seq": "1305700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1304": {
+    "group_seq": "1304100",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1305": {
+    "group_seq": "1304100",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1306": {
+    "group_seq": "1304100",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1307": {
+    "group_seq": "1304100",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1300": {
+    "group_seq": "1304100",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1301": {
+    "group_seq": "1304100",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1302": {
+    "group_seq": "1304100",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1303": {
+    "group_seq": "1304100",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1497": {
+    "group_seq": "1305900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1308": {
+    "group_seq": "1304100",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1309": {
+    "group_seq": "1304100",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "498": {
+    "group_seq": "1201100",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "499": {
+    "group_seq": "1201100",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "494": {
+    "group_seq": "1201000",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "495": {
+    "group_seq": "1201000",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "496": {
+    "group_seq": "1201100",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "497": {
+    "group_seq": "1201100",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "490": {
+    "group_seq": "1201000",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "491": {
+    "group_seq": "1201000",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "492": {
+    "group_seq": "1201000",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "493": {
+    "group_seq": "1201000",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "24": {
+    "group_seq": "1100300",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "25": {
+    "group_seq": "1100300",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "26": {
+    "group_seq": "1100300",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "27": {
+    "group_seq": "1100300",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "20": {
+    "group_seq": "1100200",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "21": {
+    "group_seq": "1100200",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "22": {
+    "group_seq": "1100200",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "23": {
+    "group_seq": "1100300",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "28": {
+    "group_seq": "1100300",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "29": {
+    "group_seq": "1100300",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1703": {
+    "group_seq": "1307700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1875": {
+    "group_seq": "1500300",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1709": {
+    "group_seq": "1307800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "7": {
+    "group_seq": "1100100",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1879": {
+    "group_seq": "1500300",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "972": {
+    "group_seq": "1301100",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1087": {
+    "group_seq": "1302100",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1086": {
+    "group_seq": "1302100",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1085": {
+    "group_seq": "1302100",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1876": {
+    "group_seq": "1500300",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1877": {
+    "group_seq": "1500300",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1874": {
+    "group_seq": "1500300",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1084": {
+    "group_seq": "1302100",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1872": {
+    "group_seq": "1500300",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1873": {
+    "group_seq": "1500300",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1870": {
+    "group_seq": "1500200",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1871": {
+    "group_seq": "1500300",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1083": {
+    "group_seq": "1302100",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1878": {
+    "group_seq": "1500300",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1082": {
+    "group_seq": "1302100",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "977": {
+    "group_seq": "1301100",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "976": {
+    "group_seq": "1301100",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "975": {
+    "group_seq": "1301100",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "974": {
+    "group_seq": "1301100",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "973": {
+    "group_seq": "1301100",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1081": {
+    "group_seq": "1302100",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "971": {
+    "group_seq": "1301100",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "970": {
+    "group_seq": "1301100",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1080": {
+    "group_seq": "1302100",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "979": {
+    "group_seq": "1301100",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "978": {
+    "group_seq": "1301100",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "182": {
+    "group_seq": "1101700",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "183": {
+    "group_seq": "1101700",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "180": {
+    "group_seq": "1101700",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "181": {
+    "group_seq": "1101700",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "186": {
+    "group_seq": "1101700",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "187": {
+    "group_seq": "1101700",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "184": {
+    "group_seq": "1101700",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "185": {
+    "group_seq": "1101700",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "188": {
+    "group_seq": "1101800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "189": {
+    "group_seq": "1101800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1559": {
+    "group_seq": "1306400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1919": {
+    "group_seq": "1500700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1918": {
+    "group_seq": "1500700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1464": {
+    "group_seq": "1305600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1911": {
+    "group_seq": "1500600",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1910": {
+    "group_seq": "1500600",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1913": {
+    "group_seq": "1500600",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1912": {
+    "group_seq": "1500600",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1915": {
+    "group_seq": "1500700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1914": {
+    "group_seq": "1500600",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1917": {
+    "group_seq": "1500700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1916": {
+    "group_seq": "1500700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "869": {
+    "group_seq": "1300100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "868": {
+    "group_seq": "1300100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "861": {
+    "group_seq": "1300100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "860": {
+    "group_seq": "1300100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "863": {
+    "group_seq": "1300100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "862": {
+    "group_seq": "1300100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "865": {
+    "group_seq": "1300100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "864": {
+    "group_seq": "1300100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "867": {
+    "group_seq": "1300100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "866": {
+    "group_seq": "1300100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "883": {
+    "group_seq": "1300300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "882": {
+    "group_seq": "1300300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "881": {
+    "group_seq": "1300300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "880": {
+    "group_seq": "1300200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "887": {
+    "group_seq": "1300300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "886": {
+    "group_seq": "1300300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "885": {
+    "group_seq": "1300300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "884": {
+    "group_seq": "1300300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "889": {
+    "group_seq": "1300300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "888": {
+    "group_seq": "1300300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "775": {
+    "group_seq": "1203800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "774": {
+    "group_seq": "1203800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "777": {
+    "group_seq": "1203800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "776": {
+    "group_seq": "1203800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "771": {
+    "group_seq": "1203800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "770": {
+    "group_seq": "1203700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "773": {
+    "group_seq": "1203800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "772": {
+    "group_seq": "1203800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "779": {
+    "group_seq": "1203800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "778": {
+    "group_seq": "1203800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "77": {
+    "group_seq": "1100700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "76": {
+    "group_seq": "1100700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "75": {
+    "group_seq": "1100700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "74": {
+    "group_seq": "1100700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "73": {
+    "group_seq": "1100700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "72": {
+    "group_seq": "1100700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "71": {
+    "group_seq": "1100700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "70": {
+    "group_seq": "1100700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "79": {
+    "group_seq": "1100800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "78": {
+    "group_seq": "1100800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1043": {
+    "group_seq": "1301700",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1042": {
+    "group_seq": "1301700",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1041": {
+    "group_seq": "1301700",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1040": {
+    "group_seq": "1301700",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1047": {
+    "group_seq": "1301800",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1046": {
+    "group_seq": "1301800",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1045": {
+    "group_seq": "1301700",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1044": {
+    "group_seq": "1301700",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1049": {
+    "group_seq": "1301800",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1048": {
+    "group_seq": "1301800",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1681": {
+    "group_seq": "1307500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1680": {
+    "group_seq": "1307500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1683": {
+    "group_seq": "1307500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1682": {
+    "group_seq": "1307500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1685": {
+    "group_seq": "1307600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1684": {
+    "group_seq": "1307600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1687": {
+    "group_seq": "1307600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1686": {
+    "group_seq": "1307600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1689": {
+    "group_seq": "1307600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1688": {
+    "group_seq": "1307600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1269": {
+    "group_seq": "1303800",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1268": {
+    "group_seq": "1303800",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "669": {
+    "group_seq": "1202800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "668": {
+    "group_seq": "1202800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "667": {
+    "group_seq": "1202800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1262": {
+    "group_seq": "1303700",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "665": {
+    "group_seq": "1202800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "664": {
+    "group_seq": "1202800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1267": {
+    "group_seq": "1303800",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1266": {
+    "group_seq": "1303800",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1265": {
+    "group_seq": "1303700",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1264": {
+    "group_seq": "1303700",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1469": {
+    "group_seq": "1305600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1468": {
+    "group_seq": "1305600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1465": {
+    "group_seq": "1305600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1018": {
+    "group_seq": "1301500",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1467": {
+    "group_seq": "1305600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1466": {
+    "group_seq": "1305600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1461": {
+    "group_seq": "1305500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1460": {
+    "group_seq": "1305500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1463": {
+    "group_seq": "1305500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1019": {
+    "group_seq": "1301500",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1317": {
+    "group_seq": "1304200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1316": {
+    "group_seq": "1304200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1315": {
+    "group_seq": "1304200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1314": {
+    "group_seq": "1304200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1313": {
+    "group_seq": "1304200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1312": {
+    "group_seq": "1304200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1311": {
+    "group_seq": "1304200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1310": {
+    "group_seq": "1304200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1319": {
+    "group_seq": "1304200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1318": {
+    "group_seq": "1304200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1010": {
+    "group_seq": "1301400",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1011": {
+    "group_seq": "1301400",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "319": {
+    "group_seq": "1102900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "318": {
+    "group_seq": "1102900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "313": {
+    "group_seq": "1102900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "312": {
+    "group_seq": "1102900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "311": {
+    "group_seq": "1102900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "310": {
+    "group_seq": "1102900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "317": {
+    "group_seq": "1102900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "316": {
+    "group_seq": "1102900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "315": {
+    "group_seq": "1102900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "314": {
+    "group_seq": "1102900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1335": {
+    "group_seq": "1304400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1334": {
+    "group_seq": "1304400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1337": {
+    "group_seq": "1304400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1336": {
+    "group_seq": "1304400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1331": {
+    "group_seq": "1304300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1330": {
+    "group_seq": "1304300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1333": {
+    "group_seq": "1304400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1332": {
+    "group_seq": "1304400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "630": {
+    "group_seq": "1202400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "631": {
+    "group_seq": "1202400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1521": {
+    "group_seq": "1306100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1861": {
+    "group_seq": "1500200",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1860": {
+    "group_seq": "1500200",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1863": {
+    "group_seq": "1500200",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1862": {
+    "group_seq": "1500200",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1865": {
+    "group_seq": "1500200",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1864": {
+    "group_seq": "1500200",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1867": {
+    "group_seq": "1500200",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1866": {
+    "group_seq": "1500200",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1869": {
+    "group_seq": "1500200",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1868": {
+    "group_seq": "1500200",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "964": {
+    "group_seq": "1301000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "965": {
+    "group_seq": "1301000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "966": {
+    "group_seq": "1301000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "967": {
+    "group_seq": "1301000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "960": {
+    "group_seq": "1301000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "961": {
+    "group_seq": "1301000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "962": {
+    "group_seq": "1301000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "963": {
+    "group_seq": "1301000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "968": {
+    "group_seq": "1301000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "969": {
+    "group_seq": "1301100",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1560": {
+    "group_seq": "1306400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1241": {
+    "group_seq": "1303500",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "878": {
+    "group_seq": "1300200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1240": {
+    "group_seq": "1303500",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "876": {
+    "group_seq": "1300200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "877": {
+    "group_seq": "1300200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "874": {
+    "group_seq": "1300200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "875": {
+    "group_seq": "1300200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "872": {
+    "group_seq": "1300200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1243": {
+    "group_seq": "1303500",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "870": {
+    "group_seq": "1300200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "871": {
+    "group_seq": "1300200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1242": {
+    "group_seq": "1303500",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "9": {
+    "group_seq": "1100100",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1245": {
+    "group_seq": "1303600",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1244": {
+    "group_seq": "1303600",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "890": {
+    "group_seq": "1300300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "891": {
+    "group_seq": "1300300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "892": {
+    "group_seq": "1300400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "893": {
+    "group_seq": "1300400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "894": {
+    "group_seq": "1300400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1247": {
+    "group_seq": "1303600",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "896": {
+    "group_seq": "1300400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "897": {
+    "group_seq": "1300400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "898": {
+    "group_seq": "1300400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "899": {
+    "group_seq": "1300400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "646": {
+    "group_seq": "1202600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1249": {
+    "group_seq": "1303600",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "648": {
+    "group_seq": "1202600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1537": {
+    "group_seq": "1306200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1964": {
+    "group_seq": "1501100",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1965": {
+    "group_seq": "1501100",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1966": {
+    "group_seq": "1501100",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1788": {
+    "group_seq": "1308500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1789": {
+    "group_seq": "1308500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "768": {
+    "group_seq": "1203700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "769": {
+    "group_seq": "1203700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "762": {
+    "group_seq": "1203700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "763": {
+    "group_seq": "1203700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "760": {
+    "group_seq": "1203700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "761": {
+    "group_seq": "1203700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "766": {
+    "group_seq": "1203700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "767": {
+    "group_seq": "1203700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "764": {
+    "group_seq": "1203700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "765": {
+    "group_seq": "1203700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1962": {
+    "group_seq": "1501100",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1963": {
+    "group_seq": "1501100",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1078": {
+    "group_seq": "1302000",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1079": {
+    "group_seq": "1302100",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1076": {
+    "group_seq": "1302000",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1077": {
+    "group_seq": "1302000",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1074": {
+    "group_seq": "1302000",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1075": {
+    "group_seq": "1302000",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1072": {
+    "group_seq": "1302000",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1073": {
+    "group_seq": "1302000",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1070": {
+    "group_seq": "1302000",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1071": {
+    "group_seq": "1302000",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1678": {
+    "group_seq": "1307500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1561": {
+    "group_seq": "1306400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1674": {
+    "group_seq": "1307500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1675": {
+    "group_seq": "1307500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1676": {
+    "group_seq": "1307500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1677": {
+    "group_seq": "1307500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1670": {
+    "group_seq": "1307400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1671": {
+    "group_seq": "1307400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1672": {
+    "group_seq": "1307400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1673": {
+    "group_seq": "1307500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1094": {
+    "group_seq": "1302200",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1095": {
+    "group_seq": "1302200",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1096": {
+    "group_seq": "1302200",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1097": {
+    "group_seq": "1302200",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1090": {
+    "group_seq": "1302200",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1091": {
+    "group_seq": "1302200",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1092": {
+    "group_seq": "1302200",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1093": {
+    "group_seq": "1302200",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "674": {
+    "group_seq": "1202900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "675": {
+    "group_seq": "1202900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "676": {
+    "group_seq": "1202900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "677": {
+    "group_seq": "1202900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1098": {
+    "group_seq": "1302200",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1099": {
+    "group_seq": "1302200",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "672": {
+    "group_seq": "1202900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "673": {
+    "group_seq": "1202900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1997": {
+    "group_seq": "1501400",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1533": {
+    "group_seq": "1306200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1418": {
+    "group_seq": "1305100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1419": {
+    "group_seq": "1305100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1410": {
+    "group_seq": "1305100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1411": {
+    "group_seq": "1305100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1412": {
+    "group_seq": "1305100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1413": {
+    "group_seq": "1305100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1414": {
+    "group_seq": "1305100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1415": {
+    "group_seq": "1305100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1416": {
+    "group_seq": "1305100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1417": {
+    "group_seq": "1305100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1322": {
+    "group_seq": "1304300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1323": {
+    "group_seq": "1304300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1320": {
+    "group_seq": "1304200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1321": {
+    "group_seq": "1304300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1326": {
+    "group_seq": "1304300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1327": {
+    "group_seq": "1304300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1324": {
+    "group_seq": "1304300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1325": {
+    "group_seq": "1304300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1328": {
+    "group_seq": "1304300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1329": {
+    "group_seq": "1304300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "5": {
+    "group_seq": "1100100",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1531": {
+    "group_seq": "1306200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1256": {
+    "group_seq": "1303700",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1257": {
+    "group_seq": "1303700",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1254": {
+    "group_seq": "1303600",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1255": {
+    "group_seq": "1303700",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1252": {
+    "group_seq": "1303600",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1253": {
+    "group_seq": "1303600",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1250": {
+    "group_seq": "1303600",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1251": {
+    "group_seq": "1303600",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1528": {
+    "group_seq": "1306100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1529": {
+    "group_seq": "1306100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1258": {
+    "group_seq": "1303700",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1259": {
+    "group_seq": "1303700",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "308": {
+    "group_seq": "1102800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "309": {
+    "group_seq": "1102900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "300": {
+    "group_seq": "1102800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "301": {
+    "group_seq": "1102800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "302": {
+    "group_seq": "1102800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "303": {
+    "group_seq": "1102800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "304": {
+    "group_seq": "1102800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "305": {
+    "group_seq": "1102800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "306": {
+    "group_seq": "1102800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "307": {
+    "group_seq": "1102800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1792": {
+    "group_seq": "1308500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "470": {
+    "group_seq": "1200800",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "471": {
+    "group_seq": "1200800",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1898": {
+    "group_seq": "1500500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1899": {
+    "group_seq": "1500500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1894": {
+    "group_seq": "1500500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1895": {
+    "group_seq": "1500500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1896": {
+    "group_seq": "1500500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1443": {
+    "group_seq": "1305400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1890": {
+    "group_seq": "1500400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "476": {
+    "group_seq": "1200900",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1892": {
+    "group_seq": "1500400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1893": {
+    "group_seq": "1500500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "959": {
+    "group_seq": "1301000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "958": {
+    "group_seq": "1301000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "951": {
+    "group_seq": "1300900",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "950": {
+    "group_seq": "1300900",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "953": {
+    "group_seq": "1300900",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "952": {
+    "group_seq": "1300900",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "955": {
+    "group_seq": "1300900",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "954": {
+    "group_seq": "1300900",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "957": {
+    "group_seq": "1300900",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "956": {
+    "group_seq": "1300900",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1442": {
+    "group_seq": "1305400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "477": {
+    "group_seq": "1200900",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "2002": {
+    "group_seq": "1501400",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "2000": {
+    "group_seq": "1501400",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "2001": {
+    "group_seq": "1501400",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1440": {
+    "group_seq": "1305300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1790": {
+    "group_seq": "1308500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1263": {
+    "group_seq": "1303700",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "666": {
+    "group_seq": "1202800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1261": {
+    "group_seq": "1303700",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1799": {
+    "group_seq": "1308600",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1260": {
+    "group_seq": "1303700",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "719": {
+    "group_seq": "1203300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "718": {
+    "group_seq": "1203300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "717": {
+    "group_seq": "1203300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "716": {
+    "group_seq": "1203300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "715": {
+    "group_seq": "1203200",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "714": {
+    "group_seq": "1203200",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "713": {
+    "group_seq": "1203200",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "712": {
+    "group_seq": "1203200",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "711": {
+    "group_seq": "1203200",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "710": {
+    "group_seq": "1203200",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "661": {
+    "group_seq": "1202800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "660": {
+    "group_seq": "1202700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1069": {
+    "group_seq": "1302000",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1068": {
+    "group_seq": "1302000",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1061": {
+    "group_seq": "1301900",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1060": {
+    "group_seq": "1301900",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1063": {
+    "group_seq": "1301900",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1062": {
+    "group_seq": "1301900",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1065": {
+    "group_seq": "1301900",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1064": {
+    "group_seq": "1301900",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1067": {
+    "group_seq": "1301900",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1066": {
+    "group_seq": "1301900",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1669": {
+    "group_seq": "1307400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1668": {
+    "group_seq": "1307400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1667": {
+    "group_seq": "1307400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1666": {
+    "group_seq": "1307400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1665": {
+    "group_seq": "1307400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1664": {
+    "group_seq": "1307400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1663": {
+    "group_seq": "1307400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1662": {
+    "group_seq": "1307400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1661": {
+    "group_seq": "1307300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1660": {
+    "group_seq": "1307300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "591": {
+    "group_seq": "1201900",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "590": {
+    "group_seq": "1201900",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "593": {
+    "group_seq": "1201900",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "592": {
+    "group_seq": "1201900",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "595": {
+    "group_seq": "1202000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "594": {
+    "group_seq": "1201900",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "597": {
+    "group_seq": "1202000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "596": {
+    "group_seq": "1202000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "599": {
+    "group_seq": "1202000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "598": {
+    "group_seq": "1202000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1089": {
+    "group_seq": "1302100",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1088": {
+    "group_seq": "1302100",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1409": {
+    "group_seq": "1305100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1408": {
+    "group_seq": "1305000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1403": {
+    "group_seq": "1305000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1402": {
+    "group_seq": "1305000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1401": {
+    "group_seq": "1305000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1400": {
+    "group_seq": "1305000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1407": {
+    "group_seq": "1305000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1406": {
+    "group_seq": "1305000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1405": {
+    "group_seq": "1305000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1404": {
+    "group_seq": "1305000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1546": {
+    "group_seq": "1306300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "449": {
+    "group_seq": "1200600",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "448": {
+    "group_seq": "1200600",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1339": {
+    "group_seq": "1304400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1338": {
+    "group_seq": "1304400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1547": {
+    "group_seq": "1306300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "443": {
+    "group_seq": "1200600",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "442": {
+    "group_seq": "1200600",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "441": {
+    "group_seq": "1200600",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "440": {
+    "group_seq": "1200500",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "447": {
+    "group_seq": "1200600",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "446": {
+    "group_seq": "1200600",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "445": {
+    "group_seq": "1200600",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "444": {
+    "group_seq": "1200600",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1520": {
+    "group_seq": "1306100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1542": {
+    "group_seq": "1306300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1543": {
+    "group_seq": "1306300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "39": {
+    "group_seq": "1100400",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "38": {
+    "group_seq": "1100400",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1540": {
+    "group_seq": "1306200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "33": {
+    "group_seq": "1100300",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "32": {
+    "group_seq": "1100300",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "31": {
+    "group_seq": "1100300",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "30": {
+    "group_seq": "1100300",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "37": {
+    "group_seq": "1100400",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "36": {
+    "group_seq": "1100400",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "35": {
+    "group_seq": "1100400",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "34": {
+    "group_seq": "1100400",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "641": {
+    "group_seq": "1202600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "640": {
+    "group_seq": "1202600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "643": {
+    "group_seq": "1202600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "642": {
+    "group_seq": "1202600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "645": {
+    "group_seq": "1202600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "644": {
+    "group_seq": "1202600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "647": {
+    "group_seq": "1202600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1246": {
+    "group_seq": "1303600",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "649": {
+    "group_seq": "1202600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1248": {
+    "group_seq": "1303600",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1539": {
+    "group_seq": "1306200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1538": {
+    "group_seq": "1306200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "339": {
+    "group_seq": "1103100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "338": {
+    "group_seq": "1103100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "335": {
+    "group_seq": "1103100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "334": {
+    "group_seq": "1103100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "337": {
+    "group_seq": "1103100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "336": {
+    "group_seq": "1103100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "331": {
+    "group_seq": "1103100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "330": {
+    "group_seq": "1103000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "333": {
+    "group_seq": "1103100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "332": {
+    "group_seq": "1103100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1026": {
+    "group_seq": "1301600",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "8": {
+    "group_seq": "1100100",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1462": {
+    "group_seq": "1305500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1991": {
+    "group_seq": "1501300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1889": {
+    "group_seq": "1500400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1888": {
+    "group_seq": "1500400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1887": {
+    "group_seq": "1500400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1886": {
+    "group_seq": "1500400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1885": {
+    "group_seq": "1500400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1884": {
+    "group_seq": "1500400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1883": {
+    "group_seq": "1500400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1882": {
+    "group_seq": "1500400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1881": {
+    "group_seq": "1500300",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1880": {
+    "group_seq": "1500300",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "948": {
+    "group_seq": "1300900",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "949": {
+    "group_seq": "1300900",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "946": {
+    "group_seq": "1300800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "947": {
+    "group_seq": "1300900",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "944": {
+    "group_seq": "1300800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "945": {
+    "group_seq": "1300800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "942": {
+    "group_seq": "1300800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "943": {
+    "group_seq": "1300800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "940": {
+    "group_seq": "1300800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "941": {
+    "group_seq": "1300800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "133": {
+    "group_seq": "1101300",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "132": {
+    "group_seq": "1101200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "131": {
+    "group_seq": "1101200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "130": {
+    "group_seq": "1101200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "137": {
+    "group_seq": "1101300",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "136": {
+    "group_seq": "1101300",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "135": {
+    "group_seq": "1101300",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "134": {
+    "group_seq": "1101300",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "139": {
+    "group_seq": "1101300",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "138": {
+    "group_seq": "1101300",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1793": {
+    "group_seq": "1308500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "708": {
+    "group_seq": "1203200",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "709": {
+    "group_seq": "1203200",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "704": {
+    "group_seq": "1203100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "705": {
+    "group_seq": "1203200",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "706": {
+    "group_seq": "1203200",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "707": {
+    "group_seq": "1203200",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "700": {
+    "group_seq": "1203100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "701": {
+    "group_seq": "1203100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "702": {
+    "group_seq": "1203100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "703": {
+    "group_seq": "1203100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "88": {
+    "group_seq": "1100800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "89": {
+    "group_seq": "1100900",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "82": {
+    "group_seq": "1100800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "83": {
+    "group_seq": "1100800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "80": {
+    "group_seq": "1100800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "81": {
+    "group_seq": "1100800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "86": {
+    "group_seq": "1100800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "87": {
+    "group_seq": "1100800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "84": {
+    "group_seq": "1100800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "85": {
+    "group_seq": "1100800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1658": {
+    "group_seq": "1307300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1659": {
+    "group_seq": "1307300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1652": {
+    "group_seq": "1307300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1388": {
+    "group_seq": "1304900",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1650": {
+    "group_seq": "1307200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1651": {
+    "group_seq": "1307300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1656": {
+    "group_seq": "1307300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1657": {
+    "group_seq": "1307300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1654": {
+    "group_seq": "1307300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1389": {
+    "group_seq": "1304900",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "586": {
+    "group_seq": "1201900",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "587": {
+    "group_seq": "1201900",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "584": {
+    "group_seq": "1201900",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "585": {
+    "group_seq": "1201900",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "582": {
+    "group_seq": "1201800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "583": {
+    "group_seq": "1201800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "580": {
+    "group_seq": "1201800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "581": {
+    "group_seq": "1201800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1984": {
+    "group_seq": "1501300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "588": {
+    "group_seq": "1201900",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "589": {
+    "group_seq": "1201900",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1633": {
+    "group_seq": "1307100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1982": {
+    "group_seq": "1501300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1983": {
+    "group_seq": "1501300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1436": {
+    "group_seq": "1305300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1437": {
+    "group_seq": "1305300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1434": {
+    "group_seq": "1305300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1435": {
+    "group_seq": "1305300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1432": {
+    "group_seq": "1305300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1433": {
+    "group_seq": "1305300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1430": {
+    "group_seq": "1305200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1431": {
+    "group_seq": "1305300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1380": {
+    "group_seq": "1304800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1981": {
+    "group_seq": "1501300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1438": {
+    "group_seq": "1305300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1381": {
+    "group_seq": "1304800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1349": {
+    "group_seq": "1304500",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1541": {
+    "group_seq": "1306300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1348": {
+    "group_seq": "1304500",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "459": {
+    "group_seq": "1200700",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "450": {
+    "group_seq": "1200600",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "451": {
+    "group_seq": "1200600",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "452": {
+    "group_seq": "1200700",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1343": {
+    "group_seq": "1304500",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1344": {
+    "group_seq": "1304500",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1345": {
+    "group_seq": "1304500",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "456": {
+    "group_seq": "1200700",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "457": {
+    "group_seq": "1200700",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "656": {
+    "group_seq": "1202700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "657": {
+    "group_seq": "1202700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "654": {
+    "group_seq": "1202700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "655": {
+    "group_seq": "1202700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "652": {
+    "group_seq": "1202700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "653": {
+    "group_seq": "1202700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "650": {
+    "group_seq": "1202700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "651": {
+    "group_seq": "1202700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1508": {
+    "group_seq": "1306000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1509": {
+    "group_seq": "1306000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "658": {
+    "group_seq": "1202700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "516": {
+    "group_seq": "1201200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1992": {
+    "group_seq": "1501400",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1376": {
+    "group_seq": "1304800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "322": {
+    "group_seq": "1103000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "323": {
+    "group_seq": "1103000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "320": {
+    "group_seq": "1103000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "321": {
+    "group_seq": "1103000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "326": {
+    "group_seq": "1103000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "327": {
+    "group_seq": "1103000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "324": {
+    "group_seq": "1103000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "325": {
+    "group_seq": "1103000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "328": {
+    "group_seq": "1103000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "329": {
+    "group_seq": "1103000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1340": {
+    "group_seq": "1304400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1594": {
+    "group_seq": "1306700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1341": {
+    "group_seq": "1304400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1995": {
+    "group_seq": "1501400",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1592": {
+    "group_seq": "1306700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1598": {
+    "group_seq": "1306800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "995": {
+    "group_seq": "1301300",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "994": {
+    "group_seq": "1301300",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "997": {
+    "group_seq": "1301300",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "996": {
+    "group_seq": "1301300",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "991": {
+    "group_seq": "1301300",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "990": {
+    "group_seq": "1301200",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "993": {
+    "group_seq": "1301300",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "992": {
+    "group_seq": "1301300",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "999": {
+    "group_seq": "1301300",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "998": {
+    "group_seq": "1301300",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "120": {
+    "group_seq": "1101100",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "121": {
+    "group_seq": "1101100",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "122": {
+    "group_seq": "1101200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "123": {
+    "group_seq": "1101200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "124": {
+    "group_seq": "1101200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "125": {
+    "group_seq": "1101200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "126": {
+    "group_seq": "1101200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "127": {
+    "group_seq": "1101200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "128": {
+    "group_seq": "1101200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "129": {
+    "group_seq": "1101200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1748": {
+    "group_seq": "1308100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1749": {
+    "group_seq": "1308100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1645": {
+    "group_seq": "1307200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1644": {
+    "group_seq": "1307200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1647": {
+    "group_seq": "1307200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1646": {
+    "group_seq": "1307200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1641": {
+    "group_seq": "1307200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1640": {
+    "group_seq": "1307200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1643": {
+    "group_seq": "1307200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1642": {
+    "group_seq": "1307200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1649": {
+    "group_seq": "1307200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1648": {
+    "group_seq": "1307200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1742": {
+    "group_seq": "1308100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1743": {
+    "group_seq": "1308100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "579": {
+    "group_seq": "1201800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "578": {
+    "group_seq": "1201800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "573": {
+    "group_seq": "1201800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "572": {
+    "group_seq": "1201700",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "571": {
+    "group_seq": "1201700",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "570": {
+    "group_seq": "1201700",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "577": {
+    "group_seq": "1201800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "576": {
+    "group_seq": "1201800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "575": {
+    "group_seq": "1201800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "574": {
+    "group_seq": "1201800",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1209": {
+    "group_seq": "1303200",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1208": {
+    "group_seq": "1303200",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1421": {
+    "group_seq": "1305200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1420": {
+    "group_seq": "1305200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1423": {
+    "group_seq": "1305200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1422": {
+    "group_seq": "1305200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1425": {
+    "group_seq": "1305200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1424": {
+    "group_seq": "1305200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1427": {
+    "group_seq": "1305200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1426": {
+    "group_seq": "1305200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1429": {
+    "group_seq": "1305200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1428": {
+    "group_seq": "1305200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "731": {
+    "group_seq": "1203400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "730": {
+    "group_seq": "1203400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "733": {
+    "group_seq": "1203400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "732": {
+    "group_seq": "1203400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "735": {
+    "group_seq": "1203400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "734": {
+    "group_seq": "1203400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "737": {
+    "group_seq": "1203400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "736": {
+    "group_seq": "1203400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "739": {
+    "group_seq": "1203500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "738": {
+    "group_seq": "1203500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1359": {
+    "group_seq": "1304600",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1358": {
+    "group_seq": "1304600",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "469": {
+    "group_seq": "1200800",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "468": {
+    "group_seq": "1200800",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1353": {
+    "group_seq": "1304500",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1352": {
+    "group_seq": "1304500",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1351": {
+    "group_seq": "1304500",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1350": {
+    "group_seq": "1304500",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "461": {
+    "group_seq": "1200700",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1356": {
+    "group_seq": "1304600",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "463": {
+    "group_seq": "1200800",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "462": {
+    "group_seq": "1200700",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1273": {
+    "group_seq": "1303800",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1519": {
+    "group_seq": "1306100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1518": {
+    "group_seq": "1306000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1515": {
+    "group_seq": "1306000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1514": {
+    "group_seq": "1306000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1517": {
+    "group_seq": "1306000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1516": {
+    "group_seq": "1306000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1274": {
+    "group_seq": "1303800",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1510": {
+    "group_seq": "1306000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1513": {
+    "group_seq": "1306000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1512": {
+    "group_seq": "1306000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1735": {
+    "group_seq": "1308000",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1275": {
+    "group_seq": "1303800",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "357": {
+    "group_seq": "1103300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "356": {
+    "group_seq": "1103300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "355": {
+    "group_seq": "1103300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "354": {
+    "group_seq": "1103300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "353": {
+    "group_seq": "1103300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "352": {
+    "group_seq": "1103200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "351": {
+    "group_seq": "1103200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "350": {
+    "group_seq": "1103200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "359": {
+    "group_seq": "1103300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "358": {
+    "group_seq": "1103300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1447": {
+    "group_seq": "1305400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1446": {
+    "group_seq": "1305400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1445": {
+    "group_seq": "1305400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "289": {
+    "group_seq": "1102700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "288": {
+    "group_seq": "1102700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1444": {
+    "group_seq": "1305400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "281": {
+    "group_seq": "1102600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "280": {
+    "group_seq": "1102600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "283": {
+    "group_seq": "1102600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "282": {
+    "group_seq": "1102600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "285": {
+    "group_seq": "1102600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "284": {
+    "group_seq": "1102600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "287": {
+    "group_seq": "1102700",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "286": {
+    "group_seq": "1102600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1441": {
+    "group_seq": "1305300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1116": {
+    "group_seq": "1302400",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "263": {
+    "group_seq": "1102400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "262": {
+    "group_seq": "1102400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "261": {
+    "group_seq": "1102400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "260": {
+    "group_seq": "1102400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "267": {
+    "group_seq": "1102500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "266": {
+    "group_seq": "1102500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "265": {
+    "group_seq": "1102500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "264": {
+    "group_seq": "1102400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "269": {
+    "group_seq": "1102500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "268": {
+    "group_seq": "1102500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1562": {
+    "group_seq": "1306400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1563": {
+    "group_seq": "1306500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1980": {
+    "group_seq": "1501200",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1564": {
+    "group_seq": "1306500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1565": {
+    "group_seq": "1306500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1566": {
+    "group_seq": "1306500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1567": {
+    "group_seq": "1306500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "988": {
+    "group_seq": "1301200",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "989": {
+    "group_seq": "1301200",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "982": {
+    "group_seq": "1301200",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "983": {
+    "group_seq": "1301200",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "980": {
+    "group_seq": "1301200",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "981": {
+    "group_seq": "1301200",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "986": {
+    "group_seq": "1301200",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "987": {
+    "group_seq": "1301200",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "984": {
+    "group_seq": "1301200",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "985": {
+    "group_seq": "1301200",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "115": {
+    "group_seq": "1101100",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "114": {
+    "group_seq": "1101100",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "117": {
+    "group_seq": "1101100",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "116": {
+    "group_seq": "1101100",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "111": {
+    "group_seq": "1101100",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "110": {
+    "group_seq": "1101000",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "113": {
+    "group_seq": "1101100",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "112": {
+    "group_seq": "1101100",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "119": {
+    "group_seq": "1101100",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "118": {
+    "group_seq": "1101100",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1797": {
+    "group_seq": "1308600",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1796": {
+    "group_seq": "1308600",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1630": {
+    "group_seq": "1307100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1631": {
+    "group_seq": "1307100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1632": {
+    "group_seq": "1307100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "484": {
+    "group_seq": "1200900",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1634": {
+    "group_seq": "1307100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1635": {
+    "group_seq": "1307100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1636": {
+    "group_seq": "1307100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1637": {
+    "group_seq": "1307100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1638": {
+    "group_seq": "1307100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1639": {
+    "group_seq": "1307100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1988": {
+    "group_seq": "1501300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1989": {
+    "group_seq": "1501300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "568": {
+    "group_seq": "1201700",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "569": {
+    "group_seq": "1201700",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "560": {
+    "group_seq": "1201600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "561": {
+    "group_seq": "1201600",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "562": {
+    "group_seq": "1201700",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "563": {
+    "group_seq": "1201700",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "564": {
+    "group_seq": "1201700",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "565": {
+    "group_seq": "1201700",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "566": {
+    "group_seq": "1201700",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "567": {
+    "group_seq": "1201700",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1188": {
+    "group_seq": "1303000",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1189": {
+    "group_seq": "1303100",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1186": {
+    "group_seq": "1303000",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1187": {
+    "group_seq": "1303000",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1184": {
+    "group_seq": "1303000",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1185": {
+    "group_seq": "1303000",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1182": {
+    "group_seq": "1303000",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1183": {
+    "group_seq": "1303000",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1180": {
+    "group_seq": "1303000",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1181": {
+    "group_seq": "1303000",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "726": {
+    "group_seq": "1203300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "727": {
+    "group_seq": "1203400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "724": {
+    "group_seq": "1203300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "725": {
+    "group_seq": "1203300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "722": {
+    "group_seq": "1203300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "723": {
+    "group_seq": "1203300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "720": {
+    "group_seq": "1203300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "721": {
+    "group_seq": "1203300",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1744": {
+    "group_seq": "1308100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1745": {
+    "group_seq": "1308100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1746": {
+    "group_seq": "1308100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1747": {
+    "group_seq": "1308100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1740": {
+    "group_seq": "1308100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1741": {
+    "group_seq": "1308100",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "728": {
+    "group_seq": "1203400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "729": {
+    "group_seq": "1203400",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1164": {
+    "group_seq": "1302800",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1165": {
+    "group_seq": "1302800",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1166": {
+    "group_seq": "1302800",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1167": {
+    "group_seq": "1302900",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1160": {
+    "group_seq": "1302800",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1161": {
+    "group_seq": "1302800",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1162": {
+    "group_seq": "1302800",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1163": {
+    "group_seq": "1302800",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1168": {
+    "group_seq": "1302900",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1169": {
+    "group_seq": "1302900",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "472": {
+    "group_seq": "1200800",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "48": {
+    "group_seq": "1100500",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "49": {
+    "group_seq": "1100500",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "46": {
+    "group_seq": "1100500",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "47": {
+    "group_seq": "1100500",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "44": {
+    "group_seq": "1100400",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "45": {
+    "group_seq": "1100500",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "42": {
+    "group_seq": "1100400",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "43": {
+    "group_seq": "1100400",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "40": {
+    "group_seq": "1100400",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "41": {
+    "group_seq": "1100400",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1568": {
+    "group_seq": "1306500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1569": {
+    "group_seq": "1306500",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1298": {
+    "group_seq": "1304000",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1299": {
+    "group_seq": "1304100",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1292": {
+    "group_seq": "1304000",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1293": {
+    "group_seq": "1304000",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1290": {
+    "group_seq": "1304000",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1291": {
+    "group_seq": "1304000",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1296": {
+    "group_seq": "1304000",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1297": {
+    "group_seq": "1304000",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1294": {
+    "group_seq": "1304000",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1295": {
+    "group_seq": "1304000",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1713": {
+    "group_seq": "1307800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "474": {
+    "group_seq": "1200900",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1712": {
+    "group_seq": "1307800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "475": {
+    "group_seq": "1200900",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1711": {
+    "group_seq": "1307800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1710": {
+    "group_seq": "1307800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1717": {
+    "group_seq": "1307900",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1716": {
+    "group_seq": "1307800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1715": {
+    "group_seq": "1307800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1201": {
+    "group_seq": "1303200",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1714": {
+    "group_seq": "1307800",
+    "upgrade_group": "S",
+    "magic_group": "S"
+  },
+  "1366": {
+    "group_seq": "1304700",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "473": {
+    "group_seq": "1200800",
+    "upgrade_group": "C",
+    "magic_group": "C"
+  },
+  "1364": {
+    "group_seq": "1304600",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1365": {
+    "group_seq": "1304700",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1362": {
+    "group_seq": "1304600",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1363": {
+    "group_seq": "1304600",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1360": {
+    "group_seq": "1304600",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1361": {
+    "group_seq": "1304600",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "478": {
+    "group_seq": "1200900",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "479": {
+    "group_seq": "1200900",
+    "upgrade_group": "B",
+    "magic_group": "B"
+  },
+  "1368": {
+    "group_seq": "1304700",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  },
+  "1369": {
+    "group_seq": "1304700",
+    "upgrade_group": "A",
+    "magic_group": "A"
+  }
+}

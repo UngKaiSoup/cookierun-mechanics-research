@@ -1,0 +1,6753 @@
+[
+  {
+    "group_seq": "1100100",
+    "magic_group": "mC",
+    "powder_group": "TR_C",
+    "shard_group": "MS_00",
+    "upgrade_group": "C"
+  },
+  {
+    "__pkey": "1",
+    "group_seq": "1101000",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "10",
+    "group_seq": "1204000",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "100",
+    "group_seq": "1204100",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "101",
+    "group_seq": "1204200",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "102",
+    "group_seq": "1204300",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "103",
+    "group_seq": "1204400",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "104",
+    "group_seq": "1204500",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "105",
+    "group_seq": "1204600",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "106",
+    "group_seq": "1204700",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "107",
+    "group_seq": "1204800",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "108",
+    "group_seq": "1204900",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "109",
+    "group_seq": "1101100",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "11",
+    "group_seq": "1205000",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "110",
+    "group_seq": "1205100",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "111",
+    "group_seq": "1205200",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "112",
+    "group_seq": "1205300",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "113",
+    "group_seq": "1205400",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "114",
+    "group_seq": "1205600",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "115",
+    "group_seq": "1205700",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "116",
+    "group_seq": "1205800",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "117",
+    "group_seq": "1205900",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "118",
+    "group_seq": "1206000",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "119",
+    "group_seq": "1101200",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "12",
+    "group_seq": "1206100",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "120",
+    "group_seq": "1206200",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "121",
+    "group_seq": "1206300",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "122",
+    "group_seq": "1206400",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "123",
+    "group_seq": "1206500",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "124",
+    "group_seq": "1206600",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "125",
+    "group_seq": "1206700",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "126",
+    "group_seq": "1206800",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "127",
+    "group_seq": "1206900",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "128",
+    "group_seq": "1207000",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "129",
+    "group_seq": "1101300",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "13",
+    "group_seq": "1207100",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "130",
+    "group_seq": "1207200",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "131",
+    "group_seq": "1207300",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "132",
+    "group_seq": "1207400",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "133",
+    "group_seq": "1207500",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "134",
+    "group_seq": "1207600",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "135",
+    "group_seq": "1207700",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "136",
+    "group_seq": "1290100",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "137",
+    "group_seq": "1290200",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "138",
+    "group_seq": "1300100",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "139",
+    "group_seq": "1101400",
+    "magic_group": "mB",
+    "powder_group": "TR_B",
+    "shard_group": "MS_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "14",
+    "group_seq": "1300200",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "140",
+    "group_seq": "1300400",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "141",
+    "group_seq": "1300500",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "142",
+    "group_seq": "1300600",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "143",
+    "group_seq": "1300700",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "144",
+    "group_seq": "1300800",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "145",
+    "group_seq": "1300900",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "146",
+    "group_seq": "1301000",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "147",
+    "group_seq": "1301100",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "148",
+    "group_seq": "1301200",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "149",
+    "group_seq": "1101500",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "15",
+    "group_seq": "1301300",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "150",
+    "group_seq": "1301400",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "151",
+    "group_seq": "1301500",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "152",
+    "group_seq": "1301600",
+    "magic_group": "mB",
+    "powder_group": "TR_B",
+    "shard_group": "MS_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "153",
+    "group_seq": "1301700",
+    "magic_group": "mB",
+    "powder_group": "TR_B",
+    "shard_group": "MS_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "154",
+    "group_seq": "1301800",
+    "magic_group": "mB",
+    "powder_group": "TR_B",
+    "shard_group": "MS_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "155",
+    "group_seq": "1301900",
+    "magic_group": "mB",
+    "powder_group": "TR_B",
+    "shard_group": "MS_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "156",
+    "group_seq": "1302000",
+    "magic_group": "mB",
+    "powder_group": "TR_B",
+    "shard_group": "MS_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "157",
+    "group_seq": "1302100",
+    "magic_group": "mB",
+    "powder_group": "TR_B",
+    "shard_group": "MS_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "158",
+    "group_seq": "1302200",
+    "magic_group": "mB",
+    "powder_group": "TR_B",
+    "shard_group": "MS_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "159",
+    "group_seq": "1101600",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "16",
+    "group_seq": "1302300",
+    "magic_group": "mB",
+    "powder_group": "TR_B",
+    "shard_group": "MS_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "160",
+    "group_seq": "1302400",
+    "magic_group": "mB",
+    "powder_group": "TR_B",
+    "shard_group": "MS_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "161",
+    "group_seq": "1302500",
+    "magic_group": "mB",
+    "powder_group": "TR_B",
+    "shard_group": "MS_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "162",
+    "group_seq": "1302600",
+    "magic_group": "mB",
+    "powder_group": "TR_B",
+    "shard_group": "MS_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "163",
+    "group_seq": "1302700",
+    "magic_group": "mB",
+    "powder_group": "TR_B",
+    "shard_group": "MS_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "164",
+    "group_seq": "1302800",
+    "magic_group": "mB",
+    "powder_group": "TR_B",
+    "shard_group": "MS_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "165",
+    "group_seq": "1302900",
+    "magic_group": "mC",
+    "powder_group": "TR_C",
+    "shard_group": "MS_00",
+    "upgrade_group": "C"
+  },
+  {
+    "__pkey": "166",
+    "group_seq": "1303000",
+    "magic_group": "mC",
+    "powder_group": "TR_C",
+    "shard_group": "MS_00",
+    "upgrade_group": "C"
+  },
+  {
+    "__pkey": "167",
+    "group_seq": "1303100",
+    "magic_group": "mC",
+    "powder_group": "TR_C",
+    "shard_group": "MS_00",
+    "upgrade_group": "C"
+  },
+  {
+    "__pkey": "168",
+    "group_seq": "1303200",
+    "magic_group": "mC",
+    "powder_group": "TR_C",
+    "shard_group": "MS_00",
+    "upgrade_group": "C"
+  },
+  {
+    "__pkey": "169",
+    "group_seq": "1101800",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "17",
+    "group_seq": "1303300",
+    "magic_group": "mC",
+    "powder_group": "TR_C",
+    "shard_group": "MS_00",
+    "upgrade_group": "C"
+  },
+  {
+    "__pkey": "170",
+    "group_seq": "1303400",
+    "magic_group": "mC",
+    "powder_group": "TR_C",
+    "shard_group": "MS_00",
+    "upgrade_group": "C"
+  },
+  {
+    "__pkey": "171",
+    "group_seq": "1303500",
+    "magic_group": "mC",
+    "powder_group": "TR_C",
+    "shard_group": "MS_00",
+    "upgrade_group": "C"
+  },
+  {
+    "__pkey": "172",
+    "group_seq": "1303600",
+    "magic_group": "mC",
+    "powder_group": "TR_C",
+    "shard_group": "MS_00",
+    "upgrade_group": "C"
+  },
+  {
+    "__pkey": "173",
+    "group_seq": "1303700",
+    "magic_group": "mC",
+    "powder_group": "TR_C",
+    "shard_group": "MS_00",
+    "upgrade_group": "C"
+  },
+  {
+    "__pkey": "174",
+    "group_seq": "1303800",
+    "magic_group": "mC",
+    "powder_group": "TR_C",
+    "shard_group": "MS_00",
+    "upgrade_group": "C"
+  },
+  {
+    "__pkey": "175",
+    "group_seq": "1303900",
+    "magic_group": "mC",
+    "powder_group": "TR_C",
+    "shard_group": "MS_00",
+    "upgrade_group": "C"
+  },
+  {
+    "__pkey": "176",
+    "group_seq": "1304000",
+    "magic_group": "mC",
+    "powder_group": "TR_C",
+    "shard_group": "MS_00",
+    "upgrade_group": "C"
+  },
+  {
+    "__pkey": "177",
+    "group_seq": "1304100",
+    "magic_group": "mC",
+    "powder_group": "TR_C",
+    "shard_group": "MS_00",
+    "upgrade_group": "C"
+  },
+  {
+    "__pkey": "178",
+    "group_seq": "1304200",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "179",
+    "group_seq": "1101900",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "18",
+    "group_seq": "1304300",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "180",
+    "group_seq": "1304400",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "181",
+    "group_seq": "1304500",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "182",
+    "group_seq": "1304600",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "183",
+    "group_seq": "1304700",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "184",
+    "group_seq": "1304800",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "185",
+    "group_seq": "1304900",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "186",
+    "group_seq": "1305000",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "187",
+    "group_seq": "1305100",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "188",
+    "group_seq": "1305200",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "189",
+    "group_seq": "1102000",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "19",
+    "group_seq": "1305300",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "190",
+    "group_seq": "1305400",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "191",
+    "group_seq": "1305500",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "192",
+    "group_seq": "1305600",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "193",
+    "group_seq": "1305700",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "194",
+    "group_seq": "1305800",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "195",
+    "group_seq": "1305900",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "196",
+    "group_seq": "1306000",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "197",
+    "group_seq": "1306100",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "198",
+    "group_seq": "1306200",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "199",
+    "group_seq": "1100200",
+    "magic_group": "mB",
+    "powder_group": "TR_B",
+    "shard_group": "MS_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "2",
+    "group_seq": "1102100",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "20",
+    "group_seq": "1306300",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "200",
+    "group_seq": "1306400",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "201",
+    "group_seq": "1306500",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "202",
+    "group_seq": "1306600",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "203",
+    "group_seq": "1306700",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "204",
+    "group_seq": "1306800",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "205",
+    "group_seq": "1306900",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "206",
+    "group_seq": "1307000",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "207",
+    "group_seq": "1307100",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "208",
+    "group_seq": "1307200",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "209",
+    "group_seq": "1102200",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "21",
+    "group_seq": "1307300",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "210",
+    "group_seq": "1307400",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "211",
+    "group_seq": "1307500",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "212",
+    "group_seq": "1307600",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "213",
+    "group_seq": "1307700",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "214",
+    "group_seq": "1307800",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "215",
+    "group_seq": "1307900",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "216",
+    "group_seq": "1308000",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "217",
+    "group_seq": "1308100",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "218",
+    "group_seq": "1308200",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "219",
+    "group_seq": "1102300",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "22",
+    "group_seq": "1308300",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "220",
+    "group_seq": "1308400",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "221",
+    "group_seq": "1308500",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "222",
+    "group_seq": "1308600",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "223",
+    "group_seq": "1308700",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "224",
+    "group_seq": "1308800",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "225",
+    "group_seq": "1308900",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "226",
+    "group_seq": "1309000",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "227",
+    "group_seq": "1309100",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "228",
+    "group_seq": "1309200",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "229",
+    "group_seq": "1102400",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "23",
+    "group_seq": "1309300",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "230",
+    "group_seq": "1309400",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "231",
+    "group_seq": "1309500",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "232",
+    "group_seq": "1309600",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "233",
+    "group_seq": "1309700",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "234",
+    "group_seq": "1309800",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "235",
+    "group_seq": "1309900",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "236",
+    "group_seq": "1310000",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "237",
+    "group_seq": "1310100",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "238",
+    "group_seq": "1310200",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "239",
+    "group_seq": "1102500",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "24",
+    "group_seq": "1310300",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "240",
+    "group_seq": "1310400",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "241",
+    "group_seq": "1310500",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "242",
+    "group_seq": "1310600",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "243",
+    "group_seq": "1310700",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "244",
+    "group_seq": "1310800",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "245",
+    "group_seq": "1310900",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "246",
+    "group_seq": "1311000",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "247",
+    "group_seq": "1311100",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "248",
+    "group_seq": "1311200",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "249",
+    "group_seq": "1102600",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "25",
+    "group_seq": "1311300",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "250",
+    "group_seq": "1311400",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "251",
+    "group_seq": "1311500",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "252",
+    "group_seq": "1311600",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "253",
+    "group_seq": "1311700",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "254",
+    "group_seq": "1311800",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "255",
+    "group_seq": "1311900",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "256",
+    "group_seq": "1312000",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "257",
+    "group_seq": "1312100",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "258",
+    "group_seq": "1312200",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "259",
+    "group_seq": "1102700",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "26",
+    "group_seq": "1312300",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "260",
+    "group_seq": "1312400",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "261",
+    "group_seq": "1312500",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "262",
+    "group_seq": "1312600",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "263",
+    "group_seq": "1312700",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "264",
+    "group_seq": "1312800",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "265",
+    "group_seq": "1312900",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "266",
+    "group_seq": "1313000",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "267",
+    "group_seq": "1313100",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "268",
+    "group_seq": "1313200",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "269",
+    "group_seq": "1102800",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "27",
+    "group_seq": "1313300",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "270",
+    "group_seq": "1313400",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "271",
+    "group_seq": "1313500",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "272",
+    "group_seq": "1313600",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "273",
+    "group_seq": "1313700",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "274",
+    "group_seq": "1500100",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "275",
+    "group_seq": "1500300",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "276",
+    "group_seq": "1500400",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "277",
+    "group_seq": "1500500",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "278",
+    "group_seq": "1500600",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "279",
+    "group_seq": "1102900",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "28",
+    "group_seq": "1500700",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "280",
+    "group_seq": "1500800",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "281",
+    "group_seq": "1500900",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "282",
+    "group_seq": "1501000",
+    "magic_group": "mA",
+    "powder_group": "TR_E",
+    "shard_group": "MS_00",
+    "upgrade_group": "E"
+  },
+  {
+    "__pkey": "283",
+    "group_seq": "1501100",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "284",
+    "group_seq": "1501200",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "285",
+    "group_seq": "1501300",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "286",
+    "group_seq": "1501400",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "287",
+    "group_seq": "1501500",
+    "magic_group": "mA",
+    "powder_group": "TR_E",
+    "shard_group": "MS_00",
+    "upgrade_group": "E"
+  },
+  {
+    "__pkey": "288",
+    "group_seq": "1501600",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "289",
+    "group_seq": "1103000",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "29",
+    "group_seq": "1501700",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "290",
+    "group_seq": "1501800",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "291",
+    "group_seq": "1501900",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "292",
+    "group_seq": "1502000",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "293",
+    "group_seq": "1502100",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "294",
+    "group_seq": "1502200",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "295",
+    "group_seq": "1502300",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "296",
+    "group_seq": "1502400",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "297",
+    "group_seq": "1502500",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "298",
+    "group_seq": "1502600",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "299",
+    "group_seq": "1100300",
+    "magic_group": "mC",
+    "powder_group": "TR_C",
+    "shard_group": "MS_00",
+    "upgrade_group": "C"
+  },
+  {
+    "__pkey": "3",
+    "group_seq": "1103100",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "30",
+    "group_seq": "1502700",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "300",
+    "group_seq": "1502800",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "301",
+    "group_seq": "1502900",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "302",
+    "group_seq": "1503000",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "303",
+    "group_seq": "1503100",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "304",
+    "group_seq": "1503200",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "305",
+    "group_seq": "1503300",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "306",
+    "group_seq": "1503400",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "307",
+    "group_seq": "1503500",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "308",
+    "group_seq": "1503600",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "309",
+    "group_seq": "1103200",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "31",
+    "group_seq": "1503700",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "310",
+    "group_seq": "1503800",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "311",
+    "group_seq": "1503900",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "312",
+    "group_seq": "1504000",
+    "magic_group": "mA",
+    "powder_group": "TR_E",
+    "shard_group": "MS_00",
+    "upgrade_group": "E"
+  },
+  {
+    "__pkey": "313",
+    "group_seq": "1504100",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "314",
+    "group_seq": "1504200",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "315",
+    "group_seq": "1504300",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "316",
+    "group_seq": "1504400",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "317",
+    "group_seq": "1504500",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "318",
+    "group_seq": "1504600",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "319",
+    "group_seq": "1103300",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "32",
+    "group_seq": "1504700",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "320",
+    "group_seq": "1504800",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "321",
+    "group_seq": "1504900",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "322",
+    "group_seq": "1505000",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "323",
+    "group_seq": "1505100",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "324",
+    "group_seq": "1505200",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "325",
+    "group_seq": "1505300",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "326",
+    "group_seq": "1505400",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "327",
+    "group_seq": "1505500",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "328",
+    "group_seq": "1505600",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "329",
+    "group_seq": "1103400",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "33",
+    "group_seq": "1505700",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "330",
+    "group_seq": "1505800",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "331",
+    "group_seq": "1505900",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "332",
+    "group_seq": "1506000",
+    "magic_group": "mA",
+    "powder_group": "TR_E2",
+    "shard_group": "MS_00",
+    "upgrade_group": "E2"
+  },
+  {
+    "__pkey": "333",
+    "group_seq": "1506100",
+    "magic_group": "mA",
+    "powder_group": "TR_E2",
+    "shard_group": "MS_00",
+    "upgrade_group": "E2"
+  },
+  {
+    "__pkey": "334",
+    "group_seq": "1506200",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "335",
+    "group_seq": "1506300",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "336",
+    "group_seq": "1506400",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "337",
+    "group_seq": "1506500",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "338",
+    "group_seq": "1506600",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "339",
+    "group_seq": "1103500",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "34",
+    "group_seq": "1506700",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "340",
+    "group_seq": "1506800",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "341",
+    "group_seq": "1506900",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "342",
+    "group_seq": "1507000",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "343",
+    "group_seq": "1507100",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "344",
+    "group_seq": "1507200",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "345",
+    "group_seq": "1507300",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "346",
+    "group_seq": "1507400",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "347",
+    "group_seq": "1507500",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "348",
+    "group_seq": "1507600",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "349",
+    "group_seq": "1103600",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "35",
+    "group_seq": "1507700",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "350",
+    "group_seq": "1507800",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "351",
+    "group_seq": "1507900",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "352",
+    "group_seq": "1508000",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "353",
+    "group_seq": "1508100",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "354",
+    "group_seq": "1508200",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "355",
+    "group_seq": "1508300",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "356",
+    "group_seq": "1508400",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "357",
+    "group_seq": "1508500",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "358",
+    "group_seq": "1508600",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "359",
+    "group_seq": "1103700",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "36",
+    "group_seq": "1508700",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "360",
+    "group_seq": "1508800",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "361",
+    "group_seq": "1508900",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "362",
+    "group_seq": "1509000",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "363",
+    "group_seq": "1509100",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "364",
+    "group_seq": "1509200",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "365",
+    "group_seq": "1509300",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "366",
+    "group_seq": "1509400",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "367",
+    "group_seq": "1509500",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "368",
+    "group_seq": "1509600",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "369",
+    "group_seq": "1103800",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "37",
+    "group_seq": "1509700",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "370",
+    "group_seq": "1509800",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "371",
+    "group_seq": "1509900",
+    "magic_group": "mA",
+    "powder_group": "TR_E3",
+    "shard_group": "MS_00",
+    "upgrade_group": "E2"
+  },
+  {
+    "__pkey": "372",
+    "group_seq": "1510000",
+    "magic_group": "mA",
+    "powder_group": "TR_E3",
+    "shard_group": "MS_00",
+    "upgrade_group": "E2"
+  },
+  {
+    "__pkey": "373",
+    "group_seq": "1510100",
+    "magic_group": "mA",
+    "powder_group": "TR_E3",
+    "shard_group": "MS_00",
+    "upgrade_group": "E2"
+  },
+  {
+    "__pkey": "374",
+    "group_seq": "1510200",
+    "magic_group": "mA",
+    "powder_group": "TR_E3",
+    "shard_group": "MS_00",
+    "upgrade_group": "E2"
+  },
+  {
+    "__pkey": "375",
+    "group_seq": "1510300",
+    "magic_group": "mA",
+    "powder_group": "TR_E3",
+    "shard_group": "MS_00",
+    "upgrade_group": "E2"
+  },
+  {
+    "__pkey": "376",
+    "group_seq": "1510400",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "377",
+    "group_seq": "1510500",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "378",
+    "group_seq": "1510600",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "379",
+    "group_seq": "1103900",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "38",
+    "group_seq": "1510700",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "380",
+    "group_seq": "1510800",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "381",
+    "group_seq": "1510900",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "382",
+    "group_seq": "1511000",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "383",
+    "group_seq": "1511100",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "384",
+    "group_seq": "1511200",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "385",
+    "group_seq": "1511300",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "386",
+    "group_seq": "1511400",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "387",
+    "group_seq": "1511500",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "388",
+    "group_seq": "1511600",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "389",
+    "group_seq": "1104000",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "39",
+    "group_seq": "1511700",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "390",
+    "group_seq": "1511800",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "391",
+    "group_seq": "1511900",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "392",
+    "group_seq": "1512000",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "393",
+    "group_seq": "1512100",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "394",
+    "group_seq": "1512200",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "395",
+    "group_seq": "1512300",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "396",
+    "group_seq": "1512400",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "397",
+    "group_seq": "1512500",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "398",
+    "group_seq": "1512600",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "399",
+    "group_seq": "1100400",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "4",
+    "group_seq": "1104100",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "40",
+    "group_seq": "1512700",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "400",
+    "group_seq": "1512800",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "401",
+    "group_seq": "1512900",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "402",
+    "group_seq": "1513000",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "403",
+    "group_seq": "1513100",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "404",
+    "group_seq": "1513200",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "405",
+    "group_seq": "1513300",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "406",
+    "group_seq": "1513400",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "407",
+    "group_seq": "1513500",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "408",
+    "group_seq": "1513600",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "409",
+    "group_seq": "1104200",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "41",
+    "group_seq": "1513700",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "410",
+    "group_seq": "1513800",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "411",
+    "group_seq": "1513900",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "412",
+    "group_seq": "1514000",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "413",
+    "group_seq": "1600200",
+    "magic_group": "mA",
+    "powder_group": "TR_E",
+    "shard_group": "MS_00",
+    "upgrade_group": "N"
+  },
+  {
+    "__pkey": "414",
+    "group_seq": "1600300",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "415",
+    "group_seq": "1600400",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "416",
+    "group_seq": "1600500",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "417",
+    "group_seq": "1700100",
+    "magic_group": "mC",
+    "powder_group": "TR_C",
+    "shard_group": "MS_00",
+    "upgrade_group": "N"
+  },
+  {
+    "__pkey": "418",
+    "group_seq": "1700200",
+    "magic_group": "mC",
+    "powder_group": "TR_C",
+    "shard_group": "MS_00",
+    "upgrade_group": "N"
+  },
+  {
+    "__pkey": "419",
+    "group_seq": "1104300",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "42",
+    "group_seq": "1700300",
+    "magic_group": "mC",
+    "powder_group": "TR_C",
+    "shard_group": "MS_00",
+    "upgrade_group": "N"
+  },
+  {
+    "__pkey": "420",
+    "group_seq": "1700400",
+    "magic_group": "mC",
+    "powder_group": "TR_C",
+    "shard_group": "MS_00",
+    "upgrade_group": "N"
+  },
+  {
+    "__pkey": "421",
+    "group_seq": "1700500",
+    "magic_group": "mC",
+    "powder_group": "TR_C",
+    "shard_group": "MS_00",
+    "upgrade_group": "N"
+  },
+  {
+    "__pkey": "422",
+    "group_seq": "11001000",
+    "magic_group": "mA",
+    "powder_group": "TR2_C",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "423",
+    "group_seq": "11001100",
+    "magic_group": "mA",
+    "powder_group": "TR2X_C",
+    "shard_group": "MSX_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "424",
+    "group_seq": "11002000",
+    "magic_group": "mB",
+    "powder_group": "TR2_B+",
+    "shard_group": "MS_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "425",
+    "group_seq": "11002100",
+    "magic_group": "mB",
+    "powder_group": "TR2X_B+",
+    "shard_group": "MSX_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "426",
+    "group_seq": "11003000",
+    "magic_group": "mC",
+    "powder_group": "TR2_C+",
+    "shard_group": "MS_00",
+    "upgrade_group": "C"
+  },
+  {
+    "__pkey": "427",
+    "group_seq": "11003100",
+    "magic_group": "mC",
+    "powder_group": "TR2X_C+",
+    "shard_group": "MSX_00",
+    "upgrade_group": "C"
+  },
+  {
+    "__pkey": "428",
+    "group_seq": "11005000",
+    "magic_group": "mB",
+    "powder_group": "TR2_B+",
+    "shard_group": "MS_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "429",
+    "group_seq": "1104400",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "43",
+    "group_seq": "11005100",
+    "magic_group": "mB",
+    "powder_group": "TR2X_B+",
+    "shard_group": "MSX_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "430",
+    "group_seq": "11006000",
+    "magic_group": "mB",
+    "powder_group": "TR2_B+",
+    "shard_group": "MS_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "431",
+    "group_seq": "11006100",
+    "magic_group": "mB",
+    "powder_group": "TR2X_B+",
+    "shard_group": "MSX_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "432",
+    "group_seq": "11007000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S+",
+    "shard_group": "MS_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "433",
+    "group_seq": "11007100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S+",
+    "shard_group": "MSX_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "434",
+    "group_seq": "11008000",
+    "magic_group": "mA",
+    "powder_group": "TR2_A+",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "435",
+    "group_seq": "11008100",
+    "magic_group": "mA",
+    "powder_group": "TR2X_A+",
+    "shard_group": "MSX_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "436",
+    "group_seq": "11009000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S",
+    "shard_group": "MS_09",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "437",
+    "group_seq": "11009100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S",
+    "shard_group": "MSX_09",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "438",
+    "group_seq": "11010000",
+    "magic_group": "mA",
+    "powder_group": "TR2_A+",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "439",
+    "group_seq": "1104500",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "44",
+    "group_seq": "11010100",
+    "magic_group": "mA",
+    "powder_group": "TR2X_A+",
+    "shard_group": "MSX_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "440",
+    "group_seq": "11011000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S+",
+    "shard_group": "MS_08",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "441",
+    "group_seq": "11011100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S+",
+    "shard_group": "MSX_08",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "442",
+    "group_seq": "11012000",
+    "magic_group": "mS",
+    "powder_group": "TR2_SS",
+    "shard_group": "MS_02",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "443",
+    "group_seq": "11012100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_SS",
+    "shard_group": "MSX_02",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "444",
+    "group_seq": "11013000",
+    "magic_group": "mA",
+    "powder_group": "TR2_A+",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "445",
+    "group_seq": "11013100",
+    "magic_group": "mA",
+    "powder_group": "TR2X_A+",
+    "shard_group": "MSX_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "446",
+    "group_seq": "11014000",
+    "magic_group": "mA",
+    "powder_group": "TR2_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "447",
+    "group_seq": "11014100",
+    "magic_group": "mA",
+    "powder_group": "TR2X_A",
+    "shard_group": "MSX_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "448",
+    "group_seq": "11015000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S",
+    "shard_group": "MS_09",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "449",
+    "group_seq": "1104600",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "45",
+    "group_seq": "11015100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S",
+    "shard_group": "MSX_09",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "450",
+    "group_seq": "11016000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "451",
+    "group_seq": "11016100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "452",
+    "group_seq": "11018000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S+",
+    "shard_group": "MS_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "453",
+    "group_seq": "11018100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S+",
+    "shard_group": "MSX_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "454",
+    "group_seq": "11019000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S+",
+    "shard_group": "MS_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "455",
+    "group_seq": "11019100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S+",
+    "shard_group": "MSX_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "456",
+    "group_seq": "11020000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_04",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "457",
+    "group_seq": "11020100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_04",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "458",
+    "group_seq": "11021000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S",
+    "shard_group": "MS_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "459",
+    "group_seq": "1104700",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "46",
+    "group_seq": "11021100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S",
+    "shard_group": "MSX_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "460",
+    "group_seq": "11022000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S+",
+    "shard_group": "MS_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "461",
+    "group_seq": "11022100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S+",
+    "shard_group": "MSX_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "462",
+    "group_seq": "11023000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S+",
+    "shard_group": "MS_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "463",
+    "group_seq": "11023100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S+",
+    "shard_group": "MSX_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "464",
+    "group_seq": "11024000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S+",
+    "shard_group": "MS_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "465",
+    "group_seq": "11024100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S+",
+    "shard_group": "MSX_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "466",
+    "group_seq": "11025000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S+",
+    "shard_group": "MS_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "467",
+    "group_seq": "11025100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S+",
+    "shard_group": "MSX_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "468",
+    "group_seq": "11026000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "469",
+    "group_seq": "1104800",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "47",
+    "group_seq": "11026100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "470",
+    "group_seq": "11027000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S+",
+    "shard_group": "MS_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "471",
+    "group_seq": "11027100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S+",
+    "shard_group": "MSX_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "472",
+    "group_seq": "11028000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S+",
+    "shard_group": "MS_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "473",
+    "group_seq": "11028100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S+",
+    "shard_group": "MSX_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "474",
+    "group_seq": "11029000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S+",
+    "shard_group": "MS_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "475",
+    "group_seq": "11029100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S+",
+    "shard_group": "MSX_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "476",
+    "group_seq": "11030000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "477",
+    "group_seq": "11030100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "478",
+    "group_seq": "11031000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S+",
+    "shard_group": "MS_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "479",
+    "group_seq": "1104900",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "48",
+    "group_seq": "11031100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S+",
+    "shard_group": "MSX_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "480",
+    "group_seq": "11033000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "481",
+    "group_seq": "11033100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "482",
+    "group_seq": "11034000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "483",
+    "group_seq": "11034100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "484",
+    "group_seq": "11035000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S+",
+    "shard_group": "MS_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "485",
+    "group_seq": "11035100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S+",
+    "shard_group": "MSX_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "486",
+    "group_seq": "11036000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S+",
+    "shard_group": "MS_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "487",
+    "group_seq": "11036100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S+",
+    "shard_group": "MSX_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "488",
+    "group_seq": "11037000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "489",
+    "group_seq": "1105000",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "49",
+    "group_seq": "11037100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "490",
+    "group_seq": "11038000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "491",
+    "group_seq": "11038100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "492",
+    "group_seq": "11039000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "493",
+    "group_seq": "11039100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "494",
+    "group_seq": "11042000",
+    "magic_group": "mS",
+    "powder_group": "TR2_SS",
+    "shard_group": "MS_02",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "495",
+    "group_seq": "11042100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_SS",
+    "shard_group": "MSX_02",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "496",
+    "group_seq": "11043000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "497",
+    "group_seq": "11043100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "498",
+    "group_seq": "11044000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S",
+    "shard_group": "MS_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "499",
+    "group_seq": "1100500",
+    "magic_group": "mB",
+    "powder_group": "TR_B",
+    "shard_group": "MS_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "5",
+    "group_seq": "1105100",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "50",
+    "group_seq": "11044100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S",
+    "shard_group": "MSX_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "500",
+    "group_seq": "11045000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "501",
+    "group_seq": "11045100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "502",
+    "group_seq": "11046000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S",
+    "shard_group": "MS_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "503",
+    "group_seq": "11046100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S",
+    "shard_group": "MSX_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "504",
+    "group_seq": "11047000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S+",
+    "shard_group": "MS_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "505",
+    "group_seq": "11047100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S+",
+    "shard_group": "MSX_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "506",
+    "group_seq": "11048000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S+",
+    "shard_group": "MS_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "507",
+    "group_seq": "11048100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S+",
+    "shard_group": "MSX_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "508",
+    "group_seq": "11050000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S+",
+    "shard_group": "MS_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "509",
+    "group_seq": "1105200",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "51",
+    "group_seq": "11050100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S+",
+    "shard_group": "MSX_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "510",
+    "group_seq": "11052000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S+",
+    "shard_group": "MS_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "511",
+    "group_seq": "11052100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S+",
+    "shard_group": "MSX_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "512",
+    "group_seq": "11053000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S+",
+    "shard_group": "MS_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "513",
+    "group_seq": "11053100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S+",
+    "shard_group": "MSX_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "514",
+    "group_seq": "11054000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S+",
+    "shard_group": "MS_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "515",
+    "group_seq": "11054100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S+",
+    "shard_group": "MSX_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "516",
+    "group_seq": "12001000",
+    "magic_group": "mB",
+    "powder_group": "TR2_C",
+    "shard_group": "MS_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "517",
+    "group_seq": "12001100",
+    "magic_group": "mB",
+    "powder_group": "TR2X_C",
+    "shard_group": "MSX_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "518",
+    "group_seq": "12002000",
+    "magic_group": "mB",
+    "powder_group": "TR2_B",
+    "shard_group": "MS_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "519",
+    "group_seq": "1105300",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "52",
+    "group_seq": "12002100",
+    "magic_group": "mB",
+    "powder_group": "TR2X_B",
+    "shard_group": "MSX_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "520",
+    "group_seq": "12003000",
+    "magic_group": "mB",
+    "powder_group": "TR2_B",
+    "shard_group": "MS_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "521",
+    "group_seq": "12003100",
+    "magic_group": "mB",
+    "powder_group": "TR2X_B",
+    "shard_group": "MSX_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "522",
+    "group_seq": "12004000",
+    "magic_group": "mC",
+    "powder_group": "TR2_C+",
+    "shard_group": "MS_00",
+    "upgrade_group": "C"
+  },
+  {
+    "__pkey": "523",
+    "group_seq": "12004100",
+    "magic_group": "mC",
+    "powder_group": "TR2X_C+",
+    "shard_group": "MSX_00",
+    "upgrade_group": "C"
+  },
+  {
+    "__pkey": "524",
+    "group_seq": "12005000",
+    "magic_group": "mB",
+    "powder_group": "TR2_B+",
+    "shard_group": "MS_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "525",
+    "group_seq": "12005100",
+    "magic_group": "mB",
+    "powder_group": "TR2X_B+",
+    "shard_group": "MSX_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "526",
+    "group_seq": "12006000",
+    "magic_group": "mB",
+    "powder_group": "TR2_B+",
+    "shard_group": "MS_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "527",
+    "group_seq": "12006100",
+    "magic_group": "mB",
+    "powder_group": "TR2X_B+",
+    "shard_group": "MSX_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "528",
+    "group_seq": "12007000",
+    "magic_group": "mC",
+    "powder_group": "TR2_C+",
+    "shard_group": "MS_00",
+    "upgrade_group": "C"
+  },
+  {
+    "__pkey": "529",
+    "group_seq": "1105400",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "53",
+    "group_seq": "12007100",
+    "magic_group": "mC",
+    "powder_group": "TR2X_C+",
+    "shard_group": "MSX_00",
+    "upgrade_group": "C"
+  },
+  {
+    "__pkey": "530",
+    "group_seq": "12008000",
+    "magic_group": "mC",
+    "powder_group": "TR2_C+",
+    "shard_group": "MS_00",
+    "upgrade_group": "C"
+  },
+  {
+    "__pkey": "531",
+    "group_seq": "12008100",
+    "magic_group": "mC",
+    "powder_group": "TR2X_C+",
+    "shard_group": "MSX_00",
+    "upgrade_group": "C"
+  },
+  {
+    "__pkey": "532",
+    "group_seq": "12009000",
+    "magic_group": "mB",
+    "powder_group": "TR2_B+",
+    "shard_group": "MS_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "533",
+    "group_seq": "12009100",
+    "magic_group": "mB",
+    "powder_group": "TR2X_B+",
+    "shard_group": "MSX_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "534",
+    "group_seq": "12010000",
+    "magic_group": "mB",
+    "powder_group": "TR2_B",
+    "shard_group": "MS_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "535",
+    "group_seq": "12010100",
+    "magic_group": "mB",
+    "powder_group": "TR2X_B",
+    "shard_group": "MSX_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "536",
+    "group_seq": "12011000",
+    "magic_group": "mA",
+    "powder_group": "TR2_A+",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "537",
+    "group_seq": "12011100",
+    "magic_group": "mA",
+    "powder_group": "TR2X_A+",
+    "shard_group": "MSX_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "538",
+    "group_seq": "12012000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "539",
+    "group_seq": "1105500",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "54",
+    "group_seq": "12012100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "540",
+    "group_seq": "12013000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "541",
+    "group_seq": "12013100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "542",
+    "group_seq": "12014000",
+    "magic_group": "mB",
+    "powder_group": "TR2_B+",
+    "shard_group": "MS_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "543",
+    "group_seq": "12014100",
+    "magic_group": "mB",
+    "powder_group": "TR2X_B+",
+    "shard_group": "MSX_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "544",
+    "group_seq": "12015000",
+    "magic_group": "mA",
+    "powder_group": "TR2_A+",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "545",
+    "group_seq": "12015100",
+    "magic_group": "mA",
+    "powder_group": "TR2X_A+",
+    "shard_group": "MSX_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "546",
+    "group_seq": "12016000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S",
+    "shard_group": "MS_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "547",
+    "group_seq": "12016100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S",
+    "shard_group": "MSX_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "548",
+    "group_seq": "12017000",
+    "magic_group": "mA",
+    "powder_group": "TR2_A+",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "549",
+    "group_seq": "1105600",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "55",
+    "group_seq": "12017100",
+    "magic_group": "mA",
+    "powder_group": "TR2X_A+",
+    "shard_group": "MSX_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "550",
+    "group_seq": "12018000",
+    "magic_group": "mA",
+    "powder_group": "TR2_A+",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "551",
+    "group_seq": "12018100",
+    "magic_group": "mA",
+    "powder_group": "TR2X_A+",
+    "shard_group": "MSX_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "552",
+    "group_seq": "12019000",
+    "magic_group": "mB",
+    "powder_group": "TR2_B+",
+    "shard_group": "MS_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "553",
+    "group_seq": "12019100",
+    "magic_group": "mB",
+    "powder_group": "TR2X_B+",
+    "shard_group": "MSX_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "554",
+    "group_seq": "12020000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S",
+    "shard_group": "MS_09",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "555",
+    "group_seq": "12020100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S",
+    "shard_group": "MSX_09",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "556",
+    "group_seq": "12021000",
+    "magic_group": "mB",
+    "powder_group": "TR2_B+",
+    "shard_group": "MS_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "557",
+    "group_seq": "12021100",
+    "magic_group": "mB",
+    "powder_group": "TR2X_B+",
+    "shard_group": "MSX_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "558",
+    "group_seq": "12023000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_04",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "559",
+    "group_seq": "1105700",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "56",
+    "group_seq": "12023100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_04",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "560",
+    "group_seq": "12024000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "561",
+    "group_seq": "12024100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "562",
+    "group_seq": "12026000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S+",
+    "shard_group": "MS_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "563",
+    "group_seq": "12026100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S+",
+    "shard_group": "MSX_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "564",
+    "group_seq": "12027000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S+",
+    "shard_group": "MS_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "565",
+    "group_seq": "12027100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S+",
+    "shard_group": "MSX_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "566",
+    "group_seq": "12028000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S",
+    "shard_group": "MS_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "567",
+    "group_seq": "12028100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S",
+    "shard_group": "MSX_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "568",
+    "group_seq": "12029000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S+",
+    "shard_group": "MS_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "569",
+    "group_seq": "1105800",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "57",
+    "group_seq": "12029100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S+",
+    "shard_group": "MSX_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "570",
+    "group_seq": "12030000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S+",
+    "shard_group": "MS_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "571",
+    "group_seq": "12030100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S+",
+    "shard_group": "MSX_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "572",
+    "group_seq": "12031000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S",
+    "shard_group": "MS_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "573",
+    "group_seq": "12031100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S",
+    "shard_group": "MSX_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "574",
+    "group_seq": "12033000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S+",
+    "shard_group": "MS_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "575",
+    "group_seq": "12033100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S+",
+    "shard_group": "MSX_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "576",
+    "group_seq": "12034000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S+",
+    "shard_group": "MS_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "577",
+    "group_seq": "12034100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S+",
+    "shard_group": "MSX_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "578",
+    "group_seq": "12035000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "579",
+    "group_seq": "1105900",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "58",
+    "group_seq": "12035100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "580",
+    "group_seq": "12036000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S+",
+    "shard_group": "MS_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "581",
+    "group_seq": "12036100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S+",
+    "shard_group": "MSX_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "582",
+    "group_seq": "12037000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S+",
+    "shard_group": "MS_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "583",
+    "group_seq": "12037100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S+",
+    "shard_group": "MSX_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "584",
+    "group_seq": "12040000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S+",
+    "shard_group": "MS_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "585",
+    "group_seq": "12040100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S+",
+    "shard_group": "MSX_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "586",
+    "group_seq": "12041000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S+",
+    "shard_group": "MS_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "587",
+    "group_seq": "12041100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S+",
+    "shard_group": "MSX_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "588",
+    "group_seq": "12042000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S+",
+    "shard_group": "MS_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "589",
+    "group_seq": "1106000",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "59",
+    "group_seq": "12042100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S+",
+    "shard_group": "MSX_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "590",
+    "group_seq": "12043000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S",
+    "shard_group": "MS_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "591",
+    "group_seq": "12043100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S",
+    "shard_group": "MSX_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "592",
+    "group_seq": "12044000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "593",
+    "group_seq": "12044100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "594",
+    "group_seq": "12045000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S+",
+    "shard_group": "MS_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "595",
+    "group_seq": "12045100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S+",
+    "shard_group": "MSX_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "596",
+    "group_seq": "12046000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "597",
+    "group_seq": "12046100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "598",
+    "group_seq": "12047000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "599",
+    "group_seq": "1100600",
+    "magic_group": "mB",
+    "powder_group": "TR_B",
+    "shard_group": "MS_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "6",
+    "group_seq": "1106100",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "60",
+    "group_seq": "12047100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "600",
+    "group_seq": "12048000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S+",
+    "shard_group": "MS_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "601",
+    "group_seq": "12048100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S+",
+    "shard_group": "MSX_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "602",
+    "group_seq": "12050000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "603",
+    "group_seq": "12050100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "604",
+    "group_seq": "12051000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S+",
+    "shard_group": "MS_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "605",
+    "group_seq": "12051100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S+",
+    "shard_group": "MSX_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "606",
+    "group_seq": "12052000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S+",
+    "shard_group": "MS_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "607",
+    "group_seq": "12052100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S+",
+    "shard_group": "MSX_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "608",
+    "group_seq": "12054000",
+    "magic_group": "mS",
+    "powder_group": "TR2_SS",
+    "shard_group": "MS_02",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "609",
+    "group_seq": "1106200",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "61",
+    "group_seq": "12054100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_SS",
+    "shard_group": "MSX_02",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "610",
+    "group_seq": "12056000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "611",
+    "group_seq": "12056100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "612",
+    "group_seq": "12057000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S+",
+    "shard_group": "MS_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "613",
+    "group_seq": "12057100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S+",
+    "shard_group": "MSX_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "614",
+    "group_seq": "12058000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S",
+    "shard_group": "MS_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "615",
+    "group_seq": "12058100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S",
+    "shard_group": "MSX_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "616",
+    "group_seq": "12059000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S+",
+    "shard_group": "MS_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "617",
+    "group_seq": "12059100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S+",
+    "shard_group": "MSX_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "618",
+    "group_seq": "12060000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S+",
+    "shard_group": "MS_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "619",
+    "group_seq": "1106300",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "62",
+    "group_seq": "12060100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S+",
+    "shard_group": "MSX_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "620",
+    "group_seq": "12061000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S+",
+    "shard_group": "MS_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "621",
+    "group_seq": "12061100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S+",
+    "shard_group": "MSX_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "622",
+    "group_seq": "12063000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S+",
+    "shard_group": "MS_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "623",
+    "group_seq": "12063100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S+",
+    "shard_group": "MSX_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "624",
+    "group_seq": "12064000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S+",
+    "shard_group": "MS_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "625",
+    "group_seq": "12064100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S+",
+    "shard_group": "MSX_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "626",
+    "group_seq": "12066000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S+",
+    "shard_group": "MS_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "627",
+    "group_seq": "12066100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S+",
+    "shard_group": "MSX_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "628",
+    "group_seq": "13001000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "629",
+    "group_seq": "1200100",
+    "magic_group": "mC",
+    "powder_group": "TR_C",
+    "shard_group": "MS_00",
+    "upgrade_group": "C"
+  },
+  {
+    "__pkey": "63",
+    "group_seq": "13001100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "630",
+    "group_seq": "13002000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "631",
+    "group_seq": "13002100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "632",
+    "group_seq": "13007000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S+",
+    "shard_group": "MS_09",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "633",
+    "group_seq": "13007100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S+",
+    "shard_group": "MSX_09",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "634",
+    "group_seq": "13008000",
+    "magic_group": "mA",
+    "powder_group": "TR2_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "635",
+    "group_seq": "13008100",
+    "magic_group": "mA",
+    "powder_group": "TR2X_A",
+    "shard_group": "MSX_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "636",
+    "group_seq": "13009000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S+",
+    "shard_group": "MS_08",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "637",
+    "group_seq": "13009100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S+",
+    "shard_group": "MSX_08",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "638",
+    "group_seq": "13010000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S",
+    "shard_group": "MS_09",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "639",
+    "group_seq": "1200200",
+    "magic_group": "mC",
+    "powder_group": "TR_C",
+    "shard_group": "MS_00",
+    "upgrade_group": "C"
+  },
+  {
+    "__pkey": "64",
+    "group_seq": "13010100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S",
+    "shard_group": "MSX_09",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "640",
+    "group_seq": "13011000",
+    "magic_group": "mA",
+    "powder_group": "TR2_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "641",
+    "group_seq": "13011100",
+    "magic_group": "mA",
+    "powder_group": "TR2X_A",
+    "shard_group": "MSX_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "642",
+    "group_seq": "13012000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S",
+    "shard_group": "MS_09",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "643",
+    "group_seq": "13012100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S",
+    "shard_group": "MSX_09",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "644",
+    "group_seq": "13016000",
+    "magic_group": "mA",
+    "powder_group": "TR2_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "645",
+    "group_seq": "13016100",
+    "magic_group": "mA",
+    "powder_group": "TR2X_A",
+    "shard_group": "MSX_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "646",
+    "group_seq": "13017000",
+    "magic_group": "mB",
+    "powder_group": "TR2_B+",
+    "shard_group": "MS_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "647",
+    "group_seq": "13017100",
+    "magic_group": "mB",
+    "powder_group": "TR2X_B+",
+    "shard_group": "MSX_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "648",
+    "group_seq": "13018000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S",
+    "shard_group": "MS_10",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "649",
+    "group_seq": "1200300",
+    "magic_group": "mC",
+    "powder_group": "TR_C",
+    "shard_group": "MS_00",
+    "upgrade_group": "C"
+  },
+  {
+    "__pkey": "65",
+    "group_seq": "13018100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S",
+    "shard_group": "MSX_10",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "650",
+    "group_seq": "13019000",
+    "magic_group": "mB",
+    "powder_group": "TR2_B",
+    "shard_group": "MS_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "651",
+    "group_seq": "13019100",
+    "magic_group": "mB",
+    "powder_group": "TR2X_B",
+    "shard_group": "MSX_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "652",
+    "group_seq": "13020000",
+    "magic_group": "mA",
+    "powder_group": "TR2_A+",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "653",
+    "group_seq": "13020100",
+    "magic_group": "mA",
+    "powder_group": "TR2X_A+",
+    "shard_group": "MSX_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "654",
+    "group_seq": "13021000",
+    "magic_group": "mA",
+    "powder_group": "TR2_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "655",
+    "group_seq": "13021100",
+    "magic_group": "mA",
+    "powder_group": "TR2X_A",
+    "shard_group": "MSX_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "656",
+    "group_seq": "13022000",
+    "magic_group": "mB",
+    "powder_group": "TR2_B+",
+    "shard_group": "MS_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "657",
+    "group_seq": "13022100",
+    "magic_group": "mB",
+    "powder_group": "TR2X_B+",
+    "shard_group": "MSX_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "658",
+    "group_seq": "13023000",
+    "magic_group": "mA",
+    "powder_group": "TR2_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "659",
+    "group_seq": "1200400",
+    "magic_group": "mC",
+    "powder_group": "TR_C",
+    "shard_group": "MS_00",
+    "upgrade_group": "C"
+  },
+  {
+    "__pkey": "66",
+    "group_seq": "13023100",
+    "magic_group": "mA",
+    "powder_group": "TR2X_A",
+    "shard_group": "MSX_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "660",
+    "group_seq": "13029000",
+    "magic_group": "mA",
+    "powder_group": "TR2_A+",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "661",
+    "group_seq": "13029100",
+    "magic_group": "mA",
+    "powder_group": "TR2X_A+",
+    "shard_group": "MSX_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "662",
+    "group_seq": "13030000",
+    "magic_group": "mB",
+    "powder_group": "TR2_B",
+    "shard_group": "MS_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "663",
+    "group_seq": "13030100",
+    "magic_group": "mB",
+    "powder_group": "TR2X_B",
+    "shard_group": "MSX_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "664",
+    "group_seq": "13031000",
+    "magic_group": "mB",
+    "powder_group": "TR2_B+",
+    "shard_group": "MS_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "665",
+    "group_seq": "13031100",
+    "magic_group": "mB",
+    "powder_group": "TR2X_B+",
+    "shard_group": "MSX_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "666",
+    "group_seq": "13032000",
+    "magic_group": "mC",
+    "powder_group": "TR2_C+",
+    "shard_group": "MS_00",
+    "upgrade_group": "C"
+  },
+  {
+    "__pkey": "667",
+    "group_seq": "13032100",
+    "magic_group": "mC",
+    "powder_group": "TR2X_C+",
+    "shard_group": "MSX_00",
+    "upgrade_group": "C"
+  },
+  {
+    "__pkey": "668",
+    "group_seq": "13033000",
+    "magic_group": "mC",
+    "powder_group": "TR2_C+",
+    "shard_group": "MS_00",
+    "upgrade_group": "C"
+  },
+  {
+    "__pkey": "669",
+    "group_seq": "1200500",
+    "magic_group": "mB",
+    "powder_group": "TR_B",
+    "shard_group": "MS_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "67",
+    "group_seq": "13033100",
+    "magic_group": "mC",
+    "powder_group": "TR2X_C+",
+    "shard_group": "MSX_00",
+    "upgrade_group": "C"
+  },
+  {
+    "__pkey": "670",
+    "group_seq": "13034000",
+    "magic_group": "mC",
+    "powder_group": "TR2_C+",
+    "shard_group": "MS_00",
+    "upgrade_group": "C"
+  },
+  {
+    "__pkey": "671",
+    "group_seq": "13034100",
+    "magic_group": "mC",
+    "powder_group": "TR2X_C+",
+    "shard_group": "MSX_00",
+    "upgrade_group": "C"
+  },
+  {
+    "__pkey": "672",
+    "group_seq": "13035000",
+    "magic_group": "mB",
+    "powder_group": "TR2_B",
+    "shard_group": "MS_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "673",
+    "group_seq": "13035100",
+    "magic_group": "mB",
+    "powder_group": "TR2X_B",
+    "shard_group": "MSX_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "674",
+    "group_seq": "13036000",
+    "magic_group": "mA",
+    "powder_group": "TR2_A+",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "675",
+    "group_seq": "13036100",
+    "magic_group": "mA",
+    "powder_group": "TR2X_A+",
+    "shard_group": "MSX_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "676",
+    "group_seq": "13042000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "677",
+    "group_seq": "13042100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "678",
+    "group_seq": "13043000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "679",
+    "group_seq": "1200600",
+    "magic_group": "mB",
+    "powder_group": "TR_B",
+    "shard_group": "MS_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "68",
+    "group_seq": "13043100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "680",
+    "group_seq": "13044000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "681",
+    "group_seq": "13044100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "682",
+    "group_seq": "13045000",
+    "magic_group": "mA",
+    "powder_group": "TR2_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "683",
+    "group_seq": "13045100",
+    "magic_group": "mA",
+    "powder_group": "TR2X_A",
+    "shard_group": "MSX_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "684",
+    "group_seq": "13046000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_08",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "685",
+    "group_seq": "13046100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_08",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "686",
+    "group_seq": "13047000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S",
+    "shard_group": "MS_09",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "687",
+    "group_seq": "13047100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S",
+    "shard_group": "MSX_09",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "688",
+    "group_seq": "13048000",
+    "magic_group": "mA",
+    "powder_group": "TR2_A+",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "689",
+    "group_seq": "1200700",
+    "magic_group": "mC",
+    "powder_group": "TR_C",
+    "shard_group": "MS_00",
+    "upgrade_group": "C"
+  },
+  {
+    "__pkey": "69",
+    "group_seq": "13048100",
+    "magic_group": "mA",
+    "powder_group": "TR2X_A+",
+    "shard_group": "MSX_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "690",
+    "group_seq": "13049000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S",
+    "shard_group": "MS_09",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "691",
+    "group_seq": "13049100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S",
+    "shard_group": "MSX_09",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "692",
+    "group_seq": "13050000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S+",
+    "shard_group": "MS_08",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "693",
+    "group_seq": "13050100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S+",
+    "shard_group": "MSX_08",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "694",
+    "group_seq": "13051000",
+    "magic_group": "mS",
+    "powder_group": "TR2_SS",
+    "shard_group": "MS_02",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "695",
+    "group_seq": "13051100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_SS",
+    "shard_group": "MSX_02",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "696",
+    "group_seq": "13052000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S+",
+    "shard_group": "MS_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "697",
+    "group_seq": "13052100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S+",
+    "shard_group": "MSX_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "698",
+    "group_seq": "13053000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S+",
+    "shard_group": "MS_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "699",
+    "group_seq": "1100700",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "7",
+    "group_seq": "1200800",
+    "magic_group": "mC",
+    "powder_group": "TR_C",
+    "shard_group": "MS_00",
+    "upgrade_group": "C"
+  },
+  {
+    "__pkey": "70",
+    "group_seq": "13053100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S+",
+    "shard_group": "MSX_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "700",
+    "group_seq": "13054000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S+",
+    "shard_group": "MS_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "701",
+    "group_seq": "13054100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S+",
+    "shard_group": "MSX_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "702",
+    "group_seq": "13055000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "703",
+    "group_seq": "13055100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "704",
+    "group_seq": "13056000",
+    "magic_group": "mS",
+    "powder_group": "TR2_SS",
+    "shard_group": "MS_02",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "705",
+    "group_seq": "13056100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_SS",
+    "shard_group": "MSX_02",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "706",
+    "group_seq": "13057000",
+    "magic_group": "mS",
+    "powder_group": "TR2_SS",
+    "shard_group": "MS_02",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "707",
+    "group_seq": "13057100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_SS",
+    "shard_group": "MSX_02",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "708",
+    "group_seq": "13058000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "709",
+    "group_seq": "1200900",
+    "magic_group": "mB",
+    "powder_group": "TR_B",
+    "shard_group": "MS_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "71",
+    "group_seq": "13058100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "710",
+    "group_seq": "13059000",
+    "magic_group": "mS",
+    "powder_group": "TR2_SS",
+    "shard_group": "MS_01",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "711",
+    "group_seq": "13059100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_SS",
+    "shard_group": "MSX_01",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "712",
+    "group_seq": "13060000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "713",
+    "group_seq": "13060100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "714",
+    "group_seq": "13061000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "715",
+    "group_seq": "13061100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "716",
+    "group_seq": "13062000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "717",
+    "group_seq": "13062100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "718",
+    "group_seq": "13065000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S+",
+    "shard_group": "MS_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "719",
+    "group_seq": "1201000",
+    "magic_group": "mB",
+    "powder_group": "TR_B",
+    "shard_group": "MS_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "72",
+    "group_seq": "13065100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S+",
+    "shard_group": "MSX_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "720",
+    "group_seq": "13066000",
+    "magic_group": "mS",
+    "powder_group": "TR2_SS",
+    "shard_group": "MS_02",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "721",
+    "group_seq": "13066100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_SS",
+    "shard_group": "MSX_02",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "722",
+    "group_seq": "13067000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "723",
+    "group_seq": "13067100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "724",
+    "group_seq": "13068000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "725",
+    "group_seq": "13068100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "726",
+    "group_seq": "13069000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "727",
+    "group_seq": "13069100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "728",
+    "group_seq": "13071000",
+    "magic_group": "mS",
+    "powder_group": "TR2_SS",
+    "shard_group": "MS_02",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "729",
+    "group_seq": "1201100",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "73",
+    "group_seq": "13071100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_SS",
+    "shard_group": "MSX_02",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "730",
+    "group_seq": "13072000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "731",
+    "group_seq": "13072100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "732",
+    "group_seq": "13073000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "733",
+    "group_seq": "13073100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "734",
+    "group_seq": "13074000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "735",
+    "group_seq": "13074100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "736",
+    "group_seq": "13075000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "737",
+    "group_seq": "13075100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "738",
+    "group_seq": "13076000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "739",
+    "group_seq": "1201200",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "74",
+    "group_seq": "13076100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "740",
+    "group_seq": "13077000",
+    "magic_group": "mS",
+    "powder_group": "TR2_SS",
+    "shard_group": "MS_02",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "741",
+    "group_seq": "13077100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_SS",
+    "shard_group": "MSX_02",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "742",
+    "group_seq": "13078000",
+    "magic_group": "mS",
+    "powder_group": "TR2_SS",
+    "shard_group": "MS_02",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "743",
+    "group_seq": "13078100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_SS",
+    "shard_group": "MSX_02",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "744",
+    "group_seq": "13079000",
+    "magic_group": "mS",
+    "powder_group": "TR2_SS",
+    "shard_group": "MS_01",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "745",
+    "group_seq": "13079100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_SS",
+    "shard_group": "MSX_01",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "746",
+    "group_seq": "13080000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "747",
+    "group_seq": "13080100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "748",
+    "group_seq": "13081000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S+",
+    "shard_group": "MS_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "749",
+    "group_seq": "1201300",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "75",
+    "group_seq": "13081100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S+",
+    "shard_group": "MSX_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "750",
+    "group_seq": "13082000",
+    "magic_group": "mS",
+    "powder_group": "TR2_SS",
+    "shard_group": "MS_01",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "751",
+    "group_seq": "13082100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_SS",
+    "shard_group": "MSX_01",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "752",
+    "group_seq": "13083000",
+    "magic_group": "mS",
+    "powder_group": "TR2_SS",
+    "shard_group": "MS_02",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "753",
+    "group_seq": "13083100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_SS",
+    "shard_group": "MSX_02",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "754",
+    "group_seq": "13084000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "755",
+    "group_seq": "13084100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "756",
+    "group_seq": "13085000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S+",
+    "shard_group": "MS_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "757",
+    "group_seq": "13085100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S+",
+    "shard_group": "MSX_07",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "758",
+    "group_seq": "13091000",
+    "magic_group": "mS",
+    "powder_group": "TR2_SS",
+    "shard_group": "MS_02",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "759",
+    "group_seq": "1201400",
+    "magic_group": "mB",
+    "powder_group": "TR_B",
+    "shard_group": "MS_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "76",
+    "group_seq": "13091100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_SS",
+    "shard_group": "MSX_02",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "760",
+    "group_seq": "13092000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "761",
+    "group_seq": "13092100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "762",
+    "group_seq": "13093000",
+    "magic_group": "mS",
+    "powder_group": "TR2_SS",
+    "shard_group": "MS_01",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "763",
+    "group_seq": "13093100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_SS",
+    "shard_group": "MSX_01",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "764",
+    "group_seq": "13094000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "765",
+    "group_seq": "13094100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "766",
+    "group_seq": "13096000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "767",
+    "group_seq": "13096100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "768",
+    "group_seq": "13097000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "769",
+    "group_seq": "1201500",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "77",
+    "group_seq": "13097100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "770",
+    "group_seq": "13098000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "771",
+    "group_seq": "13098100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "772",
+    "group_seq": "13099000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S+",
+    "shard_group": "MS_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "773",
+    "group_seq": "13099100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S+",
+    "shard_group": "MSX_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "774",
+    "group_seq": "13100000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S",
+    "shard_group": "MS_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "775",
+    "group_seq": "13100100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S",
+    "shard_group": "MSX_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "776",
+    "group_seq": "13101000",
+    "magic_group": "mS",
+    "powder_group": "TR2_SS",
+    "shard_group": "MS_02",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "777",
+    "group_seq": "13101100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_SS",
+    "shard_group": "MSX_02",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "778",
+    "group_seq": "13102000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "779",
+    "group_seq": "1201600",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "78",
+    "group_seq": "13102100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "780",
+    "group_seq": "13103000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_04",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "781",
+    "group_seq": "13103100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_04",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "782",
+    "group_seq": "13104000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S+",
+    "shard_group": "MS_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "783",
+    "group_seq": "13104100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S+",
+    "shard_group": "MSX_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "784",
+    "group_seq": "13105000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S",
+    "shard_group": "MS_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "785",
+    "group_seq": "13105100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S",
+    "shard_group": "MSX_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "786",
+    "group_seq": "13106000",
+    "magic_group": "mS",
+    "powder_group": "TR2_SS",
+    "shard_group": "MS_03",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "787",
+    "group_seq": "13106100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_SS",
+    "shard_group": "MSX_03",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "788",
+    "group_seq": "13108000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "789",
+    "group_seq": "1201700",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "79",
+    "group_seq": "13108100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "790",
+    "group_seq": "13109000",
+    "magic_group": "mS",
+    "powder_group": "TR2_SS",
+    "shard_group": "MS_03",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "791",
+    "group_seq": "13109100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_SS",
+    "shard_group": "MSX_03",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "792",
+    "group_seq": "13110000",
+    "magic_group": "mS",
+    "powder_group": "TR2_SS",
+    "shard_group": "MS_02",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "793",
+    "group_seq": "13110100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_SS",
+    "shard_group": "MSX_02",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "794",
+    "group_seq": "13111000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "795",
+    "group_seq": "13111100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "796",
+    "group_seq": "13112000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "797",
+    "group_seq": "13112100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "798",
+    "group_seq": "13113000",
+    "magic_group": "mS",
+    "powder_group": "TR2_SS",
+    "shard_group": "MS_03",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "799",
+    "group_seq": "1100800",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "8",
+    "group_seq": "1201800",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "80",
+    "group_seq": "13113100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_SS",
+    "shard_group": "MSX_03",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "800",
+    "group_seq": "13115000",
+    "magic_group": "mS",
+    "powder_group": "TR2_SS",
+    "shard_group": "MS_02",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "801",
+    "group_seq": "13115100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_SS",
+    "shard_group": "MSX_02",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "802",
+    "group_seq": "13116000",
+    "magic_group": "mS",
+    "powder_group": "TR2_SS",
+    "shard_group": "MS_02",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "803",
+    "group_seq": "13116100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_SS",
+    "shard_group": "MSX_02",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "804",
+    "group_seq": "13117000",
+    "magic_group": "mS",
+    "powder_group": "TR2_SS",
+    "shard_group": "MS_01",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "805",
+    "group_seq": "13117100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_SS",
+    "shard_group": "MSX_01",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "806",
+    "group_seq": "13118000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "807",
+    "group_seq": "13118100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "808",
+    "group_seq": "13119000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_04",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "809",
+    "group_seq": "1201900",
+    "magic_group": "mB",
+    "powder_group": "TR_B",
+    "shard_group": "MS_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "81",
+    "group_seq": "13119100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_04",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "810",
+    "group_seq": "13120000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_03",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "811",
+    "group_seq": "13120100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_03",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "812",
+    "group_seq": "13121000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_04",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "813",
+    "group_seq": "13121100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_04",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "814",
+    "group_seq": "13122000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_04",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "815",
+    "group_seq": "13122100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_04",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "816",
+    "group_seq": "13123000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "817",
+    "group_seq": "13123100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "818",
+    "group_seq": "13124000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_03",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "819",
+    "group_seq": "1202000",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "82",
+    "group_seq": "13124100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_03",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "820",
+    "group_seq": "13125000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "821",
+    "group_seq": "13125100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "822",
+    "group_seq": "13126000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_04",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "823",
+    "group_seq": "13126100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_04",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "824",
+    "group_seq": "13127000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "825",
+    "group_seq": "13127100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "826",
+    "group_seq": "13128000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "827",
+    "group_seq": "13128100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "828",
+    "group_seq": "13129000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "829",
+    "group_seq": "1202100",
+    "magic_group": "mB",
+    "powder_group": "TR_B",
+    "shard_group": "MS_00",
+    "upgrade_group": "B"
+  },
+  {
+    "__pkey": "83",
+    "group_seq": "13129100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_06",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "830",
+    "group_seq": "13130000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_04",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "831",
+    "group_seq": "13130100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_04",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "832",
+    "group_seq": "13131000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_04",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "833",
+    "group_seq": "13131100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_04",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "834",
+    "group_seq": "13132000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_04",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "835",
+    "group_seq": "13132100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_04",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "836",
+    "group_seq": "13134000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "837",
+    "group_seq": "13134100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "838",
+    "group_seq": "13135000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "839",
+    "group_seq": "1202300",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "84",
+    "group_seq": "13135100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "840",
+    "group_seq": "13136000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "841",
+    "group_seq": "13136100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "842",
+    "group_seq": "13137000",
+    "magic_group": "mS",
+    "powder_group": "TR2_S++",
+    "shard_group": "MS_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "843",
+    "group_seq": "13137100",
+    "magic_group": "mS",
+    "powder_group": "TR2X_S++",
+    "shard_group": "MSX_05",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "844",
+    "group_seq": "1202400",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "85",
+    "group_seq": "1202600",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "86",
+    "group_seq": "1202700",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "87",
+    "group_seq": "1202800",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "88",
+    "group_seq": "1202900",
+    "magic_group": "mA",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "89",
+    "group_seq": "1100900",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "9",
+    "group_seq": "1203000",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "90",
+    "group_seq": "1203100",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "91",
+    "group_seq": "1203200",
+    "magic_group": "mA",
+    "powder_group": "TR_A",
+    "shard_group": "MS_00",
+    "upgrade_group": "A"
+  },
+  {
+    "__pkey": "92",
+    "group_seq": "1203300",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "93",
+    "group_seq": "1203400",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "94",
+    "group_seq": "1203500",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "95",
+    "group_seq": "1203600",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "96",
+    "group_seq": "1203700",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "97",
+    "group_seq": "1203800",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  },
+  {
+    "__pkey": "98",
+    "group_seq": "1203900",
+    "magic_group": "mS",
+    "powder_group": "TR_S",
+    "shard_group": "MS_00",
+    "upgrade_group": "S"
+  }
+]

@@ -1,0 +1,6477 @@
+[
+  {
+    "BriefDescription": "[함께하면 더 즐거워]\n친구 수 1000명"
+  },
+  {
+    "__pkey": "100",
+    "BriefDescription": "[풍족한 쿠키마을]\n보물 100개 보유"
+  },
+  {
+    "__pkey": "1000",
+    "BriefDescription": "[풍족한 쿠키마을]\n보물 5개 보유"
+  },
+  {
+    "__pkey": "1001",
+    "BriefDescription": "[점프왕]\n점프 5000번 하기"
+  },
+  {
+    "__pkey": "100100",
+    "BriefDescription": "[점프왕]\n점프 100번 하기"
+  },
+  {
+    "__pkey": "100101",
+    "BriefDescription": "[점프왕]\n점프 200번 하기"
+  },
+  {
+    "__pkey": "100102",
+    "BriefDescription": "[점프왕]\n점프 500번 하기"
+  },
+  {
+    "__pkey": "100103",
+    "BriefDescription": "[점프왕]\n점프 1000번 하기"
+  },
+  {
+    "__pkey": "100104",
+    "BriefDescription": "[점프왕]\n점프 1500번 하기"
+  },
+  {
+    "__pkey": "100105",
+    "BriefDescription": "[점프왕]\n점프 2000번 하기"
+  },
+  {
+    "__pkey": "100106",
+    "BriefDescription": "[점프왕]\n점프 2500번 하기"
+  },
+  {
+    "__pkey": "100107",
+    "BriefDescription": "[점프왕]\n점프 3000번 하기"
+  },
+  {
+    "__pkey": "100108",
+    "BriefDescription": "[점프왕]\n점프 4000번 하기"
+  },
+  {
+    "__pkey": "100109",
+    "BriefDescription": "[풍족한 쿠키마을]\n보물 10개 보유"
+  },
+  {
+    "__pkey": "1002",
+    "BriefDescription": "[쩜프왕]\n2단 점프 5000번 하기"
+  },
+  {
+    "__pkey": "100200",
+    "BriefDescription": "[쩜프왕]\n2단 점프 100번 하기"
+  },
+  {
+    "__pkey": "100201",
+    "BriefDescription": "[쩜프왕]\n2단 점프 200번 하기"
+  },
+  {
+    "__pkey": "100202",
+    "BriefDescription": "[쩜프왕]\n2단 점프 500번 하기"
+  },
+  {
+    "__pkey": "100203",
+    "BriefDescription": "[쩜프왕]\n2단 점프 1000번 하기"
+  },
+  {
+    "__pkey": "100204",
+    "BriefDescription": "[쩜프왕]\n2단 점프 1500번 하기"
+  },
+  {
+    "__pkey": "100205",
+    "BriefDescription": "[쩜프왕]\n2단 점프 2000번 하기"
+  },
+  {
+    "__pkey": "100206",
+    "BriefDescription": "[쩜프왕]\n2단 점프 2500번 하기"
+  },
+  {
+    "__pkey": "100207",
+    "BriefDescription": "[쩜프왕]\n2단 점프 3000번 하기"
+  },
+  {
+    "__pkey": "100208",
+    "BriefDescription": "[쩜프왕]\n2단 점프 4000번 하기"
+  },
+  {
+    "__pkey": "100209",
+    "BriefDescription": "[풍족한 쿠키마을]\n보물 15개 보유"
+  },
+  {
+    "__pkey": "1003",
+    "BriefDescription": "[자는거 아니죠?]\n슬라이드 500초 동안 하기"
+  },
+  {
+    "__pkey": "100300",
+    "BriefDescription": "[자는거 아니죠?]\n슬라이드 25초 동안 하기"
+  },
+  {
+    "__pkey": "100301",
+    "BriefDescription": "[자는거 아니죠?]\n슬라이드 50초 동안 하기"
+  },
+  {
+    "__pkey": "100302",
+    "BriefDescription": "[자는거 아니죠?]\n슬라이드 100초 동안 하기"
+  },
+  {
+    "__pkey": "100303",
+    "BriefDescription": "[자는거 아니죠?]\n슬라이드 150초 동안 하기"
+  },
+  {
+    "__pkey": "100304",
+    "BriefDescription": "[자는거 아니죠?]\n슬라이드 200초 동안 하기"
+  },
+  {
+    "__pkey": "100305",
+    "BriefDescription": "[자는거 아니죠?]\n슬라이드 250초 동안 하기"
+  },
+  {
+    "__pkey": "100306",
+    "BriefDescription": "[자는거 아니죠?]\n슬라이드 300초 동안 하기"
+  },
+  {
+    "__pkey": "100307",
+    "BriefDescription": "[자는거 아니죠?]\n슬라이드 350초 동안 하기"
+  },
+  {
+    "__pkey": "100308",
+    "BriefDescription": "[자는거 아니죠?]\n슬라이드 400초 동안 하기"
+  },
+  {
+    "__pkey": "100309",
+    "BriefDescription": "[풍족한 쿠키마을]\n보물 20개 보유"
+  },
+  {
+    "__pkey": "1004",
+    "BriefDescription": "[젤리젤리냠냠]\n젤리 50000개 먹기"
+  },
+  {
+    "__pkey": "100400",
+    "BriefDescription": "[젤리젤리냠냠]\n젤리 1000개 먹기"
+  },
+  {
+    "__pkey": "100401",
+    "BriefDescription": "[젤리젤리냠냠]\n젤리 2000개 먹기"
+  },
+  {
+    "__pkey": "100402",
+    "BriefDescription": "[젤리젤리냠냠]\n젤리 5000개 먹기"
+  },
+  {
+    "__pkey": "100403",
+    "BriefDescription": "[젤리젤리냠냠]\n젤리 10000개 먹기"
+  },
+  {
+    "__pkey": "100404",
+    "BriefDescription": "[젤리젤리냠냠]\n젤리 15000개 먹기"
+  },
+  {
+    "__pkey": "100405",
+    "BriefDescription": "[젤리젤리냠냠]\n젤리 20000개 먹기"
+  },
+  {
+    "__pkey": "100406",
+    "BriefDescription": "[젤리젤리냠냠]\n젤리 25000개 먹기"
+  },
+  {
+    "__pkey": "100407",
+    "BriefDescription": "[젤리젤리냠냠]\n젤리 30000개 먹기"
+  },
+  {
+    "__pkey": "100408",
+    "BriefDescription": "[젤리젤리냠냠]\n젤리 40000개 먹기"
+  },
+  {
+    "__pkey": "100409",
+    "BriefDescription": "[풍족한 쿠키마을]\n보물 30개 보유"
+  },
+  {
+    "__pkey": "1005",
+    "BriefDescription": "[노란곰젤리냠냠]\n노란곰젤리 25000개 먹기"
+  },
+  {
+    "__pkey": "100500",
+    "BriefDescription": "[노란곰젤리냠냠]\n노란곰젤리 500개 먹기"
+  },
+  {
+    "__pkey": "100501",
+    "BriefDescription": "[노란곰젤리냠냠]\n노란곰젤리 1000개 먹기"
+  },
+  {
+    "__pkey": "100502",
+    "BriefDescription": "[노란곰젤리냠냠]\n노란곰젤리 2000개 먹기"
+  },
+  {
+    "__pkey": "100503",
+    "BriefDescription": "[노란곰젤리냠냠]\n노란곰젤리 3000개 먹기"
+  },
+  {
+    "__pkey": "100504",
+    "BriefDescription": "[노란곰젤리냠냠]\n노란곰젤리 4000개 먹기"
+  },
+  {
+    "__pkey": "100505",
+    "BriefDescription": "[노란곰젤리냠냠]\n노란곰젤리 8000개 먹기"
+  },
+  {
+    "__pkey": "100506",
+    "BriefDescription": "[노란곰젤리냠냠]\n노란곰젤리 12000개 먹기"
+  },
+  {
+    "__pkey": "100507",
+    "BriefDescription": "[노란곰젤리냠냠]\n노란곰젤리 16000개 먹기"
+  },
+  {
+    "__pkey": "100508",
+    "BriefDescription": "[노란곰젤리냠냠]\n노란곰젤리 20000개 먹기"
+  },
+  {
+    "__pkey": "100509",
+    "BriefDescription": "[풍족한 쿠키마을]\n보물 40개 보유"
+  },
+  {
+    "__pkey": "1006",
+    "BriefDescription": "[분홍곰젤리냠냠]\n분홍곰젤리 10000개 먹기"
+  },
+  {
+    "__pkey": "100600",
+    "BriefDescription": "[분홍곰젤리냠냠]\n분홍곰젤리 500개 먹기"
+  },
+  {
+    "__pkey": "100601",
+    "BriefDescription": "[분홍곰젤리냠냠]\n분홍곰젤리 1000개 먹기"
+  },
+  {
+    "__pkey": "100602",
+    "BriefDescription": "[분홍곰젤리냠냠]\n분홍곰젤리 1500개 먹기"
+  },
+  {
+    "__pkey": "100603",
+    "BriefDescription": "[분홍곰젤리냠냠]\n분홍곰젤리 2000개 먹기"
+  },
+  {
+    "__pkey": "100604",
+    "BriefDescription": "[분홍곰젤리냠냠]\n분홍곰젤리 2500개 먹기"
+  },
+  {
+    "__pkey": "100605",
+    "BriefDescription": "[분홍곰젤리냠냠]\n분홍곰젤리 3000개 먹기"
+  },
+  {
+    "__pkey": "100606",
+    "BriefDescription": "[분홍곰젤리냠냠]\n분홍곰젤리 5000개 먹기"
+  },
+  {
+    "__pkey": "100607",
+    "BriefDescription": "[분홍곰젤리냠냠]\n분홍곰젤리 6000개 먹기"
+  },
+  {
+    "__pkey": "100608",
+    "BriefDescription": "[분홍곰젤리냠냠]\n분홍곰젤리 8000개 먹기"
+  },
+  {
+    "__pkey": "100609",
+    "BriefDescription": "[풍족한 쿠키마을]\n보물 50개 보유"
+  },
+  {
+    "__pkey": "1007",
+    "BriefDescription": "[이 구역의 대식가]\n왕곰젤리 500개 먹기"
+  },
+  {
+    "__pkey": "100700",
+    "BriefDescription": "[이 구역의 대식가]\n왕곰젤리 10개 먹기"
+  },
+  {
+    "__pkey": "100701",
+    "BriefDescription": "[이 구역의 대식가]\n왕곰젤리 30개 먹기"
+  },
+  {
+    "__pkey": "100702",
+    "BriefDescription": "[이 구역의 대식가]\n왕곰젤리 50개 먹기"
+  },
+  {
+    "__pkey": "100703",
+    "BriefDescription": "[이 구역의 대식가]\n왕곰젤리 70개 먹기"
+  },
+  {
+    "__pkey": "100704",
+    "BriefDescription": "[이 구역의 대식가]\n왕곰젤리 100개 먹기"
+  },
+  {
+    "__pkey": "100705",
+    "BriefDescription": "[이 구역의 대식가]\n왕곰젤리 150개 먹기"
+  },
+  {
+    "__pkey": "100706",
+    "BriefDescription": "[이 구역의 대식가]\n왕곰젤리 200개 먹기"
+  },
+  {
+    "__pkey": "100707",
+    "BriefDescription": "[이 구역의 대식가]\n왕곰젤리 300개 먹기"
+  },
+  {
+    "__pkey": "100708",
+    "BriefDescription": "[이 구역의 대식가]\n왕곰젤리 400개 먹기"
+  },
+  {
+    "__pkey": "100709",
+    "BriefDescription": "[풍족한 쿠키마을]\n보물 60개 보유"
+  },
+  {
+    "__pkey": "1008",
+    "BriefDescription": "[장애물 파괴자]\n장애물 5000개 파괴하기"
+  },
+  {
+    "__pkey": "100800",
+    "BriefDescription": "[장애물 파괴자]\n장애물 100개 파괴하기"
+  },
+  {
+    "__pkey": "100801",
+    "BriefDescription": "[장애물 파괴자]\n장애물 200개 파괴하기"
+  },
+  {
+    "__pkey": "100802",
+    "BriefDescription": "[장애물 파괴자]\n장애물 400개 파괴하기"
+  },
+  {
+    "__pkey": "100803",
+    "BriefDescription": "[장애물 파괴자]\n장애물 700개 파괴하기"
+  },
+  {
+    "__pkey": "100804",
+    "BriefDescription": "[장애물 파괴자]\n장애물 1000개 파괴하기"
+  },
+  {
+    "__pkey": "100805",
+    "BriefDescription": "[장애물 파괴자]\n장애물 1500개 파괴하기"
+  },
+  {
+    "__pkey": "100806",
+    "BriefDescription": "[장애물 파괴자]\n장애물 2000개 파괴하기"
+  },
+  {
+    "__pkey": "100807",
+    "BriefDescription": "[장애물 파괴자]\n장애물 3000개 파괴하기"
+  },
+  {
+    "__pkey": "100808",
+    "BriefDescription": "[장애물 파괴자]\n장애물 4000개 파괴하기"
+  },
+  {
+    "__pkey": "100809",
+    "BriefDescription": "[풍족한 쿠키마을]\n보물 80개 보유"
+  },
+  {
+    "__pkey": "1009",
+    "BriefDescription": "[존재감 제로]\n장애물 5000개 통과하기"
+  },
+  {
+    "__pkey": "100900",
+    "BriefDescription": "[존재감 제로]\n장애물 100개 통과하기"
+  },
+  {
+    "__pkey": "100901",
+    "BriefDescription": "[존재감 제로]\n장애물 200개 통과하기"
+  },
+  {
+    "__pkey": "100902",
+    "BriefDescription": "[존재감 제로]\n장애물 400개 통과하기"
+  },
+  {
+    "__pkey": "100903",
+    "BriefDescription": "[존재감 제로]\n장애물 700개 통과하기"
+  },
+  {
+    "__pkey": "100904",
+    "BriefDescription": "[존재감 제로]\n장애물 1000개 통과하기"
+  },
+  {
+    "__pkey": "100905",
+    "BriefDescription": "[존재감 제로]\n장애물 1500개 통과하기"
+  },
+  {
+    "__pkey": "100906",
+    "BriefDescription": "[존재감 제로]\n장애물 2000개 통과하기"
+  },
+  {
+    "__pkey": "100907",
+    "BriefDescription": "[존재감 제로]\n장애물 3000개 통과하기"
+  },
+  {
+    "__pkey": "100908",
+    "BriefDescription": "[존재감 제로]\n장애물 4000개 통과하기"
+  },
+  {
+    "__pkey": "100909",
+    "BriefDescription": "[함께하면 더 즐거워]\n친구 수 50명"
+  },
+  {
+    "__pkey": "101",
+    "BriefDescription": "[아프니까 쿠키다]\n장애물에 60번 부딪히기"
+  },
+  {
+    "__pkey": "101000",
+    "BriefDescription": "[아프니까 쿠키다]\n장애물에 2번 부딪히기"
+  },
+  {
+    "__pkey": "101001",
+    "BriefDescription": "[아프니까 쿠키다]\n장애물에 4번 부딪히기"
+  },
+  {
+    "__pkey": "101002",
+    "BriefDescription": "[아프니까 쿠키다]\n장애물에 7번 부딪히기"
+  },
+  {
+    "__pkey": "101003",
+    "BriefDescription": "[아프니까 쿠키다]\n장애물에 10번 부딪히기"
+  },
+  {
+    "__pkey": "101004",
+    "BriefDescription": "[아프니까 쿠키다]\n장애물에 15번 부딪히기"
+  },
+  {
+    "__pkey": "101005",
+    "BriefDescription": "[아프니까 쿠키다]\n장애물에 20번 부딪히기"
+  },
+  {
+    "__pkey": "101006",
+    "BriefDescription": "[아프니까 쿠키다]\n장애물에 30번 부딪히기"
+  },
+  {
+    "__pkey": "101007",
+    "BriefDescription": "[아프니까 쿠키다]\n장애물에 40번 부딪히기"
+  },
+  {
+    "__pkey": "101008",
+    "BriefDescription": "[아프니까 쿠키다]\n장애물에 50번 부딪히기"
+  },
+  {
+    "__pkey": "101009",
+    "BriefDescription": "[번지왕]\n구멍에 50번 빠지기"
+  },
+  {
+    "__pkey": "101100",
+    "BriefDescription": "[번지왕]\n구멍에 3번 빠지기"
+  },
+  {
+    "__pkey": "101101",
+    "BriefDescription": "[번지왕]\n구멍에 6번 빠지기"
+  },
+  {
+    "__pkey": "101102",
+    "BriefDescription": "[번지왕]\n구멍에 10번 빠지기"
+  },
+  {
+    "__pkey": "101103",
+    "BriefDescription": "[번지왕]\n구멍에 15번 빠지기"
+  },
+  {
+    "__pkey": "101104",
+    "BriefDescription": "[번지왕]\n구멍에 20번 빠지기"
+  },
+  {
+    "__pkey": "101105",
+    "BriefDescription": "[번지왕]\n구멍에 25번 빠지기"
+  },
+  {
+    "__pkey": "101106",
+    "BriefDescription": "[번지왕]\n구멍에 30번 빠지기"
+  },
+  {
+    "__pkey": "101107",
+    "BriefDescription": "[번지왕]\n구멍에 35번 빠지기"
+  },
+  {
+    "__pkey": "101108",
+    "BriefDescription": "[번지왕]\n구멍에 40번 빠지기"
+  },
+  {
+    "__pkey": "101109",
+    "BriefDescription": "[오르락내리락]\n보너스타임에 50번 가기"
+  },
+  {
+    "__pkey": "101200",
+    "BriefDescription": "[오르락내리락]\n보너스타임에 3번 가기"
+  },
+  {
+    "__pkey": "101201",
+    "BriefDescription": "[오르락내리락]\n보너스타임에 6번 가기"
+  },
+  {
+    "__pkey": "101202",
+    "BriefDescription": "[오르락내리락]\n보너스타임에 10번 가기"
+  },
+  {
+    "__pkey": "101203",
+    "BriefDescription": "[오르락내리락]\n보너스타임에 15번 가기"
+  },
+  {
+    "__pkey": "101204",
+    "BriefDescription": "[오르락내리락]\n보너스타임에 20번 가기"
+  },
+  {
+    "__pkey": "101205",
+    "BriefDescription": "[오르락내리락]\n보너스타임에 25번 가기"
+  },
+  {
+    "__pkey": "101206",
+    "BriefDescription": "[오르락내리락]\n보너스타임에 30번 가기"
+  },
+  {
+    "__pkey": "101207",
+    "BriefDescription": "[오르락내리락]\n보너스타임에 35번 가기"
+  },
+  {
+    "__pkey": "101208",
+    "BriefDescription": "[오르락내리락]\n보너스타임에 40번 가기"
+  },
+  {
+    "__pkey": "101209",
+    "BriefDescription": "[하늘에서 하늘하늘]\n보너스타임에 500초 동안 있기"
+  },
+  {
+    "__pkey": "101300",
+    "BriefDescription": "[하늘에서 하늘하늘]\n보너스타임에 25초 동안 있기"
+  },
+  {
+    "__pkey": "101301",
+    "BriefDescription": "[하늘에서 하늘하늘]\n보너스타임에 50초 동안 있기"
+  },
+  {
+    "__pkey": "101302",
+    "BriefDescription": "[하늘에서 하늘하늘]\n보너스타임에 100초 동안 있기"
+  },
+  {
+    "__pkey": "101303",
+    "BriefDescription": "[하늘에서 하늘하늘]\n보너스타임에 150초 동안 있기"
+  },
+  {
+    "__pkey": "101304",
+    "BriefDescription": "[하늘에서 하늘하늘]\n보너스타임에 200초 동안 있기"
+  },
+  {
+    "__pkey": "101305",
+    "BriefDescription": "[하늘에서 하늘하늘]\n보너스타임에 250초 동안 있기"
+  },
+  {
+    "__pkey": "101306",
+    "BriefDescription": "[하늘에서 하늘하늘]\n보너스타임에 300초 동안 있기"
+  },
+  {
+    "__pkey": "101307",
+    "BriefDescription": "[하늘에서 하늘하늘]\n보너스타임에 350초 동안 있기"
+  },
+  {
+    "__pkey": "101308",
+    "BriefDescription": "[하늘에서 하늘하늘]\n보너스타임에 400초 동안 있기"
+  },
+  {
+    "__pkey": "101309",
+    "BriefDescription": "[포기를 모르는 쿠키]\n1000초 동안 달리기"
+  },
+  {
+    "__pkey": "101400",
+    "BriefDescription": "[포기를 모르는 쿠키]\n30초 동안 달리기"
+  },
+  {
+    "__pkey": "101401",
+    "BriefDescription": "[포기를 모르는 쿠키]\n60초 동안 달리기"
+  },
+  {
+    "__pkey": "101402",
+    "BriefDescription": "[포기를 모르는 쿠키]\n100초 동안 달리기"
+  },
+  {
+    "__pkey": "101403",
+    "BriefDescription": "[포기를 모르는 쿠키]\n200초 동안 달리기"
+  },
+  {
+    "__pkey": "101404",
+    "BriefDescription": "[포기를 모르는 쿠키]\n300초 동안 달리기"
+  },
+  {
+    "__pkey": "101405",
+    "BriefDescription": "[포기를 모르는 쿠키]\n400초 동안 달리기"
+  },
+  {
+    "__pkey": "101406",
+    "BriefDescription": "[포기를 모르는 쿠키]\n500초 동안 달리기"
+  },
+  {
+    "__pkey": "101407",
+    "BriefDescription": "[포기를 모르는 쿠키]\n600초 동안 달리기"
+  },
+  {
+    "__pkey": "101408",
+    "BriefDescription": "[포기를 모르는 쿠키]\n800초 동안 달리기"
+  },
+  {
+    "__pkey": "101409",
+    "BriefDescription": "[많이 먹고 힘내!]\n거대생명물약 10개 먹기"
+  },
+  {
+    "__pkey": "101500",
+    "BriefDescription": "[많이 먹고 힘내!]\n거대생명물약 5개 먹기"
+  },
+  {
+    "__pkey": "101501",
+    "BriefDescription": "[많이 먹고 힘내!]\n거대생명물약 6개 먹기"
+  },
+  {
+    "__pkey": "101502",
+    "BriefDescription": "[많이 먹고 힘내!]\n거대생명물약 7개 먹기"
+  },
+  {
+    "__pkey": "101503",
+    "BriefDescription": "[많이 먹고 힘내!]\n거대생명물약 8개 먹기"
+  },
+  {
+    "__pkey": "101504",
+    "BriefDescription": "[많이 먹고 힘내!]\n거대생명물약 9개 먹기"
+  },
+  {
+    "__pkey": "101505",
+    "BriefDescription": "[죽음도 나를 막지 못 해]\n부활 22번 하기"
+  },
+  {
+    "__pkey": "101600",
+    "BriefDescription": "[죽음도 나를 막지 못 해]\n부활 3번 하기"
+  },
+  {
+    "__pkey": "101601",
+    "BriefDescription": "[죽음도 나를 막지 못 해]\n부활 6번 하기"
+  },
+  {
+    "__pkey": "101602",
+    "BriefDescription": "[죽음도 나를 막지 못 해]\n부활 9번 하기"
+  },
+  {
+    "__pkey": "101603",
+    "BriefDescription": "[죽음도 나를 막지 못 해]\n부활 12번 하기"
+  },
+  {
+    "__pkey": "101604",
+    "BriefDescription": "[죽음도 나를 막지 못 해]\n부활 15번 하기"
+  },
+  {
+    "__pkey": "101605",
+    "BriefDescription": "[죽음도 나를 막지 못 해]\n부활 18번 하기"
+  },
+  {
+    "__pkey": "101606",
+    "BriefDescription": "[죽음도 나를 막지 못 해]\n부활 20번 하기"
+  },
+  {
+    "__pkey": "101607",
+    "BriefDescription": "[코인 마니아]\n50000코인 획득하기"
+  },
+  {
+    "__pkey": "101700",
+    "BriefDescription": "[코인 마니아]\n2000코인 획득하기"
+  },
+  {
+    "__pkey": "101701",
+    "BriefDescription": "[코인 마니아]\n4000코인 획득하기"
+  },
+  {
+    "__pkey": "101702",
+    "BriefDescription": "[코인 마니아]\n6000코인 획득하기"
+  },
+  {
+    "__pkey": "101703",
+    "BriefDescription": "[코인 마니아]\n8000코인 획득하기"
+  },
+  {
+    "__pkey": "101704",
+    "BriefDescription": "[코인 마니아]\n10000코인 획득하기"
+  },
+  {
+    "__pkey": "101705",
+    "BriefDescription": "[코인 마니아]\n15000코인 획득하기"
+  },
+  {
+    "__pkey": "101706",
+    "BriefDescription": "[코인 마니아]\n20000코인 획득하기"
+  },
+  {
+    "__pkey": "101707",
+    "BriefDescription": "[코인 마니아]\n30000코인 획득하기"
+  },
+  {
+    "__pkey": "101708",
+    "BriefDescription": "[코인 마니아]\n40000코인 획득하기"
+  },
+  {
+    "__pkey": "101709",
+    "BriefDescription": "[엄청난 점수다]\n점수 1억점 획득하기"
+  },
+  {
+    "__pkey": "101800",
+    "BriefDescription": "[엄청난 점수다]\n점수 100만점 획득하기"
+  },
+  {
+    "__pkey": "101801",
+    "BriefDescription": "[엄청난 점수다]\n점수 300만점 획득하기"
+  },
+  {
+    "__pkey": "101802",
+    "BriefDescription": "[엄청난 점수다]\n점수 500만점 획득하기"
+  },
+  {
+    "__pkey": "101803",
+    "BriefDescription": "[엄청난 점수다]\n점수 1000만점 획득하기"
+  },
+  {
+    "__pkey": "101804",
+    "BriefDescription": "[엄청난 점수다]\n점수 1500만점 획득하기"
+  },
+  {
+    "__pkey": "101805",
+    "BriefDescription": "[엄청난 점수다]\n점수 2000만점 획득하기"
+  },
+  {
+    "__pkey": "101806",
+    "BriefDescription": "[엄청난 점수다]\n점수 3000만점 획득하기"
+  },
+  {
+    "__pkey": "101807",
+    "BriefDescription": "[엄청난 점수다]\n점수 4000만점 획득하기"
+  },
+  {
+    "__pkey": "101808",
+    "BriefDescription": "[엄청난 점수다]\n점수 5000만점 획득하기"
+  },
+  {
+    "__pkey": "101809",
+    "BriefDescription": "[엄청난 점수다]\n점수 6000만점 획득하기"
+  },
+  {
+    "__pkey": "101810",
+    "BriefDescription": "[엄청난 점수다]\n점수 7000만점 획득하기"
+  },
+  {
+    "__pkey": "101811",
+    "BriefDescription": "[엄청난 점수다]\n점수 8000만점 획득하기"
+  },
+  {
+    "__pkey": "101812",
+    "BriefDescription": "[엄청난 점수다]\n점수 9000만점 획득하기"
+  },
+  {
+    "__pkey": "101813",
+    "BriefDescription": "[좋은 경험이었다]\n경험치 20000 획득하기"
+  },
+  {
+    "__pkey": "101900",
+    "BriefDescription": "[좋은 경험이었다]\n경험치 1000 획득하기"
+  },
+  {
+    "__pkey": "101901",
+    "BriefDescription": "[좋은 경험이었다]\n경험치 2000 획득하기"
+  },
+  {
+    "__pkey": "101902",
+    "BriefDescription": "[좋은 경험이었다]\n경험치 4000 획득하기"
+  },
+  {
+    "__pkey": "101903",
+    "BriefDescription": "[좋은 경험이었다]\n경험치 8000 획득하기"
+  },
+  {
+    "__pkey": "101904",
+    "BriefDescription": "[좋은 경험이었다]\n경험치 12000 획득하기"
+  },
+  {
+    "__pkey": "101905",
+    "BriefDescription": "[좋은 경험이었다]\n경험치 16000 획득하기"
+  },
+  {
+    "__pkey": "101906",
+    "BriefDescription": "[함께하면 더 즐거워]\n친구 수 100명"
+  },
+  {
+    "__pkey": "102",
+    "BriefDescription": "[탐험을 떠나볼까]\n11번째 스테이지 가기"
+  },
+  {
+    "__pkey": "102000",
+    "BriefDescription": "[탐험을 떠나볼까]\n5번째 스테이지 가기"
+  },
+  {
+    "__pkey": "102001",
+    "BriefDescription": "[탐험을 떠나볼까]\n6번째 스테이지 가기"
+  },
+  {
+    "__pkey": "102002",
+    "BriefDescription": "[탐험을 떠나볼까]\n7번째 스테이지 가기"
+  },
+  {
+    "__pkey": "102003",
+    "BriefDescription": "[탐험을 떠나볼까]\n8번째 스테이지 가기"
+  },
+  {
+    "__pkey": "102004",
+    "BriefDescription": "[탐험을 떠나볼까]\n9번째 스테이지 가기"
+  },
+  {
+    "__pkey": "102005",
+    "BriefDescription": "[탐험을 떠나볼까]\n10번째 스테이지 가기"
+  },
+  {
+    "__pkey": "102006",
+    "BriefDescription": "[점프킹]\n점프 100000번 하기"
+  },
+  {
+    "__pkey": "102100",
+    "BriefDescription": "[점프킹]\n점프 1,000번 하기"
+  },
+  {
+    "__pkey": "102101",
+    "BriefDescription": "[점프킹]\n점프 5000번 하기"
+  },
+  {
+    "__pkey": "102102",
+    "BriefDescription": "[점프킹]\n점프 10000번 하기"
+  },
+  {
+    "__pkey": "102103",
+    "BriefDescription": "[점프킹]\n점프 20000번 하기"
+  },
+  {
+    "__pkey": "102104",
+    "BriefDescription": "[점프킹]\n점프 40000번 하기"
+  },
+  {
+    "__pkey": "102105",
+    "BriefDescription": "[점프킹]\n점프 50000번 하기"
+  },
+  {
+    "__pkey": "102106",
+    "BriefDescription": "[쩜프킹]\n2단 점프 100000번 하기"
+  },
+  {
+    "__pkey": "102200",
+    "BriefDescription": "[쩜프킹]\n2단 점프 1000번 하기"
+  },
+  {
+    "__pkey": "102201",
+    "BriefDescription": "[쩜프킹]\n2단 점프 5000번 하기"
+  },
+  {
+    "__pkey": "102202",
+    "BriefDescription": "[쩜프킹]\n2단 점프 10000번 하기"
+  },
+  {
+    "__pkey": "102203",
+    "BriefDescription": "[쩜프킹]\n2단 점프 20000번 하기"
+  },
+  {
+    "__pkey": "102204",
+    "BriefDescription": "[쩜프킹]\n2단 점프 40000번 하기"
+  },
+  {
+    "__pkey": "102205",
+    "BriefDescription": "[쩜프킹]\n2단 점프 50000번 하기"
+  },
+  {
+    "__pkey": "102206",
+    "BriefDescription": "[계속 자는거 아니죠?]\n슬라이드 10000초 동안 하기"
+  },
+  {
+    "__pkey": "102300",
+    "BriefDescription": "[계속 자는거 아니죠?]\n슬라이드 500초 동안 하기"
+  },
+  {
+    "__pkey": "102301",
+    "BriefDescription": "[계속 자는거 아니죠?]\n슬라이드 1000초 동안 하기"
+  },
+  {
+    "__pkey": "102302",
+    "BriefDescription": "[계속 자는거 아니죠?]\n슬라이드 2000초 동안 하기"
+  },
+  {
+    "__pkey": "102303",
+    "BriefDescription": "[계속 자는거 아니죠?]\n슬라이드 4000초 동안 하기"
+  },
+  {
+    "__pkey": "102304",
+    "BriefDescription": "[계속 자는거 아니죠?]\n슬라이드 5000초 동안 하기"
+  },
+  {
+    "__pkey": "102305",
+    "BriefDescription": "[계속 자는거 아니죠?]\n슬라이드 6000초 동안 하기"
+  },
+  {
+    "__pkey": "102306",
+    "BriefDescription": "[계속 자는거 아니죠?]\n슬라이드 7000초 동안 하기"
+  },
+  {
+    "__pkey": "102307",
+    "BriefDescription": "[계속 자는거 아니죠?]\n슬라이드 8000초 동안 하기"
+  },
+  {
+    "__pkey": "102308",
+    "BriefDescription": "[계속 자는거 아니죠?]\n슬라이드 9000초 동안 하기"
+  },
+  {
+    "__pkey": "102309",
+    "BriefDescription": "[젤리젤리냠냠냠]\n젤리 1000000개 먹기"
+  },
+  {
+    "__pkey": "102400",
+    "BriefDescription": "[젤리젤리냠냠냠]\n젤리 50000개 먹기"
+  },
+  {
+    "__pkey": "102401",
+    "BriefDescription": "[젤리젤리냠냠냠]\n젤리 100000개 먹기"
+  },
+  {
+    "__pkey": "102402",
+    "BriefDescription": "[젤리젤리냠냠냠]\n젤리 200000개 먹기"
+  },
+  {
+    "__pkey": "102403",
+    "BriefDescription": "[젤리젤리냠냠냠]\n젤리 300000개 먹기"
+  },
+  {
+    "__pkey": "102404",
+    "BriefDescription": "[젤리젤리냠냠냠]\n젤리 400000개 먹기"
+  },
+  {
+    "__pkey": "102405",
+    "BriefDescription": "[젤리젤리냠냠냠]\n젤리 500000개 먹기"
+  },
+  {
+    "__pkey": "102406",
+    "BriefDescription": "[노란곰젤리냠냠냠]\n노란곰젤리 1000000개 먹기"
+  },
+  {
+    "__pkey": "102500",
+    "BriefDescription": "[노란곰젤리냠냠냠]\n노란곰젤리 50000개 먹기"
+  },
+  {
+    "__pkey": "102501",
+    "BriefDescription": "[노란곰젤리냠냠냠]\n노란곰젤리 100000개 먹기"
+  },
+  {
+    "__pkey": "102502",
+    "BriefDescription": "[노란곰젤리냠냠냠]\n노란곰젤리 200000개 먹기"
+  },
+  {
+    "__pkey": "102503",
+    "BriefDescription": "[노란곰젤리냠냠냠]\n노란곰젤리 300000개 먹기"
+  },
+  {
+    "__pkey": "102504",
+    "BriefDescription": "[노란곰젤리냠냠냠]\n노란곰젤리 400000개 먹기"
+  },
+  {
+    "__pkey": "102505",
+    "BriefDescription": "[노란곰젤리냠냠냠]\n노란곰젤리 500000개 먹기"
+  },
+  {
+    "__pkey": "102506",
+    "BriefDescription": "[분홍곰젤리냠냠냠]\n분홍곰젤리 1000000개 먹기"
+  },
+  {
+    "__pkey": "102600",
+    "BriefDescription": "[분홍곰젤리냠냠냠]\n분홍곰젤리 25000개 먹기"
+  },
+  {
+    "__pkey": "102601",
+    "BriefDescription": "[분홍곰젤리냠냠냠]\n분홍곰젤리 50000개 먹기"
+  },
+  {
+    "__pkey": "102602",
+    "BriefDescription": "[분홍곰젤리냠냠냠]\n분홍곰젤리 100000개 먹기"
+  },
+  {
+    "__pkey": "102603",
+    "BriefDescription": "[분홍곰젤리냠냠냠]\n분홍곰젤리 200000개 먹기"
+  },
+  {
+    "__pkey": "102604",
+    "BriefDescription": "[분홍곰젤리냠냠냠]\n분홍곰젤리 400000개 먹기"
+  },
+  {
+    "__pkey": "102605",
+    "BriefDescription": "[분홍곰젤리냠냠냠]\n분홍곰젤리 500000개 먹기"
+  },
+  {
+    "__pkey": "102606",
+    "BriefDescription": "[이 구역의 알아주는 대식가]\n왕곰젤리 10000개 먹기"
+  },
+  {
+    "__pkey": "102700",
+    "BriefDescription": "[이 구역의 알아주는 대식가]\n왕곰젤리 500개 먹기"
+  },
+  {
+    "__pkey": "102701",
+    "BriefDescription": "[이 구역의 알아주는 대식가]\n왕곰젤리 1000개 먹기"
+  },
+  {
+    "__pkey": "102702",
+    "BriefDescription": "[이 구역의 알아주는 대식가]\n왕곰젤리 2000개 먹기"
+  },
+  {
+    "__pkey": "102703",
+    "BriefDescription": "[이 구역의 알아주는 대식가]\n왕곰젤리 4000개 먹기"
+  },
+  {
+    "__pkey": "102704",
+    "BriefDescription": "[이 구역의 알아주는 대식가]\n왕곰젤리 5000개 먹기"
+  },
+  {
+    "__pkey": "102705",
+    "BriefDescription": "[이 구역의 알아주는 대식가]\n왕곰젤리 6000개 먹기"
+  },
+  {
+    "__pkey": "102706",
+    "BriefDescription": "[이 구역의 알아주는 대식가]\n왕곰젤리 7000개 먹기"
+  },
+  {
+    "__pkey": "102707",
+    "BriefDescription": "[이 구역의 알아주는 대식가]\n왕곰젤리 8000개 먹기"
+  },
+  {
+    "__pkey": "102708",
+    "BriefDescription": "[이 구역의 알아주는 대식가]\n왕곰젤리 9000개 먹기"
+  },
+  {
+    "__pkey": "102709",
+    "BriefDescription": "[장애물 파괴의 대가]\n장애물 100000개 파괴하기"
+  },
+  {
+    "__pkey": "102800",
+    "BriefDescription": "[장애물 파괴의 대가]\n장애물 1000개 파괴하기"
+  },
+  {
+    "__pkey": "102801",
+    "BriefDescription": "[장애물 파괴의 대가]\n장애물 5000개 파괴하기"
+  },
+  {
+    "__pkey": "102802",
+    "BriefDescription": "[장애물 파괴의 대가]\n장애물 10000개 파괴하기"
+  },
+  {
+    "__pkey": "102803",
+    "BriefDescription": "[장애물 파괴의 대가]\n장애물 20000개 파괴하기"
+  },
+  {
+    "__pkey": "102804",
+    "BriefDescription": "[장애물 파괴의 대가]\n장애물 40000개 파괴하기"
+  },
+  {
+    "__pkey": "102805",
+    "BriefDescription": "[장애물 파괴의 대가]\n장애물 50000개 파괴하기"
+  },
+  {
+    "__pkey": "102806",
+    "BriefDescription": "[존재감 마이너스]\n장애물 100000개 통과하기"
+  },
+  {
+    "__pkey": "102900",
+    "BriefDescription": "[존재감 마이너스]\n장애물 1000개 통과하기"
+  },
+  {
+    "__pkey": "102901",
+    "BriefDescription": "[존재감 마이너스]\n장애물 5000개 통과하기"
+  },
+  {
+    "__pkey": "102902",
+    "BriefDescription": "[존재감 마이너스]\n장애물 10000개 통과하기"
+  },
+  {
+    "__pkey": "102903",
+    "BriefDescription": "[존재감 마이너스]\n장애물 20000개 통과하기"
+  },
+  {
+    "__pkey": "102904",
+    "BriefDescription": "[존재감 마이너스]\n장애물 40000개 통과하기"
+  },
+  {
+    "__pkey": "102905",
+    "BriefDescription": "[존재감 마이너스]\n장애물 60000개 통과하기"
+  },
+  {
+    "__pkey": "102906",
+    "BriefDescription": "[함께하면 더 즐거워]\n친구 수 200명"
+  },
+  {
+    "__pkey": "103",
+    "BriefDescription": "[아픈만큼 성숙한다]\n장애물 1000번 부딪히기"
+  },
+  {
+    "__pkey": "103000",
+    "BriefDescription": "[아픈만큼 성숙한다]\n장애물 50번 부딪히기"
+  },
+  {
+    "__pkey": "103001",
+    "BriefDescription": "[아픈만큼 성숙한다]\n장애물 100번 부딪히기"
+  },
+  {
+    "__pkey": "103002",
+    "BriefDescription": "[아픈만큼 성숙한다]\n장애물 200번 부딪히기"
+  },
+  {
+    "__pkey": "103003",
+    "BriefDescription": "[아픈만큼 성숙한다]\n장애물 300번 부딪히기"
+  },
+  {
+    "__pkey": "103004",
+    "BriefDescription": "[아픈만큼 성숙한다]\n장애물 400번 부딪히기"
+  },
+  {
+    "__pkey": "103005",
+    "BriefDescription": "[아픈만큼 성숙한다]\n장애물 500번 부딪히기"
+  },
+  {
+    "__pkey": "103006",
+    "BriefDescription": "[번지킹]\n구멍에 1000번 빠지기"
+  },
+  {
+    "__pkey": "103100",
+    "BriefDescription": "[번지킹]\n구멍에 50번 빠지기"
+  },
+  {
+    "__pkey": "103101",
+    "BriefDescription": "[번지킹]\n구멍에 100번 빠지기"
+  },
+  {
+    "__pkey": "103102",
+    "BriefDescription": "[번지킹]\n구멍에 200번 빠지기"
+  },
+  {
+    "__pkey": "103103",
+    "BriefDescription": "[번지킹]\n구멍에 300번 빠지기"
+  },
+  {
+    "__pkey": "103104",
+    "BriefDescription": "[번지킹]\n구멍에 400번 빠지기"
+  },
+  {
+    "__pkey": "103105",
+    "BriefDescription": "[번지킹]\n구멍에 500번 빠지기"
+  },
+  {
+    "__pkey": "103106",
+    "BriefDescription": "[오르락내리락 오르락내리락]\n보너스타임에 1000번 가기"
+  },
+  {
+    "__pkey": "103200",
+    "BriefDescription": "[오르락내리락 오르락내리락]\n보너스타임에 50번 가기"
+  },
+  {
+    "__pkey": "103201",
+    "BriefDescription": "[오르락내리락 오르락내리락]\n보너스타임에 100번 가기"
+  },
+  {
+    "__pkey": "103202",
+    "BriefDescription": "[오르락내리락 오르락내리락]\n보너스타임에 200번 가기"
+  },
+  {
+    "__pkey": "103203",
+    "BriefDescription": "[오르락내리락 오르락내리락]\n보너스타임에 300번 가기"
+  },
+  {
+    "__pkey": "103204",
+    "BriefDescription": "[오르락내리락 오르락내리락]\n보너스타임에 400번 가기"
+  },
+  {
+    "__pkey": "103205",
+    "BriefDescription": "[오르락내리락 오르락내리락]\n보너스타임에 500번 가기"
+  },
+  {
+    "__pkey": "103206",
+    "BriefDescription": "[하늘에서 하늘하늘하늘]\n보너스타임에 10000초 동안 있기"
+  },
+  {
+    "__pkey": "103300",
+    "BriefDescription": "[하늘에서 하늘하늘하늘]\n보너스타임에 500초 동안 있기"
+  },
+  {
+    "__pkey": "103301",
+    "BriefDescription": "[하늘에서 하늘하늘하늘]\n보너스타임에 1000초 동안 있기"
+  },
+  {
+    "__pkey": "103302",
+    "BriefDescription": "[하늘에서 하늘하늘하늘]\n보너스타임에 2000초 동안 있기"
+  },
+  {
+    "__pkey": "103303",
+    "BriefDescription": "[하늘에서 하늘하늘하늘]\n보너스타임에 3000초 동안 있기"
+  },
+  {
+    "__pkey": "103304",
+    "BriefDescription": "[하늘에서 하늘하늘하늘]\n보너스타임에 4000초 동안 있기"
+  },
+  {
+    "__pkey": "103305",
+    "BriefDescription": "[하늘에서 하늘하늘하늘]\n보너스타임에 5000초 동안 있기"
+  },
+  {
+    "__pkey": "103306",
+    "BriefDescription": "[한계를 모르는 쿠키]\n100000초 동안 달리기"
+  },
+  {
+    "__pkey": "103400",
+    "BriefDescription": "[한계를 모르는 쿠키]\n5000초 동안 달리기"
+  },
+  {
+    "__pkey": "103401",
+    "BriefDescription": "[한계를 모르는 쿠키]\n10000초 동안 달리기"
+  },
+  {
+    "__pkey": "103402",
+    "BriefDescription": "[한계를 모르는 쿠키]\n20000초 동안 달리기"
+  },
+  {
+    "__pkey": "103403",
+    "BriefDescription": "[한계를 모르는 쿠키]\n30000초 동안 달리기"
+  },
+  {
+    "__pkey": "103404",
+    "BriefDescription": "[한계를 모르는 쿠키]\n40000초 동안 달리기"
+  },
+  {
+    "__pkey": "103405",
+    "BriefDescription": "[한계를 모르는 쿠키]\n50000초 동안 달리기"
+  },
+  {
+    "__pkey": "103406",
+    "BriefDescription": "[더 많이 먹고 힘내!]\n거대생명물약 1000개 먹기"
+  },
+  {
+    "__pkey": "103500",
+    "BriefDescription": "[더 많이 먹고 힘내!]\n거대생명물약 50개 먹기"
+  },
+  {
+    "__pkey": "103501",
+    "BriefDescription": "[더 많이 먹고 힘내!]\n거대생명물약 100개 먹기"
+  },
+  {
+    "__pkey": "103502",
+    "BriefDescription": "[더 많이 먹고 힘내!]\n거대생명물약 200개 먹기"
+  },
+  {
+    "__pkey": "103503",
+    "BriefDescription": "[더 많이 먹고 힘내!]\n거대생명물약 300개 먹기"
+  },
+  {
+    "__pkey": "103504",
+    "BriefDescription": "[더 많이 먹고 힘내!]\n거대생명물약 400개 먹기"
+  },
+  {
+    "__pkey": "103505",
+    "BriefDescription": "[더 많이 먹고 힘내!]\n거대생명물약 500개 먹기"
+  },
+  {
+    "__pkey": "103506",
+    "BriefDescription": "[죽음, 더 나를 막지 못 해]\n부활 1000번 하기"
+  },
+  {
+    "__pkey": "103600",
+    "BriefDescription": "[죽음, 더 나를 막지 못 해]\n부활 50번 하기"
+  },
+  {
+    "__pkey": "103601",
+    "BriefDescription": "[죽음, 더 나를 막지 못 해]\n부활 100번 하기"
+  },
+  {
+    "__pkey": "103602",
+    "BriefDescription": "[죽음, 더 나를 막지 못 해]\n부활 200번 하기"
+  },
+  {
+    "__pkey": "103603",
+    "BriefDescription": "[죽음, 더 나를 막지 못 해]\n부활 300번 하기"
+  },
+  {
+    "__pkey": "103604",
+    "BriefDescription": "[죽음, 더 나를 막지 못 해]\n부활 400번 하기"
+  },
+  {
+    "__pkey": "103605",
+    "BriefDescription": "[죽음, 더 나를 막지 못 해]\n부활 500번 하기"
+  },
+  {
+    "__pkey": "103606",
+    "BriefDescription": "[코인모아 태산]\n1000만 코인 획득하기"
+  },
+  {
+    "__pkey": "103700",
+    "BriefDescription": "[코인모아 태산]\n10만 코인 획득하기"
+  },
+  {
+    "__pkey": "103701",
+    "BriefDescription": "[코인모아 태산]\n20만 코인 획득하기"
+  },
+  {
+    "__pkey": "103702",
+    "BriefDescription": "[코인모아 태산]\n50만 코인 획득하기"
+  },
+  {
+    "__pkey": "103703",
+    "BriefDescription": "[코인모아 태산]\n100만 코인 획득하기"
+  },
+  {
+    "__pkey": "103704",
+    "BriefDescription": "[코인모아 태산]\n200만 코인 획득하기"
+  },
+  {
+    "__pkey": "103705",
+    "BriefDescription": "[코인모아 태산]\n500만 코인 획득하기"
+  },
+  {
+    "__pkey": "103706",
+    "BriefDescription": "[코인모아 태산]\n1500만 코인 획득하기"
+  },
+  {
+    "__pkey": "103708",
+    "BriefDescription": "[엄청 엄청난 점수다]\n점수 50억점 획득하기"
+  },
+  {
+    "__pkey": "103800",
+    "BriefDescription": "[엄청 엄청난 점수다]\n점수 1000만점 획득하기"
+  },
+  {
+    "__pkey": "103801",
+    "BriefDescription": "[엄청 엄청난 점수다]\n점수 5000만점 획득하기"
+  },
+  {
+    "__pkey": "103802",
+    "BriefDescription": "[엄청 엄청난 점수다]\n점수 1억점 획득하기"
+  },
+  {
+    "__pkey": "103803",
+    "BriefDescription": "[엄청 엄청난 점수다]\n점수 2억점 획득하기"
+  },
+  {
+    "__pkey": "103804",
+    "BriefDescription": "[엄청 엄청난 점수다]\n점수 5억점 획득하기"
+  },
+  {
+    "__pkey": "103805",
+    "BriefDescription": "[엄청 엄청난 점수다]\n점수 10억점 획득하기"
+  },
+  {
+    "__pkey": "103806",
+    "BriefDescription": "[엄청 엄청난 점수다]\n점수 20억점 획득하기"
+  },
+  {
+    "__pkey": "103807",
+    "BriefDescription": "[엄청 엄청난 점수다]\n점수 100억점 획득하기"
+  },
+  {
+    "__pkey": "103809",
+    "BriefDescription": "[연륜이 느껴져]\n경험치 1000000 획득하기"
+  },
+  {
+    "__pkey": "103900",
+    "BriefDescription": "[연륜이 느껴져]\n경험치 10000 획득하기"
+  },
+  {
+    "__pkey": "103901",
+    "BriefDescription": "[연륜이 느껴져]\n경험치 20000 획득하기"
+  },
+  {
+    "__pkey": "103902",
+    "BriefDescription": "[연륜이 느껴져]\n경험치 40000 획득하기"
+  },
+  {
+    "__pkey": "103903",
+    "BriefDescription": "[연륜이 느껴져]\n경험치 80000 획득하기"
+  },
+  {
+    "__pkey": "103904",
+    "BriefDescription": "[연륜이 느껴져]\n경험치 150000 획득하기"
+  },
+  {
+    "__pkey": "103905",
+    "BriefDescription": "[연륜이 느껴져]\n경험치 300000 획득하기"
+  },
+  {
+    "__pkey": "103906",
+    "BriefDescription": "[연륜이 느껴져]\n경험치 1500000 획득하기"
+  },
+  {
+    "__pkey": "103908",
+    "BriefDescription": "[함께하면 더 즐거워]\n친구 수 300명"
+  },
+  {
+    "__pkey": "104",
+    "BriefDescription": "[함께하면 더 즐거워]\n친구 수 400명"
+  },
+  {
+    "__pkey": "105",
+    "BriefDescription": "[함께하면 더 즐거워]\n친구 수 500명"
+  },
+  {
+    "__pkey": "106",
+    "BriefDescription": "[함께하면 더 즐거워]\n친구 수 600명"
+  },
+  {
+    "__pkey": "107",
+    "BriefDescription": "[함께하면 더 즐거워]\n친구 수 700명"
+  },
+  {
+    "__pkey": "108",
+    "BriefDescription": "[함께하면 더 즐거워]\n친구 수 800명"
+  },
+  {
+    "__pkey": "109",
+    "BriefDescription": "[풍성한 쿠키마을]\n재료 100개 보유"
+  },
+  {
+    "__pkey": "1100",
+    "BriefDescription": "[풍성한 쿠키마을]\n재료 10개 보유"
+  },
+  {
+    "__pkey": "1101",
+    "BriefDescription": "[풍성한 쿠키마을]\n재료 20개 보유"
+  },
+  {
+    "__pkey": "1102",
+    "BriefDescription": "[풍성한 쿠키마을]\n재료 30개 보유"
+  },
+  {
+    "__pkey": "1103",
+    "BriefDescription": "[풍성한 쿠키마을]\n재료 40개 보유"
+  },
+  {
+    "__pkey": "1104",
+    "BriefDescription": "[풍성한 쿠키마을]\n재료 50개 보유"
+  },
+  {
+    "__pkey": "1105",
+    "BriefDescription": "[풍성한 쿠키마을]\n재료 60개 보유"
+  },
+  {
+    "__pkey": "1106",
+    "BriefDescription": "[풍성한 쿠키마을]\n재료 70개 보유"
+  },
+  {
+    "__pkey": "1107",
+    "BriefDescription": "[풍성한 쿠키마을]\n재료 80개 보유"
+  },
+  {
+    "__pkey": "1108",
+    "BriefDescription": "[풍성한 쿠키마을]\n재료 90개 보유"
+  },
+  {
+    "__pkey": "1109",
+    "BriefDescription": "[신비한 쿠키마을]\n미스터리 박스 500개 획득하기"
+  },
+  {
+    "__pkey": "1200",
+    "BriefDescription": "[신비한 쿠키마을]\n미스터리 박스 5개 획득하기"
+  },
+  {
+    "__pkey": "1201",
+    "BriefDescription": "[신비한 쿠키마을]\n미스터리 박스 10개 획득하기"
+  },
+  {
+    "__pkey": "1202",
+    "BriefDescription": "[신비한 쿠키마을]\n미스터리 박스 20개 획득하기"
+  },
+  {
+    "__pkey": "1203",
+    "BriefDescription": "[신비한 쿠키마을]\n미스터리 박스 30개 획득하기"
+  },
+  {
+    "__pkey": "1204",
+    "BriefDescription": "[신비한 쿠키마을]\n미스터리 박스 50개 획득하기"
+  },
+  {
+    "__pkey": "1205",
+    "BriefDescription": "[신비한 쿠키마을]\n미스터리 박스 100개 획득하기"
+  },
+  {
+    "__pkey": "1206",
+    "BriefDescription": "[신비한 쿠키마을]\n미스터리 박스 200개 획득하기"
+  },
+  {
+    "__pkey": "1207",
+    "BriefDescription": "[신비한 쿠키마을]\n미스터리 박스 300개 획득하기"
+  },
+  {
+    "__pkey": "1208",
+    "BriefDescription": "[신비한 쿠키마을]\n미스터리 박스 400개 획득하기"
+  },
+  {
+    "__pkey": "1209",
+    "BriefDescription": "[보물 뽑기왕]\n보물 뽑기 100번 하기"
+  },
+  {
+    "__pkey": "200",
+    "BriefDescription": "잠금해제조건 : 에피소드 1 '오븐 탈출!' 에서\n'11. 지옥으로 변한 쿠키성' 스테이지 진입"
+  },
+  {
+    "__pkey": "200000",
+    "BriefDescription": "[점프왕]\n점프 5000번 하기"
+  },
+  {
+    "__pkey": "200100",
+    "BriefDescription": "[점프왕]\n점프 100번 하기"
+  },
+  {
+    "__pkey": "200101",
+    "BriefDescription": "[점프왕]\n점프 200번 하기"
+  },
+  {
+    "__pkey": "200102",
+    "BriefDescription": "[점프왕]\n점프 500번 하기"
+  },
+  {
+    "__pkey": "200103",
+    "BriefDescription": "[점프왕]\n점프 1000번 하기"
+  },
+  {
+    "__pkey": "200104",
+    "BriefDescription": "[점프왕]\n점프 1500번 하기"
+  },
+  {
+    "__pkey": "200105",
+    "BriefDescription": "[점프왕]\n점프 2000번 하기"
+  },
+  {
+    "__pkey": "200106",
+    "BriefDescription": "[점프왕]\n점프 2500번 하기"
+  },
+  {
+    "__pkey": "200107",
+    "BriefDescription": "[점프왕]\n점프 3000번 하기"
+  },
+  {
+    "__pkey": "200108",
+    "BriefDescription": "[점프왕]\n점프 4000번 하기"
+  },
+  {
+    "__pkey": "200109",
+    "BriefDescription": "[쩜프왕]\n2단 점프 5000번 하기"
+  },
+  {
+    "__pkey": "200200",
+    "BriefDescription": "[쩜프왕]\n2단 점프 100번 하기"
+  },
+  {
+    "__pkey": "200201",
+    "BriefDescription": "[쩜프왕]\n2단 점프 200번 하기"
+  },
+  {
+    "__pkey": "200202",
+    "BriefDescription": "[쩜프왕]\n2단 점프 500번 하기"
+  },
+  {
+    "__pkey": "200203",
+    "BriefDescription": "[쩜프왕]\n2단 점프 1000번 하기"
+  },
+  {
+    "__pkey": "200204",
+    "BriefDescription": "[쩜프왕]\n2단 점프 1500번 하기"
+  },
+  {
+    "__pkey": "200205",
+    "BriefDescription": "[쩜프왕]\n2단 점프 2000번 하기"
+  },
+  {
+    "__pkey": "200206",
+    "BriefDescription": "[쩜프왕]\n2단 점프 2500번 하기"
+  },
+  {
+    "__pkey": "200207",
+    "BriefDescription": "[쩜프왕]\n2단 점프 3000번 하기"
+  },
+  {
+    "__pkey": "200208",
+    "BriefDescription": "[쩜프왕]\n2단 점프 4000번 하기"
+  },
+  {
+    "__pkey": "200209",
+    "BriefDescription": "[자는거 아니죠?]\n슬라이드 500초 동안 하기"
+  },
+  {
+    "__pkey": "200300",
+    "BriefDescription": "[자는거 아니죠?]\n슬라이드 25초 동안 하기"
+  },
+  {
+    "__pkey": "200301",
+    "BriefDescription": "[자는거 아니죠?]\n슬라이드 50초 동안 하기"
+  },
+  {
+    "__pkey": "200302",
+    "BriefDescription": "[자는거 아니죠?]\n슬라이드 100초 동안 하기"
+  },
+  {
+    "__pkey": "200303",
+    "BriefDescription": "[자는거 아니죠?]\n슬라이드 150초 동안 하기"
+  },
+  {
+    "__pkey": "200304",
+    "BriefDescription": "[자는거 아니죠?]\n슬라이드 200초 동안 하기"
+  },
+  {
+    "__pkey": "200305",
+    "BriefDescription": "[자는거 아니죠?]\n슬라이드 250초 동안 하기"
+  },
+  {
+    "__pkey": "200306",
+    "BriefDescription": "[자는거 아니죠?]\n슬라이드 300초 동안 하기"
+  },
+  {
+    "__pkey": "200307",
+    "BriefDescription": "[자는거 아니죠?]\n슬라이드 350초 동안 하기"
+  },
+  {
+    "__pkey": "200308",
+    "BriefDescription": "[자는거 아니죠?]\n슬라이드 400초 동안 하기"
+  },
+  {
+    "__pkey": "200309",
+    "BriefDescription": "[젤리젤리냠냠]\n젤리 50000개 먹기"
+  },
+  {
+    "__pkey": "200400",
+    "BriefDescription": "[젤리젤리냠냠]\n젤리 1000개 먹기"
+  },
+  {
+    "__pkey": "200401",
+    "BriefDescription": "[젤리젤리냠냠]\n젤리 2000개 먹기"
+  },
+  {
+    "__pkey": "200402",
+    "BriefDescription": "[젤리젤리냠냠]\n젤리 5000개 먹기"
+  },
+  {
+    "__pkey": "200403",
+    "BriefDescription": "[젤리젤리냠냠]\n젤리 10000개 먹기"
+  },
+  {
+    "__pkey": "200404",
+    "BriefDescription": "[젤리젤리냠냠]\n젤리 15000개 먹기"
+  },
+  {
+    "__pkey": "200405",
+    "BriefDescription": "[젤리젤리냠냠]\n젤리 20000개 먹기"
+  },
+  {
+    "__pkey": "200406",
+    "BriefDescription": "[젤리젤리냠냠]\n젤리 25000개 먹기"
+  },
+  {
+    "__pkey": "200407",
+    "BriefDescription": "[젤리젤리냠냠]\n젤리 30000개 먹기"
+  },
+  {
+    "__pkey": "200408",
+    "BriefDescription": "[젤리젤리냠냠]\n젤리 40000개 먹기"
+  },
+  {
+    "__pkey": "200409",
+    "BriefDescription": "[노란곰젤리냠냠]\n노란곰젤리 25000개 먹기"
+  },
+  {
+    "__pkey": "200500",
+    "BriefDescription": "[노란곰젤리냠냠]\n노란곰젤리 500개 먹기"
+  },
+  {
+    "__pkey": "200501",
+    "BriefDescription": "[노란곰젤리냠냠]\n노란곰젤리 1000개 먹기"
+  },
+  {
+    "__pkey": "200502",
+    "BriefDescription": "[노란곰젤리냠냠]\n노란곰젤리 2000개 먹기"
+  },
+  {
+    "__pkey": "200503",
+    "BriefDescription": "[노란곰젤리냠냠]\n노란곰젤리 3000개 먹기"
+  },
+  {
+    "__pkey": "200504",
+    "BriefDescription": "[노란곰젤리냠냠]\n노란곰젤리 4000개 먹기"
+  },
+  {
+    "__pkey": "200505",
+    "BriefDescription": "[노란곰젤리냠냠]\n노란곰젤리 8000개 먹기"
+  },
+  {
+    "__pkey": "200506",
+    "BriefDescription": "[노란곰젤리냠냠]\n노란곰젤리 12000개 먹기"
+  },
+  {
+    "__pkey": "200507",
+    "BriefDescription": "[노란곰젤리냠냠]\n노란곰젤리 16000개 먹기"
+  },
+  {
+    "__pkey": "200508",
+    "BriefDescription": "[노란곰젤리냠냠]\n노란곰젤리 20000개 먹기"
+  },
+  {
+    "__pkey": "200509",
+    "BriefDescription": "[분홍곰젤리냠냠]\n분홍곰젤리 10000개 먹기"
+  },
+  {
+    "__pkey": "200600",
+    "BriefDescription": "[분홍곰젤리냠냠]\n분홍곰젤리 500개 먹기"
+  },
+  {
+    "__pkey": "200601",
+    "BriefDescription": "[분홍곰젤리냠냠]\n분홍곰젤리 1000개 먹기"
+  },
+  {
+    "__pkey": "200602",
+    "BriefDescription": "[분홍곰젤리냠냠]\n분홍곰젤리 1500개 먹기"
+  },
+  {
+    "__pkey": "200603",
+    "BriefDescription": "[분홍곰젤리냠냠]\n분홍곰젤리 2000개 먹기"
+  },
+  {
+    "__pkey": "200604",
+    "BriefDescription": "[분홍곰젤리냠냠]\n분홍곰젤리 2500개 먹기"
+  },
+  {
+    "__pkey": "200605",
+    "BriefDescription": "[분홍곰젤리냠냠]\n분홍곰젤리 3000개 먹기"
+  },
+  {
+    "__pkey": "200606",
+    "BriefDescription": "[분홍곰젤리냠냠]\n분홍곰젤리 5000개 먹기"
+  },
+  {
+    "__pkey": "200607",
+    "BriefDescription": "[분홍곰젤리냠냠]\n분홍곰젤리 6000개 먹기"
+  },
+  {
+    "__pkey": "200608",
+    "BriefDescription": "[분홍곰젤리냠냠]\n분홍곰젤리 8000개 먹기"
+  },
+  {
+    "__pkey": "200609",
+    "BriefDescription": "[이 구역의 대식가]\n왕곰젤리 500개 먹기"
+  },
+  {
+    "__pkey": "200700",
+    "BriefDescription": "[이 구역의 대식가]\n왕곰젤리 10개 먹기"
+  },
+  {
+    "__pkey": "200701",
+    "BriefDescription": "[이 구역의 대식가]\n왕곰젤리 30개 먹기"
+  },
+  {
+    "__pkey": "200702",
+    "BriefDescription": "[이 구역의 대식가]\n왕곰젤리 50개 먹기"
+  },
+  {
+    "__pkey": "200703",
+    "BriefDescription": "[이 구역의 대식가]\n왕곰젤리 70개 먹기"
+  },
+  {
+    "__pkey": "200704",
+    "BriefDescription": "[이 구역의 대식가]\n왕곰젤리 100개 먹기"
+  },
+  {
+    "__pkey": "200705",
+    "BriefDescription": "[이 구역의 대식가]\n왕곰젤리 150개 먹기"
+  },
+  {
+    "__pkey": "200706",
+    "BriefDescription": "[이 구역의 대식가]\n왕곰젤리 200개 먹기"
+  },
+  {
+    "__pkey": "200707",
+    "BriefDescription": "[이 구역의 대식가]\n왕곰젤리 300개 먹기"
+  },
+  {
+    "__pkey": "200708",
+    "BriefDescription": "[이 구역의 대식가]\n왕곰젤리 400개 먹기"
+  },
+  {
+    "__pkey": "200709",
+    "BriefDescription": "[장애물 파괴자]\n장애물 5000개 파괴하기"
+  },
+  {
+    "__pkey": "200800",
+    "BriefDescription": "[장애물 파괴자]\n장애물 100개 파괴하기"
+  },
+  {
+    "__pkey": "200801",
+    "BriefDescription": "[장애물 파괴자]\n장애물 200개 파괴하기"
+  },
+  {
+    "__pkey": "200802",
+    "BriefDescription": "[장애물 파괴자]\n장애물 400개 파괴하기"
+  },
+  {
+    "__pkey": "200803",
+    "BriefDescription": "[장애물 파괴자]\n장애물 700개 파괴하기"
+  },
+  {
+    "__pkey": "200804",
+    "BriefDescription": "[장애물 파괴자]\n장애물 1000개 파괴하기"
+  },
+  {
+    "__pkey": "200805",
+    "BriefDescription": "[장애물 파괴자]\n장애물 1500개 파괴하기"
+  },
+  {
+    "__pkey": "200806",
+    "BriefDescription": "[장애물 파괴자]\n장애물 2000개 파괴하기"
+  },
+  {
+    "__pkey": "200807",
+    "BriefDescription": "[장애물 파괴자]\n장애물 3000개 파괴하기"
+  },
+  {
+    "__pkey": "200808",
+    "BriefDescription": "[장애물 파괴자]\n장애물 4000개 파괴하기"
+  },
+  {
+    "__pkey": "200809",
+    "BriefDescription": "[존재감 제로]\n장애물 5000개 통과하기"
+  },
+  {
+    "__pkey": "200900",
+    "BriefDescription": "[존재감 제로]\n장애물 100개 통과하기"
+  },
+  {
+    "__pkey": "200901",
+    "BriefDescription": "[존재감 제로]\n장애물 200개 통과하기"
+  },
+  {
+    "__pkey": "200902",
+    "BriefDescription": "[존재감 제로]\n장애물 400개 통과하기"
+  },
+  {
+    "__pkey": "200903",
+    "BriefDescription": "[존재감 제로]\n장애물 700개 통과하기"
+  },
+  {
+    "__pkey": "200904",
+    "BriefDescription": "[존재감 제로]\n장애물 1000개 통과하기"
+  },
+  {
+    "__pkey": "200905",
+    "BriefDescription": "[존재감 제로]\n장애물 1500개 통과하기"
+  },
+  {
+    "__pkey": "200906",
+    "BriefDescription": "[존재감 제로]\n장애물 2000개 통과하기"
+  },
+  {
+    "__pkey": "200907",
+    "BriefDescription": "[존재감 제로]\n장애물 3000개 통과하기"
+  },
+  {
+    "__pkey": "200908",
+    "BriefDescription": "[존재감 제로]\n장애물 4000개 통과하기"
+  },
+  {
+    "__pkey": "200909",
+    "BriefDescription": "[보물 뽑기왕]\n보물 뽑기 5번 하기"
+  },
+  {
+    "__pkey": "201",
+    "BriefDescription": "[아프니까 쿠키다]\n장애물에 60번 부딪히기"
+  },
+  {
+    "__pkey": "201000",
+    "BriefDescription": "[아프니까 쿠키다]\n장애물에 2번 부딪히기"
+  },
+  {
+    "__pkey": "201001",
+    "BriefDescription": "[아프니까 쿠키다]\n장애물에 4번 부딪히기"
+  },
+  {
+    "__pkey": "201002",
+    "BriefDescription": "[아프니까 쿠키다]\n장애물에 7번 부딪히기"
+  },
+  {
+    "__pkey": "201003",
+    "BriefDescription": "[아프니까 쿠키다]\n장애물에 10번 부딪히기"
+  },
+  {
+    "__pkey": "201004",
+    "BriefDescription": "[아프니까 쿠키다]\n장애물에 15번 부딪히기"
+  },
+  {
+    "__pkey": "201005",
+    "BriefDescription": "[아프니까 쿠키다]\n장애물에 20번 부딪히기"
+  },
+  {
+    "__pkey": "201006",
+    "BriefDescription": "[아프니까 쿠키다]\n장애물에 30번 부딪히기"
+  },
+  {
+    "__pkey": "201007",
+    "BriefDescription": "[아프니까 쿠키다]\n장애물에 40번 부딪히기"
+  },
+  {
+    "__pkey": "201008",
+    "BriefDescription": "[아프니까 쿠키다]\n장애물에 50번 부딪히기"
+  },
+  {
+    "__pkey": "201009",
+    "BriefDescription": "[번지왕]\n구멍에 50번 빠지기"
+  },
+  {
+    "__pkey": "201100",
+    "BriefDescription": "[번지왕]\n구멍에 3번 빠지기"
+  },
+  {
+    "__pkey": "201101",
+    "BriefDescription": "[번지왕]\n구멍에 6번 빠지기"
+  },
+  {
+    "__pkey": "201102",
+    "BriefDescription": "[번지왕]\n구멍에 10번 빠지기"
+  },
+  {
+    "__pkey": "201103",
+    "BriefDescription": "[번지왕]\n구멍에 15번 빠지기"
+  },
+  {
+    "__pkey": "201104",
+    "BriefDescription": "[번지왕]\n구멍에 20번 빠지기"
+  },
+  {
+    "__pkey": "201105",
+    "BriefDescription": "[번지왕]\n구멍에 25번 빠지기"
+  },
+  {
+    "__pkey": "201106",
+    "BriefDescription": "[번지왕]\n구멍에 30번 빠지기"
+  },
+  {
+    "__pkey": "201107",
+    "BriefDescription": "[번지왕]\n구멍에 35번 빠지기"
+  },
+  {
+    "__pkey": "201108",
+    "BriefDescription": "[번지왕]\n구멍에 40번 빠지기"
+  },
+  {
+    "__pkey": "201109",
+    "BriefDescription": "[오르락내리락]\n보너스타임에 50번 가기"
+  },
+  {
+    "__pkey": "201200",
+    "BriefDescription": "[오르락내리락]\n보너스타임에 3번 가기"
+  },
+  {
+    "__pkey": "201201",
+    "BriefDescription": "[오르락내리락]\n보너스타임에 6번 가기"
+  },
+  {
+    "__pkey": "201202",
+    "BriefDescription": "[오르락내리락]\n보너스타임에 10번 가기"
+  },
+  {
+    "__pkey": "201203",
+    "BriefDescription": "[오르락내리락]\n보너스타임에 15번 가기"
+  },
+  {
+    "__pkey": "201204",
+    "BriefDescription": "[오르락내리락]\n보너스타임에 20번 가기"
+  },
+  {
+    "__pkey": "201205",
+    "BriefDescription": "[오르락내리락]\n보너스타임에 25번 가기"
+  },
+  {
+    "__pkey": "201206",
+    "BriefDescription": "[오르락내리락]\n보너스타임에 30번 가기"
+  },
+  {
+    "__pkey": "201207",
+    "BriefDescription": "[오르락내리락]\n보너스타임에 35번 가기"
+  },
+  {
+    "__pkey": "201208",
+    "BriefDescription": "[오르락내리락]\n보너스타임에 40번 가기"
+  },
+  {
+    "__pkey": "201209",
+    "BriefDescription": "[하늘에서 하늘하늘]\n보너스타임에 500초 동안 있기"
+  },
+  {
+    "__pkey": "201300",
+    "BriefDescription": "[하늘에서 하늘하늘]\n보너스타임에 25초 동안 있기"
+  },
+  {
+    "__pkey": "201301",
+    "BriefDescription": "[하늘에서 하늘하늘]\n보너스타임에 50초 동안 있기"
+  },
+  {
+    "__pkey": "201302",
+    "BriefDescription": "[하늘에서 하늘하늘]\n보너스타임에 100초 동안 있기"
+  },
+  {
+    "__pkey": "201303",
+    "BriefDescription": "[하늘에서 하늘하늘]\n보너스타임에 150초 동안 있기"
+  },
+  {
+    "__pkey": "201304",
+    "BriefDescription": "[하늘에서 하늘하늘]\n보너스타임에 200초 동안 있기"
+  },
+  {
+    "__pkey": "201305",
+    "BriefDescription": "[하늘에서 하늘하늘]\n보너스타임에 250초 동안 있기"
+  },
+  {
+    "__pkey": "201306",
+    "BriefDescription": "[하늘에서 하늘하늘]\n보너스타임에 300초 동안 있기"
+  },
+  {
+    "__pkey": "201307",
+    "BriefDescription": "[하늘에서 하늘하늘]\n보너스타임에 350초 동안 있기"
+  },
+  {
+    "__pkey": "201308",
+    "BriefDescription": "[하늘에서 하늘하늘]\n보너스타임에 400초 동안 있기"
+  },
+  {
+    "__pkey": "201309",
+    "BriefDescription": "[포기를 모르는 쿠키]\n1000초 동안 달리기"
+  },
+  {
+    "__pkey": "201400",
+    "BriefDescription": "[포기를 모르는 쿠키]\n30초 동안 달리기"
+  },
+  {
+    "__pkey": "201401",
+    "BriefDescription": "[포기를 모르는 쿠키]\n60초 동안 달리기"
+  },
+  {
+    "__pkey": "201402",
+    "BriefDescription": "[포기를 모르는 쿠키]\n100초 동안 달리기"
+  },
+  {
+    "__pkey": "201403",
+    "BriefDescription": "[포기를 모르는 쿠키]\n200초 동안 달리기"
+  },
+  {
+    "__pkey": "201404",
+    "BriefDescription": "[포기를 모르는 쿠키]\n300초 동안 달리기"
+  },
+  {
+    "__pkey": "201405",
+    "BriefDescription": "[포기를 모르는 쿠키]\n400초 동안 달리기"
+  },
+  {
+    "__pkey": "201406",
+    "BriefDescription": "[포기를 모르는 쿠키]\n500초 동안 달리기"
+  },
+  {
+    "__pkey": "201407",
+    "BriefDescription": "[포기를 모르는 쿠키]\n600초 동안 달리기"
+  },
+  {
+    "__pkey": "201408",
+    "BriefDescription": "[포기를 모르는 쿠키]\n800초 동안 달리기"
+  },
+  {
+    "__pkey": "201409",
+    "BriefDescription": "[많이 먹고 힘내!]\n거대생명물약 10개 먹기"
+  },
+  {
+    "__pkey": "201500",
+    "BriefDescription": "[많이 먹고 힘내!]\n거대생명물약 5개 먹기"
+  },
+  {
+    "__pkey": "201501",
+    "BriefDescription": "[많이 먹고 힘내!]\n거대생명물약 6개 먹기"
+  },
+  {
+    "__pkey": "201502",
+    "BriefDescription": "[많이 먹고 힘내!]\n거대생명물약 7개 먹기"
+  },
+  {
+    "__pkey": "201503",
+    "BriefDescription": "[많이 먹고 힘내!]\n거대생명물약 8개 먹기"
+  },
+  {
+    "__pkey": "201504",
+    "BriefDescription": "[많이 먹고 힘내!]\n거대생명물약 9개 먹기"
+  },
+  {
+    "__pkey": "201505",
+    "BriefDescription": "[죽음도 나를 막지 못 해]\n부활 22번 하기"
+  },
+  {
+    "__pkey": "201600",
+    "BriefDescription": "[죽음도 나를 막지 못 해]\n부활 3번 하기"
+  },
+  {
+    "__pkey": "201601",
+    "BriefDescription": "[죽음도 나를 막지 못 해]\n부활 6번 하기"
+  },
+  {
+    "__pkey": "201602",
+    "BriefDescription": "[죽음도 나를 막지 못 해]\n부활 9번 하기"
+  },
+  {
+    "__pkey": "201603",
+    "BriefDescription": "[죽음도 나를 막지 못 해]\n부활 12번 하기"
+  },
+  {
+    "__pkey": "201604",
+    "BriefDescription": "[죽음도 나를 막지 못 해]\n부활 15번 하기"
+  },
+  {
+    "__pkey": "201605",
+    "BriefDescription": "[죽음도 나를 막지 못 해]\n부활 18번 하기"
+  },
+  {
+    "__pkey": "201606",
+    "BriefDescription": "[죽음도 나를 막지 못 해]\n부활 20번 하기"
+  },
+  {
+    "__pkey": "201607",
+    "BriefDescription": "[코인 마니아]\n50000코인 획득하기"
+  },
+  {
+    "__pkey": "201700",
+    "BriefDescription": "[코인 마니아]\n2000코인 획득하기"
+  },
+  {
+    "__pkey": "201701",
+    "BriefDescription": "[코인 마니아]\n4000코인 획득하기"
+  },
+  {
+    "__pkey": "201702",
+    "BriefDescription": "[코인 마니아]\n6000코인 획득하기"
+  },
+  {
+    "__pkey": "201703",
+    "BriefDescription": "[코인 마니아]\n8000코인 획득하기"
+  },
+  {
+    "__pkey": "201704",
+    "BriefDescription": "[코인 마니아]\n10000코인 획득하기"
+  },
+  {
+    "__pkey": "201705",
+    "BriefDescription": "[코인 마니아]\n15000코인 획득하기"
+  },
+  {
+    "__pkey": "201706",
+    "BriefDescription": "[코인 마니아]\n20000코인 획득하기"
+  },
+  {
+    "__pkey": "201707",
+    "BriefDescription": "[코인 마니아]\n30000코인 획득하기"
+  },
+  {
+    "__pkey": "201708",
+    "BriefDescription": "[코인 마니아]\n40000코인 획득하기"
+  },
+  {
+    "__pkey": "201709",
+    "BriefDescription": "[엄청난 점수다]\n점수 1억점 획득하기"
+  },
+  {
+    "__pkey": "201800",
+    "BriefDescription": "[엄청난 점수다]\n점수 100만점 획득하기"
+  },
+  {
+    "__pkey": "201801",
+    "BriefDescription": "[엄청난 점수다]\n점수 300만점 획득하기"
+  },
+  {
+    "__pkey": "201802",
+    "BriefDescription": "[엄청난 점수다]\n점수 500만점 획득하기"
+  },
+  {
+    "__pkey": "201803",
+    "BriefDescription": "[엄청난 점수다]\n점수 1000만점 획득하기"
+  },
+  {
+    "__pkey": "201804",
+    "BriefDescription": "[엄청난 점수다]\n점수 1500만점 획득하기"
+  },
+  {
+    "__pkey": "201805",
+    "BriefDescription": "[엄청난 점수다]\n점수 2000만점 획득하기"
+  },
+  {
+    "__pkey": "201806",
+    "BriefDescription": "[엄청난 점수다]\n점수 3000만점 획득하기"
+  },
+  {
+    "__pkey": "201807",
+    "BriefDescription": "[엄청난 점수다]\n점수 4000만점 획득하기"
+  },
+  {
+    "__pkey": "201808",
+    "BriefDescription": "[엄청난 점수다]\n점수 5000만점 획득하기"
+  },
+  {
+    "__pkey": "201809",
+    "BriefDescription": "[엄청난 점수다]\n점수 6000만점 획득하기"
+  },
+  {
+    "__pkey": "201810",
+    "BriefDescription": "[엄청난 점수다]\n점수 7000만점 획득하기"
+  },
+  {
+    "__pkey": "201811",
+    "BriefDescription": "[엄청난 점수다]\n점수 8000만점 획득하기"
+  },
+  {
+    "__pkey": "201812",
+    "BriefDescription": "[엄청난 점수다]\n점수 9000만점 획득하기"
+  },
+  {
+    "__pkey": "201813",
+    "BriefDescription": "[좋은 경험이었다]\n경험치 20000 획득하기"
+  },
+  {
+    "__pkey": "201900",
+    "BriefDescription": "[좋은 경험이었다]\n경험치 1000 획득하기"
+  },
+  {
+    "__pkey": "201901",
+    "BriefDescription": "[좋은 경험이었다]\n경험치 2000 획득하기"
+  },
+  {
+    "__pkey": "201902",
+    "BriefDescription": "[좋은 경험이었다]\n경험치 4000 획득하기"
+  },
+  {
+    "__pkey": "201903",
+    "BriefDescription": "[좋은 경험이었다]\n경험치 8000 획득하기"
+  },
+  {
+    "__pkey": "201904",
+    "BriefDescription": "[좋은 경험이었다]\n경험치 12000 획득하기"
+  },
+  {
+    "__pkey": "201905",
+    "BriefDescription": "[좋은 경험이었다]\n경험치 16000 획득하기"
+  },
+  {
+    "__pkey": "201906",
+    "BriefDescription": "[보물 뽑기왕]\n보물 뽑기 10번 하기"
+  },
+  {
+    "__pkey": "202",
+    "BriefDescription": "[탐험을 떠나볼까]\n10번째 스테이지 가기"
+  },
+  {
+    "__pkey": "202000",
+    "BriefDescription": "[탐험을 떠나볼까]\n5번째 스테이지 가기"
+  },
+  {
+    "__pkey": "202001",
+    "BriefDescription": "[탐험을 떠나볼까]\n6번째 스테이지 가기"
+  },
+  {
+    "__pkey": "202002",
+    "BriefDescription": "[탐험을 떠나볼까]\n7번째 스테이지 가기"
+  },
+  {
+    "__pkey": "202003",
+    "BriefDescription": "[탐험을 떠나볼까]\n8번째 스테이지 가기"
+  },
+  {
+    "__pkey": "202004",
+    "BriefDescription": "[탐험을 떠나볼까]\n9번째 스테이지 가기"
+  },
+  {
+    "__pkey": "202005",
+    "BriefDescription": "[점프킹]\n점프 100000번 하기"
+  },
+  {
+    "__pkey": "202100",
+    "BriefDescription": "[점프킹]\n점프 1,000번 하기"
+  },
+  {
+    "__pkey": "202101",
+    "BriefDescription": "[점프킹]\n점프 5000번 하기"
+  },
+  {
+    "__pkey": "202102",
+    "BriefDescription": "[점프킹]\n점프 10000번 하기"
+  },
+  {
+    "__pkey": "202103",
+    "BriefDescription": "[점프킹]\n점프 20000번 하기"
+  },
+  {
+    "__pkey": "202104",
+    "BriefDescription": "[점프킹]\n점프 40000번 하기"
+  },
+  {
+    "__pkey": "202105",
+    "BriefDescription": "[점프킹]\n점프 50000번 하기"
+  },
+  {
+    "__pkey": "202106",
+    "BriefDescription": "[쩜프킹]\n2단 점프 100000번 하기"
+  },
+  {
+    "__pkey": "202200",
+    "BriefDescription": "[쩜프킹]\n2단 점프 1000번 하기"
+  },
+  {
+    "__pkey": "202201",
+    "BriefDescription": "[쩜프킹]\n2단 점프 5000번 하기"
+  },
+  {
+    "__pkey": "202202",
+    "BriefDescription": "[쩜프킹]\n2단 점프 10000번 하기"
+  },
+  {
+    "__pkey": "202203",
+    "BriefDescription": "[쩜프킹]\n2단 점프 20000번 하기"
+  },
+  {
+    "__pkey": "202204",
+    "BriefDescription": "[쩜프킹]\n2단 점프 40000번 하기"
+  },
+  {
+    "__pkey": "202205",
+    "BriefDescription": "[쩜프킹]\n2단 점프 50000번 하기"
+  },
+  {
+    "__pkey": "202206",
+    "BriefDescription": "[계속 자는거 아니죠?]\n슬라이드 10000초 동안 하기"
+  },
+  {
+    "__pkey": "202300",
+    "BriefDescription": "[계속 자는거 아니죠?]\n슬라이드 500초 동안 하기"
+  },
+  {
+    "__pkey": "202301",
+    "BriefDescription": "[계속 자는거 아니죠?]\n슬라이드 1000초 동안 하기"
+  },
+  {
+    "__pkey": "202302",
+    "BriefDescription": "[계속 자는거 아니죠?]\n슬라이드 2000초 동안 하기"
+  },
+  {
+    "__pkey": "202303",
+    "BriefDescription": "[계속 자는거 아니죠?]\n슬라이드 4000초 동안 하기"
+  },
+  {
+    "__pkey": "202304",
+    "BriefDescription": "[계속 자는거 아니죠?]\n슬라이드 5000초 동안 하기"
+  },
+  {
+    "__pkey": "202305",
+    "BriefDescription": "[계속 자는거 아니죠?]\n슬라이드 6000초 동안 하기"
+  },
+  {
+    "__pkey": "202306",
+    "BriefDescription": "[계속 자는거 아니죠?]\n슬라이드 7000초 동안 하기"
+  },
+  {
+    "__pkey": "202307",
+    "BriefDescription": "[계속 자는거 아니죠?]\n슬라이드 8000초 동안 하기"
+  },
+  {
+    "__pkey": "202308",
+    "BriefDescription": "[계속 자는거 아니죠?]\n슬라이드 9000초 동안 하기"
+  },
+  {
+    "__pkey": "202309",
+    "BriefDescription": "[젤리젤리냠냠냠]\n젤리 1000000개 먹기"
+  },
+  {
+    "__pkey": "202400",
+    "BriefDescription": "[젤리젤리냠냠냠]\n젤리 50000개 먹기"
+  },
+  {
+    "__pkey": "202401",
+    "BriefDescription": "[젤리젤리냠냠냠]\n젤리 100000개 먹기"
+  },
+  {
+    "__pkey": "202402",
+    "BriefDescription": "[젤리젤리냠냠냠]\n젤리 200000개 먹기"
+  },
+  {
+    "__pkey": "202403",
+    "BriefDescription": "[젤리젤리냠냠냠]\n젤리 300000개 먹기"
+  },
+  {
+    "__pkey": "202404",
+    "BriefDescription": "[젤리젤리냠냠냠]\n젤리 400000개 먹기"
+  },
+  {
+    "__pkey": "202405",
+    "BriefDescription": "[젤리젤리냠냠냠]\n젤리 500000개 먹기"
+  },
+  {
+    "__pkey": "202406",
+    "BriefDescription": "[노란곰젤리냠냠냠]\n노란곰젤리 1000000개 먹기"
+  },
+  {
+    "__pkey": "202500",
+    "BriefDescription": "[노란곰젤리냠냠냠]\n노란곰젤리 50000개 먹기"
+  },
+  {
+    "__pkey": "202501",
+    "BriefDescription": "[노란곰젤리냠냠냠]\n노란곰젤리 100000개 먹기"
+  },
+  {
+    "__pkey": "202502",
+    "BriefDescription": "[노란곰젤리냠냠냠]\n노란곰젤리 200000개 먹기"
+  },
+  {
+    "__pkey": "202503",
+    "BriefDescription": "[노란곰젤리냠냠냠]\n노란곰젤리 300000개 먹기"
+  },
+  {
+    "__pkey": "202504",
+    "BriefDescription": "[노란곰젤리냠냠냠]\n노란곰젤리 400000개 먹기"
+  },
+  {
+    "__pkey": "202505",
+    "BriefDescription": "[노란곰젤리냠냠냠]\n노란곰젤리 500000개 먹기"
+  },
+  {
+    "__pkey": "202506",
+    "BriefDescription": "[분홍곰젤리냠냠냠]\n분홍곰젤리 1000000개 먹기"
+  },
+  {
+    "__pkey": "202600",
+    "BriefDescription": "[분홍곰젤리냠냠냠]\n분홍곰젤리 25000개 먹기"
+  },
+  {
+    "__pkey": "202601",
+    "BriefDescription": "[분홍곰젤리냠냠냠]\n분홍곰젤리 50000개 먹기"
+  },
+  {
+    "__pkey": "202602",
+    "BriefDescription": "[분홍곰젤리냠냠냠]\n분홍곰젤리 100000개 먹기"
+  },
+  {
+    "__pkey": "202603",
+    "BriefDescription": "[분홍곰젤리냠냠냠]\n분홍곰젤리 200000개 먹기"
+  },
+  {
+    "__pkey": "202604",
+    "BriefDescription": "[분홍곰젤리냠냠냠]\n분홍곰젤리 400000개 먹기"
+  },
+  {
+    "__pkey": "202605",
+    "BriefDescription": "[분홍곰젤리냠냠냠]\n분홍곰젤리 500000개 먹기"
+  },
+  {
+    "__pkey": "202606",
+    "BriefDescription": "[이 구역의 알아주는 대식가]\n왕곰젤리 10000개 먹기"
+  },
+  {
+    "__pkey": "202700",
+    "BriefDescription": "[이 구역의 알아주는 대식가]\n왕곰젤리 500개 먹기"
+  },
+  {
+    "__pkey": "202701",
+    "BriefDescription": "[이 구역의 알아주는 대식가]\n왕곰젤리 1000개 먹기"
+  },
+  {
+    "__pkey": "202702",
+    "BriefDescription": "[이 구역의 알아주는 대식가]\n왕곰젤리 2000개 먹기"
+  },
+  {
+    "__pkey": "202703",
+    "BriefDescription": "[이 구역의 알아주는 대식가]\n왕곰젤리 4000개 먹기"
+  },
+  {
+    "__pkey": "202704",
+    "BriefDescription": "[이 구역의 알아주는 대식가]\n왕곰젤리 5000개 먹기"
+  },
+  {
+    "__pkey": "202705",
+    "BriefDescription": "[이 구역의 알아주는 대식가]\n왕곰젤리 6000개 먹기"
+  },
+  {
+    "__pkey": "202706",
+    "BriefDescription": "[이 구역의 알아주는 대식가]\n왕곰젤리 7000개 먹기"
+  },
+  {
+    "__pkey": "202707",
+    "BriefDescription": "[이 구역의 알아주는 대식가]\n왕곰젤리 8000개 먹기"
+  },
+  {
+    "__pkey": "202708",
+    "BriefDescription": "[이 구역의 알아주는 대식가]\n왕곰젤리 9000개 먹기"
+  },
+  {
+    "__pkey": "202709",
+    "BriefDescription": "[장애물 파괴의 대가]\n장애물 100000개 파괴하기"
+  },
+  {
+    "__pkey": "202800",
+    "BriefDescription": "[장애물 파괴의 대가]\n장애물 1000개 파괴하기"
+  },
+  {
+    "__pkey": "202801",
+    "BriefDescription": "[장애물 파괴의 대가]\n장애물 5000개 파괴하기"
+  },
+  {
+    "__pkey": "202802",
+    "BriefDescription": "[장애물 파괴의 대가]\n장애물 10000개 파괴하기"
+  },
+  {
+    "__pkey": "202803",
+    "BriefDescription": "[장애물 파괴의 대가]\n장애물 20000개 파괴하기"
+  },
+  {
+    "__pkey": "202804",
+    "BriefDescription": "[장애물 파괴의 대가]\n장애물 40000개 파괴하기"
+  },
+  {
+    "__pkey": "202805",
+    "BriefDescription": "[장애물 파괴의 대가]\n장애물 50000개 파괴하기"
+  },
+  {
+    "__pkey": "202806",
+    "BriefDescription": "[존재감 마이너스]\n장애물 100000개 통과하기"
+  },
+  {
+    "__pkey": "202900",
+    "BriefDescription": "[존재감 마이너스]\n장애물 1000개 통과하기"
+  },
+  {
+    "__pkey": "202901",
+    "BriefDescription": "[존재감 마이너스]\n장애물 5000개 통과하기"
+  },
+  {
+    "__pkey": "202902",
+    "BriefDescription": "[존재감 마이너스]\n장애물 10000개 통과하기"
+  },
+  {
+    "__pkey": "202903",
+    "BriefDescription": "[존재감 마이너스]\n장애물 20000개 통과하기"
+  },
+  {
+    "__pkey": "202904",
+    "BriefDescription": "[존재감 마이너스]\n장애물 40000개 통과하기"
+  },
+  {
+    "__pkey": "202905",
+    "BriefDescription": "[존재감 마이너스]\n장애물 60000개 통과하기"
+  },
+  {
+    "__pkey": "202906",
+    "BriefDescription": "[보물 뽑기왕]\n보물 뽑기 15번 하기"
+  },
+  {
+    "__pkey": "203",
+    "BriefDescription": "[아픈만큼 성숙한다]\n장애물 1000번 부딪히기"
+  },
+  {
+    "__pkey": "203000",
+    "BriefDescription": "[아픈만큼 성숙한다]\n장애물 50번 부딪히기"
+  },
+  {
+    "__pkey": "203001",
+    "BriefDescription": "[아픈만큼 성숙한다]\n장애물 100번 부딪히기"
+  },
+  {
+    "__pkey": "203002",
+    "BriefDescription": "[아픈만큼 성숙한다]\n장애물 200번 부딪히기"
+  },
+  {
+    "__pkey": "203003",
+    "BriefDescription": "[아픈만큼 성숙한다]\n장애물 300번 부딪히기"
+  },
+  {
+    "__pkey": "203004",
+    "BriefDescription": "[아픈만큼 성숙한다]\n장애물 400번 부딪히기"
+  },
+  {
+    "__pkey": "203005",
+    "BriefDescription": "[아픈만큼 성숙한다]\n장애물 500번 부딪히기"
+  },
+  {
+    "__pkey": "203006",
+    "BriefDescription": "[번지킹]\n구멍에 1000번 빠지기"
+  },
+  {
+    "__pkey": "203100",
+    "BriefDescription": "[번지킹]\n구멍에 50번 빠지기"
+  },
+  {
+    "__pkey": "203101",
+    "BriefDescription": "[번지킹]\n구멍에 100번 빠지기"
+  },
+  {
+    "__pkey": "203102",
+    "BriefDescription": "[번지킹]\n구멍에 200번 빠지기"
+  },
+  {
+    "__pkey": "203103",
+    "BriefDescription": "[번지킹]\n구멍에 300번 빠지기"
+  },
+  {
+    "__pkey": "203104",
+    "BriefDescription": "[번지킹]\n구멍에 400번 빠지기"
+  },
+  {
+    "__pkey": "203105",
+    "BriefDescription": "[번지킹]\n구멍에 500번 빠지기"
+  },
+  {
+    "__pkey": "203106",
+    "BriefDescription": "[오르락내리락 오르락내리락]\n보너스타임에 1000번 가기"
+  },
+  {
+    "__pkey": "203200",
+    "BriefDescription": "[오르락내리락 오르락내리락]\n보너스타임에 50번 가기"
+  },
+  {
+    "__pkey": "203201",
+    "BriefDescription": "[오르락내리락 오르락내리락]\n보너스타임에 100번 가기"
+  },
+  {
+    "__pkey": "203202",
+    "BriefDescription": "[오르락내리락 오르락내리락]\n보너스타임에 200번 가기"
+  },
+  {
+    "__pkey": "203203",
+    "BriefDescription": "[오르락내리락 오르락내리락]\n보너스타임에 300번 가기"
+  },
+  {
+    "__pkey": "203204",
+    "BriefDescription": "[오르락내리락 오르락내리락]\n보너스타임에 400번 가기"
+  },
+  {
+    "__pkey": "203205",
+    "BriefDescription": "[오르락내리락 오르락내리락]\n보너스타임에 500번 가기"
+  },
+  {
+    "__pkey": "203206",
+    "BriefDescription": "[하늘에서 하늘하늘하늘]\n보너스타임에 10000초 동안 있기"
+  },
+  {
+    "__pkey": "203300",
+    "BriefDescription": "[하늘에서 하늘하늘하늘]\n보너스타임에 500초 동안 있기"
+  },
+  {
+    "__pkey": "203301",
+    "BriefDescription": "[하늘에서 하늘하늘하늘]\n보너스타임에 1000초 동안 있기"
+  },
+  {
+    "__pkey": "203302",
+    "BriefDescription": "[하늘에서 하늘하늘하늘]\n보너스타임에 2000초 동안 있기"
+  },
+  {
+    "__pkey": "203303",
+    "BriefDescription": "[하늘에서 하늘하늘하늘]\n보너스타임에 3000초 동안 있기"
+  },
+  {
+    "__pkey": "203304",
+    "BriefDescription": "[하늘에서 하늘하늘하늘]\n보너스타임에 4000초 동안 있기"
+  },
+  {
+    "__pkey": "203305",
+    "BriefDescription": "[하늘에서 하늘하늘하늘]\n보너스타임에 5000초 동안 있기"
+  },
+  {
+    "__pkey": "203306",
+    "BriefDescription": "[한계를 모르는 쿠키]\n100000초 동안 달리기"
+  },
+  {
+    "__pkey": "203400",
+    "BriefDescription": "[한계를 모르는 쿠키]\n5000초 동안 달리기"
+  },
+  {
+    "__pkey": "203401",
+    "BriefDescription": "[한계를 모르는 쿠키]\n10000초 동안 달리기"
+  },
+  {
+    "__pkey": "203402",
+    "BriefDescription": "[한계를 모르는 쿠키]\n20000초 동안 달리기"
+  },
+  {
+    "__pkey": "203403",
+    "BriefDescription": "[한계를 모르는 쿠키]\n30000초 동안 달리기"
+  },
+  {
+    "__pkey": "203404",
+    "BriefDescription": "[한계를 모르는 쿠키]\n40000초 동안 달리기"
+  },
+  {
+    "__pkey": "203405",
+    "BriefDescription": "[한계를 모르는 쿠키]\n50000초 동안 달리기"
+  },
+  {
+    "__pkey": "203406",
+    "BriefDescription": "[더 많이 먹고 힘내!]\n거대생명물약 1000개 먹기"
+  },
+  {
+    "__pkey": "203500",
+    "BriefDescription": "[더 많이 먹고 힘내!]\n거대생명물약 50개 먹기"
+  },
+  {
+    "__pkey": "203501",
+    "BriefDescription": "[더 많이 먹고 힘내!]\n거대생명물약 100개 먹기"
+  },
+  {
+    "__pkey": "203502",
+    "BriefDescription": "[더 많이 먹고 힘내!]\n거대생명물약 200개 먹기"
+  },
+  {
+    "__pkey": "203503",
+    "BriefDescription": "[더 많이 먹고 힘내!]\n거대생명물약 300개 먹기"
+  },
+  {
+    "__pkey": "203504",
+    "BriefDescription": "[더 많이 먹고 힘내!]\n거대생명물약 400개 먹기"
+  },
+  {
+    "__pkey": "203505",
+    "BriefDescription": "[더 많이 먹고 힘내!]\n거대생명물약 500개 먹기"
+  },
+  {
+    "__pkey": "203506",
+    "BriefDescription": "[죽음, 더 나를 막지 못 해]\n부활 1000번 하기"
+  },
+  {
+    "__pkey": "203600",
+    "BriefDescription": "[죽음, 더 나를 막지 못 해]\n부활 50번 하기"
+  },
+  {
+    "__pkey": "203601",
+    "BriefDescription": "[죽음, 더 나를 막지 못 해]\n부활 100번 하기"
+  },
+  {
+    "__pkey": "203602",
+    "BriefDescription": "[죽음, 더 나를 막지 못 해]\n부활 200번 하기"
+  },
+  {
+    "__pkey": "203603",
+    "BriefDescription": "[죽음, 더 나를 막지 못 해]\n부활 300번 하기"
+  },
+  {
+    "__pkey": "203604",
+    "BriefDescription": "[죽음, 더 나를 막지 못 해]\n부활 400번 하기"
+  },
+  {
+    "__pkey": "203605",
+    "BriefDescription": "[죽음, 더 나를 막지 못 해]\n부활 500번 하기"
+  },
+  {
+    "__pkey": "203606",
+    "BriefDescription": "[코인모아 태산]\n1000만 코인 획득하기"
+  },
+  {
+    "__pkey": "203700",
+    "BriefDescription": "[코인모아 태산]\n10만 코인 획득하기"
+  },
+  {
+    "__pkey": "203701",
+    "BriefDescription": "[코인모아 태산]\n20만 코인 획득하기"
+  },
+  {
+    "__pkey": "203702",
+    "BriefDescription": "[코인모아 태산]\n50만 코인 획득하기"
+  },
+  {
+    "__pkey": "203703",
+    "BriefDescription": "[코인모아 태산]\n100만 코인 획득하기"
+  },
+  {
+    "__pkey": "203704",
+    "BriefDescription": "[코인모아 태산]\n200만 코인 획득하기"
+  },
+  {
+    "__pkey": "203705",
+    "BriefDescription": "[코인모아 태산]\n500만 코인 획득하기"
+  },
+  {
+    "__pkey": "203706",
+    "BriefDescription": "[코인모아 태산]\n1500만 코인 획득하기"
+  },
+  {
+    "__pkey": "203708",
+    "BriefDescription": "[엄청 엄청난 점수다]\n점수 50억점 획득하기"
+  },
+  {
+    "__pkey": "203800",
+    "BriefDescription": "[엄청 엄청난 점수다]\n점수 1000만점 획득하기"
+  },
+  {
+    "__pkey": "203801",
+    "BriefDescription": "[엄청 엄청난 점수다]\n점수 5000만점 획득하기"
+  },
+  {
+    "__pkey": "203802",
+    "BriefDescription": "[엄청 엄청난 점수다]\n점수 1억점 획득하기"
+  },
+  {
+    "__pkey": "203803",
+    "BriefDescription": "[엄청 엄청난 점수다]\n점수 2억점 획득하기"
+  },
+  {
+    "__pkey": "203804",
+    "BriefDescription": "[엄청 엄청난 점수다]\n점수 5억점 획득하기"
+  },
+  {
+    "__pkey": "203805",
+    "BriefDescription": "[엄청 엄청난 점수다]\n점수 10억점 획득하기"
+  },
+  {
+    "__pkey": "203806",
+    "BriefDescription": "[엄청 엄청난 점수다]\n점수 20억점 획득하기"
+  },
+  {
+    "__pkey": "203807",
+    "BriefDescription": "[엄청 엄청난 점수다]\n점수 100억점 획득하기"
+  },
+  {
+    "__pkey": "203809",
+    "BriefDescription": "[연륜이 느껴져]\n경험치 1000000 획득하기"
+  },
+  {
+    "__pkey": "203900",
+    "BriefDescription": "[연륜이 느껴져]\n경험치 10000 획득하기"
+  },
+  {
+    "__pkey": "203901",
+    "BriefDescription": "[연륜이 느껴져]\n경험치 20000 획득하기"
+  },
+  {
+    "__pkey": "203902",
+    "BriefDescription": "[연륜이 느껴져]\n경험치 40000 획득하기"
+  },
+  {
+    "__pkey": "203903",
+    "BriefDescription": "[연륜이 느껴져]\n경험치 80000 획득하기"
+  },
+  {
+    "__pkey": "203904",
+    "BriefDescription": "[연륜이 느껴져]\n경험치 150000 획득하기"
+  },
+  {
+    "__pkey": "203905",
+    "BriefDescription": "[연륜이 느껴져]\n경험치 300000 획득하기"
+  },
+  {
+    "__pkey": "203906",
+    "BriefDescription": "[연륜이 느껴져]\n경험치 1500000 획득하기"
+  },
+  {
+    "__pkey": "203908",
+    "BriefDescription": "[보물 뽑기왕]\n보물 뽑기 20번 하기"
+  },
+  {
+    "__pkey": "204",
+    "BriefDescription": "[보물 뽑기왕]\n보물 뽑기 30번 하기"
+  },
+  {
+    "__pkey": "205",
+    "BriefDescription": "[보물 뽑기왕]\n보물 뽑기 40번 하기"
+  },
+  {
+    "__pkey": "206",
+    "BriefDescription": "[보물 뽑기왕]\n보물 뽑기 50번 하기"
+  },
+  {
+    "__pkey": "207",
+    "BriefDescription": "[보물 뽑기왕]\n보물 뽑기 60번 하기"
+  },
+  {
+    "__pkey": "208",
+    "BriefDescription": "[보물 뽑기왕]\n보물 뽑기 80번 하기"
+  },
+  {
+    "__pkey": "209",
+    "BriefDescription": "[전설의 강화왕]\n강화 100번 성공하기"
+  },
+  {
+    "__pkey": "300",
+    "BriefDescription": "잠금해제조건 : 에피소드 2 '원시림' 의 \n에피소드 업적 60개 달성하기 (공통업적 제외)"
+  },
+  {
+    "__pkey": "300000",
+    "BriefDescription": "[점프왕]\n점프 5000번 하기"
+  },
+  {
+    "__pkey": "300100",
+    "BriefDescription": "[점프왕]\n점프 100번 하기"
+  },
+  {
+    "__pkey": "300101",
+    "BriefDescription": "[점프왕]\n점프 200번 하기"
+  },
+  {
+    "__pkey": "300102",
+    "BriefDescription": "[점프왕]\n점프 500번 하기"
+  },
+  {
+    "__pkey": "300103",
+    "BriefDescription": "[점프왕]\n점프 1000번 하기"
+  },
+  {
+    "__pkey": "300104",
+    "BriefDescription": "[점프왕]\n점프 1500번 하기"
+  },
+  {
+    "__pkey": "300105",
+    "BriefDescription": "[점프왕]\n점프 2000번 하기"
+  },
+  {
+    "__pkey": "300106",
+    "BriefDescription": "[점프왕]\n점프 2500번 하기"
+  },
+  {
+    "__pkey": "300107",
+    "BriefDescription": "[점프왕]\n점프 3000번 하기"
+  },
+  {
+    "__pkey": "300108",
+    "BriefDescription": "[점프왕]\n점프 4000번 하기"
+  },
+  {
+    "__pkey": "300109",
+    "BriefDescription": "[쩜프왕]\n2단 점프 5000번 하기"
+  },
+  {
+    "__pkey": "300200",
+    "BriefDescription": "[쩜프왕]\n2단 점프 100번 하기"
+  },
+  {
+    "__pkey": "300201",
+    "BriefDescription": "[쩜프왕]\n2단 점프 200번 하기"
+  },
+  {
+    "__pkey": "300202",
+    "BriefDescription": "[쩜프왕]\n2단 점프 500번 하기"
+  },
+  {
+    "__pkey": "300203",
+    "BriefDescription": "[쩜프왕]\n2단 점프 1000번 하기"
+  },
+  {
+    "__pkey": "300204",
+    "BriefDescription": "[쩜프왕]\n2단 점프 1500번 하기"
+  },
+  {
+    "__pkey": "300205",
+    "BriefDescription": "[쩜프왕]\n2단 점프 2000번 하기"
+  },
+  {
+    "__pkey": "300206",
+    "BriefDescription": "[쩜프왕]\n2단 점프 2500번 하기"
+  },
+  {
+    "__pkey": "300207",
+    "BriefDescription": "[쩜프왕]\n2단 점프 3000번 하기"
+  },
+  {
+    "__pkey": "300208",
+    "BriefDescription": "[쩜프왕]\n2단 점프 4000번 하기"
+  },
+  {
+    "__pkey": "300209",
+    "BriefDescription": "[자는거 아니죠?]\n슬라이드 500초 동안 하기"
+  },
+  {
+    "__pkey": "300300",
+    "BriefDescription": "[자는거 아니죠?]\n슬라이드 25초 동안 하기"
+  },
+  {
+    "__pkey": "300301",
+    "BriefDescription": "[자는거 아니죠?]\n슬라이드 50초 동안 하기"
+  },
+  {
+    "__pkey": "300302",
+    "BriefDescription": "[자는거 아니죠?]\n슬라이드 100초 동안 하기"
+  },
+  {
+    "__pkey": "300303",
+    "BriefDescription": "[자는거 아니죠?]\n슬라이드 150초 동안 하기"
+  },
+  {
+    "__pkey": "300304",
+    "BriefDescription": "[자는거 아니죠?]\n슬라이드 200초 동안 하기"
+  },
+  {
+    "__pkey": "300305",
+    "BriefDescription": "[자는거 아니죠?]\n슬라이드 250초 동안 하기"
+  },
+  {
+    "__pkey": "300306",
+    "BriefDescription": "[자는거 아니죠?]\n슬라이드 300초 동안 하기"
+  },
+  {
+    "__pkey": "300307",
+    "BriefDescription": "[자는거 아니죠?]\n슬라이드 350초 동안 하기"
+  },
+  {
+    "__pkey": "300308",
+    "BriefDescription": "[자는거 아니죠?]\n슬라이드 400초 동안 하기"
+  },
+  {
+    "__pkey": "300309",
+    "BriefDescription": "[젤리젤리냠냠]\n젤리 50000개 먹기"
+  },
+  {
+    "__pkey": "300400",
+    "BriefDescription": "[젤리젤리냠냠]\n젤리 1000개 먹기"
+  },
+  {
+    "__pkey": "300401",
+    "BriefDescription": "[젤리젤리냠냠]\n젤리 2000개 먹기"
+  },
+  {
+    "__pkey": "300402",
+    "BriefDescription": "[젤리젤리냠냠]\n젤리 5000개 먹기"
+  },
+  {
+    "__pkey": "300403",
+    "BriefDescription": "[젤리젤리냠냠]\n젤리 10000개 먹기"
+  },
+  {
+    "__pkey": "300404",
+    "BriefDescription": "[젤리젤리냠냠]\n젤리 15000개 먹기"
+  },
+  {
+    "__pkey": "300405",
+    "BriefDescription": "[젤리젤리냠냠]\n젤리 20000개 먹기"
+  },
+  {
+    "__pkey": "300406",
+    "BriefDescription": "[젤리젤리냠냠]\n젤리 25000개 먹기"
+  },
+  {
+    "__pkey": "300407",
+    "BriefDescription": "[젤리젤리냠냠]\n젤리 30000개 먹기"
+  },
+  {
+    "__pkey": "300408",
+    "BriefDescription": "[젤리젤리냠냠]\n젤리 40000개 먹기"
+  },
+  {
+    "__pkey": "300409",
+    "BriefDescription": "[노란곰젤리냠냠]\n노란곰젤리 25000개 먹기"
+  },
+  {
+    "__pkey": "300500",
+    "BriefDescription": "[노란곰젤리냠냠]\n노란곰젤리 500개 먹기"
+  },
+  {
+    "__pkey": "300501",
+    "BriefDescription": "[노란곰젤리냠냠]\n노란곰젤리 1000개 먹기"
+  },
+  {
+    "__pkey": "300502",
+    "BriefDescription": "[노란곰젤리냠냠]\n노란곰젤리 2000개 먹기"
+  },
+  {
+    "__pkey": "300503",
+    "BriefDescription": "[노란곰젤리냠냠]\n노란곰젤리 3000개 먹기"
+  },
+  {
+    "__pkey": "300504",
+    "BriefDescription": "[노란곰젤리냠냠]\n노란곰젤리 4000개 먹기"
+  },
+  {
+    "__pkey": "300505",
+    "BriefDescription": "[노란곰젤리냠냠]\n노란곰젤리 8000개 먹기"
+  },
+  {
+    "__pkey": "300506",
+    "BriefDescription": "[노란곰젤리냠냠]\n노란곰젤리 12000개 먹기"
+  },
+  {
+    "__pkey": "300507",
+    "BriefDescription": "[노란곰젤리냠냠]\n노란곰젤리 16000개 먹기"
+  },
+  {
+    "__pkey": "300508",
+    "BriefDescription": "[노란곰젤리냠냠]\n노란곰젤리 20000개 먹기"
+  },
+  {
+    "__pkey": "300509",
+    "BriefDescription": "[분홍곰젤리냠냠]\n분홍곰젤리 10000개 먹기"
+  },
+  {
+    "__pkey": "300600",
+    "BriefDescription": "[분홍곰젤리냠냠]\n분홍곰젤리 500개 먹기"
+  },
+  {
+    "__pkey": "300601",
+    "BriefDescription": "[분홍곰젤리냠냠]\n분홍곰젤리 1000개 먹기"
+  },
+  {
+    "__pkey": "300602",
+    "BriefDescription": "[분홍곰젤리냠냠]\n분홍곰젤리 1500개 먹기"
+  },
+  {
+    "__pkey": "300603",
+    "BriefDescription": "[분홍곰젤리냠냠]\n분홍곰젤리 2000개 먹기"
+  },
+  {
+    "__pkey": "300604",
+    "BriefDescription": "[분홍곰젤리냠냠]\n분홍곰젤리 2500개 먹기"
+  },
+  {
+    "__pkey": "300605",
+    "BriefDescription": "[분홍곰젤리냠냠]\n분홍곰젤리 3000개 먹기"
+  },
+  {
+    "__pkey": "300606",
+    "BriefDescription": "[분홍곰젤리냠냠]\n분홍곰젤리 5000개 먹기"
+  },
+  {
+    "__pkey": "300607",
+    "BriefDescription": "[분홍곰젤리냠냠]\n분홍곰젤리 6000개 먹기"
+  },
+  {
+    "__pkey": "300608",
+    "BriefDescription": "[분홍곰젤리냠냠]\n분홍곰젤리 8000개 먹기"
+  },
+  {
+    "__pkey": "300609",
+    "BriefDescription": "[이 구역의 대식가]\n왕곰젤리 500개 먹기"
+  },
+  {
+    "__pkey": "300700",
+    "BriefDescription": "[이 구역의 대식가]\n왕곰젤리 10개 먹기"
+  },
+  {
+    "__pkey": "300701",
+    "BriefDescription": "[이 구역의 대식가]\n왕곰젤리 30개 먹기"
+  },
+  {
+    "__pkey": "300702",
+    "BriefDescription": "[이 구역의 대식가]\n왕곰젤리 50개 먹기"
+  },
+  {
+    "__pkey": "300703",
+    "BriefDescription": "[이 구역의 대식가]\n왕곰젤리 70개 먹기"
+  },
+  {
+    "__pkey": "300704",
+    "BriefDescription": "[이 구역의 대식가]\n왕곰젤리 100개 먹기"
+  },
+  {
+    "__pkey": "300705",
+    "BriefDescription": "[이 구역의 대식가]\n왕곰젤리 150개 먹기"
+  },
+  {
+    "__pkey": "300706",
+    "BriefDescription": "[이 구역의 대식가]\n왕곰젤리 200개 먹기"
+  },
+  {
+    "__pkey": "300707",
+    "BriefDescription": "[이 구역의 대식가]\n왕곰젤리 300개 먹기"
+  },
+  {
+    "__pkey": "300708",
+    "BriefDescription": "[이 구역의 대식가]\n왕곰젤리 400개 먹기"
+  },
+  {
+    "__pkey": "300709",
+    "BriefDescription": "[장애물 파괴자]\n장애물 5000개 파괴하기"
+  },
+  {
+    "__pkey": "300800",
+    "BriefDescription": "[장애물 파괴자]\n장애물 100개 파괴하기"
+  },
+  {
+    "__pkey": "300801",
+    "BriefDescription": "[장애물 파괴자]\n장애물 200개 파괴하기"
+  },
+  {
+    "__pkey": "300802",
+    "BriefDescription": "[장애물 파괴자]\n장애물 400개 파괴하기"
+  },
+  {
+    "__pkey": "300803",
+    "BriefDescription": "[장애물 파괴자]\n장애물 700개 파괴하기"
+  },
+  {
+    "__pkey": "300804",
+    "BriefDescription": "[장애물 파괴자]\n장애물 1000개 파괴하기"
+  },
+  {
+    "__pkey": "300805",
+    "BriefDescription": "[장애물 파괴자]\n장애물 1500개 파괴하기"
+  },
+  {
+    "__pkey": "300806",
+    "BriefDescription": "[장애물 파괴자]\n장애물 2000개 파괴하기"
+  },
+  {
+    "__pkey": "300807",
+    "BriefDescription": "[장애물 파괴자]\n장애물 3000개 파괴하기"
+  },
+  {
+    "__pkey": "300808",
+    "BriefDescription": "[장애물 파괴자]\n장애물 4000개 파괴하기"
+  },
+  {
+    "__pkey": "300809",
+    "BriefDescription": "[존재감 제로]\n장애물 5000개 통과하기"
+  },
+  {
+    "__pkey": "300900",
+    "BriefDescription": "[존재감 제로]\n장애물 100개 통과하기"
+  },
+  {
+    "__pkey": "300901",
+    "BriefDescription": "[존재감 제로]\n장애물 200개 통과하기"
+  },
+  {
+    "__pkey": "300902",
+    "BriefDescription": "[존재감 제로]\n장애물 400개 통과하기"
+  },
+  {
+    "__pkey": "300903",
+    "BriefDescription": "[존재감 제로]\n장애물 700개 통과하기"
+  },
+  {
+    "__pkey": "300904",
+    "BriefDescription": "[존재감 제로]\n장애물 1000개 통과하기"
+  },
+  {
+    "__pkey": "300905",
+    "BriefDescription": "[존재감 제로]\n장애물 1500개 통과하기"
+  },
+  {
+    "__pkey": "300906",
+    "BriefDescription": "[존재감 제로]\n장애물 2000개 통과하기"
+  },
+  {
+    "__pkey": "300907",
+    "BriefDescription": "[존재감 제로]\n장애물 3000개 통과하기"
+  },
+  {
+    "__pkey": "300908",
+    "BriefDescription": "[존재감 제로]\n장애물 4000개 통과하기"
+  },
+  {
+    "__pkey": "300909",
+    "BriefDescription": "[전설의 강화왕]\n강화 5번 성공하기"
+  },
+  {
+    "__pkey": "301",
+    "BriefDescription": "[아프니까 쿠키다]\n장애물에 60번 부딪히기"
+  },
+  {
+    "__pkey": "301000",
+    "BriefDescription": "[아프니까 쿠키다]\n장애물에 2번 부딪히기"
+  },
+  {
+    "__pkey": "301001",
+    "BriefDescription": "[아프니까 쿠키다]\n장애물에 4번 부딪히기"
+  },
+  {
+    "__pkey": "301002",
+    "BriefDescription": "[아프니까 쿠키다]\n장애물에 7번 부딪히기"
+  },
+  {
+    "__pkey": "301003",
+    "BriefDescription": "[아프니까 쿠키다]\n장애물에 10번 부딪히기"
+  },
+  {
+    "__pkey": "301004",
+    "BriefDescription": "[아프니까 쿠키다]\n장애물에 15번 부딪히기"
+  },
+  {
+    "__pkey": "301005",
+    "BriefDescription": "[아프니까 쿠키다]\n장애물에 20번 부딪히기"
+  },
+  {
+    "__pkey": "301006",
+    "BriefDescription": "[아프니까 쿠키다]\n장애물에 30번 부딪히기"
+  },
+  {
+    "__pkey": "301007",
+    "BriefDescription": "[아프니까 쿠키다]\n장애물에 40번 부딪히기"
+  },
+  {
+    "__pkey": "301008",
+    "BriefDescription": "[아프니까 쿠키다]\n장애물에 50번 부딪히기"
+  },
+  {
+    "__pkey": "301009",
+    "BriefDescription": "[번지왕]\n구멍에 50번 빠지기"
+  },
+  {
+    "__pkey": "301100",
+    "BriefDescription": "[번지왕]\n구멍에 3번 빠지기"
+  },
+  {
+    "__pkey": "301101",
+    "BriefDescription": "[번지왕]\n구멍에 6번 빠지기"
+  },
+  {
+    "__pkey": "301102",
+    "BriefDescription": "[번지왕]\n구멍에 10번 빠지기"
+  },
+  {
+    "__pkey": "301103",
+    "BriefDescription": "[번지왕]\n구멍에 15번 빠지기"
+  },
+  {
+    "__pkey": "301104",
+    "BriefDescription": "[번지왕]\n구멍에 20번 빠지기"
+  },
+  {
+    "__pkey": "301105",
+    "BriefDescription": "[번지왕]\n구멍에 25번 빠지기"
+  },
+  {
+    "__pkey": "301106",
+    "BriefDescription": "[번지왕]\n구멍에 30번 빠지기"
+  },
+  {
+    "__pkey": "301107",
+    "BriefDescription": "[번지왕]\n구멍에 35번 빠지기"
+  },
+  {
+    "__pkey": "301108",
+    "BriefDescription": "[번지왕]\n구멍에 40번 빠지기"
+  },
+  {
+    "__pkey": "301109",
+    "BriefDescription": "[오르락내리락]\n보너스타임에 50번 가기"
+  },
+  {
+    "__pkey": "301200",
+    "BriefDescription": "[오르락내리락]\n보너스타임에 3번 가기"
+  },
+  {
+    "__pkey": "301201",
+    "BriefDescription": "[오르락내리락]\n보너스타임에 6번 가기"
+  },
+  {
+    "__pkey": "301202",
+    "BriefDescription": "[오르락내리락]\n보너스타임에 10번 가기"
+  },
+  {
+    "__pkey": "301203",
+    "BriefDescription": "[오르락내리락]\n보너스타임에 15번 가기"
+  },
+  {
+    "__pkey": "301204",
+    "BriefDescription": "[오르락내리락]\n보너스타임에 20번 가기"
+  },
+  {
+    "__pkey": "301205",
+    "BriefDescription": "[오르락내리락]\n보너스타임에 25번 가기"
+  },
+  {
+    "__pkey": "301206",
+    "BriefDescription": "[오르락내리락]\n보너스타임에 30번 가기"
+  },
+  {
+    "__pkey": "301207",
+    "BriefDescription": "[오르락내리락]\n보너스타임에 35번 가기"
+  },
+  {
+    "__pkey": "301208",
+    "BriefDescription": "[오르락내리락]\n보너스타임에 40번 가기"
+  },
+  {
+    "__pkey": "301209",
+    "BriefDescription": "[하늘에서 하늘하늘]\n보너스타임에 500초 동안 있기"
+  },
+  {
+    "__pkey": "301300",
+    "BriefDescription": "[하늘에서 하늘하늘]\n보너스타임에 25초 동안 있기"
+  },
+  {
+    "__pkey": "301301",
+    "BriefDescription": "[하늘에서 하늘하늘]\n보너스타임에 50초 동안 있기"
+  },
+  {
+    "__pkey": "301302",
+    "BriefDescription": "[하늘에서 하늘하늘]\n보너스타임에 100초 동안 있기"
+  },
+  {
+    "__pkey": "301303",
+    "BriefDescription": "[하늘에서 하늘하늘]\n보너스타임에 150초 동안 있기"
+  },
+  {
+    "__pkey": "301304",
+    "BriefDescription": "[하늘에서 하늘하늘]\n보너스타임에 200초 동안 있기"
+  },
+  {
+    "__pkey": "301305",
+    "BriefDescription": "[하늘에서 하늘하늘]\n보너스타임에 250초 동안 있기"
+  },
+  {
+    "__pkey": "301306",
+    "BriefDescription": "[하늘에서 하늘하늘]\n보너스타임에 300초 동안 있기"
+  },
+  {
+    "__pkey": "301307",
+    "BriefDescription": "[하늘에서 하늘하늘]\n보너스타임에 350초 동안 있기"
+  },
+  {
+    "__pkey": "301308",
+    "BriefDescription": "[하늘에서 하늘하늘]\n보너스타임에 400초 동안 있기"
+  },
+  {
+    "__pkey": "301309",
+    "BriefDescription": "[포기를 모르는 쿠키]\n1000초 동안 달리기"
+  },
+  {
+    "__pkey": "301400",
+    "BriefDescription": "[포기를 모르는 쿠키]\n30초 동안 달리기"
+  },
+  {
+    "__pkey": "301401",
+    "BriefDescription": "[포기를 모르는 쿠키]\n60초 동안 달리기"
+  },
+  {
+    "__pkey": "301402",
+    "BriefDescription": "[포기를 모르는 쿠키]\n100초 동안 달리기"
+  },
+  {
+    "__pkey": "301403",
+    "BriefDescription": "[포기를 모르는 쿠키]\n200초 동안 달리기"
+  },
+  {
+    "__pkey": "301404",
+    "BriefDescription": "[포기를 모르는 쿠키]\n300초 동안 달리기"
+  },
+  {
+    "__pkey": "301405",
+    "BriefDescription": "[포기를 모르는 쿠키]\n400초 동안 달리기"
+  },
+  {
+    "__pkey": "301406",
+    "BriefDescription": "[포기를 모르는 쿠키]\n500초 동안 달리기"
+  },
+  {
+    "__pkey": "301407",
+    "BriefDescription": "[포기를 모르는 쿠키]\n600초 동안 달리기"
+  },
+  {
+    "__pkey": "301408",
+    "BriefDescription": "[포기를 모르는 쿠키]\n800초 동안 달리기"
+  },
+  {
+    "__pkey": "301409",
+    "BriefDescription": "[많이 먹고 힘내!]\n거대생명물약 10개 먹기"
+  },
+  {
+    "__pkey": "301500",
+    "BriefDescription": "[많이 먹고 힘내!]\n거대생명물약 5개 먹기"
+  },
+  {
+    "__pkey": "301501",
+    "BriefDescription": "[많이 먹고 힘내!]\n거대생명물약 6개 먹기"
+  },
+  {
+    "__pkey": "301502",
+    "BriefDescription": "[많이 먹고 힘내!]\n거대생명물약 7개 먹기"
+  },
+  {
+    "__pkey": "301503",
+    "BriefDescription": "[많이 먹고 힘내!]\n거대생명물약 8개 먹기"
+  },
+  {
+    "__pkey": "301504",
+    "BriefDescription": "[많이 먹고 힘내!]\n거대생명물약 9개 먹기"
+  },
+  {
+    "__pkey": "301505",
+    "BriefDescription": "[죽음도 나를 막지 못 해]\n부활 22번 하기"
+  },
+  {
+    "__pkey": "301600",
+    "BriefDescription": "[죽음도 나를 막지 못 해]\n부활 3번 하기"
+  },
+  {
+    "__pkey": "301601",
+    "BriefDescription": "[죽음도 나를 막지 못 해]\n부활 6번 하기"
+  },
+  {
+    "__pkey": "301602",
+    "BriefDescription": "[죽음도 나를 막지 못 해]\n부활 9번 하기"
+  },
+  {
+    "__pkey": "301603",
+    "BriefDescription": "[죽음도 나를 막지 못 해]\n부활 12번 하기"
+  },
+  {
+    "__pkey": "301604",
+    "BriefDescription": "[죽음도 나를 막지 못 해]\n부활 15번 하기"
+  },
+  {
+    "__pkey": "301605",
+    "BriefDescription": "[죽음도 나를 막지 못 해]\n부활 18번 하기"
+  },
+  {
+    "__pkey": "301606",
+    "BriefDescription": "[죽음도 나를 막지 못 해]\n부활 20번 하기"
+  },
+  {
+    "__pkey": "301607",
+    "BriefDescription": "[코인 마니아]\n50000코인 획득하기"
+  },
+  {
+    "__pkey": "301700",
+    "BriefDescription": "[코인 마니아]\n2000코인 획득하기"
+  },
+  {
+    "__pkey": "301701",
+    "BriefDescription": "[코인 마니아]\n4000코인 획득하기"
+  },
+  {
+    "__pkey": "301702",
+    "BriefDescription": "[코인 마니아]\n6000코인 획득하기"
+  },
+  {
+    "__pkey": "301703",
+    "BriefDescription": "[코인 마니아]\n8000코인 획득하기"
+  },
+  {
+    "__pkey": "301704",
+    "BriefDescription": "[코인 마니아]\n10000코인 획득하기"
+  },
+  {
+    "__pkey": "301705",
+    "BriefDescription": "[코인 마니아]\n15000코인 획득하기"
+  },
+  {
+    "__pkey": "301706",
+    "BriefDescription": "[코인 마니아]\n20000코인 획득하기"
+  },
+  {
+    "__pkey": "301707",
+    "BriefDescription": "[코인 마니아]\n30000코인 획득하기"
+  },
+  {
+    "__pkey": "301708",
+    "BriefDescription": "[코인 마니아]\n40000코인 획득하기"
+  },
+  {
+    "__pkey": "301709",
+    "BriefDescription": "[엄청난 점수다]\n점수 1억점 획득하기"
+  },
+  {
+    "__pkey": "301800",
+    "BriefDescription": "[엄청난 점수다]\n점수 100만점 획득하기"
+  },
+  {
+    "__pkey": "301801",
+    "BriefDescription": "[엄청난 점수다]\n점수 300만점 획득하기"
+  },
+  {
+    "__pkey": "301802",
+    "BriefDescription": "[엄청난 점수다]\n점수 500만점 획득하기"
+  },
+  {
+    "__pkey": "301803",
+    "BriefDescription": "[엄청난 점수다]\n점수 1000만점 획득하기"
+  },
+  {
+    "__pkey": "301804",
+    "BriefDescription": "[엄청난 점수다]\n점수 1500만점 획득하기"
+  },
+  {
+    "__pkey": "301805",
+    "BriefDescription": "[엄청난 점수다]\n점수 2000만점 획득하기"
+  },
+  {
+    "__pkey": "301806",
+    "BriefDescription": "[엄청난 점수다]\n점수 3000만점 획득하기"
+  },
+  {
+    "__pkey": "301807",
+    "BriefDescription": "[엄청난 점수다]\n점수 4000만점 획득하기"
+  },
+  {
+    "__pkey": "301808",
+    "BriefDescription": "[엄청난 점수다]\n점수 5000만점 획득하기"
+  },
+  {
+    "__pkey": "301809",
+    "BriefDescription": "[엄청난 점수다]\n점수 6000만점 획득하기"
+  },
+  {
+    "__pkey": "301810",
+    "BriefDescription": "[엄청난 점수다]\n점수 7000만점 획득하기"
+  },
+  {
+    "__pkey": "301811",
+    "BriefDescription": "[엄청난 점수다]\n점수 8000만점 획득하기"
+  },
+  {
+    "__pkey": "301812",
+    "BriefDescription": "[엄청난 점수다]\n점수 9000만점 획득하기"
+  },
+  {
+    "__pkey": "301813",
+    "BriefDescription": "[좋은 경험이었다]\n경험치 20000 획득하기"
+  },
+  {
+    "__pkey": "301900",
+    "BriefDescription": "[좋은 경험이었다]\n경험치 1000 획득하기"
+  },
+  {
+    "__pkey": "301901",
+    "BriefDescription": "[좋은 경험이었다]\n경험치 2000 획득하기"
+  },
+  {
+    "__pkey": "301902",
+    "BriefDescription": "[좋은 경험이었다]\n경험치 4000 획득하기"
+  },
+  {
+    "__pkey": "301903",
+    "BriefDescription": "[좋은 경험이었다]\n경험치 8000 획득하기"
+  },
+  {
+    "__pkey": "301904",
+    "BriefDescription": "[좋은 경험이었다]\n경험치 12000 획득하기"
+  },
+  {
+    "__pkey": "301905",
+    "BriefDescription": "[좋은 경험이었다]\n경험치 16000 획득하기"
+  },
+  {
+    "__pkey": "301906",
+    "BriefDescription": "[전설의 강화왕]\n강화 10번 성공하기"
+  },
+  {
+    "__pkey": "302",
+    "BriefDescription": "[탐험을 떠나볼까]\n8번째 스테이지 가기"
+  },
+  {
+    "__pkey": "302000",
+    "BriefDescription": "[탐험을 떠나볼까]\n2번째 스테이지 가기"
+  },
+  {
+    "__pkey": "302001",
+    "BriefDescription": "[탐험을 떠나볼까]\n3번째 스테이지 가기"
+  },
+  {
+    "__pkey": "302002",
+    "BriefDescription": "[탐험을 떠나볼까]\n4번째 스테이지 가기"
+  },
+  {
+    "__pkey": "302003",
+    "BriefDescription": "[탐험을 떠나볼까]\n5번째 스테이지 가기"
+  },
+  {
+    "__pkey": "302004",
+    "BriefDescription": "[탐험을 떠나볼까]\n6번째 스테이지 가기"
+  },
+  {
+    "__pkey": "302005",
+    "BriefDescription": "[탐험을 떠나볼까]\n7번째 스테이지 가기"
+  },
+  {
+    "__pkey": "302006",
+    "BriefDescription": "[점프킹]\n점프 100000번 하기"
+  },
+  {
+    "__pkey": "302100",
+    "BriefDescription": "[점프킹]\n점프 1,000번 하기"
+  },
+  {
+    "__pkey": "302101",
+    "BriefDescription": "[점프킹]\n점프 5000번 하기"
+  },
+  {
+    "__pkey": "302102",
+    "BriefDescription": "[점프킹]\n점프 10000번 하기"
+  },
+  {
+    "__pkey": "302103",
+    "BriefDescription": "[점프킹]\n점프 20000번 하기"
+  },
+  {
+    "__pkey": "302104",
+    "BriefDescription": "[점프킹]\n점프 40000번 하기"
+  },
+  {
+    "__pkey": "302105",
+    "BriefDescription": "[점프킹]\n점프 50000번 하기"
+  },
+  {
+    "__pkey": "302106",
+    "BriefDescription": "[쩜프킹]\n2단 점프 100000번 하기"
+  },
+  {
+    "__pkey": "302200",
+    "BriefDescription": "[쩜프킹]\n2단 점프 1000번 하기"
+  },
+  {
+    "__pkey": "302201",
+    "BriefDescription": "[쩜프킹]\n2단 점프 5000번 하기"
+  },
+  {
+    "__pkey": "302202",
+    "BriefDescription": "[쩜프킹]\n2단 점프 10000번 하기"
+  },
+  {
+    "__pkey": "302203",
+    "BriefDescription": "[쩜프킹]\n2단 점프 20000번 하기"
+  },
+  {
+    "__pkey": "302204",
+    "BriefDescription": "[쩜프킹]\n2단 점프 40000번 하기"
+  },
+  {
+    "__pkey": "302205",
+    "BriefDescription": "[쩜프킹]\n2단 점프 50000번 하기"
+  },
+  {
+    "__pkey": "302206",
+    "BriefDescription": "[계속 자는거 아니죠?]\n슬라이드 10000초 동안 하기"
+  },
+  {
+    "__pkey": "302300",
+    "BriefDescription": "[계속 자는거 아니죠?]\n슬라이드 500초 동안 하기"
+  },
+  {
+    "__pkey": "302301",
+    "BriefDescription": "[계속 자는거 아니죠?]\n슬라이드 1000초 동안 하기"
+  },
+  {
+    "__pkey": "302302",
+    "BriefDescription": "[계속 자는거 아니죠?]\n슬라이드 2000초 동안 하기"
+  },
+  {
+    "__pkey": "302303",
+    "BriefDescription": "[계속 자는거 아니죠?]\n슬라이드 4000초 동안 하기"
+  },
+  {
+    "__pkey": "302304",
+    "BriefDescription": "[계속 자는거 아니죠?]\n슬라이드 5000초 동안 하기"
+  },
+  {
+    "__pkey": "302305",
+    "BriefDescription": "[계속 자는거 아니죠?]\n슬라이드 6000초 동안 하기"
+  },
+  {
+    "__pkey": "302306",
+    "BriefDescription": "[계속 자는거 아니죠?]\n슬라이드 7000초 동안 하기"
+  },
+  {
+    "__pkey": "302307",
+    "BriefDescription": "[계속 자는거 아니죠?]\n슬라이드 8000초 동안 하기"
+  },
+  {
+    "__pkey": "302308",
+    "BriefDescription": "[계속 자는거 아니죠?]\n슬라이드 9000초 동안 하기"
+  },
+  {
+    "__pkey": "302309",
+    "BriefDescription": "[젤리젤리냠냠냠]\n젤리 1000000개 먹기"
+  },
+  {
+    "__pkey": "302400",
+    "BriefDescription": "[젤리젤리냠냠냠]\n젤리 50000개 먹기"
+  },
+  {
+    "__pkey": "302401",
+    "BriefDescription": "[젤리젤리냠냠냠]\n젤리 100000개 먹기"
+  },
+  {
+    "__pkey": "302402",
+    "BriefDescription": "[젤리젤리냠냠냠]\n젤리 200000개 먹기"
+  },
+  {
+    "__pkey": "302403",
+    "BriefDescription": "[젤리젤리냠냠냠]\n젤리 300000개 먹기"
+  },
+  {
+    "__pkey": "302404",
+    "BriefDescription": "[젤리젤리냠냠냠]\n젤리 400000개 먹기"
+  },
+  {
+    "__pkey": "302405",
+    "BriefDescription": "[젤리젤리냠냠냠]\n젤리 500000개 먹기"
+  },
+  {
+    "__pkey": "302406",
+    "BriefDescription": "[노란곰젤리냠냠냠]\n노란곰젤리 1000000개 먹기"
+  },
+  {
+    "__pkey": "302500",
+    "BriefDescription": "[노란곰젤리냠냠냠]\n노란곰젤리 50000개 먹기"
+  },
+  {
+    "__pkey": "302501",
+    "BriefDescription": "[노란곰젤리냠냠냠]\n노란곰젤리 100000개 먹기"
+  },
+  {
+    "__pkey": "302502",
+    "BriefDescription": "[노란곰젤리냠냠냠]\n노란곰젤리 200000개 먹기"
+  },
+  {
+    "__pkey": "302503",
+    "BriefDescription": "[노란곰젤리냠냠냠]\n노란곰젤리 300000개 먹기"
+  },
+  {
+    "__pkey": "302504",
+    "BriefDescription": "[노란곰젤리냠냠냠]\n노란곰젤리 400000개 먹기"
+  },
+  {
+    "__pkey": "302505",
+    "BriefDescription": "[노란곰젤리냠냠냠]\n노란곰젤리 500000개 먹기"
+  },
+  {
+    "__pkey": "302506",
+    "BriefDescription": "[분홍곰젤리냠냠냠]\n분홍곰젤리 1000000개 먹기"
+  },
+  {
+    "__pkey": "302600",
+    "BriefDescription": "[분홍곰젤리냠냠냠]\n분홍곰젤리 25000개 먹기"
+  },
+  {
+    "__pkey": "302601",
+    "BriefDescription": "[분홍곰젤리냠냠냠]\n분홍곰젤리 50000개 먹기"
+  },
+  {
+    "__pkey": "302602",
+    "BriefDescription": "[분홍곰젤리냠냠냠]\n분홍곰젤리 100000개 먹기"
+  },
+  {
+    "__pkey": "302603",
+    "BriefDescription": "[분홍곰젤리냠냠냠]\n분홍곰젤리 200000개 먹기"
+  },
+  {
+    "__pkey": "302604",
+    "BriefDescription": "[분홍곰젤리냠냠냠]\n분홍곰젤리 400000개 먹기"
+  },
+  {
+    "__pkey": "302605",
+    "BriefDescription": "[분홍곰젤리냠냠냠]\n분홍곰젤리 500000개 먹기"
+  },
+  {
+    "__pkey": "302606",
+    "BriefDescription": "[이 구역의 알아주는 대식가]\n왕곰젤리 10000개 먹기"
+  },
+  {
+    "__pkey": "302700",
+    "BriefDescription": "[이 구역의 알아주는 대식가]\n왕곰젤리 500개 먹기"
+  },
+  {
+    "__pkey": "302701",
+    "BriefDescription": "[이 구역의 알아주는 대식가]\n왕곰젤리 1000개 먹기"
+  },
+  {
+    "__pkey": "302702",
+    "BriefDescription": "[이 구역의 알아주는 대식가]\n왕곰젤리 2000개 먹기"
+  },
+  {
+    "__pkey": "302703",
+    "BriefDescription": "[이 구역의 알아주는 대식가]\n왕곰젤리 4000개 먹기"
+  },
+  {
+    "__pkey": "302704",
+    "BriefDescription": "[이 구역의 알아주는 대식가]\n왕곰젤리 5000개 먹기"
+  },
+  {
+    "__pkey": "302705",
+    "BriefDescription": "[이 구역의 알아주는 대식가]\n왕곰젤리 6000개 먹기"
+  },
+  {
+    "__pkey": "302706",
+    "BriefDescription": "[이 구역의 알아주는 대식가]\n왕곰젤리 7000개 먹기"
+  },
+  {
+    "__pkey": "302707",
+    "BriefDescription": "[이 구역의 알아주는 대식가]\n왕곰젤리 8000개 먹기"
+  },
+  {
+    "__pkey": "302708",
+    "BriefDescription": "[이 구역의 알아주는 대식가]\n왕곰젤리 9000개 먹기"
+  },
+  {
+    "__pkey": "302709",
+    "BriefDescription": "[장애물 파괴의 대가]\n장애물 100000개 파괴하기"
+  },
+  {
+    "__pkey": "302800",
+    "BriefDescription": "[장애물 파괴의 대가]\n장애물 1000개 파괴하기"
+  },
+  {
+    "__pkey": "302801",
+    "BriefDescription": "[장애물 파괴의 대가]\n장애물 5000개 파괴하기"
+  },
+  {
+    "__pkey": "302802",
+    "BriefDescription": "[장애물 파괴의 대가]\n장애물 10000개 파괴하기"
+  },
+  {
+    "__pkey": "302803",
+    "BriefDescription": "[장애물 파괴의 대가]\n장애물 20000개 파괴하기"
+  },
+  {
+    "__pkey": "302804",
+    "BriefDescription": "[장애물 파괴의 대가]\n장애물 40000개 파괴하기"
+  },
+  {
+    "__pkey": "302805",
+    "BriefDescription": "[장애물 파괴의 대가]\n장애물 50000개 파괴하기"
+  },
+  {
+    "__pkey": "302806",
+    "BriefDescription": "[존재감 마이너스]\n장애물 100000개 통과하기"
+  },
+  {
+    "__pkey": "302900",
+    "BriefDescription": "[존재감 마이너스]\n장애물 1000개 통과하기"
+  },
+  {
+    "__pkey": "302901",
+    "BriefDescription": "[존재감 마이너스]\n장애물 5000개 통과하기"
+  },
+  {
+    "__pkey": "302902",
+    "BriefDescription": "[존재감 마이너스]\n장애물 10000개 통과하기"
+  },
+  {
+    "__pkey": "302903",
+    "BriefDescription": "[존재감 마이너스]\n장애물 20000개 통과하기"
+  },
+  {
+    "__pkey": "302904",
+    "BriefDescription": "[존재감 마이너스]\n장애물 40000개 통과하기"
+  },
+  {
+    "__pkey": "302905",
+    "BriefDescription": "[존재감 마이너스]\n장애물 60000개 통과하기"
+  },
+  {
+    "__pkey": "302906",
+    "BriefDescription": "[전설의 강화왕]\n강화 15번 성공하기"
+  },
+  {
+    "__pkey": "303",
+    "BriefDescription": "[아픈만큼 성숙한다]\n장애물 1000번 부딪히기"
+  },
+  {
+    "__pkey": "303000",
+    "BriefDescription": "[아픈만큼 성숙한다]\n장애물 50번 부딪히기"
+  },
+  {
+    "__pkey": "303001",
+    "BriefDescription": "[아픈만큼 성숙한다]\n장애물 100번 부딪히기"
+  },
+  {
+    "__pkey": "303002",
+    "BriefDescription": "[아픈만큼 성숙한다]\n장애물 200번 부딪히기"
+  },
+  {
+    "__pkey": "303003",
+    "BriefDescription": "[아픈만큼 성숙한다]\n장애물 300번 부딪히기"
+  },
+  {
+    "__pkey": "303004",
+    "BriefDescription": "[아픈만큼 성숙한다]\n장애물 400번 부딪히기"
+  },
+  {
+    "__pkey": "303005",
+    "BriefDescription": "[아픈만큼 성숙한다]\n장애물 500번 부딪히기"
+  },
+  {
+    "__pkey": "303006",
+    "BriefDescription": "[번지킹]\n구멍에 1000번 빠지기"
+  },
+  {
+    "__pkey": "303100",
+    "BriefDescription": "[번지킹]\n구멍에 50번 빠지기"
+  },
+  {
+    "__pkey": "303101",
+    "BriefDescription": "[번지킹]\n구멍에 100번 빠지기"
+  },
+  {
+    "__pkey": "303102",
+    "BriefDescription": "[번지킹]\n구멍에 200번 빠지기"
+  },
+  {
+    "__pkey": "303103",
+    "BriefDescription": "[번지킹]\n구멍에 300번 빠지기"
+  },
+  {
+    "__pkey": "303104",
+    "BriefDescription": "[번지킹]\n구멍에 400번 빠지기"
+  },
+  {
+    "__pkey": "303105",
+    "BriefDescription": "[번지킹]\n구멍에 500번 빠지기"
+  },
+  {
+    "__pkey": "303106",
+    "BriefDescription": "[오르락내리락 오르락내리락]\n보너스타임에 1000번 가기"
+  },
+  {
+    "__pkey": "303200",
+    "BriefDescription": "[오르락내리락 오르락내리락]\n보너스타임에 50번 가기"
+  },
+  {
+    "__pkey": "303201",
+    "BriefDescription": "[오르락내리락 오르락내리락]\n보너스타임에 100번 가기"
+  },
+  {
+    "__pkey": "303202",
+    "BriefDescription": "[오르락내리락 오르락내리락]\n보너스타임에 200번 가기"
+  },
+  {
+    "__pkey": "303203",
+    "BriefDescription": "[오르락내리락 오르락내리락]\n보너스타임에 300번 가기"
+  },
+  {
+    "__pkey": "303204",
+    "BriefDescription": "[오르락내리락 오르락내리락]\n보너스타임에 400번 가기"
+  },
+  {
+    "__pkey": "303205",
+    "BriefDescription": "[오르락내리락 오르락내리락]\n보너스타임에 500번 가기"
+  },
+  {
+    "__pkey": "303206",
+    "BriefDescription": "[하늘에서 하늘하늘하늘]\n보너스타임에 10000초 동안 있기"
+  },
+  {
+    "__pkey": "303300",
+    "BriefDescription": "[하늘에서 하늘하늘하늘]\n보너스타임에 500초 동안 있기"
+  },
+  {
+    "__pkey": "303301",
+    "BriefDescription": "[하늘에서 하늘하늘하늘]\n보너스타임에 1000초 동안 있기"
+  },
+  {
+    "__pkey": "303302",
+    "BriefDescription": "[하늘에서 하늘하늘하늘]\n보너스타임에 2000초 동안 있기"
+  },
+  {
+    "__pkey": "303303",
+    "BriefDescription": "[하늘에서 하늘하늘하늘]\n보너스타임에 3000초 동안 있기"
+  },
+  {
+    "__pkey": "303304",
+    "BriefDescription": "[하늘에서 하늘하늘하늘]\n보너스타임에 4000초 동안 있기"
+  },
+  {
+    "__pkey": "303305",
+    "BriefDescription": "[하늘에서 하늘하늘하늘]\n보너스타임에 5000초 동안 있기"
+  },
+  {
+    "__pkey": "303306",
+    "BriefDescription": "[한계를 모르는 쿠키]\n100000초 동안 달리기"
+  },
+  {
+    "__pkey": "303400",
+    "BriefDescription": "[한계를 모르는 쿠키]\n5000초 동안 달리기"
+  },
+  {
+    "__pkey": "303401",
+    "BriefDescription": "[한계를 모르는 쿠키]\n10000초 동안 달리기"
+  },
+  {
+    "__pkey": "303402",
+    "BriefDescription": "[한계를 모르는 쿠키]\n20000초 동안 달리기"
+  },
+  {
+    "__pkey": "303403",
+    "BriefDescription": "[한계를 모르는 쿠키]\n30000초 동안 달리기"
+  },
+  {
+    "__pkey": "303404",
+    "BriefDescription": "[한계를 모르는 쿠키]\n40000초 동안 달리기"
+  },
+  {
+    "__pkey": "303405",
+    "BriefDescription": "[한계를 모르는 쿠키]\n50000초 동안 달리기"
+  },
+  {
+    "__pkey": "303406",
+    "BriefDescription": "[더 많이 먹고 힘내!]\n거대생명물약 1000개 먹기"
+  },
+  {
+    "__pkey": "303500",
+    "BriefDescription": "[더 많이 먹고 힘내!]\n거대생명물약 50개 먹기"
+  },
+  {
+    "__pkey": "303501",
+    "BriefDescription": "[더 많이 먹고 힘내!]\n거대생명물약 100개 먹기"
+  },
+  {
+    "__pkey": "303502",
+    "BriefDescription": "[더 많이 먹고 힘내!]\n거대생명물약 200개 먹기"
+  },
+  {
+    "__pkey": "303503",
+    "BriefDescription": "[더 많이 먹고 힘내!]\n거대생명물약 300개 먹기"
+  },
+  {
+    "__pkey": "303504",
+    "BriefDescription": "[더 많이 먹고 힘내!]\n거대생명물약 400개 먹기"
+  },
+  {
+    "__pkey": "303505",
+    "BriefDescription": "[더 많이 먹고 힘내!]\n거대생명물약 500개 먹기"
+  },
+  {
+    "__pkey": "303506",
+    "BriefDescription": "[죽음, 더 나를 막지 못 해]\n부활 1000번 하기"
+  },
+  {
+    "__pkey": "303600",
+    "BriefDescription": "[죽음, 더 나를 막지 못 해]\n부활 50번 하기"
+  },
+  {
+    "__pkey": "303601",
+    "BriefDescription": "[죽음, 더 나를 막지 못 해]\n부활 100번 하기"
+  },
+  {
+    "__pkey": "303602",
+    "BriefDescription": "[죽음, 더 나를 막지 못 해]\n부활 200번 하기"
+  },
+  {
+    "__pkey": "303603",
+    "BriefDescription": "[죽음, 더 나를 막지 못 해]\n부활 300번 하기"
+  },
+  {
+    "__pkey": "303604",
+    "BriefDescription": "[죽음, 더 나를 막지 못 해]\n부활 400번 하기"
+  },
+  {
+    "__pkey": "303605",
+    "BriefDescription": "[죽음, 더 나를 막지 못 해]\n부활 500번 하기"
+  },
+  {
+    "__pkey": "303606",
+    "BriefDescription": "[코인모아 태산]\n1000만 코인 획득하기"
+  },
+  {
+    "__pkey": "303700",
+    "BriefDescription": "[코인모아 태산]\n10만 코인 획득하기"
+  },
+  {
+    "__pkey": "303701",
+    "BriefDescription": "[코인모아 태산]\n20만 코인 획득하기"
+  },
+  {
+    "__pkey": "303702",
+    "BriefDescription": "[코인모아 태산]\n50만 코인 획득하기"
+  },
+  {
+    "__pkey": "303703",
+    "BriefDescription": "[코인모아 태산]\n100만 코인 획득하기"
+  },
+  {
+    "__pkey": "303704",
+    "BriefDescription": "[코인모아 태산]\n200만 코인 획득하기"
+  },
+  {
+    "__pkey": "303705",
+    "BriefDescription": "[코인모아 태산]\n500만 코인 획득하기"
+  },
+  {
+    "__pkey": "303706",
+    "BriefDescription": "[코인모아 태산]\n1500만 코인 획득하기"
+  },
+  {
+    "__pkey": "303708",
+    "BriefDescription": "[엄청 엄청난 점수다]\n점수 50억점 획득하기"
+  },
+  {
+    "__pkey": "303800",
+    "BriefDescription": "[엄청 엄청난 점수다]\n점수 1000만점 획득하기"
+  },
+  {
+    "__pkey": "303801",
+    "BriefDescription": "[엄청 엄청난 점수다]\n점수 5000만점 획득하기"
+  },
+  {
+    "__pkey": "303802",
+    "BriefDescription": "[엄청 엄청난 점수다]\n점수 1억점 획득하기"
+  },
+  {
+    "__pkey": "303803",
+    "BriefDescription": "[엄청 엄청난 점수다]\n점수 2억점 획득하기"
+  },
+  {
+    "__pkey": "303804",
+    "BriefDescription": "[엄청 엄청난 점수다]\n점수 5억점 획득하기"
+  },
+  {
+    "__pkey": "303805",
+    "BriefDescription": "[엄청 엄청난 점수다]\n점수 10억점 획득하기"
+  },
+  {
+    "__pkey": "303806",
+    "BriefDescription": "[엄청 엄청난 점수다]\n점수 20억점 획득하기"
+  },
+  {
+    "__pkey": "303807",
+    "BriefDescription": "[엄청 엄청난 점수다]\n점수 100억점 획득하기"
+  },
+  {
+    "__pkey": "303809",
+    "BriefDescription": "[연륜이 느껴져]\n경험치 1000000 획득하기"
+  },
+  {
+    "__pkey": "303900",
+    "BriefDescription": "[연륜이 느껴져]\n경험치 10000 획득하기"
+  },
+  {
+    "__pkey": "303901",
+    "BriefDescription": "[연륜이 느껴져]\n경험치 20000 획득하기"
+  },
+  {
+    "__pkey": "303902",
+    "BriefDescription": "[연륜이 느껴져]\n경험치 40000 획득하기"
+  },
+  {
+    "__pkey": "303903",
+    "BriefDescription": "[연륜이 느껴져]\n경험치 80000 획득하기"
+  },
+  {
+    "__pkey": "303904",
+    "BriefDescription": "[연륜이 느껴져]\n경험치 150000 획득하기"
+  },
+  {
+    "__pkey": "303905",
+    "BriefDescription": "[연륜이 느껴져]\n경험치 300000 획득하기"
+  },
+  {
+    "__pkey": "303906",
+    "BriefDescription": "[연륜이 느껴져]\n경험치 1500000 획득하기"
+  },
+  {
+    "__pkey": "303908",
+    "BriefDescription": "[전설의 강화왕]\n강화 20번 성공하기"
+  },
+  {
+    "__pkey": "304",
+    "BriefDescription": "[전설의 강화왕]\n강화 30번 성공하기"
+  },
+  {
+    "__pkey": "305",
+    "BriefDescription": "[전설의 강화왕]\n강화 40번 성공하기"
+  },
+  {
+    "__pkey": "306",
+    "BriefDescription": "[전설의 강화왕]\n강화 50번 성공하기"
+  },
+  {
+    "__pkey": "307",
+    "BriefDescription": "[전설의 강화왕]\n강화 60번 성공하기"
+  },
+  {
+    "__pkey": "308",
+    "BriefDescription": "[전설의 강화왕]\n강화 80번 성공하기"
+  },
+  {
+    "__pkey": "309",
+    "BriefDescription": "[실패해도 괜찮아]\n강화 100번 실패하기"
+  },
+  {
+    "__pkey": "400",
+    "BriefDescription": "잠금해제조건 : 에피소드 3 '용의협곡' 의 \n에피소드 업적 50개 달성하기 (공통업적 제외)"
+  },
+  {
+    "__pkey": "400000",
+    "BriefDescription": "[점프왕]\n점프 5000번 하기"
+  },
+  {
+    "__pkey": "400100",
+    "BriefDescription": "[점프왕]\n점프 100번 하기"
+  },
+  {
+    "__pkey": "400101",
+    "BriefDescription": "[점프왕]\n점프 200번 하기"
+  },
+  {
+    "__pkey": "400102",
+    "BriefDescription": "[점프왕]\n점프 500번 하기"
+  },
+  {
+    "__pkey": "400103",
+    "BriefDescription": "[점프왕]\n점프 1000번 하기"
+  },
+  {
+    "__pkey": "400104",
+    "BriefDescription": "[점프왕]\n점프 1500번 하기"
+  },
+  {
+    "__pkey": "400105",
+    "BriefDescription": "[점프왕]\n점프 2000번 하기"
+  },
+  {
+    "__pkey": "400106",
+    "BriefDescription": "[점프왕]\n점프 2500번 하기"
+  },
+  {
+    "__pkey": "400107",
+    "BriefDescription": "[점프왕]\n점프 3000번 하기"
+  },
+  {
+    "__pkey": "400108",
+    "BriefDescription": "[점프왕]\n점프 4000번 하기"
+  },
+  {
+    "__pkey": "400109",
+    "BriefDescription": "[쩜프왕]\n2단 점프 5000번 하기"
+  },
+  {
+    "__pkey": "400200",
+    "BriefDescription": "[쩜프왕]\n2단 점프 100번 하기"
+  },
+  {
+    "__pkey": "400201",
+    "BriefDescription": "[쩜프왕]\n2단 점프 200번 하기"
+  },
+  {
+    "__pkey": "400202",
+    "BriefDescription": "[쩜프왕]\n2단 점프 500번 하기"
+  },
+  {
+    "__pkey": "400203",
+    "BriefDescription": "[쩜프왕]\n2단 점프 1000번 하기"
+  },
+  {
+    "__pkey": "400204",
+    "BriefDescription": "[쩜프왕]\n2단 점프 1500번 하기"
+  },
+  {
+    "__pkey": "400205",
+    "BriefDescription": "[쩜프왕]\n2단 점프 2000번 하기"
+  },
+  {
+    "__pkey": "400206",
+    "BriefDescription": "[쩜프왕]\n2단 점프 2500번 하기"
+  },
+  {
+    "__pkey": "400207",
+    "BriefDescription": "[쩜프왕]\n2단 점프 3000번 하기"
+  },
+  {
+    "__pkey": "400208",
+    "BriefDescription": "[쩜프왕]\n2단 점프 4000번 하기"
+  },
+  {
+    "__pkey": "400209",
+    "BriefDescription": "[자는거 아니죠?]\n슬라이드 500초 동안 하기"
+  },
+  {
+    "__pkey": "400300",
+    "BriefDescription": "[자는거 아니죠?]\n슬라이드 25초 동안 하기"
+  },
+  {
+    "__pkey": "400301",
+    "BriefDescription": "[자는거 아니죠?]\n슬라이드 50초 동안 하기"
+  },
+  {
+    "__pkey": "400302",
+    "BriefDescription": "[자는거 아니죠?]\n슬라이드 100초 동안 하기"
+  },
+  {
+    "__pkey": "400303",
+    "BriefDescription": "[자는거 아니죠?]\n슬라이드 150초 동안 하기"
+  },
+  {
+    "__pkey": "400304",
+    "BriefDescription": "[자는거 아니죠?]\n슬라이드 200초 동안 하기"
+  },
+  {
+    "__pkey": "400305",
+    "BriefDescription": "[자는거 아니죠?]\n슬라이드 250초 동안 하기"
+  },
+  {
+    "__pkey": "400306",
+    "BriefDescription": "[자는거 아니죠?]\n슬라이드 300초 동안 하기"
+  },
+  {
+    "__pkey": "400307",
+    "BriefDescription": "[자는거 아니죠?]\n슬라이드 350초 동안 하기"
+  },
+  {
+    "__pkey": "400308",
+    "BriefDescription": "[자는거 아니죠?]\n슬라이드 400초 동안 하기"
+  },
+  {
+    "__pkey": "400309",
+    "BriefDescription": "[젤리젤리냠냠]\n젤리 50000개 먹기"
+  },
+  {
+    "__pkey": "400400",
+    "BriefDescription": "[젤리젤리냠냠]\n젤리 1000개 먹기"
+  },
+  {
+    "__pkey": "400401",
+    "BriefDescription": "[젤리젤리냠냠]\n젤리 2000개 먹기"
+  },
+  {
+    "__pkey": "400402",
+    "BriefDescription": "[젤리젤리냠냠]\n젤리 5000개 먹기"
+  },
+  {
+    "__pkey": "400403",
+    "BriefDescription": "[젤리젤리냠냠]\n젤리 10000개 먹기"
+  },
+  {
+    "__pkey": "400404",
+    "BriefDescription": "[젤리젤리냠냠]\n젤리 15000개 먹기"
+  },
+  {
+    "__pkey": "400405",
+    "BriefDescription": "[젤리젤리냠냠]\n젤리 20000개 먹기"
+  },
+  {
+    "__pkey": "400406",
+    "BriefDescription": "[젤리젤리냠냠]\n젤리 25000개 먹기"
+  },
+  {
+    "__pkey": "400407",
+    "BriefDescription": "[젤리젤리냠냠]\n젤리 30000개 먹기"
+  },
+  {
+    "__pkey": "400408",
+    "BriefDescription": "[젤리젤리냠냠]\n젤리 40000개 먹기"
+  },
+  {
+    "__pkey": "400409",
+    "BriefDescription": "[노란곰젤리냠냠]\n노란곰젤리 25000개 먹기"
+  },
+  {
+    "__pkey": "400500",
+    "BriefDescription": "[노란곰젤리냠냠]\n노란곰젤리 500개 먹기"
+  },
+  {
+    "__pkey": "400501",
+    "BriefDescription": "[노란곰젤리냠냠]\n노란곰젤리 1000개 먹기"
+  },
+  {
+    "__pkey": "400502",
+    "BriefDescription": "[노란곰젤리냠냠]\n노란곰젤리 2000개 먹기"
+  },
+  {
+    "__pkey": "400503",
+    "BriefDescription": "[노란곰젤리냠냠]\n노란곰젤리 3000개 먹기"
+  },
+  {
+    "__pkey": "400504",
+    "BriefDescription": "[노란곰젤리냠냠]\n노란곰젤리 4000개 먹기"
+  },
+  {
+    "__pkey": "400505",
+    "BriefDescription": "[노란곰젤리냠냠]\n노란곰젤리 8000개 먹기"
+  },
+  {
+    "__pkey": "400506",
+    "BriefDescription": "[노란곰젤리냠냠]\n노란곰젤리 12000개 먹기"
+  },
+  {
+    "__pkey": "400507",
+    "BriefDescription": "[노란곰젤리냠냠]\n노란곰젤리 16000개 먹기"
+  },
+  {
+    "__pkey": "400508",
+    "BriefDescription": "[노란곰젤리냠냠]\n노란곰젤리 20000개 먹기"
+  },
+  {
+    "__pkey": "400509",
+    "BriefDescription": "[분홍곰젤리냠냠]\n분홍곰젤리 10000개 먹기"
+  },
+  {
+    "__pkey": "400600",
+    "BriefDescription": "[분홍곰젤리냠냠]\n분홍곰젤리 500개 먹기"
+  },
+  {
+    "__pkey": "400601",
+    "BriefDescription": "[분홍곰젤리냠냠]\n분홍곰젤리 1000개 먹기"
+  },
+  {
+    "__pkey": "400602",
+    "BriefDescription": "[분홍곰젤리냠냠]\n분홍곰젤리 1500개 먹기"
+  },
+  {
+    "__pkey": "400603",
+    "BriefDescription": "[분홍곰젤리냠냠]\n분홍곰젤리 2000개 먹기"
+  },
+  {
+    "__pkey": "400604",
+    "BriefDescription": "[분홍곰젤리냠냠]\n분홍곰젤리 2500개 먹기"
+  },
+  {
+    "__pkey": "400605",
+    "BriefDescription": "[분홍곰젤리냠냠]\n분홍곰젤리 3000개 먹기"
+  },
+  {
+    "__pkey": "400606",
+    "BriefDescription": "[분홍곰젤리냠냠]\n분홍곰젤리 5000개 먹기"
+  },
+  {
+    "__pkey": "400607",
+    "BriefDescription": "[분홍곰젤리냠냠]\n분홍곰젤리 6000개 먹기"
+  },
+  {
+    "__pkey": "400608",
+    "BriefDescription": "[분홍곰젤리냠냠]\n분홍곰젤리 8000개 먹기"
+  },
+  {
+    "__pkey": "400609",
+    "BriefDescription": "[이 구역의 대식가]\n왕곰젤리 500개 먹기"
+  },
+  {
+    "__pkey": "400700",
+    "BriefDescription": "[이 구역의 대식가]\n왕곰젤리 10개 먹기"
+  },
+  {
+    "__pkey": "400701",
+    "BriefDescription": "[이 구역의 대식가]\n왕곰젤리 30개 먹기"
+  },
+  {
+    "__pkey": "400702",
+    "BriefDescription": "[이 구역의 대식가]\n왕곰젤리 50개 먹기"
+  },
+  {
+    "__pkey": "400703",
+    "BriefDescription": "[이 구역의 대식가]\n왕곰젤리 70개 먹기"
+  },
+  {
+    "__pkey": "400704",
+    "BriefDescription": "[이 구역의 대식가]\n왕곰젤리 100개 먹기"
+  },
+  {
+    "__pkey": "400705",
+    "BriefDescription": "[이 구역의 대식가]\n왕곰젤리 150개 먹기"
+  },
+  {
+    "__pkey": "400706",
+    "BriefDescription": "[이 구역의 대식가]\n왕곰젤리 200개 먹기"
+  },
+  {
+    "__pkey": "400707",
+    "BriefDescription": "[이 구역의 대식가]\n왕곰젤리 300개 먹기"
+  },
+  {
+    "__pkey": "400708",
+    "BriefDescription": "[이 구역의 대식가]\n왕곰젤리 400개 먹기"
+  },
+  {
+    "__pkey": "400709",
+    "BriefDescription": "[장애물 파괴자]\n장애물 5000개 파괴하기"
+  },
+  {
+    "__pkey": "400800",
+    "BriefDescription": "[장애물 파괴자]\n장애물 100개 파괴하기"
+  },
+  {
+    "__pkey": "400801",
+    "BriefDescription": "[장애물 파괴자]\n장애물 200개 파괴하기"
+  },
+  {
+    "__pkey": "400802",
+    "BriefDescription": "[장애물 파괴자]\n장애물 400개 파괴하기"
+  },
+  {
+    "__pkey": "400803",
+    "BriefDescription": "[장애물 파괴자]\n장애물 700개 파괴하기"
+  },
+  {
+    "__pkey": "400804",
+    "BriefDescription": "[장애물 파괴자]\n장애물 1000개 파괴하기"
+  },
+  {
+    "__pkey": "400805",
+    "BriefDescription": "[장애물 파괴자]\n장애물 1500개 파괴하기"
+  },
+  {
+    "__pkey": "400806",
+    "BriefDescription": "[장애물 파괴자]\n장애물 2000개 파괴하기"
+  },
+  {
+    "__pkey": "400807",
+    "BriefDescription": "[장애물 파괴자]\n장애물 3000개 파괴하기"
+  },
+  {
+    "__pkey": "400808",
+    "BriefDescription": "[장애물 파괴자]\n장애물 4000개 파괴하기"
+  },
+  {
+    "__pkey": "400809",
+    "BriefDescription": "[존재감 제로]\n장애물 5000개 통과하기"
+  },
+  {
+    "__pkey": "400900",
+    "BriefDescription": "[존재감 제로]\n장애물 100개 통과하기"
+  },
+  {
+    "__pkey": "400901",
+    "BriefDescription": "[존재감 제로]\n장애물 200개 통과하기"
+  },
+  {
+    "__pkey": "400902",
+    "BriefDescription": "[존재감 제로]\n장애물 400개 통과하기"
+  },
+  {
+    "__pkey": "400903",
+    "BriefDescription": "[존재감 제로]\n장애물 700개 통과하기"
+  },
+  {
+    "__pkey": "400904",
+    "BriefDescription": "[존재감 제로]\n장애물 1000개 통과하기"
+  },
+  {
+    "__pkey": "400905",
+    "BriefDescription": "[존재감 제로]\n장애물 1500개 통과하기"
+  },
+  {
+    "__pkey": "400906",
+    "BriefDescription": "[존재감 제로]\n장애물 2000개 통과하기"
+  },
+  {
+    "__pkey": "400907",
+    "BriefDescription": "[존재감 제로]\n장애물 3000개 통과하기"
+  },
+  {
+    "__pkey": "400908",
+    "BriefDescription": "[존재감 제로]\n장애물 4000개 통과하기"
+  },
+  {
+    "__pkey": "400909",
+    "BriefDescription": "[실패해도 괜찮아]\n강화 5번 실패하기"
+  },
+  {
+    "__pkey": "401",
+    "BriefDescription": "[아프니까 쿠키다]\n장애물에 60번 부딪히기"
+  },
+  {
+    "__pkey": "401000",
+    "BriefDescription": "[아프니까 쿠키다]\n장애물에 2번 부딪히기"
+  },
+  {
+    "__pkey": "401001",
+    "BriefDescription": "[아프니까 쿠키다]\n장애물에 4번 부딪히기"
+  },
+  {
+    "__pkey": "401002",
+    "BriefDescription": "[아프니까 쿠키다]\n장애물에 7번 부딪히기"
+  },
+  {
+    "__pkey": "401003",
+    "BriefDescription": "[아프니까 쿠키다]\n장애물에 10번 부딪히기"
+  },
+  {
+    "__pkey": "401004",
+    "BriefDescription": "[아프니까 쿠키다]\n장애물에 15번 부딪히기"
+  },
+  {
+    "__pkey": "401005",
+    "BriefDescription": "[아프니까 쿠키다]\n장애물에 20번 부딪히기"
+  },
+  {
+    "__pkey": "401006",
+    "BriefDescription": "[아프니까 쿠키다]\n장애물에 30번 부딪히기"
+  },
+  {
+    "__pkey": "401007",
+    "BriefDescription": "[아프니까 쿠키다]\n장애물에 40번 부딪히기"
+  },
+  {
+    "__pkey": "401008",
+    "BriefDescription": "[아프니까 쿠키다]\n장애물에 50번 부딪히기"
+  },
+  {
+    "__pkey": "401009",
+    "BriefDescription": "[번지왕]\n구멍에 50번 빠지기"
+  },
+  {
+    "__pkey": "401100",
+    "BriefDescription": "[번지왕]\n구멍에 3번 빠지기"
+  },
+  {
+    "__pkey": "401101",
+    "BriefDescription": "[번지왕]\n구멍에 6번 빠지기"
+  },
+  {
+    "__pkey": "401102",
+    "BriefDescription": "[번지왕]\n구멍에 10번 빠지기"
+  },
+  {
+    "__pkey": "401103",
+    "BriefDescription": "[번지왕]\n구멍에 15번 빠지기"
+  },
+  {
+    "__pkey": "401104",
+    "BriefDescription": "[번지왕]\n구멍에 20번 빠지기"
+  },
+  {
+    "__pkey": "401105",
+    "BriefDescription": "[번지왕]\n구멍에 25번 빠지기"
+  },
+  {
+    "__pkey": "401106",
+    "BriefDescription": "[번지왕]\n구멍에 30번 빠지기"
+  },
+  {
+    "__pkey": "401107",
+    "BriefDescription": "[번지왕]\n구멍에 35번 빠지기"
+  },
+  {
+    "__pkey": "401108",
+    "BriefDescription": "[번지왕]\n구멍에 40번 빠지기"
+  },
+  {
+    "__pkey": "401109",
+    "BriefDescription": "[오르락내리락]\n보너스타임에 50번 가기"
+  },
+  {
+    "__pkey": "401200",
+    "BriefDescription": "[오르락내리락]\n보너스타임에 3번 가기"
+  },
+  {
+    "__pkey": "401201",
+    "BriefDescription": "[오르락내리락]\n보너스타임에 6번 가기"
+  },
+  {
+    "__pkey": "401202",
+    "BriefDescription": "[오르락내리락]\n보너스타임에 10번 가기"
+  },
+  {
+    "__pkey": "401203",
+    "BriefDescription": "[오르락내리락]\n보너스타임에 15번 가기"
+  },
+  {
+    "__pkey": "401204",
+    "BriefDescription": "[오르락내리락]\n보너스타임에 20번 가기"
+  },
+  {
+    "__pkey": "401205",
+    "BriefDescription": "[오르락내리락]\n보너스타임에 25번 가기"
+  },
+  {
+    "__pkey": "401206",
+    "BriefDescription": "[오르락내리락]\n보너스타임에 30번 가기"
+  },
+  {
+    "__pkey": "401207",
+    "BriefDescription": "[오르락내리락]\n보너스타임에 35번 가기"
+  },
+  {
+    "__pkey": "401208",
+    "BriefDescription": "[오르락내리락]\n보너스타임에 40번 가기"
+  },
+  {
+    "__pkey": "401209",
+    "BriefDescription": "[하늘에서 하늘하늘]\n보너스타임에 500초 동안 있기"
+  },
+  {
+    "__pkey": "401300",
+    "BriefDescription": "[하늘에서 하늘하늘]\n보너스타임에 25초 동안 있기"
+  },
+  {
+    "__pkey": "401301",
+    "BriefDescription": "[하늘에서 하늘하늘]\n보너스타임에 50초 동안 있기"
+  },
+  {
+    "__pkey": "401302",
+    "BriefDescription": "[하늘에서 하늘하늘]\n보너스타임에 100초 동안 있기"
+  },
+  {
+    "__pkey": "401303",
+    "BriefDescription": "[하늘에서 하늘하늘]\n보너스타임에 150초 동안 있기"
+  },
+  {
+    "__pkey": "401304",
+    "BriefDescription": "[하늘에서 하늘하늘]\n보너스타임에 200초 동안 있기"
+  },
+  {
+    "__pkey": "401305",
+    "BriefDescription": "[하늘에서 하늘하늘]\n보너스타임에 250초 동안 있기"
+  },
+  {
+    "__pkey": "401306",
+    "BriefDescription": "[하늘에서 하늘하늘]\n보너스타임에 300초 동안 있기"
+  },
+  {
+    "__pkey": "401307",
+    "BriefDescription": "[하늘에서 하늘하늘]\n보너스타임에 350초 동안 있기"
+  },
+  {
+    "__pkey": "401308",
+    "BriefDescription": "[하늘에서 하늘하늘]\n보너스타임에 400초 동안 있기"
+  },
+  {
+    "__pkey": "401309",
+    "BriefDescription": "[포기를 모르는 쿠키]\n1000초 동안 달리기"
+  },
+  {
+    "__pkey": "401400",
+    "BriefDescription": "[포기를 모르는 쿠키]\n30초 동안 달리기"
+  },
+  {
+    "__pkey": "401401",
+    "BriefDescription": "[포기를 모르는 쿠키]\n60초 동안 달리기"
+  },
+  {
+    "__pkey": "401402",
+    "BriefDescription": "[포기를 모르는 쿠키]\n100초 동안 달리기"
+  },
+  {
+    "__pkey": "401403",
+    "BriefDescription": "[포기를 모르는 쿠키]\n200초 동안 달리기"
+  },
+  {
+    "__pkey": "401404",
+    "BriefDescription": "[포기를 모르는 쿠키]\n300초 동안 달리기"
+  },
+  {
+    "__pkey": "401405",
+    "BriefDescription": "[포기를 모르는 쿠키]\n400초 동안 달리기"
+  },
+  {
+    "__pkey": "401406",
+    "BriefDescription": "[포기를 모르는 쿠키]\n500초 동안 달리기"
+  },
+  {
+    "__pkey": "401407",
+    "BriefDescription": "[포기를 모르는 쿠키]\n600초 동안 달리기"
+  },
+  {
+    "__pkey": "401408",
+    "BriefDescription": "[포기를 모르는 쿠키]\n800초 동안 달리기"
+  },
+  {
+    "__pkey": "401409",
+    "BriefDescription": "[많이 먹고 힘내!]\n거대생명물약 10개 먹기"
+  },
+  {
+    "__pkey": "401500",
+    "BriefDescription": "[많이 먹고 힘내!]\n거대생명물약 5개 먹기"
+  },
+  {
+    "__pkey": "401501",
+    "BriefDescription": "[많이 먹고 힘내!]\n거대생명물약 6개 먹기"
+  },
+  {
+    "__pkey": "401502",
+    "BriefDescription": "[많이 먹고 힘내!]\n거대생명물약 7개 먹기"
+  },
+  {
+    "__pkey": "401503",
+    "BriefDescription": "[많이 먹고 힘내!]\n거대생명물약 8개 먹기"
+  },
+  {
+    "__pkey": "401504",
+    "BriefDescription": "[많이 먹고 힘내!]\n거대생명물약 9개 먹기"
+  },
+  {
+    "__pkey": "401505",
+    "BriefDescription": "[죽음도 나를 막지 못 해]\n부활 22번 하기"
+  },
+  {
+    "__pkey": "401600",
+    "BriefDescription": "[죽음도 나를 막지 못 해]\n부활 3번 하기"
+  },
+  {
+    "__pkey": "401601",
+    "BriefDescription": "[죽음도 나를 막지 못 해]\n부활 6번 하기"
+  },
+  {
+    "__pkey": "401602",
+    "BriefDescription": "[죽음도 나를 막지 못 해]\n부활 9번 하기"
+  },
+  {
+    "__pkey": "401603",
+    "BriefDescription": "[죽음도 나를 막지 못 해]\n부활 12번 하기"
+  },
+  {
+    "__pkey": "401604",
+    "BriefDescription": "[죽음도 나를 막지 못 해]\n부활 15번 하기"
+  },
+  {
+    "__pkey": "401605",
+    "BriefDescription": "[죽음도 나를 막지 못 해]\n부활 18번 하기"
+  },
+  {
+    "__pkey": "401606",
+    "BriefDescription": "[죽음도 나를 막지 못 해]\n부활 20번 하기"
+  },
+  {
+    "__pkey": "401607",
+    "BriefDescription": "[코인 마니아]\n50000코인 획득하기"
+  },
+  {
+    "__pkey": "401700",
+    "BriefDescription": "[코인 마니아]\n2000코인 획득하기"
+  },
+  {
+    "__pkey": "401701",
+    "BriefDescription": "[코인 마니아]\n4000코인 획득하기"
+  },
+  {
+    "__pkey": "401702",
+    "BriefDescription": "[코인 마니아]\n6000코인 획득하기"
+  },
+  {
+    "__pkey": "401703",
+    "BriefDescription": "[코인 마니아]\n8000코인 획득하기"
+  },
+  {
+    "__pkey": "401704",
+    "BriefDescription": "[코인 마니아]\n10000코인 획득하기"
+  },
+  {
+    "__pkey": "401705",
+    "BriefDescription": "[코인 마니아]\n15000코인 획득하기"
+  },
+  {
+    "__pkey": "401706",
+    "BriefDescription": "[코인 마니아]\n20000코인 획득하기"
+  },
+  {
+    "__pkey": "401707",
+    "BriefDescription": "[코인 마니아]\n30000코인 획득하기"
+  },
+  {
+    "__pkey": "401708",
+    "BriefDescription": "[코인 마니아]\n40000코인 획득하기"
+  },
+  {
+    "__pkey": "401709",
+    "BriefDescription": "[엄청난 점수다]\n점수 1억점 획득하기"
+  },
+  {
+    "__pkey": "401800",
+    "BriefDescription": "[엄청난 점수다]\n점수 100만점 획득하기"
+  },
+  {
+    "__pkey": "401801",
+    "BriefDescription": "[엄청난 점수다]\n점수 300만점 획득하기"
+  },
+  {
+    "__pkey": "401802",
+    "BriefDescription": "[엄청난 점수다]\n점수 500만점 획득하기"
+  },
+  {
+    "__pkey": "401803",
+    "BriefDescription": "[엄청난 점수다]\n점수 1000만점 획득하기"
+  },
+  {
+    "__pkey": "401804",
+    "BriefDescription": "[엄청난 점수다]\n점수 1500만점 획득하기"
+  },
+  {
+    "__pkey": "401805",
+    "BriefDescription": "[엄청난 점수다]\n점수 2000만점 획득하기"
+  },
+  {
+    "__pkey": "401806",
+    "BriefDescription": "[엄청난 점수다]\n점수 3000만점 획득하기"
+  },
+  {
+    "__pkey": "401807",
+    "BriefDescription": "[엄청난 점수다]\n점수 4000만점 획득하기"
+  },
+  {
+    "__pkey": "401808",
+    "BriefDescription": "[엄청난 점수다]\n점수 5000만점 획득하기"
+  },
+  {
+    "__pkey": "401809",
+    "BriefDescription": "[엄청난 점수다]\n점수 6000만점 획득하기"
+  },
+  {
+    "__pkey": "401810",
+    "BriefDescription": "[엄청난 점수다]\n점수 7000만점 획득하기"
+  },
+  {
+    "__pkey": "401811",
+    "BriefDescription": "[엄청난 점수다]\n점수 8000만점 획득하기"
+  },
+  {
+    "__pkey": "401812",
+    "BriefDescription": "[엄청난 점수다]\n점수 9000만점 획득하기"
+  },
+  {
+    "__pkey": "401813",
+    "BriefDescription": "[좋은 경험이었다]\n경험치 20000 획득하기"
+  },
+  {
+    "__pkey": "401900",
+    "BriefDescription": "[좋은 경험이었다]\n경험치 1000 획득하기"
+  },
+  {
+    "__pkey": "401901",
+    "BriefDescription": "[좋은 경험이었다]\n경험치 2000 획득하기"
+  },
+  {
+    "__pkey": "401902",
+    "BriefDescription": "[좋은 경험이었다]\n경험치 4000 획득하기"
+  },
+  {
+    "__pkey": "401903",
+    "BriefDescription": "[좋은 경험이었다]\n경험치 8000 획득하기"
+  },
+  {
+    "__pkey": "401904",
+    "BriefDescription": "[좋은 경험이었다]\n경험치 12000 획득하기"
+  },
+  {
+    "__pkey": "401905",
+    "BriefDescription": "[좋은 경험이었다]\n경험치 16000 획득하기"
+  },
+  {
+    "__pkey": "401906",
+    "BriefDescription": "[실패해도 괜찮아]\n강화 10번 실패하기"
+  },
+  {
+    "__pkey": "402",
+    "BriefDescription": "[탐험을 떠나볼까]\n8번째 스테이지 가기"
+  },
+  {
+    "__pkey": "402000",
+    "BriefDescription": "[탐험을 떠나볼까]\n2번째 스테이지 가기"
+  },
+  {
+    "__pkey": "402001",
+    "BriefDescription": "[탐험을 떠나볼까]\n3번째 스테이지 가기"
+  },
+  {
+    "__pkey": "402002",
+    "BriefDescription": "[탐험을 떠나볼까]\n4번째 스테이지 가기"
+  },
+  {
+    "__pkey": "402003",
+    "BriefDescription": "[탐험을 떠나볼까]\n5번째 스테이지 가기"
+  },
+  {
+    "__pkey": "402004",
+    "BriefDescription": "[탐험을 떠나볼까]\n6번째 스테이지 가기"
+  },
+  {
+    "__pkey": "402005",
+    "BriefDescription": "[탐험을 떠나볼까]\n7번째 스테이지 가기"
+  },
+  {
+    "__pkey": "402006",
+    "BriefDescription": "[점프킹]\n점프 100000번 하기"
+  },
+  {
+    "__pkey": "402100",
+    "BriefDescription": "[점프킹]\n점프 1,000번 하기"
+  },
+  {
+    "__pkey": "402101",
+    "BriefDescription": "[점프킹]\n점프 5000번 하기"
+  },
+  {
+    "__pkey": "402102",
+    "BriefDescription": "[점프킹]\n점프 10000번 하기"
+  },
+  {
+    "__pkey": "402103",
+    "BriefDescription": "[점프킹]\n점프 20000번 하기"
+  },
+  {
+    "__pkey": "402104",
+    "BriefDescription": "[점프킹]\n점프 40000번 하기"
+  },
+  {
+    "__pkey": "402105",
+    "BriefDescription": "[점프킹]\n점프 50000번 하기"
+  },
+  {
+    "__pkey": "402106",
+    "BriefDescription": "[쩜프킹]\n2단 점프 100000번 하기"
+  },
+  {
+    "__pkey": "402200",
+    "BriefDescription": "[쩜프킹]\n2단 점프 1000번 하기"
+  },
+  {
+    "__pkey": "402201",
+    "BriefDescription": "[쩜프킹]\n2단 점프 5000번 하기"
+  },
+  {
+    "__pkey": "402202",
+    "BriefDescription": "[쩜프킹]\n2단 점프 10000번 하기"
+  },
+  {
+    "__pkey": "402203",
+    "BriefDescription": "[쩜프킹]\n2단 점프 20000번 하기"
+  },
+  {
+    "__pkey": "402204",
+    "BriefDescription": "[쩜프킹]\n2단 점프 40000번 하기"
+  },
+  {
+    "__pkey": "402205",
+    "BriefDescription": "[쩜프킹]\n2단 점프 50000번 하기"
+  },
+  {
+    "__pkey": "402206",
+    "BriefDescription": "[계속 자는거 아니죠?]\n슬라이드 10000초 동안 하기"
+  },
+  {
+    "__pkey": "402300",
+    "BriefDescription": "[계속 자는거 아니죠?]\n슬라이드 500초 동안 하기"
+  },
+  {
+    "__pkey": "402301",
+    "BriefDescription": "[계속 자는거 아니죠?]\n슬라이드 1000초 동안 하기"
+  },
+  {
+    "__pkey": "402302",
+    "BriefDescription": "[계속 자는거 아니죠?]\n슬라이드 2000초 동안 하기"
+  },
+  {
+    "__pkey": "402303",
+    "BriefDescription": "[계속 자는거 아니죠?]\n슬라이드 4000초 동안 하기"
+  },
+  {
+    "__pkey": "402304",
+    "BriefDescription": "[계속 자는거 아니죠?]\n슬라이드 5000초 동안 하기"
+  },
+  {
+    "__pkey": "402305",
+    "BriefDescription": "[계속 자는거 아니죠?]\n슬라이드 6000초 동안 하기"
+  },
+  {
+    "__pkey": "402306",
+    "BriefDescription": "[계속 자는거 아니죠?]\n슬라이드 7000초 동안 하기"
+  },
+  {
+    "__pkey": "402307",
+    "BriefDescription": "[계속 자는거 아니죠?]\n슬라이드 8000초 동안 하기"
+  },
+  {
+    "__pkey": "402308",
+    "BriefDescription": "[계속 자는거 아니죠?]\n슬라이드 9000초 동안 하기"
+  },
+  {
+    "__pkey": "402309",
+    "BriefDescription": "[젤리젤리냠냠냠]\n젤리 1000000개 먹기"
+  },
+  {
+    "__pkey": "402400",
+    "BriefDescription": "[젤리젤리냠냠냠]\n젤리 50000개 먹기"
+  },
+  {
+    "__pkey": "402401",
+    "BriefDescription": "[젤리젤리냠냠냠]\n젤리 100000개 먹기"
+  },
+  {
+    "__pkey": "402402",
+    "BriefDescription": "[젤리젤리냠냠냠]\n젤리 200000개 먹기"
+  },
+  {
+    "__pkey": "402403",
+    "BriefDescription": "[젤리젤리냠냠냠]\n젤리 300000개 먹기"
+  },
+  {
+    "__pkey": "402404",
+    "BriefDescription": "[젤리젤리냠냠냠]\n젤리 400000개 먹기"
+  },
+  {
+    "__pkey": "402405",
+    "BriefDescription": "[젤리젤리냠냠냠]\n젤리 500000개 먹기"
+  },
+  {
+    "__pkey": "402406",
+    "BriefDescription": "[노란곰젤리냠냠냠]\n노란곰젤리 1000000개 먹기"
+  },
+  {
+    "__pkey": "402500",
+    "BriefDescription": "[노란곰젤리냠냠냠]\n노란곰젤리 50000개 먹기"
+  },
+  {
+    "__pkey": "402501",
+    "BriefDescription": "[노란곰젤리냠냠냠]\n노란곰젤리 100000개 먹기"
+  },
+  {
+    "__pkey": "402502",
+    "BriefDescription": "[노란곰젤리냠냠냠]\n노란곰젤리 200000개 먹기"
+  },
+  {
+    "__pkey": "402503",
+    "BriefDescription": "[노란곰젤리냠냠냠]\n노란곰젤리 300000개 먹기"
+  },
+  {
+    "__pkey": "402504",
+    "BriefDescription": "[노란곰젤리냠냠냠]\n노란곰젤리 400000개 먹기"
+  },
+  {
+    "__pkey": "402505",
+    "BriefDescription": "[노란곰젤리냠냠냠]\n노란곰젤리 500000개 먹기"
+  },
+  {
+    "__pkey": "402506",
+    "BriefDescription": "[분홍곰젤리냠냠냠]\n분홍곰젤리 1000000개 먹기"
+  },
+  {
+    "__pkey": "402600",
+    "BriefDescription": "[분홍곰젤리냠냠냠]\n분홍곰젤리 25000개 먹기"
+  },
+  {
+    "__pkey": "402601",
+    "BriefDescription": "[분홍곰젤리냠냠냠]\n분홍곰젤리 50000개 먹기"
+  },
+  {
+    "__pkey": "402602",
+    "BriefDescription": "[분홍곰젤리냠냠냠]\n분홍곰젤리 100000개 먹기"
+  },
+  {
+    "__pkey": "402603",
+    "BriefDescription": "[분홍곰젤리냠냠냠]\n분홍곰젤리 200000개 먹기"
+  },
+  {
+    "__pkey": "402604",
+    "BriefDescription": "[분홍곰젤리냠냠냠]\n분홍곰젤리 400000개 먹기"
+  },
+  {
+    "__pkey": "402605",
+    "BriefDescription": "[분홍곰젤리냠냠냠]\n분홍곰젤리 500000개 먹기"
+  },
+  {
+    "__pkey": "402606",
+    "BriefDescription": "[이 구역의 알아주는 대식가]\n왕곰젤리 10000개 먹기"
+  },
+  {
+    "__pkey": "402700",
+    "BriefDescription": "[이 구역의 알아주는 대식가]\n왕곰젤리 500개 먹기"
+  },
+  {
+    "__pkey": "402701",
+    "BriefDescription": "[이 구역의 알아주는 대식가]\n왕곰젤리 1000개 먹기"
+  },
+  {
+    "__pkey": "402702",
+    "BriefDescription": "[이 구역의 알아주는 대식가]\n왕곰젤리 2000개 먹기"
+  },
+  {
+    "__pkey": "402703",
+    "BriefDescription": "[이 구역의 알아주는 대식가]\n왕곰젤리 4000개 먹기"
+  },
+  {
+    "__pkey": "402704",
+    "BriefDescription": "[이 구역의 알아주는 대식가]\n왕곰젤리 5000개 먹기"
+  },
+  {
+    "__pkey": "402705",
+    "BriefDescription": "[이 구역의 알아주는 대식가]\n왕곰젤리 6000개 먹기"
+  },
+  {
+    "__pkey": "402706",
+    "BriefDescription": "[이 구역의 알아주는 대식가]\n왕곰젤리 7000개 먹기"
+  },
+  {
+    "__pkey": "402707",
+    "BriefDescription": "[이 구역의 알아주는 대식가]\n왕곰젤리 8000개 먹기"
+  },
+  {
+    "__pkey": "402708",
+    "BriefDescription": "[이 구역의 알아주는 대식가]\n왕곰젤리 9000개 먹기"
+  },
+  {
+    "__pkey": "402709",
+    "BriefDescription": "[장애물 파괴의 대가]\n장애물 100000개 파괴하기"
+  },
+  {
+    "__pkey": "402800",
+    "BriefDescription": "[장애물 파괴의 대가]\n장애물 1000개 파괴하기"
+  },
+  {
+    "__pkey": "402801",
+    "BriefDescription": "[장애물 파괴의 대가]\n장애물 5000개 파괴하기"
+  },
+  {
+    "__pkey": "402802",
+    "BriefDescription": "[장애물 파괴의 대가]\n장애물 10000개 파괴하기"
+  },
+  {
+    "__pkey": "402803",
+    "BriefDescription": "[장애물 파괴의 대가]\n장애물 20000개 파괴하기"
+  },
+  {
+    "__pkey": "402804",
+    "BriefDescription": "[장애물 파괴의 대가]\n장애물 40000개 파괴하기"
+  },
+  {
+    "__pkey": "402805",
+    "BriefDescription": "[장애물 파괴의 대가]\n장애물 50000개 파괴하기"
+  },
+  {
+    "__pkey": "402806",
+    "BriefDescription": "[존재감 마이너스]\n장애물 100000개 통과하기"
+  },
+  {
+    "__pkey": "402900",
+    "BriefDescription": "[존재감 마이너스]\n장애물 1000개 통과하기"
+  },
+  {
+    "__pkey": "402901",
+    "BriefDescription": "[존재감 마이너스]\n장애물 5000개 통과하기"
+  },
+  {
+    "__pkey": "402902",
+    "BriefDescription": "[존재감 마이너스]\n장애물 10000개 통과하기"
+  },
+  {
+    "__pkey": "402903",
+    "BriefDescription": "[존재감 마이너스]\n장애물 20000개 통과하기"
+  },
+  {
+    "__pkey": "402904",
+    "BriefDescription": "[존재감 마이너스]\n장애물 40000개 통과하기"
+  },
+  {
+    "__pkey": "402905",
+    "BriefDescription": "[존재감 마이너스]\n장애물 60000개 통과하기"
+  },
+  {
+    "__pkey": "402906",
+    "BriefDescription": "[실패해도 괜찮아]\n강화 15번 실패하기"
+  },
+  {
+    "__pkey": "403",
+    "BriefDescription": "[아픈만큼 성숙한다]\n장애물 1000번 부딪히기"
+  },
+  {
+    "__pkey": "403000",
+    "BriefDescription": "[아픈만큼 성숙한다]\n장애물 50번 부딪히기"
+  },
+  {
+    "__pkey": "403001",
+    "BriefDescription": "[아픈만큼 성숙한다]\n장애물 100번 부딪히기"
+  },
+  {
+    "__pkey": "403002",
+    "BriefDescription": "[아픈만큼 성숙한다]\n장애물 200번 부딪히기"
+  },
+  {
+    "__pkey": "403003",
+    "BriefDescription": "[아픈만큼 성숙한다]\n장애물 300번 부딪히기"
+  },
+  {
+    "__pkey": "403004",
+    "BriefDescription": "[아픈만큼 성숙한다]\n장애물 400번 부딪히기"
+  },
+  {
+    "__pkey": "403005",
+    "BriefDescription": "[아픈만큼 성숙한다]\n장애물 500번 부딪히기"
+  },
+  {
+    "__pkey": "403006",
+    "BriefDescription": "[번지킹]\n구멍에 1000번 빠지기"
+  },
+  {
+    "__pkey": "403100",
+    "BriefDescription": "[번지킹]\n구멍에 50번 빠지기"
+  },
+  {
+    "__pkey": "403101",
+    "BriefDescription": "[번지킹]\n구멍에 100번 빠지기"
+  },
+  {
+    "__pkey": "403102",
+    "BriefDescription": "[번지킹]\n구멍에 200번 빠지기"
+  },
+  {
+    "__pkey": "403103",
+    "BriefDescription": "[번지킹]\n구멍에 300번 빠지기"
+  },
+  {
+    "__pkey": "403104",
+    "BriefDescription": "[번지킹]\n구멍에 400번 빠지기"
+  },
+  {
+    "__pkey": "403105",
+    "BriefDescription": "[번지킹]\n구멍에 500번 빠지기"
+  },
+  {
+    "__pkey": "403106",
+    "BriefDescription": "[오르락내리락 오르락내리락]\n보너스타임에 1000번 가기"
+  },
+  {
+    "__pkey": "403200",
+    "BriefDescription": "[오르락내리락 오르락내리락]\n보너스타임에 50번 가기"
+  },
+  {
+    "__pkey": "403201",
+    "BriefDescription": "[오르락내리락 오르락내리락]\n보너스타임에 100번 가기"
+  },
+  {
+    "__pkey": "403202",
+    "BriefDescription": "[오르락내리락 오르락내리락]\n보너스타임에 200번 가기"
+  },
+  {
+    "__pkey": "403203",
+    "BriefDescription": "[오르락내리락 오르락내리락]\n보너스타임에 300번 가기"
+  },
+  {
+    "__pkey": "403204",
+    "BriefDescription": "[오르락내리락 오르락내리락]\n보너스타임에 400번 가기"
+  },
+  {
+    "__pkey": "403205",
+    "BriefDescription": "[오르락내리락 오르락내리락]\n보너스타임에 500번 가기"
+  },
+  {
+    "__pkey": "403206",
+    "BriefDescription": "[하늘에서 하늘하늘하늘]\n보너스타임에 10000초 동안 있기"
+  },
+  {
+    "__pkey": "403300",
+    "BriefDescription": "[하늘에서 하늘하늘하늘]\n보너스타임에 500초 동안 있기"
+  },
+  {
+    "__pkey": "403301",
+    "BriefDescription": "[하늘에서 하늘하늘하늘]\n보너스타임에 1000초 동안 있기"
+  },
+  {
+    "__pkey": "403302",
+    "BriefDescription": "[하늘에서 하늘하늘하늘]\n보너스타임에 2000초 동안 있기"
+  },
+  {
+    "__pkey": "403303",
+    "BriefDescription": "[하늘에서 하늘하늘하늘]\n보너스타임에 3000초 동안 있기"
+  },
+  {
+    "__pkey": "403304",
+    "BriefDescription": "[하늘에서 하늘하늘하늘]\n보너스타임에 4000초 동안 있기"
+  },
+  {
+    "__pkey": "403305",
+    "BriefDescription": "[하늘에서 하늘하늘하늘]\n보너스타임에 5000초 동안 있기"
+  },
+  {
+    "__pkey": "403306",
+    "BriefDescription": "[한계를 모르는 쿠키]\n100000초 동안 달리기"
+  },
+  {
+    "__pkey": "403400",
+    "BriefDescription": "[한계를 모르는 쿠키]\n5000초 동안 달리기"
+  },
+  {
+    "__pkey": "403401",
+    "BriefDescription": "[한계를 모르는 쿠키]\n10000초 동안 달리기"
+  },
+  {
+    "__pkey": "403402",
+    "BriefDescription": "[한계를 모르는 쿠키]\n20000초 동안 달리기"
+  },
+  {
+    "__pkey": "403403",
+    "BriefDescription": "[한계를 모르는 쿠키]\n30000초 동안 달리기"
+  },
+  {
+    "__pkey": "403404",
+    "BriefDescription": "[한계를 모르는 쿠키]\n40000초 동안 달리기"
+  },
+  {
+    "__pkey": "403405",
+    "BriefDescription": "[한계를 모르는 쿠키]\n50000초 동안 달리기"
+  },
+  {
+    "__pkey": "403406",
+    "BriefDescription": "[더 많이 먹고 힘내!]\n거대생명물약 1000개 먹기"
+  },
+  {
+    "__pkey": "403500",
+    "BriefDescription": "[더 많이 먹고 힘내!]\n거대생명물약 50개 먹기"
+  },
+  {
+    "__pkey": "403501",
+    "BriefDescription": "[더 많이 먹고 힘내!]\n거대생명물약 100개 먹기"
+  },
+  {
+    "__pkey": "403502",
+    "BriefDescription": "[더 많이 먹고 힘내!]\n거대생명물약 200개 먹기"
+  },
+  {
+    "__pkey": "403503",
+    "BriefDescription": "[더 많이 먹고 힘내!]\n거대생명물약 300개 먹기"
+  },
+  {
+    "__pkey": "403504",
+    "BriefDescription": "[더 많이 먹고 힘내!]\n거대생명물약 400개 먹기"
+  },
+  {
+    "__pkey": "403505",
+    "BriefDescription": "[더 많이 먹고 힘내!]\n거대생명물약 500개 먹기"
+  },
+  {
+    "__pkey": "403506",
+    "BriefDescription": "[죽음, 더 나를 막지 못 해]\n부활 1000번 하기"
+  },
+  {
+    "__pkey": "403600",
+    "BriefDescription": "[죽음, 더 나를 막지 못 해]\n부활 50번 하기"
+  },
+  {
+    "__pkey": "403601",
+    "BriefDescription": "[죽음, 더 나를 막지 못 해]\n부활 100번 하기"
+  },
+  {
+    "__pkey": "403602",
+    "BriefDescription": "[죽음, 더 나를 막지 못 해]\n부활 200번 하기"
+  },
+  {
+    "__pkey": "403603",
+    "BriefDescription": "[죽음, 더 나를 막지 못 해]\n부활 300번 하기"
+  },
+  {
+    "__pkey": "403604",
+    "BriefDescription": "[죽음, 더 나를 막지 못 해]\n부활 400번 하기"
+  },
+  {
+    "__pkey": "403605",
+    "BriefDescription": "[죽음, 더 나를 막지 못 해]\n부활 500번 하기"
+  },
+  {
+    "__pkey": "403606",
+    "BriefDescription": "[코인모아 태산]\n1000만 코인 획득하기"
+  },
+  {
+    "__pkey": "403700",
+    "BriefDescription": "[코인모아 태산]\n10만 코인 획득하기"
+  },
+  {
+    "__pkey": "403701",
+    "BriefDescription": "[코인모아 태산]\n20만 코인 획득하기"
+  },
+  {
+    "__pkey": "403702",
+    "BriefDescription": "[코인모아 태산]\n50만 코인 획득하기"
+  },
+  {
+    "__pkey": "403703",
+    "BriefDescription": "[코인모아 태산]\n100만 코인 획득하기"
+  },
+  {
+    "__pkey": "403704",
+    "BriefDescription": "[코인모아 태산]\n200만 코인 획득하기"
+  },
+  {
+    "__pkey": "403705",
+    "BriefDescription": "[코인모아 태산]\n500만 코인 획득하기"
+  },
+  {
+    "__pkey": "403706",
+    "BriefDescription": "[코인모아 태산]\n1500만 코인 획득하기"
+  },
+  {
+    "__pkey": "403708",
+    "BriefDescription": "[엄청 엄청난 점수다]\n점수 50억점 획득하기"
+  },
+  {
+    "__pkey": "403800",
+    "BriefDescription": "[엄청 엄청난 점수다]\n점수 1000만점 획득하기"
+  },
+  {
+    "__pkey": "403801",
+    "BriefDescription": "[엄청 엄청난 점수다]\n점수 5000만점 획득하기"
+  },
+  {
+    "__pkey": "403802",
+    "BriefDescription": "[엄청 엄청난 점수다]\n점수 1억점 획득하기"
+  },
+  {
+    "__pkey": "403803",
+    "BriefDescription": "[엄청 엄청난 점수다]\n점수 2억점 획득하기"
+  },
+  {
+    "__pkey": "403804",
+    "BriefDescription": "[엄청 엄청난 점수다]\n점수 5억점 획득하기"
+  },
+  {
+    "__pkey": "403805",
+    "BriefDescription": "[엄청 엄청난 점수다]\n점수 10억점 획득하기"
+  },
+  {
+    "__pkey": "403806",
+    "BriefDescription": "[엄청 엄청난 점수다]\n점수 20억점 획득하기"
+  },
+  {
+    "__pkey": "403807",
+    "BriefDescription": "[엄청 엄청난 점수다]\n점수 100억점 획득하기"
+  },
+  {
+    "__pkey": "403809",
+    "BriefDescription": "[연륜이 느껴져]\n경험치 1000000 획득하기"
+  },
+  {
+    "__pkey": "403900",
+    "BriefDescription": "[연륜이 느껴져]\n경험치 10000 획득하기"
+  },
+  {
+    "__pkey": "403901",
+    "BriefDescription": "[연륜이 느껴져]\n경험치 20000 획득하기"
+  },
+  {
+    "__pkey": "403902",
+    "BriefDescription": "[연륜이 느껴져]\n경험치 40000 획득하기"
+  },
+  {
+    "__pkey": "403903",
+    "BriefDescription": "[연륜이 느껴져]\n경험치 80000 획득하기"
+  },
+  {
+    "__pkey": "403904",
+    "BriefDescription": "[연륜이 느껴져]\n경험치 150000 획득하기"
+  },
+  {
+    "__pkey": "403905",
+    "BriefDescription": "[연륜이 느껴져]\n경험치 300000 획득하기"
+  },
+  {
+    "__pkey": "403906",
+    "BriefDescription": "[연륜이 느껴져]\n경험치 1500000 획득하기"
+  },
+  {
+    "__pkey": "403908",
+    "BriefDescription": "[실패해도 괜찮아]\n강화 20번 실패하기"
+  },
+  {
+    "__pkey": "404",
+    "BriefDescription": "[실패해도 괜찮아]\n강화 30번 실패하기"
+  },
+  {
+    "__pkey": "405",
+    "BriefDescription": "[실패해도 괜찮아]\n강화 40번 실패하기"
+  },
+  {
+    "__pkey": "406",
+    "BriefDescription": "[실패해도 괜찮아]\n강화 50번 실패하기"
+  },
+  {
+    "__pkey": "407",
+    "BriefDescription": "[실패해도 괜찮아]\n강화 60번 실패하기"
+  },
+  {
+    "__pkey": "408",
+    "BriefDescription": "[실패해도 괜찮아]\n강화 80번 실패하기"
+  },
+  {
+    "__pkey": "409",
+    "BriefDescription": "[실패는 성공의 어머니]\n보물 진화 100회 실패하기"
+  },
+  {
+    "__pkey": "500",
+    "BriefDescription": "[실패는 성공의 어머니]\n보물 진화 5회 실패하기"
+  },
+  {
+    "__pkey": "501",
+    "BriefDescription": "잠금해제조건 : 에피소드 2 '원시림' 의\n에피소드 업적 30개 달성하기  (공통업적 제외)"
+  },
+  {
+    "__pkey": "50100000",
+    "BriefDescription": "[점프왕]\n점프 1000번 하기"
+  },
+  {
+    "__pkey": "50100100",
+    "BriefDescription": "[점프왕]\n점프 100번 하기"
+  },
+  {
+    "__pkey": "50100101",
+    "BriefDescription": "[점프왕]\n점프 200번 하기"
+  },
+  {
+    "__pkey": "50100102",
+    "BriefDescription": "[점프왕]\n점프 300번 하기"
+  },
+  {
+    "__pkey": "50100103",
+    "BriefDescription": "[점프왕]\n점프 400번 하기"
+  },
+  {
+    "__pkey": "50100104",
+    "BriefDescription": "[점프왕]\n점프 500번 하기"
+  },
+  {
+    "__pkey": "50100105",
+    "BriefDescription": "[점프왕]\n점프 600번 하기"
+  },
+  {
+    "__pkey": "50100106",
+    "BriefDescription": "[점프왕]\n점프 700번 하기"
+  },
+  {
+    "__pkey": "50100107",
+    "BriefDescription": "[점프왕]\n점프 800번 하기"
+  },
+  {
+    "__pkey": "50100108",
+    "BriefDescription": "[점프왕]\n점프 900번 하기"
+  },
+  {
+    "__pkey": "50100109",
+    "BriefDescription": "[쩜프왕]\n2단 점프 900번 하기"
+  },
+  {
+    "__pkey": "50100200",
+    "BriefDescription": "[쩜프왕]\n2단 점프 50번 하기"
+  },
+  {
+    "__pkey": "50100201",
+    "BriefDescription": "[쩜프왕]\n2단 점프 100번 하기"
+  },
+  {
+    "__pkey": "50100202",
+    "BriefDescription": "[쩜프왕]\n2단 점프 200번 하기"
+  },
+  {
+    "__pkey": "50100203",
+    "BriefDescription": "[쩜프왕]\n2단 점프 300번 하기"
+  },
+  {
+    "__pkey": "50100204",
+    "BriefDescription": "[쩜프왕]\n2단 점프 400번 하기"
+  },
+  {
+    "__pkey": "50100205",
+    "BriefDescription": "[쩜프왕]\n2단 점프 500번 하기"
+  },
+  {
+    "__pkey": "50100206",
+    "BriefDescription": "[쩜프왕]\n2단 점프 600번 하기"
+  },
+  {
+    "__pkey": "50100207",
+    "BriefDescription": "[쩜프왕]\n2단 점프 700번 하기"
+  },
+  {
+    "__pkey": "50100208",
+    "BriefDescription": "[쩜프왕]\n2단 점프 800번 하기"
+  },
+  {
+    "__pkey": "50100209",
+    "BriefDescription": "[자는거 아니죠?]\n슬라이드 250초 동안 하기"
+  },
+  {
+    "__pkey": "50100300",
+    "BriefDescription": "[자는거 아니죠?]\n슬라이드 15초 동안 하기"
+  },
+  {
+    "__pkey": "50100301",
+    "BriefDescription": "[자는거 아니죠?]\n슬라이드 30초 동안 하기"
+  },
+  {
+    "__pkey": "50100302",
+    "BriefDescription": "[자는거 아니죠?]\n슬라이드 55초 동안 하기"
+  },
+  {
+    "__pkey": "50100303",
+    "BriefDescription": "[자는거 아니죠?]\n슬라이드 80초 동안 하기"
+  },
+  {
+    "__pkey": "50100304",
+    "BriefDescription": "[자는거 아니죠?]\n슬라이드 100초 동안 하기"
+  },
+  {
+    "__pkey": "50100305",
+    "BriefDescription": "[자는거 아니죠?]\n슬라이드 120초 동안 하기"
+  },
+  {
+    "__pkey": "50100306",
+    "BriefDescription": "[자는거 아니죠?]\n슬라이드 150초 동안 하기"
+  },
+  {
+    "__pkey": "50100307",
+    "BriefDescription": "[자는거 아니죠?]\n슬라이드 170초 동안 하기"
+  },
+  {
+    "__pkey": "50100308",
+    "BriefDescription": "[자는거 아니죠?]\n슬라이드 200초 동안 하기"
+  },
+  {
+    "__pkey": "50100309",
+    "BriefDescription": "[아프니까 쿠키다]\n장애물에 20번 부딪히기"
+  },
+  {
+    "__pkey": "50101000",
+    "BriefDescription": "[아프니까 쿠키다]\n장애물에 2번 부딪히기"
+  },
+  {
+    "__pkey": "50101001",
+    "BriefDescription": "[아프니까 쿠키다]\n장애물에 4번 부딪히기"
+  },
+  {
+    "__pkey": "50101002",
+    "BriefDescription": "[아프니까 쿠키다]\n장애물에 6번 부딪히기"
+  },
+  {
+    "__pkey": "50101003",
+    "BriefDescription": "[아프니까 쿠키다]\n장애물에 8번 부딪히기"
+  },
+  {
+    "__pkey": "50101004",
+    "BriefDescription": "[아프니까 쿠키다]\n장애물에 10번 부딪히기"
+  },
+  {
+    "__pkey": "50101005",
+    "BriefDescription": "[아프니까 쿠키다]\n장애물에 12번 부딪히기"
+  },
+  {
+    "__pkey": "50101006",
+    "BriefDescription": "[아프니까 쿠키다]\n장애물에 14번 부딪히기"
+  },
+  {
+    "__pkey": "50101007",
+    "BriefDescription": "[아프니까 쿠키다]\n장애물에 16번 부딪히기"
+  },
+  {
+    "__pkey": "50101008",
+    "BriefDescription": "[아프니까 쿠키다]\n장애물에 18번 부딪히기"
+  },
+  {
+    "__pkey": "50101009",
+    "BriefDescription": "[번지왕]\n구멍에 15번 빠지기"
+  },
+  {
+    "__pkey": "50101100",
+    "BriefDescription": "[번지왕]\n구멍에 1번 빠지기"
+  },
+  {
+    "__pkey": "50101101",
+    "BriefDescription": "[번지왕]\n구멍에 2번 빠지기"
+  },
+  {
+    "__pkey": "50101102",
+    "BriefDescription": "[번지왕]\n구멍에 4번 빠지기"
+  },
+  {
+    "__pkey": "50101103",
+    "BriefDescription": "[번지왕]\n구멍에 6번 빠지기"
+  },
+  {
+    "__pkey": "50101104",
+    "BriefDescription": "[번지왕]\n구멍에 8번 빠지기"
+  },
+  {
+    "__pkey": "50101105",
+    "BriefDescription": "[번지왕]\n구멍에 9번 빠지기"
+  },
+  {
+    "__pkey": "50101106",
+    "BriefDescription": "[번지왕]\n구멍에 10번 빠지기"
+  },
+  {
+    "__pkey": "50101107",
+    "BriefDescription": "[번지왕]\n구멍에 12번 빠지기"
+  },
+  {
+    "__pkey": "50101108",
+    "BriefDescription": "[번지왕]\n구멍에 13번 빠지기"
+  },
+  {
+    "__pkey": "50101109",
+    "BriefDescription": "[포기를 모르는 쿠키]\n240초 동안 달리기"
+  },
+  {
+    "__pkey": "50101400",
+    "BriefDescription": "[포기를 모르는 쿠키]\n30초 동안 달리기"
+  },
+  {
+    "__pkey": "50101401",
+    "BriefDescription": "[포기를 모르는 쿠키]\n50초 동안 달리기"
+  },
+  {
+    "__pkey": "50101402",
+    "BriefDescription": "[포기를 모르는 쿠키]\n70초 동안 달리기"
+  },
+  {
+    "__pkey": "50101403",
+    "BriefDescription": "[포기를 모르는 쿠키]\n90초 동안 달리기"
+  },
+  {
+    "__pkey": "50101404",
+    "BriefDescription": "[포기를 모르는 쿠키]\n110초 동안 달리기"
+  },
+  {
+    "__pkey": "50101405",
+    "BriefDescription": "[포기를 모르는 쿠키]\n130초 동안 달리기"
+  },
+  {
+    "__pkey": "50101406",
+    "BriefDescription": "[포기를 모르는 쿠키]\n150초 동안 달리기"
+  },
+  {
+    "__pkey": "50101407",
+    "BriefDescription": "[포기를 모르는 쿠키]\n180초 동안 달리기"
+  },
+  {
+    "__pkey": "50101408",
+    "BriefDescription": "[포기를 모르는 쿠키]\n200초 동안 달리기"
+  },
+  {
+    "__pkey": "50101409",
+    "BriefDescription": "[죽음도 나를 막지 못 해]\n부활 15번 하기"
+  },
+  {
+    "__pkey": "50101600",
+    "BriefDescription": "[죽음도 나를 막지 못 해]\n부활 1번 하기"
+  },
+  {
+    "__pkey": "50101601",
+    "BriefDescription": "[죽음도 나를 막지 못 해]\n부활 3번 하기"
+  },
+  {
+    "__pkey": "50101602",
+    "BriefDescription": "[죽음도 나를 막지 못 해]\n부활 6번 하기"
+  },
+  {
+    "__pkey": "50101603",
+    "BriefDescription": "[죽음도 나를 막지 못 해]\n부활 9번 하기"
+  },
+  {
+    "__pkey": "50101604",
+    "BriefDescription": "[죽음도 나를 막지 못 해]\n부활 10번 하기"
+  },
+  {
+    "__pkey": "50101605",
+    "BriefDescription": "[죽음도 나를 막지 못 해]\n부활 12번 하기"
+  },
+  {
+    "__pkey": "50101606",
+    "BriefDescription": "[죽음도 나를 막지 못 해]\n부활 13번 하기"
+  },
+  {
+    "__pkey": "50101607",
+    "BriefDescription": "[코인 마니아]\n7000코인 획득하기"
+  },
+  {
+    "__pkey": "50101700",
+    "BriefDescription": "[코인 마니아]\n1000코인 획득하기"
+  },
+  {
+    "__pkey": "50101701",
+    "BriefDescription": "[코인 마니아]\n1500코인 획득하기"
+  },
+  {
+    "__pkey": "50101702",
+    "BriefDescription": "[코인 마니아]\n2000코인 획득하기"
+  },
+  {
+    "__pkey": "50101703",
+    "BriefDescription": "[코인 마니아]\n2500코인 획득하기"
+  },
+  {
+    "__pkey": "50101704",
+    "BriefDescription": "[코인 마니아]\n3000코인 획득하기"
+  },
+  {
+    "__pkey": "50101705",
+    "BriefDescription": "[코인 마니아]\n3500코인 획득하기"
+  },
+  {
+    "__pkey": "50101706",
+    "BriefDescription": "[코인 마니아]\n4000코인 획득하기"
+  },
+  {
+    "__pkey": "50101707",
+    "BriefDescription": "[코인 마니아]\n5000코인 획득하기"
+  },
+  {
+    "__pkey": "50101708",
+    "BriefDescription": "[코인 마니아]\n6000코인 획득하기"
+  },
+  {
+    "__pkey": "50101709",
+    "BriefDescription": "[좋은 경험이었다]\n경험치 2000 획득하기"
+  },
+  {
+    "__pkey": "50101900",
+    "BriefDescription": "[좋은 경험이었다]\n경험치 400 획득하기"
+  },
+  {
+    "__pkey": "50101901",
+    "BriefDescription": "[좋은 경험이었다]\n경험치 600 획득하기"
+  },
+  {
+    "__pkey": "50101902",
+    "BriefDescription": "[좋은 경험이었다]\n경험치 900 획득하기"
+  },
+  {
+    "__pkey": "50101903",
+    "BriefDescription": "[좋은 경험이었다]\n경험치 1200 획득하기"
+  },
+  {
+    "__pkey": "50101904",
+    "BriefDescription": "[좋은 경험이었다]\n경험치 1500 획득하기"
+  },
+  {
+    "__pkey": "50101905",
+    "BriefDescription": "[좋은 경험이었다]\n경험치 1800 획득하기"
+  },
+  {
+    "__pkey": "50101906",
+    "BriefDescription": "[점프킹]\n점프 25000번 하기"
+  },
+  {
+    "__pkey": "50102100",
+    "BriefDescription": "[점프킹]\n점프 1000번 하기"
+  },
+  {
+    "__pkey": "50102101",
+    "BriefDescription": "[점프킹]\n점프 2000번 하기"
+  },
+  {
+    "__pkey": "50102102",
+    "BriefDescription": "[점프킹]\n점프 4000번 하기"
+  },
+  {
+    "__pkey": "50102103",
+    "BriefDescription": "[점프킹]\n점프 7000번 하기"
+  },
+  {
+    "__pkey": "50102104",
+    "BriefDescription": "[점프킹]\n점프 10000번 하기"
+  },
+  {
+    "__pkey": "50102105",
+    "BriefDescription": "[점프킹]\n점프 15000번 하기"
+  },
+  {
+    "__pkey": "50102106",
+    "BriefDescription": "[쩜프킹]\n2단 점프 14000번 하기"
+  },
+  {
+    "__pkey": "50102200",
+    "BriefDescription": "[쩜프킹]\n2단 점프 700번 하기"
+  },
+  {
+    "__pkey": "50102201",
+    "BriefDescription": "[쩜프킹]\n2단 점프 1400번 하기"
+  },
+  {
+    "__pkey": "50102202",
+    "BriefDescription": "[쩜프킹]\n2단 점프 2800번 하기"
+  },
+  {
+    "__pkey": "50102203",
+    "BriefDescription": "[쩜프킹]\n2단 점프 4300번 하기"
+  },
+  {
+    "__pkey": "50102204",
+    "BriefDescription": "[쩜프킹]\n2단 점프 6000번 하기"
+  },
+  {
+    "__pkey": "50102205",
+    "BriefDescription": "[쩜프킹]\n2단 점프 8500번 하기"
+  },
+  {
+    "__pkey": "50102206",
+    "BriefDescription": "[계속 자는거 아니죠?]\n슬라이드 10000초 동안 하기"
+  },
+  {
+    "__pkey": "50102300",
+    "BriefDescription": "[계속 자는거 아니죠?]\n슬라이드 300초 동안 하기"
+  },
+  {
+    "__pkey": "50102301",
+    "BriefDescription": "[계속 자는거 아니죠?]\n슬라이드 500초 동안 하기"
+  },
+  {
+    "__pkey": "50102302",
+    "BriefDescription": "[계속 자는거 아니죠?]\n슬라이드 800초 동안 하기"
+  },
+  {
+    "__pkey": "50102303",
+    "BriefDescription": "[계속 자는거 아니죠?]\n슬라이드 1000초 동안 하기"
+  },
+  {
+    "__pkey": "50102304",
+    "BriefDescription": "[계속 자는거 아니죠?]\n슬라이드 1500초 동안 하기"
+  },
+  {
+    "__pkey": "50102305",
+    "BriefDescription": "[계속 자는거 아니죠?]\n슬라이드 2000초 동안 하기"
+  },
+  {
+    "__pkey": "50102306",
+    "BriefDescription": "[계속 자는거 아니죠?]\n슬라이드 4000초 동안 하기"
+  },
+  {
+    "__pkey": "50102307",
+    "BriefDescription": "[계속 자는거 아니죠?]\n슬라이드 6000초 동안 하기"
+  },
+  {
+    "__pkey": "50102308",
+    "BriefDescription": "[계속 자는거 아니죠?]\n슬라이드 8000초 동안 하기"
+  },
+  {
+    "__pkey": "50102309",
+    "BriefDescription": "[아픈만큼 성숙한다]\n장애물 1000번 부딪히기"
+  },
+  {
+    "__pkey": "50103000",
+    "BriefDescription": "[아픈만큼 성숙한다]\n장애물 50번 부딪히기"
+  },
+  {
+    "__pkey": "50103001",
+    "BriefDescription": "[아픈만큼 성숙한다]\n장애물 100번 부딪히기"
+  },
+  {
+    "__pkey": "50103002",
+    "BriefDescription": "[아픈만큼 성숙한다]\n장애물 200번 부딪히기"
+  },
+  {
+    "__pkey": "50103003",
+    "BriefDescription": "[아픈만큼 성숙한다]\n장애물 300번 부딪히기"
+  },
+  {
+    "__pkey": "50103004",
+    "BriefDescription": "[아픈만큼 성숙한다]\n장애물 400번 부딪히기"
+  },
+  {
+    "__pkey": "50103005",
+    "BriefDescription": "[아픈만큼 성숙한다]\n장애물 500번 부딪히기"
+  },
+  {
+    "__pkey": "50103006",
+    "BriefDescription": "[번지킹]\n구멍에 1000번 빠지기"
+  },
+  {
+    "__pkey": "50103100",
+    "BriefDescription": "[번지킹]\n구멍에 50번 빠지기"
+  },
+  {
+    "__pkey": "50103101",
+    "BriefDescription": "[번지킹]\n구멍에 100번 빠지기"
+  },
+  {
+    "__pkey": "50103102",
+    "BriefDescription": "[번지킹]\n구멍에 200번 빠지기"
+  },
+  {
+    "__pkey": "50103103",
+    "BriefDescription": "[번지킹]\n구멍에 300번 빠지기"
+  },
+  {
+    "__pkey": "50103104",
+    "BriefDescription": "[번지킹]\n구멍에 400번 빠지기"
+  },
+  {
+    "__pkey": "50103105",
+    "BriefDescription": "[번지킹]\n구멍에 500번 빠지기"
+  },
+  {
+    "__pkey": "50103106",
+    "BriefDescription": "[한계를 모르는 쿠키]\n100000초 동안 달리기"
+  },
+  {
+    "__pkey": "50103400",
+    "BriefDescription": "[한계를 모르는 쿠키]\n5000초 동안 달리기"
+  },
+  {
+    "__pkey": "50103401",
+    "BriefDescription": "[한계를 모르는 쿠키]\n10000초 동안 달리기"
+  },
+  {
+    "__pkey": "50103402",
+    "BriefDescription": "[한계를 모르는 쿠키]\n20000초 동안 달리기"
+  },
+  {
+    "__pkey": "50103403",
+    "BriefDescription": "[한계를 모르는 쿠키]\n30000초 동안 달리기"
+  },
+  {
+    "__pkey": "50103404",
+    "BriefDescription": "[한계를 모르는 쿠키]\n40000초 동안 달리기"
+  },
+  {
+    "__pkey": "50103405",
+    "BriefDescription": "[한계를 모르는 쿠키]\n50000초 동안 달리기"
+  },
+  {
+    "__pkey": "50103406",
+    "BriefDescription": "[더 많이 먹고 힘내!]\n거대생명물약 500개 먹기"
+  },
+  {
+    "__pkey": "50103500",
+    "BriefDescription": "[더 많이 먹고 힘내!]\n거대생명물약 3개 먹기"
+  },
+  {
+    "__pkey": "50103501",
+    "BriefDescription": "[더 많이 먹고 힘내!]\n거대생명물약 10개 먹기"
+  },
+  {
+    "__pkey": "50103502",
+    "BriefDescription": "[더 많이 먹고 힘내!]\n거대생명물약 30개 먹기"
+  },
+  {
+    "__pkey": "50103503",
+    "BriefDescription": "[더 많이 먹고 힘내!]\n거대생명물약 80개 먹기"
+  },
+  {
+    "__pkey": "50103504",
+    "BriefDescription": "[더 많이 먹고 힘내!]\n거대생명물약 150개 먹기"
+  },
+  {
+    "__pkey": "50103505",
+    "BriefDescription": "[더 많이 먹고 힘내!]\n거대생명물약 300개 먹기"
+  },
+  {
+    "__pkey": "50103506",
+    "BriefDescription": "[죽음, 더 나를 막지 못 해]\n부활 1000번 하기"
+  },
+  {
+    "__pkey": "50103600",
+    "BriefDescription": "[죽음, 더 나를 막지 못 해]\n부활 50번 하기"
+  },
+  {
+    "__pkey": "50103601",
+    "BriefDescription": "[죽음, 더 나를 막지 못 해]\n부활 100번 하기"
+  },
+  {
+    "__pkey": "50103602",
+    "BriefDescription": "[죽음, 더 나를 막지 못 해]\n부활 200번 하기"
+  },
+  {
+    "__pkey": "50103603",
+    "BriefDescription": "[죽음, 더 나를 막지 못 해]\n부활 300번 하기"
+  },
+  {
+    "__pkey": "50103604",
+    "BriefDescription": "[죽음, 더 나를 막지 못 해]\n부활 400번 하기"
+  },
+  {
+    "__pkey": "50103605",
+    "BriefDescription": "[죽음, 더 나를 막지 못 해]\n부활 500번 하기"
+  },
+  {
+    "__pkey": "50103606",
+    "BriefDescription": "[코인모아 태산]\n500만 코인 획득하기"
+  },
+  {
+    "__pkey": "50103700",
+    "BriefDescription": "[코인모아 태산]\n1만 코인 획득하기"
+  },
+  {
+    "__pkey": "50103701",
+    "BriefDescription": "[코인모아 태산]\n5만 코인 획득하기"
+  },
+  {
+    "__pkey": "50103702",
+    "BriefDescription": "[코인모아 태산]\n10만 코인 획득하기"
+  },
+  {
+    "__pkey": "50103703",
+    "BriefDescription": "[코인모아 태산]\n50만 코인 획득하기"
+  },
+  {
+    "__pkey": "50103704",
+    "BriefDescription": "[코인모아 태산]\n100만 코인 획득하기"
+  },
+  {
+    "__pkey": "50103705",
+    "BriefDescription": "[코인모아 태산]\n200만 코인 획득하기"
+  },
+  {
+    "__pkey": "50103706",
+    "BriefDescription": "[코인모아 태산]\n1000만 코인 획득하기"
+  },
+  {
+    "__pkey": "50103708",
+    "BriefDescription": "[연륜이 느껴져]\n경험치 10000 획득하기"
+  },
+  {
+    "__pkey": "50103901",
+    "BriefDescription": "[연륜이 느껴져]\n경험치 20000 획득하기"
+  },
+  {
+    "__pkey": "50103902",
+    "BriefDescription": "[연륜이 느껴져]\n경험치 40000 획득하기"
+  },
+  {
+    "__pkey": "50103903",
+    "BriefDescription": "[연륜이 느껴져]\n경험치 80000 획득하기"
+  },
+  {
+    "__pkey": "50103904",
+    "BriefDescription": "[연륜이 느껴져]\n경험치 150000 획득하기"
+  },
+  {
+    "__pkey": "50103905",
+    "BriefDescription": "[연륜이 느껴져]\n경험치 300000 획득하기"
+  },
+  {
+    "__pkey": "50103906",
+    "BriefDescription": "[연륜이 느껴져]\n경험치 1000000 획득하기"
+  },
+  {
+    "__pkey": "50103907",
+    "BriefDescription": "[연륜이 느껴져]\n경험치 1500000 획득하기"
+  },
+  {
+    "__pkey": "50103908",
+    "BriefDescription": "[실패는 성공의 어머니]\n보물 진화 10회 실패하기"
+  },
+  {
+    "__pkey": "502",
+    "BriefDescription": "[실패는 성공의 어머니]\n보물 진화 15회 실패하기"
+  },
+  {
+    "__pkey": "503",
+    "BriefDescription": "[실패는 성공의 어머니]\n보물 진화 20회 실패하기"
+  },
+  {
+    "__pkey": "504",
+    "BriefDescription": "[실패는 성공의 어머니]\n보물 진화 30회 실패하기"
+  },
+  {
+    "__pkey": "505",
+    "BriefDescription": "[실패는 성공의 어머니]\n보물 진화 40회 실패하기"
+  },
+  {
+    "__pkey": "506",
+    "BriefDescription": "[실패는 성공의 어머니]\n보물 진화 50회 실패하기"
+  },
+  {
+    "__pkey": "507",
+    "BriefDescription": "[실패는 성공의 어머니]\n보물 진화 60회 실패하기"
+  },
+  {
+    "__pkey": "508",
+    "BriefDescription": "[실패는 성공의 어머니]\n보물 진화 80회 실패하기"
+  },
+  {
+    "__pkey": "509",
+    "BriefDescription": "[럭키쿠키]\n보물 진화 50회 성공하기"
+  },
+  {
+    "__pkey": "600",
+    "BriefDescription": "[럭키쿠키]\n보물 진화 1회 성공하기"
+  },
+  {
+    "__pkey": "601",
+    "BriefDescription": "[럭키쿠키]\n보물 진화 2회 성공하기"
+  },
+  {
+    "__pkey": "602",
+    "BriefDescription": "[럭키쿠키]\n보물 진화 4회 성공하기"
+  },
+  {
+    "__pkey": "603",
+    "BriefDescription": "[럭키쿠키]\n보물 진화 7회 성공하기"
+  },
+  {
+    "__pkey": "604",
+    "BriefDescription": "[럭키쿠키]\n보물 진화 10회 성공하기"
+  },
+  {
+    "__pkey": "605",
+    "BriefDescription": "[럭키쿠키]\n보물 진화 15회 성공하기"
+  },
+  {
+    "__pkey": "606",
+    "BriefDescription": "[럭키쿠키]\n보물 진화 20회 성공하기"
+  },
+  {
+    "__pkey": "607",
+    "BriefDescription": "[럭키쿠키]\n보물 진화 30회 성공하기"
+  },
+  {
+    "__pkey": "608",
+    "BriefDescription": "[럭키쿠키]\n보물 진화 40회 성공하기"
+  },
+  {
+    "__pkey": "609",
+    "BriefDescription": "[전설의 럭키쿠키]\n보물 진화 50회 대성공하기"
+  },
+  {
+    "__pkey": "700",
+    "BriefDescription": "[전설의 럭키쿠키]\n보물 진화 1회 대성공하기"
+  },
+  {
+    "__pkey": "701",
+    "BriefDescription": "[전설의 럭키쿠키]\n보물 진화 2회 대성공하기"
+  },
+  {
+    "__pkey": "702",
+    "BriefDescription": "[전설의 럭키쿠키]\n보물 진화 4회 대성공하기"
+  },
+  {
+    "__pkey": "703",
+    "BriefDescription": "[전설의 럭키쿠키]\n보물 진화 7회 대성공하기"
+  },
+  {
+    "__pkey": "704",
+    "BriefDescription": "[전설의 럭키쿠키]\n보물 진화 10회 대성공하기"
+  },
+  {
+    "__pkey": "705",
+    "BriefDescription": "[전설의 럭키쿠키]\n보물 진화 15회 대성공하기"
+  },
+  {
+    "__pkey": "706",
+    "BriefDescription": "[전설의 럭키쿠키]\n보물 진화 20회 대성공하기"
+  },
+  {
+    "__pkey": "707",
+    "BriefDescription": "[전설의 럭키쿠키]\n보물 진화 30회 대성공하기"
+  },
+  {
+    "__pkey": "708",
+    "BriefDescription": "[전설의 럭키쿠키]\n보물 진화 40회 대성공하기"
+  },
+  {
+    "__pkey": "709",
+    "BriefDescription": "[행복한 쿠키마을]\n쿠키 40개 보유"
+  },
+  {
+    "__pkey": "800",
+    "BriefDescription": "[행복한 쿠키마을]\n쿠키 5개 보유"
+  },
+  {
+    "__pkey": "801",
+    "BriefDescription": "[행복한 쿠키마을]\n쿠키 10개 보유"
+  },
+  {
+    "__pkey": "802",
+    "BriefDescription": "[행복한 쿠키마을]\n쿠키 15개 보유"
+  },
+  {
+    "__pkey": "803",
+    "BriefDescription": "[행복한 쿠키마을]\n쿠키 20개 보유"
+  },
+  {
+    "__pkey": "804",
+    "BriefDescription": "[행복한 쿠키마을]\n쿠키 25개 보유"
+  },
+  {
+    "__pkey": "805",
+    "BriefDescription": "[행복한 쿠키마을]\n쿠키 30개 보유"
+  },
+  {
+    "__pkey": "806",
+    "BriefDescription": "[행복한 쿠키마을]\n쿠키 35개 보유"
+  },
+  {
+    "__pkey": "807",
+    "BriefDescription": "[즐거운 쿠키마을]\n펫 40개 보유"
+  },
+  {
+    "__pkey": "900",
+    "BriefDescription": "[즐거운 쿠키마을]\n펫 5개 보유"
+  },
+  {
+    "__pkey": "901",
+    "BriefDescription": "[즐거운 쿠키마을]\n펫 10개 보유"
+  },
+  {
+    "__pkey": "902",
+    "BriefDescription": "[즐거운 쿠키마을]\n펫 15개 보유"
+  },
+  {
+    "__pkey": "903",
+    "BriefDescription": "[즐거운 쿠키마을]\n펫 20개 보유"
+  },
+  {
+    "__pkey": "904",
+    "BriefDescription": "[즐거운 쿠키마을]\n펫 25개 보유"
+  },
+  {
+    "__pkey": "905",
+    "BriefDescription": "[즐거운 쿠키마을]\n펫 30개 보유"
+  },
+  {
+    "__pkey": "906",
+    "BriefDescription": "[즐거운 쿠키마을]\n펫 35개 보유"
+  }
+]

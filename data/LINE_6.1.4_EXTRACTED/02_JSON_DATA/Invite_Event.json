@@ -1,0 +1,43 @@
+[
+  {
+    "ImageName": "invite_gift_trTicketSS.png",
+    "RewardViewValue": "1",
+    "StuffSeq": "853",
+    "inviteCount": "3"
+  },
+  {
+    "__pkey": "1",
+    "ImageName": "invite_gift_egg.png",
+    "RewardViewValue": "1",
+    "StuffSeq": "803",
+    "inviteCount": "10"
+  },
+  {
+    "__pkey": "2",
+    "ImageName": "invite_gift_ch13.png",
+    "RewardViewValue": "1",
+    "StuffSeq": "101301",
+    "inviteCount": "20"
+  },
+  {
+    "__pkey": "3",
+    "ImageName": "invite_gift_pet29.png",
+    "RewardViewValue": "1",
+    "StuffSeq": "202901",
+    "inviteCount": "30"
+  },
+  {
+    "__pkey": "4",
+    "ImageName": "invite_gift_ch47.png",
+    "RewardViewValue": "1",
+    "StuffSeq": "104701",
+    "inviteCount": "40"
+  },
+  {
+    "__pkey": "5",
+    "ImageName": "invite_gift_gem.png",
+    "RewardViewValue": "100",
+    "StuffSeq": "7770100",
+    "inviteCount": "50"
+  }
+]

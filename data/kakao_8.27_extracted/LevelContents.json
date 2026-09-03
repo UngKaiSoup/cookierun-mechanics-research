@@ -1,0 +1,561 @@
+[
+  {
+    "BonusScore": "0",
+    "Exp": "0",
+    "Reward_Coin": "10000",
+    "Reward_Gem": "1"
+  },
+  {
+    "__pkey": "1",
+    "BonusScore": "90",
+    "Exp": "75000",
+    "Reward_Coin": "20000",
+    "Reward_Gem": "2"
+  },
+  {
+    "__pkey": "10",
+    "BonusScore": "100",
+    "Exp": "98000",
+    "Reward_Coin": "6000",
+    "Reward_Gem": "1"
+  },
+  {
+    "__pkey": "11",
+    "BonusScore": "110",
+    "Exp": "128000",
+    "Reward_Coin": "6000",
+    "Reward_Gem": "1"
+  },
+  {
+    "__pkey": "12",
+    "BonusScore": "120",
+    "Exp": "156000",
+    "Reward_Coin": "6000",
+    "Reward_Gem": "1"
+  },
+  {
+    "__pkey": "13",
+    "BonusScore": "130",
+    "Exp": "182000",
+    "Reward_Coin": "6000",
+    "Reward_Gem": "1"
+  },
+  {
+    "__pkey": "14",
+    "BonusScore": "140",
+    "Exp": "210000",
+    "Reward_Coin": "15000",
+    "Reward_Gem": "1"
+  },
+  {
+    "__pkey": "15",
+    "BonusScore": "150",
+    "Exp": "240000",
+    "Reward_Coin": "6000",
+    "Reward_Gem": "1"
+  },
+  {
+    "__pkey": "16",
+    "BonusScore": "160",
+    "Exp": "272000",
+    "Reward_Coin": "6000",
+    "Reward_Gem": "1"
+  },
+  {
+    "__pkey": "17",
+    "BonusScore": "170",
+    "Exp": "306000",
+    "Reward_Coin": "6000",
+    "Reward_Gem": "1"
+  },
+  {
+    "__pkey": "18",
+    "BonusScore": "180",
+    "Exp": "342000",
+    "Reward_Coin": "6000",
+    "Reward_Gem": "1"
+  },
+  {
+    "__pkey": "19",
+    "BonusScore": "10",
+    "Exp": "1500",
+    "Reward_Coin": "5000",
+    "Reward_Gem": "1"
+  },
+  {
+    "__pkey": "2",
+    "BonusScore": "190",
+    "Exp": "380000",
+    "Reward_Coin": "30000",
+    "Reward_Gem": "3"
+  },
+  {
+    "__pkey": "20",
+    "BonusScore": "200",
+    "Exp": "420000",
+    "Reward_Coin": "7000",
+    "Reward_Gem": "1"
+  },
+  {
+    "__pkey": "21",
+    "BonusScore": "210",
+    "Exp": "462000",
+    "Reward_Coin": "7000",
+    "Reward_Gem": "1"
+  },
+  {
+    "__pkey": "22",
+    "BonusScore": "220",
+    "Exp": "506000",
+    "Reward_Coin": "7000",
+    "Reward_Gem": "1"
+  },
+  {
+    "__pkey": "23",
+    "BonusScore": "230",
+    "Exp": "552000",
+    "Reward_Coin": "7000",
+    "Reward_Gem": "1"
+  },
+  {
+    "__pkey": "24",
+    "BonusScore": "240",
+    "Exp": "600000",
+    "Reward_Coin": "15000",
+    "Reward_Gem": "1"
+  },
+  {
+    "__pkey": "25",
+    "BonusScore": "250",
+    "Exp": "650000",
+    "Reward_Coin": "7000",
+    "Reward_Gem": "1"
+  },
+  {
+    "__pkey": "26",
+    "BonusScore": "260",
+    "Exp": "702000",
+    "Reward_Coin": "7000",
+    "Reward_Gem": "1"
+  },
+  {
+    "__pkey": "27",
+    "BonusScore": "270",
+    "Exp": "756000",
+    "Reward_Coin": "7000",
+    "Reward_Gem": "1"
+  },
+  {
+    "__pkey": "28",
+    "BonusScore": "280",
+    "Exp": "812000",
+    "Reward_Coin": "7000",
+    "Reward_Gem": "1"
+  },
+  {
+    "__pkey": "29",
+    "BonusScore": "20",
+    "Exp": "4000",
+    "Reward_Coin": "5000",
+    "Reward_Gem": "1"
+  },
+  {
+    "__pkey": "3",
+    "BonusScore": "290",
+    "Exp": "870000",
+    "Reward_Coin": "30000",
+    "Reward_Gem": "4"
+  },
+  {
+    "__pkey": "30",
+    "BonusScore": "300",
+    "Exp": "930000",
+    "Reward_Coin": "8000",
+    "Reward_Gem": "1"
+  },
+  {
+    "__pkey": "31",
+    "BonusScore": "310",
+    "Exp": "992000",
+    "Reward_Coin": "8000",
+    "Reward_Gem": "1"
+  },
+  {
+    "__pkey": "32",
+    "BonusScore": "320",
+    "Exp": "1056000",
+    "Reward_Coin": "8000",
+    "Reward_Gem": "1"
+  },
+  {
+    "__pkey": "33",
+    "BonusScore": "330",
+    "Exp": "1122000",
+    "Reward_Coin": "8000",
+    "Reward_Gem": "1"
+  },
+  {
+    "__pkey": "34",
+    "BonusScore": "340",
+    "Exp": "1190000",
+    "Reward_Coin": "15000",
+    "Reward_Gem": "1"
+  },
+  {
+    "__pkey": "35",
+    "BonusScore": "350",
+    "Exp": "1260000",
+    "Reward_Coin": "8000",
+    "Reward_Gem": "1"
+  },
+  {
+    "__pkey": "36",
+    "BonusScore": "360",
+    "Exp": "1332000",
+    "Reward_Coin": "8000",
+    "Reward_Gem": "1"
+  },
+  {
+    "__pkey": "37",
+    "BonusScore": "370",
+    "Exp": "1406000",
+    "Reward_Coin": "8000",
+    "Reward_Gem": "1"
+  },
+  {
+    "__pkey": "38",
+    "BonusScore": "380",
+    "Exp": "1482000",
+    "Reward_Coin": "8000",
+    "Reward_Gem": "1"
+  },
+  {
+    "__pkey": "39",
+    "BonusScore": "30",
+    "Exp": "9000",
+    "Reward_Coin": "5000",
+    "Reward_Gem": "1"
+  },
+  {
+    "__pkey": "4",
+    "BonusScore": "390",
+    "Exp": "1575600",
+    "Reward_Coin": "30000",
+    "Reward_Gem": "5"
+  },
+  {
+    "__pkey": "40",
+    "BonusScore": "400",
+    "Exp": "1735600",
+    "Reward_Coin": "9000",
+    "Reward_Gem": "1"
+  },
+  {
+    "__pkey": "41",
+    "BonusScore": "410",
+    "Exp": "1916000",
+    "Reward_Coin": "9000",
+    "Reward_Gem": "1"
+  },
+  {
+    "__pkey": "42",
+    "BonusScore": "420",
+    "Exp": "2117600",
+    "Reward_Coin": "9000",
+    "Reward_Gem": "1"
+  },
+  {
+    "__pkey": "43",
+    "BonusScore": "430",
+    "Exp": "2341200",
+    "Reward_Coin": "9000",
+    "Reward_Gem": "1"
+  },
+  {
+    "__pkey": "44",
+    "BonusScore": "440",
+    "Exp": "2587600",
+    "Reward_Coin": "15000",
+    "Reward_Gem": "1"
+  },
+  {
+    "__pkey": "45",
+    "BonusScore": "450",
+    "Exp": "2857600",
+    "Reward_Coin": "9000",
+    "Reward_Gem": "1"
+  },
+  {
+    "__pkey": "46",
+    "BonusScore": "460",
+    "Exp": "3161200",
+    "Reward_Coin": "9000",
+    "Reward_Gem": "1"
+  },
+  {
+    "__pkey": "47",
+    "BonusScore": "470",
+    "Exp": "3499600",
+    "Reward_Coin": "9000",
+    "Reward_Gem": "1"
+  },
+  {
+    "__pkey": "48",
+    "BonusScore": "480",
+    "Exp": "3883600",
+    "Reward_Coin": "9000",
+    "Reward_Gem": "1"
+  },
+  {
+    "__pkey": "49",
+    "BonusScore": "40",
+    "Exp": "15000",
+    "Reward_Coin": "10000",
+    "Reward_Gem": "1"
+  },
+  {
+    "__pkey": "5",
+    "BonusScore": "490",
+    "Exp": "4373600",
+    "Reward_Coin": "30000",
+    "Reward_Gem": "10"
+  },
+  {
+    "__pkey": "50",
+    "BonusScore": "491",
+    "Exp": "4723600",
+    "Reward_Coin": "10000",
+    "Reward_Gem": "11"
+  },
+  {
+    "__pkey": "51",
+    "BonusScore": "492",
+    "Exp": "5103600",
+    "Reward_Coin": "10000",
+    "Reward_Gem": "12"
+  },
+  {
+    "__pkey": "52",
+    "BonusScore": "493",
+    "Exp": "5513600",
+    "Reward_Coin": "10000",
+    "Reward_Gem": "13"
+  },
+  {
+    "__pkey": "53",
+    "BonusScore": "494",
+    "Exp": "6003600",
+    "Reward_Coin": "10000",
+    "Reward_Gem": "14"
+  },
+  {
+    "__pkey": "54",
+    "BonusScore": "495",
+    "Exp": "6542600",
+    "Reward_Coin": "15000",
+    "Reward_Gem": "15"
+  },
+  {
+    "__pkey": "55",
+    "BonusScore": "496",
+    "Exp": "7135500",
+    "Reward_Coin": "10000",
+    "Reward_Gem": "16"
+  },
+  {
+    "__pkey": "56",
+    "BonusScore": "497",
+    "Exp": "7787690",
+    "Reward_Coin": "10000",
+    "Reward_Gem": "17"
+  },
+  {
+    "__pkey": "57",
+    "BonusScore": "498",
+    "Exp": "8505099",
+    "Reward_Coin": "10000",
+    "Reward_Gem": "18"
+  },
+  {
+    "__pkey": "58",
+    "BonusScore": "499",
+    "Exp": "9294249",
+    "Reward_Coin": "10000",
+    "Reward_Gem": "19"
+  },
+  {
+    "__pkey": "59",
+    "BonusScore": "50",
+    "Exp": "24000",
+    "Reward_Coin": "5000",
+    "Reward_Gem": "1"
+  },
+  {
+    "__pkey": "6",
+    "BonusScore": "500",
+    "Exp": "10162314",
+    "Reward_Coin": "30000",
+    "Reward_Gem": "20"
+  },
+  {
+    "__pkey": "60",
+    "BonusScore": "501",
+    "Exp": "10570000",
+    "Reward_Coin": "10000",
+    "Reward_Gem": "20"
+  },
+  {
+    "__pkey": "61",
+    "BonusScore": "502",
+    "Exp": "11060000",
+    "Reward_Coin": "10000",
+    "Reward_Gem": "20"
+  },
+  {
+    "__pkey": "62",
+    "BonusScore": "503",
+    "Exp": "11600000",
+    "Reward_Coin": "10000",
+    "Reward_Gem": "20"
+  },
+  {
+    "__pkey": "63",
+    "BonusScore": "504",
+    "Exp": "12250000",
+    "Reward_Coin": "10000",
+    "Reward_Gem": "20"
+  },
+  {
+    "__pkey": "64",
+    "BonusScore": "505",
+    "Exp": "12970000",
+    "Reward_Coin": "15000",
+    "Reward_Gem": "20"
+  },
+  {
+    "__pkey": "65",
+    "BonusScore": "506",
+    "Exp": "13820000",
+    "Reward_Coin": "10000",
+    "Reward_Gem": "20"
+  },
+  {
+    "__pkey": "66",
+    "BonusScore": "507",
+    "Exp": "14820000",
+    "Reward_Coin": "10000",
+    "Reward_Gem": "20"
+  },
+  {
+    "__pkey": "67",
+    "BonusScore": "508",
+    "Exp": "16020000",
+    "Reward_Coin": "10000",
+    "Reward_Gem": "20"
+  },
+  {
+    "__pkey": "68",
+    "BonusScore": "509",
+    "Exp": "17520000",
+    "Reward_Coin": "10000",
+    "Reward_Gem": "20"
+  },
+  {
+    "__pkey": "69",
+    "BonusScore": "60",
+    "Exp": "36000",
+    "Reward_Coin": "5000",
+    "Reward_Gem": "1"
+  },
+  {
+    "__pkey": "7",
+    "BonusScore": "510",
+    "Exp": "19520000",
+    "Reward_Coin": "30000",
+    "Reward_Gem": "20"
+  },
+  {
+    "__pkey": "70",
+    "BonusScore": "511",
+    "Exp": "20220000",
+    "Reward_Coin": "10000",
+    "Reward_Gem": "20"
+  },
+  {
+    "__pkey": "71",
+    "BonusScore": "512",
+    "Exp": "21120000",
+    "Reward_Coin": "10000",
+    "Reward_Gem": "20"
+  },
+  {
+    "__pkey": "72",
+    "BonusScore": "513",
+    "Exp": "22220000",
+    "Reward_Coin": "10000",
+    "Reward_Gem": "20"
+  },
+  {
+    "__pkey": "73",
+    "BonusScore": "514",
+    "Exp": "23620000",
+    "Reward_Coin": "10000",
+    "Reward_Gem": "20"
+  },
+  {
+    "__pkey": "74",
+    "BonusScore": "515",
+    "Exp": "25320000",
+    "Reward_Coin": "20000",
+    "Reward_Gem": "20"
+  },
+  {
+    "__pkey": "75",
+    "BonusScore": "516",
+    "Exp": "27320000",
+    "Reward_Coin": "10000",
+    "Reward_Gem": "20"
+  },
+  {
+    "__pkey": "76",
+    "BonusScore": "517",
+    "Exp": "29620000",
+    "Reward_Coin": "10000",
+    "Reward_Gem": "20"
+  },
+  {
+    "__pkey": "77",
+    "BonusScore": "518",
+    "Exp": "32220000",
+    "Reward_Coin": "10000",
+    "Reward_Gem": "20"
+  },
+  {
+    "__pkey": "78",
+    "BonusScore": "519",
+    "Exp": "35220000",
+    "Reward_Coin": "10000",
+    "Reward_Gem": "20"
+  },
+  {
+    "__pkey": "79",
+    "BonusScore": "70",
+    "Exp": "42000",
+    "Reward_Coin": "5000",
+    "Reward_Gem": "1"
+  },
+  {
+    "__pkey": "8",
+    "BonusScore": "520",
+    "Exp": "38720000",
+    "Reward_Coin": "40000",
+    "Reward_Gem": "20"
+  },
+  {
+    "__pkey": "80",
+    "BonusScore": "80",
+    "Exp": "53000",
+    "Reward_Coin": "5000",
+    "Reward_Gem": "1"
+  }
+]

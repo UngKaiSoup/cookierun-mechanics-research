@@ -1,0 +1,23 @@
+[
+  {
+    "CcbiFileName": "c_event_mailbox_life.ccbi",
+    "CollectEventStrId": "LifeReceiveEvent",
+    "EventEndTime": "2015-05-10 23:59:59",
+    "EventStartTime": "2015-05-01 00:00:01",
+    "MissionCond_1": "50",
+    "MissionCond_2": "100",
+    "MissionCond_3": "160",
+    "MissionCond_4": "220",
+    "MissionCond_5": "300",
+    "MissionCond_6": "0",
+    "MissionCond_7": "0",
+    "MissionId_1": "2755",
+    "MissionId_2": "2760",
+    "MissionId_3": "2761",
+    "MissionId_4": "2762",
+    "MissionId_5": "2763",
+    "MissionId_6": "0",
+    "MissionId_7": "0",
+    "NumOfReward": "5"
+  }
+]

@@ -1,0 +1,146 @@
+[
+  {
+    "image": "map_rankLevel00.png",
+    "winCount": "0"
+  },
+  {
+    "__pkey": "1",
+    "image": "map_rankLevel09.png",
+    "winCount": "1000"
+  },
+  {
+    "__pkey": "10",
+    "image": "map_rankLevel10.png",
+    "winCount": "1500"
+  },
+  {
+    "__pkey": "11",
+    "image": "map_rankLevel11.png",
+    "winCount": "2000"
+  },
+  {
+    "__pkey": "12",
+    "image": "map_rankLevel12.png",
+    "winCount": "2500"
+  },
+  {
+    "__pkey": "13",
+    "image": "map_rankLevel13.png",
+    "winCount": "3000"
+  },
+  {
+    "__pkey": "14",
+    "image": "map_rankLevel14.png",
+    "winCount": "4000"
+  },
+  {
+    "__pkey": "15",
+    "image": "map_rankLevel15.png",
+    "winCount": "5000"
+  },
+  {
+    "__pkey": "16",
+    "image": "map_rankLevel16.png",
+    "winCount": "6000"
+  },
+  {
+    "__pkey": "17",
+    "image": "map_rankLevel17.png",
+    "winCount": "7000"
+  },
+  {
+    "__pkey": "18",
+    "image": "map_rankLevel18.png",
+    "winCount": "9000"
+  },
+  {
+    "__pkey": "19",
+    "image": "map_rankLevel01.png",
+    "winCount": "1"
+  },
+  {
+    "__pkey": "2",
+    "image": "map_rankLevel19.png",
+    "winCount": "11000"
+  },
+  {
+    "__pkey": "20",
+    "image": "map_rankLevel20.png",
+    "winCount": "13000"
+  },
+  {
+    "__pkey": "21",
+    "image": "map_rankLevel21.png",
+    "winCount": "15000"
+  },
+  {
+    "__pkey": "22",
+    "image": "map_rankLevel22.png",
+    "winCount": "18000"
+  },
+  {
+    "__pkey": "23",
+    "image": "map_rankLevel23.png",
+    "winCount": "23000"
+  },
+  {
+    "__pkey": "24",
+    "image": "map_rankLevel24.png",
+    "winCount": "30000"
+  },
+  {
+    "__pkey": "25",
+    "image": "map_rankLevel25.png",
+    "winCount": "40000"
+  },
+  {
+    "__pkey": "26",
+    "image": "map_rankLevel26.png",
+    "winCount": "55000"
+  },
+  {
+    "__pkey": "27",
+    "image": "map_rankLevel27.png",
+    "winCount": "70000"
+  },
+  {
+    "__pkey": "28",
+    "image": "map_rankLevel28.png",
+    "winCount": "85000"
+  },
+  {
+    "__pkey": "29",
+    "image": "map_rankLevel02.png",
+    "winCount": "25"
+  },
+  {
+    "__pkey": "3",
+    "image": "map_rankLevel03.png",
+    "winCount": "50"
+  },
+  {
+    "__pkey": "4",
+    "image": "map_rankLevel04.png",
+    "winCount": "75"
+  },
+  {
+    "__pkey": "5",
+    "image": "map_rankLevel05.png",
+    "winCount": "100"
+  },
+  {
+    "__pkey": "6",
+    "image": "map_rankLevel06.png",
+    "winCount": "250"
+  },
+  {
+    "__pkey": "7",
+    "image": "map_rankLevel07.png",
+    "winCount": "500"
+  },
+  {
+    "__pkey": "8",
+    "image": "map_rankLevel08.png",
+    "winCount": "750"
+  }
+]
