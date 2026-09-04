@@ -11,8 +11,9 @@
 ## 📑 Table of Contents
 - [🌟 Key Findings & Mythbusting](#-key-findings--mythbusting)
   - [1. The Toy Ambulance Formula](#1-the-toy-ambulance-formula)
-  - [2. The 15% Mathematical Proof](#2-the-15-vs-16-mathematical-proof)
-  - [3. The Level 60 HP Upgrade Question](#3-the-level-60-hp-upgrade-question)
+  - [2. World Scroll Speed & Foreground Mechanics](#2-world-scroll-speed--foreground-mechanics)
+  - [3. The 15% Mathematical Proof & Gamma Derivation](#3-the-15-mathematical-proof--gamma-derivation)
+  - [4. The Level 60 HP Upgrade Question](#4-the-level-60-hp-upgrade-question)
 - [📁 Repository Structure](#-repository-structure)
 - [📊 Visual Graphs & Charts](#-visual-graphs--charts)
 - [🛠️ Tooling & How to Extract Game Data](#️-tooling--how-to-extract-game-data)
@@ -26,7 +27,7 @@
 ## 🌟 Key Findings & Mythbusting
 
 ### 1. The Toy Ambulance Formula
-For years, the community debated whether the **Toy Ambulance** (`작은 구급차 장난감`) made you faster when low on health (an "emergency sprint") or when full on health.
+For years, the community debated whether the **Toy Ambulance** (`작은 구급차 장난感` / `1309510`) made you faster when low on health (an "emergency sprint") or when full on health.
 
 * **Myth:** Lower HP = Faster speed.
 * **Reality (Verified via `libgame.so`):** **Full HP = Maximum Speed (+15.0%)**, linearly tapering down to +0.0% as HP reaches zero.
@@ -36,22 +37,53 @@ $$v(t) = v_{\text{base}} \times \left(1 + 0.150 \times \frac{\text{CurrentHP}(t)
 * In the decompiled binary data (`TreasurePassiveAttr`), Stat ID `1166` (`EMagicStatType_WorldSpeedPropotionToCharacterHealth`) is hardcoded to **`1150`** (which maps to **+15.0%** in Devsisters' engine where `1000 = 100%`).
 * Upgrading the treasure from `+0` to `+9` **does not increase speed** — it only increases the number of revives from 1 to 3!
 
-### 2. The 15% Mathematical Proof
+### 2. World Scroll Speed & Foreground Mechanics
+In Cookie Run, the character does not traverse an open map; the runner is anchored at fixed screen coordinates ($X \approx 180-240$), while the engine (`DSXLibrary::CRXWorld`) scrolls the world to the left:
+
+* **Foreground World Speed (`speed` in `MapStageScenario`):** Governs the actual velocity at which platforms, obstacles, and jellies approach the runner.
+  * Extracted directly from `data/kakao_8.27_extracted/MapStageScenario_epN01.json` (and LINE edition):
+    * **Stage 1 (`epN01_tm01`):** `870 – 900 px/s`
+    * **Stage 2 (`epN01_tm02`):** `900 – 930 px/s`
+    * **Stage 3 (`epN01_tm03`):** `950 px/s`
+    * **Stage 4 (`epN01_tm04`):** `950 – 1,000 px/s`
+    * **Stage 5 (`epN01_tm05`):** `1,000 – 1,030 px/s`
+    * **Stage 6 (`epN01_tm06`):** `1,050 px/s`
+    * **Stage 7 (`epN01_tm07`):** `1,070 px/s`
+    * **Stage 10 (`epN01_tm10`):** `1,220 px/s`
+    * **Stage 11 Loop (`epN01_tm11`):** up to **`1,500 px/s`** (**+64.8%** acceleration over Stage 1!)
+* **Naming Conventions:**
+  * **`tm`** = **Theme / Normal Stages:** Ground runner sections (e.g. `epN01_tm01` = Stage 1, `epN01_tm02` = Stage 2).
+  * **`bt`** = **Bonus Time:** Flying cloud mini-stages (e.g. `epN01_bt01` at 1,300 px/s, `epN01_bt03` at 870 px/s).
+* **Parallax Scrolling (Background Layers):**
+  In `MapStageThemeData_BigChange.json`, background speeds are relative parallax multipliers (`Bg1_MoveRate: 0.1`, `Bg2_MoveRate: 0.3`, `Bg3_MoveRate: 0.6`). Foreground platforms and obstacles move at full $1.0 \times \text{speed}$, while background artwork lags behind to create depth.
+
+### 3. The 15% Mathematical Proof & Gamma ($\gamma \approx 1.12$) Derivation
 When running empirical tests under strictly controlled conditions (0 items, 0 bonus time, 1 Speed Blast of 2.0s, crash at 11% HP):
 * **Baseline Run (No Ambulance):** 1,802 EXP (~90.10s)
 * **Ambulance Run:** 1,658 EXP (~82.90s)
+* **Net Empirical Ratio:** $\text{Ratio} = 90.10 / 82.90 = 1.08685 \quad (+8.685\%)$
 
-Simple linear average calculation $((100\% + 11\%) / 2 = 55.5\%)$ leads to an erroneous **~15.65% ~ 16.0%** speed result.
+#### The 10-Year Linear Trap (~16%)
+Assuming a flat, linear HP decay ($\gamma = 1.0$) gives an average HP of $(100\% + 11\%) / 2 = 55.5\%$.
+$$\text{Speed} = \frac{+8.685\%}{0.555} = \mathbf{15.65\% \approx 16\%}$$
+This oversimplified linear assumption led wikis and guides to state the ambulance provided a +16% boost.
 
-However, Cookie Run's world scroll speed accelerates by **+64.8%** from Stage 1 (910 speed) to Stage 10+ (1,500 speed). This causes HP to drain at a non-linear accelerating rate ($\gamma \approx 1.12$). 
+#### The True Calculus Derivation ($\gamma \approx 1.12$)
+Because world scroll speed and stage drain accelerate over time, the cookie spends significantly more time in early stages at higher health. HP decays non-linearly:
+$$\text{HP}(t) = 1.0 - (1.0 - \text{hp}_{\text{end}}) \times \left(\frac{t}{T}\right)^\gamma$$
 
-When integrated via calculus:
-$$\overline{\text{HP}}_{\text{integral}} = 1.0 - \frac{1.0 - 0.11}{1 + 1.12} = \mathbf{58.02\%}$$
+Given the ground-truth binary constant $S_{\text{max}} = 0.150$ (+15.0%) from `libgame.so`:
+$$\overline{\text{HP}}_{\text{true}} = \frac{\text{Ratio} - 1.0}{S_{\text{max}}} = \frac{0.0868516}{0.150} = \mathbf{0.57901} \quad (57.90\%)$$
 
-Subtracting the identical 2.0s Speed Blast from both runs yields:
-$$S_{\text{max}} = \frac{(88.10 / 80.90) - 1.0}{0.5802} \rightarrow \mathbf{15.00\%} \quad (\text{Error: } 0.8 \text{ EXP / } 0.04\text{ seconds!})$$
+Solving the definite integral for $\gamma$:
+$$\overline{\text{HP}} = 1.0 - \frac{1.0 - 0.11}{\gamma + 1} = 0.57901 \implies \gamma = \frac{0.89}{0.42099} - 1.0 = \mathbf{1.1141 \approx 1.12}$$
 
-### 3. The Level 60 HP Upgrade Question
+Substituting the integrated average HP ($58.02\%$) back into the equation with net 2.0s blast deduction yields:
+$$S_{\text{max}} = \frac{(88.10 / 80.90) - 1.0}{0.5802} \rightarrow \mathbf{15.00\%} \quad (\text{Error: } < 0.04\text{s})$$
+
+> 📄 For complete derivations, code snippets, and table schemas, see [`docs/cookie_run_mechanics_source_and_derivation.md`](docs/cookie_run_mechanics_source_and_derivation.md).
+
+### 4. The Level 60 HP Upgrade Question
 * In the lobby shop, players can upgrade account HP up to **Level 60** (granting 260 Energy, stat ID `1022`).
 * **Does this change the speed multiplier?** **No.** The game always evaluates $\frac{\text{CurrentHP}}{\text{MaxHP}}$ on a normalized $0.0 - 1.0$ scale. Level 60 only increases survival time; the relative speed curve remains identical.
 
@@ -150,8 +182,9 @@ To analyze the C++ game engine logic directly:
 ## 📄 Documentation
 
 Line-by-line breakdown and reverse-engineering analysis of the Cookie Run native engine assembly and decompiled C logic:
-* 🇬🇧 **English Version:** [`docs/ghidra_decompiled_code_breakdown_en.md`](docs/ghidra_decompiled_code_breakdown_en.md)
-* 🇹🇭 **ฉบับภาษาไทย:** [`docs/ghidra_decompiled_code_breakdown_th.md`](docs/ghidra_decompiled_code_breakdown_th.md)
+* 🇬🇧 **Ghidra Assembly/C Breakdown (English):** [`docs/ghidra_decompiled_code_breakdown_en.md`](docs/ghidra_decompiled_code_breakdown_en.md)
+* 🇹🇭 **Ghidra Assembly/C Breakdown (ภาษาไทย):** [`docs/ghidra_decompiled_code_breakdown_th.md`](docs/ghidra_decompiled_code_breakdown_th.md)
+* 📐 **Mathematical Derivations & Data Sources Report:** [`docs/cookie_run_mechanics_source_and_derivation.md`](docs/cookie_run_mechanics_source_and_derivation.md)
 
 ---
 
