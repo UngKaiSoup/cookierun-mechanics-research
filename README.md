@@ -32,6 +32,8 @@ For years, the community debated whether the **Toy Ambulance** (`작은 구급�
 * **Myth:** Lower HP = Faster speed.
 * **Reality (Verified via `libgame.so`):** **Full HP = Maximum Speed (+15.0%)**, linearly tapering down to +0.0% as HP reaches zero.
 
+The exact engine formula evaluated every frame:
+
 $$
 v(t) = v_{\text{base}} \times \left(1 + 0.150 \times \frac{\text{CurrentHP}(t)}{\text{MaxHP}}\right)
 $$

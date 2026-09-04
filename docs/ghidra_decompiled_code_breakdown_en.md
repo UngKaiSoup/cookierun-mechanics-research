@@ -48,13 +48,7 @@ void FUN_0032e2b6(void)
   FUN_00377800(unaff_r4 + 0x3c, 0x48e, &stack0x00000058);
 ```
 * **Explanation:** Calls the stat lookup method on the player's active equip container (`unaff_r4 + 0x3c`) for stat ID **`0x48e`**.
-* **Hex Decoding:** `0x48e` in decimal is:
-
-$$
-(4 \times 256) + (8 \times 16) + 14 = \mathbf{1166}
-$$
-
-  This maps directly to `EMagicStatType_WorldSpeedPropotionToCharacterHealth`.
+* **Hex Decoding:** `0x48e` in decimal is $(4 \times 256) + (8 \times 16) + 14 = \mathbf{1166}$, which maps directly to `EMagicStatType_WorldSpeedPropotionToCharacterHealth`.
 * Returns an iterator range: start pointer (`in_stack_00000058`) and end pointer (`in_stack_0000005c`).
 
 ```c
@@ -128,12 +122,7 @@ $$
   2. Promotes to 64-bit double float (`__aeabi_f2d`).
   3. Multiplies via `__aeabi_dmul` by the double constant `(0x3f50624d, 0xd2f1a9fc)`.
   4. **Constant Decoding:** In IEEE-754 Double Precision, `0x3f50624d:d2f1a9fc` equals **`0.001`**.
-     * Example: An integer table value of `1150` yields:
-
-$$
-1150 \times 0.001 = \mathbf{1.150} \quad (\text{or } +15.0\%)
-$$
-
+     * Example: An integer table value of `1150` yields $1150 \times 0.001 = \mathbf{1.150}$ (or $+15.0\%$).
   5. Converts double back to single float (`__aeabi_d2f`) and stores it into the player speed modifier at offset `unaff_r8 + 0x2e`.
 
 ---

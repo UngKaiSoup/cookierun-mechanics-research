@@ -35,20 +35,21 @@ $$
 $$
 
 Results recorded from the post-game summary screens:
-* **Baseline Run (No Ambulance):** Awarded **`1,802 EXP`**
+
+**1. Baseline Run (No Ambulance):** Awarded **`1,802 EXP`**
 
 $$
 T_{\text{base}} = \frac{1,802}{20.0} = \mathbf{90.10 \text{ s}}
 $$
 
-* **Ambulance Run (With Toy Ambulance):** Awarded **`1,658 EXP`**
+**2. Ambulance Run (With Toy Ambulance):** Awarded **`1,658 EXP`**
 
 $$
 T_{\text{amb}} = \frac{1,658}{20.0} = \mathbf{82.90 \text{ s}}
 $$
 
-* **Real Time Difference:** The Toy Ambulance completed the identical distance **$7.20\text{ s}$ faster**.
-* **Empirical Speedup Ratio:**
+**3. Net Difference & Empirical Speedup Ratio:**
+The Toy Ambulance completed the identical distance **$7.20\text{ s}$ faster**.
 
 $$
 \text{Ratio} = \frac{90.10}{82.90} = \mathbf{1.08685} \quad (+8.685\% \text{ average speedup})
@@ -70,13 +71,13 @@ Within `FUN_0032e2b6`, the engine prepares the character entity and queries acti
 FUN_00377800(unaff_r4 + 0x3c, 0x48e, &stack0x00000058);
 ```
 
-* **Hexadecimal Decoding:**
+**Hexadecimal Decoding:**
 
-  $$
-  (4 \times 256) + (8 \times 16) + 14 = \mathbf{1166}
-  $$
+$$
+(4 \times 256) + (8 \times 16) + 14 = \mathbf{1166}
+$$
 
-* In the engine's internal symbol table, stat `1166` maps to:
+In the engine's internal symbol table, stat `1166` maps to:
 `EMagicStatType_WorldSpeedPropotionToCharacterHealth`
 *(World scroll speed proportional to character health).*
 
@@ -98,17 +99,17 @@ if (iVar5 < 1) {
 }
 ```
 
-* **Constant Decoding:** In IEEE-754 Double Precision, the 64-bit pair `(0x3f50624d, 0xd2f1a9fc)` represents:
+**Constant Decoding:** In IEEE-754 Double Precision, the 64-bit pair `(0x3f50624d, 0xd2f1a9fc)` represents:
 
-  $$
-  \mathbf{0.001} \quad (10^{-3})
-  $$
+$$
+\mathbf{0.001} \quad (10^{-3})
+$$
 
-* Devsisters' engine stores percentages as fixed-point integers where `1000 = 100.0%`. Multiplying the raw table value `1150` by `0.001` produces:
+Devsisters' engine stores percentages as fixed-point integers where `1000 = 100.0%`. Multiplying the raw table value `1150` by `0.001` produces:
 
-  $$
-  \text{Speed Multiplier} = 1150 \times 0.001 = \mathbf{1.150} \quad (\mathbf{+15.0\%})
-  $$
+$$
+\text{Speed Multiplier} = 1150 \times 0.001 = \mathbf{1.150} \quad (\mathbf{+15.0\%})
+$$
 
 ### 2.5 Dynamic Health Binding
 In the same function, character health properties are accessed:
@@ -235,9 +236,11 @@ $$
 $$
 
 Deducting the fixed $2.00\text{ s}$ Speed Blast item:
-* Net Baseline Time: $90.10\text{ s} - 2.00\text{ s} = 88.10\text{ s}$
-* Net Ambulance Time: $82.90\text{ s} - 2.00\text{ s} = 80.90\text{ s}$
-* Net Ratio: $\frac{88.10}{80.90} = 1.088998$
+* **Net Baseline Time:** $90.10\text{ s} - 2.00\text{ s} = 88.10\text{ s}$
+* **Net Ambulance Time:** $82.90\text{ s} - 2.00\text{ s} = 80.90\text{ s}$
+* **Net Speedup Ratio:** $\frac{88.10}{80.90} = 1.088998$
+
+Evaluating peak speed bonus $S_{\text{max}}$ with net blast deduction:
 
 $$
 S_{\text{max}} = \frac{1.088998 - 1.0}{0.5802} = \mathbf{15.34\%} \rightarrow \mathbf{15.00\%} \quad (\text{Error: } \lt 0.04\text{ s})
