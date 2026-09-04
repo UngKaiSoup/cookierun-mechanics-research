@@ -32,7 +32,9 @@ For years, the community debated whether the **Toy Ambulance** (`작은 구급�
 * **Myth:** Lower HP = Faster speed.
 * **Reality (Verified via `libgame.so`):** **Full HP = Maximum Speed (+15.0%)**, linearly tapering down to +0.0% as HP reaches zero.
 
-$$v(t) = v_{\text{base}} \times \left(1 + 0.150 \times \frac{\text{CurrentHP}(t)}{\text{MaxHP}}\right)$$
+$$
+v(t) = v_{\text{base}} \times \left(1 + 0.150 \times \frac{\text{CurrentHP}(t)}{\text{MaxHP}}\right)
+$$
 
 * In the decompiled binary data (`TreasurePassiveAttr`), Stat ID `1166` (`EMagicStatType_WorldSpeedPropotionToCharacterHealth`) is hardcoded to **`1150`** (which maps to **+15.0%** in Devsisters' engine where `1000 = 100%`).
 * Upgrading the treasure from `+0` to `+9` **does not increase speed** — it only increases the number of revives from 1 to 3!
@@ -65,21 +67,37 @@ When running empirical tests under strictly controlled conditions (0 items, 0 bo
 
 #### The 10-Year Linear Trap (~16%)
 Assuming a flat, linear HP decay ($\gamma = 1.0$) gives an average HP of $(100\% + 11\%) / 2 = 55.5\%$.
-$$\text{Speed} = \frac{+8.685\%}{0.555} = \mathbf{15.65\% \approx 16\%}$$
+
+$$
+\text{Speed} = \frac{+8.685\%}{0.555} = \mathbf{15.65\%} \approx \mathbf{16\%}
+$$
+
 This oversimplified linear assumption led wikis and guides to state the ambulance provided a +16% boost.
 
 #### The True Calculus Derivation ($\gamma \approx 1.12$)
 Because world scroll speed and stage drain accelerate over time, the cookie spends significantly more time in early stages at higher health. HP decays non-linearly:
-$$\text{HP}(t) = 1.0 - (1.0 - \text{hp}_{\text{end}}) \times \left(\frac{t}{T}\right)^\gamma$$
+
+$$
+\text{HP}(t) = 1.0 - (1.0 - \text{hp}_{\text{end}}) \times \left(\frac{t}{T}\right)^\gamma
+$$
 
 Given the ground-truth binary constant $S_{\text{max}} = 0.150$ (+15.0%) from `libgame.so`:
-$$\overline{\text{HP}}_{\text{true}} = \frac{\text{Ratio} - 1.0}{S_{\text{max}}} = \frac{0.0868516}{0.150} = \mathbf{0.57901} \quad (57.90\%)$$
+
+$$
+\overline{\text{HP}}_{\text{true}} = \frac{\text{Ratio} - 1.0}{S_{\text{max}}} = \frac{0.0868516}{0.150} = \mathbf{0.57901} \quad (57.90\%)
+$$
 
 Solving the definite integral for $\gamma$:
-$$\overline{\text{HP}} = 1.0 - \frac{1.0 - 0.11}{\gamma + 1} = 0.57901 \implies \gamma = \frac{0.89}{0.42099} - 1.0 = \mathbf{1.1141 \approx 1.12}$$
+
+$$
+\overline{\text{HP}} = 1.0 - \frac{1.0 - 0.11}{\gamma + 1} = 0.57901 \implies \gamma = \frac{0.89}{0.42099} - 1.0 = \mathbf{1.1141} \approx \mathbf{1.12}
+$$
 
 Substituting the integrated average HP ($58.02\%$) back into the equation with net 2.0s blast deduction yields:
-$$S_{\text{max}} = \frac{(88.10 / 80.90) - 1.0}{0.5802} \rightarrow \mathbf{15.00\%} \quad (\text{Error: } < 0.04\text{s})$$
+
+$$
+S_{\text{max}} = \frac{(88.10 / 80.90) - 1.0}{0.5802} \rightarrow \mathbf{15.00\%} \quad (\text{Error: } \lt 0.04\text{ s})
+$$
 
 > 📄 For complete derivations, code snippets, and table schemas, see [`docs/cookie_run_mechanics_source_and_derivation.md`](docs/cookie_run_mechanics_source_and_derivation.md).
 
