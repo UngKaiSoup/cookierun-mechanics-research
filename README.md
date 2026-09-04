@@ -9,7 +9,7 @@
 ---
 
 ## 📑 Table of Contents
-- [🌟 Key Findings & Mythbusting](#-key-findings--mythbusting)
+- [🌟 Key Findings & Core Mechanics](#-key-findings--core-mechanics)
   - [1. The Toy Ambulance Formula](#1-the-toy-ambulance-formula)
   - [2. World Scroll Speed & Foreground Mechanics](#2-world-scroll-speed--foreground-mechanics)
   - [3. The 15% Mathematical Proof & Gamma Derivation](#3-the-15-mathematical-proof--gamma-derivation)
@@ -24,13 +24,12 @@
 
 ---
 
-## 🌟 Key Findings & Mythbusting
+## 🌟 Key Findings & Core Mechanics
 
 ### 1. The Toy Ambulance Formula
-For years, the community debated whether the **Toy Ambulance** (`작은 구급차 장난感` / `1309510`) made you faster when low on health (an "emergency sprint") or when full on health.
+The **Toy Ambulance** (`작은 구급차 장난감` / ID `1309510`) provides a health-dependent speed multiplier:
 
-* **Myth:** Lower HP = Faster speed.
-* **Reality (Verified via `libgame.so`):** **Full HP = Maximum Speed (+15.0%)**, linearly tapering down to +0.0% as HP reaches zero.
+* **Engine Mechanism (Verified via `libgame.so`):** **Full HP = Maximum Speed (+15.0%)**, linearly tapering down to +0.0% as HP reaches zero.
 
 The exact engine formula evaluated every frame:
 
@@ -67,14 +66,14 @@ When running empirical tests under strictly controlled conditions (0 items, 0 bo
 * **Ambulance Run:** 1,658 EXP (~82.90s)
 * **Net Empirical Ratio:** $\text{Ratio} = 90.10 / 82.90 = 1.08685 \quad (+8.685\%)$
 
-#### The 10-Year Linear Trap (~16%)
+#### Linear Approximation (~15.65% ≈ 16%)
 Assuming a flat, linear HP decay ($\gamma = 1.0$) gives an average HP of $(100\% + 11\%) / 2 = 55.5\%$.
 
 $$
 \text{Speed} = \frac{+8.685\%}{0.555} = \mathbf{15.65\%} \approx \mathbf{16\%}
 $$
 
-This oversimplified linear assumption led wikis and guides to state the ambulance provided a +16% boost.
+An unweighted arithmetic mean oversimplifies the decay curve, producing the approximate +15.65% (often rounded to +16%).
 
 #### The True Calculus Derivation ($\gamma \approx 1.12$)
 Because world scroll speed and stage drain accelerate over time, the cookie spends significantly more time in early stages at higher health. HP decays non-linearly:

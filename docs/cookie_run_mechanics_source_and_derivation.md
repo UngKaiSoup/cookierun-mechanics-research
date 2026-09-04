@@ -9,7 +9,7 @@ This document records the complete **data provenance and mathematical derivation
 
 1. **Empirical In-Game Benchmarks:** Controlled gameplay runs isolating run duration, item buffs, and end health.
 2. **Static Binary Disassembly & Pseudocode:** Reconstructing engine functions, floating-point constants, and stat registries in Ghidra (`libgame.so`).
-3. **Calculus Integration & Curve Fitting:** Modeling non-linear HP drain caused by stage scroll speed acceleration to resolve the 10-year "+16%" community myth into the true **+15.0%** engine constant.
+3. **Calculus Integration & Curve Fitting:** Modeling non-linear HP drain caused by stage scroll speed acceleration, resolving the discrepancy between the linear ~16% approximation and the exact **+15.0%** engine constant.
 
 ---
 
@@ -188,22 +188,22 @@ $$
 
 ---
 
-## 📐 Pillar 4: The Calculus Proof (Resolving the 10-Year +16% Myth)
+## 📐 Pillar 4: The Calculus Proof (Linear Model vs. Non-Linear Integral)
 
-### 4.1 Why Did the Community Believe the Ambulance Was +16%?
-In early community guides and wikis, players calculated the speed bonus using a simple arithmetic mean:
+### 4.1 Limitation of the Arithmetic Mean (Linear Assumption: ~15.65% ≈ 16%)
+Evaluating the speed bonus using a simple arithmetic mean assumes a constant linear drain rate:
 
 $$
 \overline{\text{HP}}_{\text{linear}} = \frac{1.0 + 0.11}{2} = 0.555 \quad (55.5\%)
 $$
 
-Dividing the empirical speed ratio by this linear average gave:
+Dividing the empirical speed ratio by this linear average yields:
 
 $$
 \text{Speed Bonus} = \frac{\text{Net Speed Ratio} - 1.0}{\overline{\text{HP}}_{\text{linear}}} = \frac{0.08685}{0.555} = \mathbf{15.65\%} \approx \mathbf{16\%}
 $$
 
-This unweighted linear assumption was the sole origin of the persistent "16% speed bonus" rumor.
+This unweighted linear model oversimplifies the drain profile, producing the misleading ~15.65% (rounded to 16%) approximation.
 
 ### 4.2 Definite Integration for True Mean HP
 Because HP drains slower in early stages, the runner spends significantly more time at high health throughout the $82.90\text{ s}$ run than a straight line predicts.
@@ -252,15 +252,15 @@ The mathematical integral and empirical run data converge directly on the **+15.
 
 ## 📊 Comprehensive Comparison Matrix
 
-| Analysis Dimension | 10-Year Historical Myth | Verified Research in this Repository | Evidence & Ground Truth Source |
+| Parameter / Metric | Linear Approximation Model | Non-Linear Calculus Model | Verified Ground Truth Source |
 | :--- | :---: | :---: | :--- |
-| **Peak Ambulance Speed** | **+16.0%** (rounded) | **+15.0%** (exact) | Ghidra `FUN_0032e2b6` & `TreasurePassiveAttr` |
-| **HP Drain Dynamics** | Linear ($\gamma = 1.00$) | Accelerating with stage scroll ($\gamma \approx \mathbf{1.12}$) | Engine Stage Ticker & World Scroll velocity |
-| **Average HP Over Run** | $55.50\%$ | **$58.02\%$** | Definite calculus integral $\int_0^T \text{HP}(t) \, dt$ |
-| **Derived Bonus from EXP** | $15.65\%$ (misleadingly rounded to 16%) | **$14.97\% \rightarrow 15.00\%$** | Controlled benchmark ($1,802 \text{ vs } 1,658 \text{ EXP}$) |
+| **Peak Speed Multiplier** | **+15.65% ~ 16.0%** | **+15.0%** (exact) | Ghidra `FUN_0032e2b6` & `TreasurePassiveAttr` (`1150`) |
+| **HP Drain Model** | Linear ($\gamma = 1.00$) | Accelerating Stage Scroll ($\gamma \approx \mathbf{1.12}$) | Engine Stage Ticker & World Scroll velocity |
+| **Mean HP Over Run** | $55.50\%$ (Arithmetic Mean) | **$58.02\%$** (Time Integral) | Definite calculus integral $\int_0^T \text{HP}(t) \, dt$ |
+| **Derived Bonus from EXP** | $15.65\%$ | **$14.97\% \rightarrow 15.00\%$** | Controlled benchmark ($1,802 \text{ vs } 1,658 \text{ EXP}$) |
 | **Binary Table Representation** | Uninspected | **`1150`** $\times$ **`0.001`** | ARM 64-bit float constant `0x3f50624d:d2f1a9fc` |
-| **Speed Behavior** | Believed to trigger at low HP | **Higher HP = Higher Speed** | Offset `+0x3c` multiplied by `CookieCurHp / CookieMaxHp` |
-| **Account Level 60 HP Impact** | Believed to alter speed bonus | **Zero impact on speed ratio** | Game normalizes health to a $0.0 - 1.0$ fraction |
+| **Health Dependency** | Inverted Model (Low HP) | **Linear with Current HP** | Offset `+0x3c` multiplied by `CookieCurHp / CookieMaxHp` |
+| **Account Level 60 HP Impact** | Variable Scaling | **Invariant (Normalized Scale)** | Evaluated strictly as normalized $0.0 - 1.0$ fraction |
 
 ---
 
